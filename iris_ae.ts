@@ -1220,12 +1220,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="239"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
-        <translation type="unfinished">الذكاء الاصطناعي </translation>
+        <translation>الذكاء الاصطناعي </translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="240"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
-        <translation type="unfinished">سطوع تلقائي</translation>
+        <translation>سطوع تلقائي</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="241"/>
