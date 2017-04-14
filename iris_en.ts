@@ -72,7 +72,7 @@
         <location filename="../cyclops/Cyclops.cpp" line="216"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>Iris made some changes on your system and restart is needed to unlock full functionallity.
+        <translation>Iris made some changes on your system and restart is needed to unlock full functionality.
 Note that Iris will work fine now, but with limited color changes.</translation>
     </message>
 </context>
@@ -276,7 +276,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1617"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation></translation>
+        <translation>You need to relaunch Iris for changes to take effect.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1619"/>
@@ -777,7 +777,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="156"/>
         <source>SEPIA</source>
-        <translation>Sephia</translation>
+        <translation>Sepia</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="157"/>
@@ -787,12 +787,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="158"/>
         <source>GRAYSCALE_RED</source>
-        <translation>Grayclase Red</translation>
+        <translation>Grayscale Red</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="159"/>
         <source>NEGATIVE_GRAYSCALE_RED</source>
-        <translation>Negative Grayclased Red</translation>
+        <translation>Negative Grayscale Red</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="160"/>
@@ -1042,7 +1042,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="279"/>
         <source>CZECH</source>
-        <translation>Chech</translation>
+        <translation>Czech</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="288"/>
@@ -1436,7 +1436,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/TrayIcon.cpp" line="106"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="372"/>
         <source>&amp;Sleep</source>
-        <translation></translation>
+        <translation>Sleep</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="110"/>
@@ -1454,7 +1454,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/TrayIcon.cpp" line="118"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="375"/>
         <source>&amp;Biohacker</source>
-        <translation></translation>
+        <translation>Biohacker</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="122"/>
