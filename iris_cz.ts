@@ -180,7 +180,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../licensing/License.cpp" line="203"/>
         <source>You have used all your Team license activations.</source>
-        <translation type="unfinished">Využili jste už všechny své skupinové aktivace.</translation>
+        <translation>Využili jste už všechny své skupinové aktivace.</translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="212"/>
