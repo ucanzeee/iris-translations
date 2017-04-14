@@ -1,0 +1,1449 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Language: pt_BR\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../ui/asana_OAuth.ui:20 ../../ui/webkit/asana_OAuth.ui:20
+msgctxt "AsanaOAuth|"
+msgid "Asana"
+msgstr ""
+
+#: ../../ui/asana_OAuth.ui:33 ../../ui/webkit/asana_OAuth.ui:33
+msgctxt "AsanaOAuth|"
+msgid ""
+"https://app.asana.com/-/oauth_authorize?client_id=51957652060682&redirect_uri=http://iristech.co/asana&response_type=token&state=somerandomstate"
+msgstr ""
+
+#: ../../ui/blink_screen.ui:14 ../../ui/webkit/blink_screen.ui:14
+msgctxt "BlinkScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/blink_screen.ui:27 ../../ui/webkit/blink_screen.ui:27
+msgctxt "BlinkScreen|"
+msgid "qrc:/html/blink_screen.html"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:158 ../cyclops/Cyclops.cpp:171
+msgctxt "Cyclops|"
+msgid "Restart your PC"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:159
+msgctxt "Cyclops|"
+msgid ""
+"Iris just removed some video card limitations. You need to restart your PC "
+"once to unlock full functionality."
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:161
+msgctxt "Cyclops|"
+msgid "Restart needed"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:162
+msgctxt "Cyclops|"
+msgid ""
+"Restart your PC to unlock full color range. Iris mini will work fine, but "
+"some options may be grayed out."
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:172
+msgctxt "Cyclops|"
+msgid ""
+"Some functionality is limited, because you need to Restart your PC. You are "
+"using High-level Color API right now."
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:215
+msgctxt "Cyclops|"
+msgid "Restart is needed"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:216
+msgctxt "Cyclops|"
+msgid ""
+"Iris made some changes on your system and restart is needed to unlock full "
+"functionallity.\n"
+"Note that Iris will work fine now, but with limited color changes."
+msgstr ""
+
+#: ../../ui/expand_range_screen.ui:14 ../../ui/webkit/expand_range_screen.ui:14
+msgctxt "ExpandRangeScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/expand_range_screen.ui:39 ../../ui/webkit/expand_range_screen.ui:39
+msgctxt "ExpandRangeScreen|"
+msgid "qrc:/html/notifications/expand_range_screen.html"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:109 ../../src/licensing/License.cpp:176
+msgctxt "License|"
+msgid "Your Iris is now Pro"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:111 ../../src/licensing/License.cpp:113
+msgctxt "License|"
+msgid ""
+"Thank you very much for supporting Iris! :)\n"
+"See your new options in the advanced view."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:126
+msgctxt "License|"
+msgid "Already used"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:127
+msgctxt "License|"
+msgid "You have already used this code on another machine"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:136
+msgctxt "License|"
+msgid "Other version"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:137
+msgctxt "License|"
+msgid ""
+"You have already used this code with other version of Iris. Download and use "
+"the old version again or buy new activation code."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:146
+msgctxt "License|"
+msgid "No such code"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:147
+msgctxt "License|"
+msgid "There is no such activation code"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:156
+msgctxt "License|"
+msgid "No giveaway"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:157
+msgctxt "License|"
+msgid "There is no active giveaway right now"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:166
+msgctxt "License|"
+msgid "This code is for Iris mini"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:167
+msgctxt "License|"
+msgid ""
+"This is Iris and your activation code is for Iris mini. Download Iris mini "
+"from\n"
+"http://iristech.co/iris-mini"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:178 ../../src/licensing/License.cpp:180
+msgctxt "License|"
+msgid ""
+"Team license activation. Thank you very much for supporting Iris! :)\n"
+"See your new options in the advanced view."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:192
+msgctxt "License|"
+msgid "Team license code for Iris mini"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:193
+msgctxt "License|"
+msgid ""
+"This is Iris and remaining Team license codes are for Iris mini. Download "
+"Iris mini from\n"
+"http://iristech.co/iris-mini"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:202
+msgctxt "License|"
+msgid "No more Team activations"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:203
+msgctxt "License|"
+msgid "You have used all your Team license activations."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:212
+msgctxt "License|"
+msgid "No such Team license"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:213
+msgctxt "License|"
+msgid "There is no such Team license for Iris or Iris mini."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:222
+msgctxt "License|"
+msgid "Iris offline activation"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:224 ../../src/licensing/License.cpp:226
+msgctxt "License|"
+msgid "Your Iris is now Pro. See your new options in the advanced view."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:238
+msgctxt "License|"
+msgid "Invalid response"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:241
+msgctxt "License|"
+msgid ". Maybe you are not connected to the internet?"
+msgstr ""
+
+#: ../../ui/main_screen.ui:19 ../../ui/webkit/main_screen.ui:19
+msgctxt "MainScreen|"
+msgid "Form"
+msgstr ""
+
+#: ../../ui/main_screen.ui:47 ../../ui/webkit/main_screen.ui:47
+msgctxt "MainScreen|"
+msgid "qrc:/html/main_screen.html"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:594
+msgctxt "MainWindow|"
+msgid "until"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:606
+msgctxt "MainWindow|"
+msgid "rest"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:629
+msgctxt "MainWindow|"
+msgid "work"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:707
+msgctxt "MainWindow|"
+msgid "Paused"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1138
+msgctxt "MainWindow|"
+msgid "Iris Pro needed"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1139
+msgctxt "MainWindow|"
+msgid "You need Iris Pro to access this section."
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1616
+msgctxt "MainWindow|"
+msgid "Relaunch Iris"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1617
+msgctxt "MainWindow|"
+msgid "You need to relaunch Iris for changes to take effect."
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1619
+msgctxt "MainWindow|"
+msgid "Relaunch now"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1620
+msgctxt "MainWindow|"
+msgid "Later"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1636 ../../src/MainWindow.cpp:1701
+msgctxt "MainWindow|"
+msgid "Restart is needed"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1637 ../../src/MainWindow.cpp:1701
+msgctxt "MainWindow|"
+msgid ""
+"Iris made some changes on your system and restart is needed for changes to "
+"take effect."
+msgstr ""
+
+#: ../../ui/new_version_screen.ui:14 ../../ui/webkit/new_version_screen.ui:14
+msgctxt "NewVersionScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/new_version_screen.ui:39 ../../ui/webkit/new_version_screen.ui:39
+msgctxt "NewVersionScreen|"
+msgid "qrc:/html/notifications/new_version_screen.html"
+msgstr ""
+
+#: ../../ui/notification_screen.ui:14 ../../ui/webkit/notification_screen.ui:14
+msgctxt "NotificationScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/notification_screen.ui:39 ../../ui/webkit/notification_screen.ui:39
+msgctxt "NotificationScreen|"
+msgid "qrc:/html/notifications/notification_screen.html"
+msgstr ""
+
+#: ../../ui/postpone_screen.ui:14 ../../ui/webkit/postpone_screen.ui:14
+msgctxt "PostponeScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/postpone_screen.ui:39 ../../ui/webkit/postpone_screen.ui:39
+msgctxt "PostponeScreen|"
+msgid "qrc:/html/notifications/postpone_screen.html"
+msgstr ""
+
+#: ../../ui/productive_screen.ui:14 ../../ui/webkit/productive_screen.ui:14
+msgctxt "ProductiveScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/productive_screen.ui:33 ../../ui/webkit/productive_screen.ui:33
+msgctxt "ProductiveScreen|"
+msgid "qrc:/html/notifications/productive_screen.html"
+msgstr ""
+
+#: ../../ui/rest_screen.ui:20 ../../ui/webkit/rest_screen.ui:20
+msgctxt "RestScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/rest_screen.ui:45 ../../ui/webkit/rest_screen.ui:45
+msgctxt "RestScreen|"
+msgid "qrc:/html/rest_screen.html"
+msgstr ""
+
+#: ../../ui/screen_overlay.ui:14 ../../ui/webkit/screen_overlay.ui:14
+msgctxt "ScreenOverlay|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/screen_overlay.ui:39 ../../ui/webkit/screen_overlay.ui:39
+msgctxt "ScreenOverlay|"
+msgid "qrc:/html/screen_overlay.html"
+msgstr ""
+
+#: ../../ui/components/TaskbarButton.cpp:185
+msgctxt "TaskbarButton|"
+msgid " until rest"
+msgstr ""
+
+#: ../../ui/components/TaskbarButton.cpp:199
+msgctxt "TaskbarButton|"
+msgid " until work"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:62
+msgctxt "Translator|"
+msgid "IRIS_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:63
+msgctxt "Translator|"
+msgid "AUTOMATIC_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:64
+msgctxt "Translator|"
+msgid "MANUAL_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:65
+msgctxt "Translator|"
+msgid "PAUSED_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:67
+msgctxt "Translator|"
+msgid "IRIS_TYPE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:68
+msgctxt "Translator|"
+msgid "HEALTH_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:69
+msgctxt "Translator|"
+msgid "SLEEP_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:70
+msgctxt "Translator|"
+msgid "READING_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:71
+msgctxt "Translator|"
+msgid "PROGRAMMING_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:72
+msgctxt "Translator|"
+msgid "BIOHACKER_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:73
+msgctxt "Translator|"
+msgid "MOVIE_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:74
+msgctxt "Translator|"
+msgid "OVERLAY_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:76
+msgctxt "Translator|"
+msgid "IRIS_LICENSE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:77
+#: ../../src/translation/Translator.cpp:260
+msgctxt "Translator|"
+msgid "ACTIVATE_CODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:79
+msgctxt "Translator|"
+msgid "IRIS_TIMER"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:80
+msgctxt "Translator|"
+msgid "TIMER_OFF"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:81
+msgctxt "Translator|"
+msgid "TIMER_NORMAL"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:82
+msgctxt "Translator|"
+msgid "TIMER_STRICT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:83
+msgctxt "Translator|"
+msgid "TIMER_PRODUCTIVE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:84
+msgctxt "Translator|"
+msgid "TIMER_TASKBAR"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:85
+msgctxt "Translator|"
+msgid "TIMER_EXERCISE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:86
+msgctxt "Translator|"
+msgid "TIMER_NOTIFICATION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:87
+msgctxt "Translator|"
+msgid "TIMER_SOUND"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:89
+msgctxt "Translator|"
+msgid "IRIS_LOCATION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:90
+msgctxt "Translator|"
+msgid "SAVE_AND_CLOSE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:91
+msgctxt "Translator|"
+msgid "USE_ADVANCED_SETTINGS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:94
+msgctxt "Translator|"
+msgid "ADVANCED_SETTINGS_TITLE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:96
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_TEMPERATURE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:97
+msgctxt "Translator|"
+msgid "DAY_TEMPERATURE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:98
+msgctxt "Translator|"
+msgid "NIGHT_TEMPERATURE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:99
+#: ../../src/translation/Translator.cpp:108
+#: ../../src/translation/Translator.cpp:114
+msgctxt "Translator|"
+msgid "EXTENDED_VALUES"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:100
+msgctxt "Translator|"
+msgid "MANUAL_COLOR_SETTINGS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:101
+msgctxt "Translator|"
+msgid "RESET_TEMPERATURE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:102
+msgctxt "Translator|"
+msgid "INVERT_COLORS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:103
+msgctxt "Translator|"
+msgid "REVERT_COLORS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:105
+#: ../../src/translation/Translator.cpp:111
+msgctxt "Translator|"
+msgid "ADVANCED_BRIGHTNESS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:106
+#: ../../src/translation/Translator.cpp:112
+msgctxt "Translator|"
+msgid "DAY_BRIGHTNESS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:107
+#: ../../src/translation/Translator.cpp:113
+msgctxt "Translator|"
+msgid "NIGHT_BRIGHTNESS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:109
+#: ../../src/translation/Translator.cpp:115
+msgctxt "Translator|"
+msgid "MANUAL_BRIGHTNESS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:117
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_SCHEME"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:118
+msgctxt "Translator|"
+msgid "IRIS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:119
+msgctxt "Translator|"
+msgid "MAGMUS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:120
+msgctxt "Translator|"
+msgid "OLAF"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:121
+msgctxt "Translator|"
+msgid "GROOT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:122
+msgctxt "Translator|"
+msgid "LEADING_COLOR"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:127
+msgctxt "Translator|"
+msgid "ADVANCED_LOCATION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:128
+msgctxt "Translator|"
+msgid "MANUAL_LOCATION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:129
+msgctxt "Translator|"
+msgid "LATITUDE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:130
+msgctxt "Translator|"
+msgid "LONGITUDE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:131
+msgctxt "Translator|"
+msgid "MANUAL_NIGHT_DURATION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:132
+msgctxt "Translator|"
+msgid "NIGHT_START_TIME"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:133
+msgctxt "Translator|"
+msgid "NIGHT_END_TIME"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:135
+msgctxt "Translator|"
+msgid "ADVANCED_MANAGE_MONITORS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:136
+msgctxt "Translator|"
+msgid "MONITOR_1"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:137
+msgctxt "Translator|"
+msgid "MONITOR_2"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:138
+msgctxt "Translator|"
+msgid "MONITOR_3"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:139
+msgctxt "Translator|"
+msgid "MONITOR_4"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:141
+msgctxt "Translator|"
+msgid "ADVANCED_SCREEN_EFFECTS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:142
+#| msgid "COLOR_EFFECT"
+msgctxt "Translator|"
+msgid "SCREEN_EFFECT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:143
+msgctxt "Translator|"
+msgid "SIMPLE_INVERSION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:144
+msgctxt "Translator|"
+msgid "GRAYSCALE_1"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:145
+msgctxt "Translator|"
+msgid "GRAYSCALE_2"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:146
+msgctxt "Translator|"
+msgid "GRAYSCALE_3"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:147
+msgctxt "Translator|"
+msgid "NEGATIVE_GRAYSCALE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:148
+msgctxt "Translator|"
+msgid "WASHOUT_1"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:149
+msgctxt "Translator|"
+msgid "WASHOUT_2"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:150
+msgctxt "Translator|"
+msgid "WASHOUT_3"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:151
+msgctxt "Translator|"
+msgid "SMART_INVERSION_1"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:152
+msgctxt "Translator|"
+msgid "SMART_INVERSION_2"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:153
+msgctxt "Translator|"
+msgid "SMART_INVERSION_3"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:154
+msgctxt "Translator|"
+msgid "SMART_INVERSION_4"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:155
+msgctxt "Translator|"
+msgid "SMART_INVERSION_5"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:156
+msgctxt "Translator|"
+msgid "SEPIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:157
+msgctxt "Translator|"
+msgid "NEGATIVE_SEPIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:158
+msgctxt "Translator|"
+msgid "GRAYSCALE_RED"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:159
+msgctxt "Translator|"
+msgid "NEGATIVE_GRAYSCALE_RED"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:160
+msgctxt "Translator|"
+msgid "PROTANOPIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:161
+msgctxt "Translator|"
+msgid "PROTANOMALY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:162
+msgctxt "Translator|"
+msgid "DEUTERANOPIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:163
+msgctxt "Translator|"
+msgid "DEUTERANOMALY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:164
+msgctxt "Translator|"
+msgid "TRITANOPIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:165
+msgctxt "Translator|"
+msgid "TRITANOMALY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:166
+msgctxt "Translator|"
+msgid "ACHROMATOPSIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:167
+msgctxt "Translator|"
+msgid "ACHROMATOMALY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:168
+msgctxt "Translator|"
+msgid "COLOR_EFFECTS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:170
+msgctxt "Translator|"
+msgid "ADVANCED_FONTS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:171
+msgctxt "Translator|"
+msgid "FONTS_TYPE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:172
+msgctxt "Translator|"
+msgid "SIMPLE_FONTS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:173
+msgctxt "Translator|"
+msgid "ANTI_ALIASING_FONTS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:174
+msgctxt "Translator|"
+msgid "CLEAR_TYPE_FONTS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:175
+msgctxt "Translator|"
+msgid "GDIPP"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:176
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_LIGHT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:177
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_MEDIUM"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:178
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_HIGH"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:180
+msgctxt "Translator|"
+msgid "ADVANCED_MAGNIFICATION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:181
+msgctxt "Translator|"
+msgid "ZOOM_IN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:182
+msgctxt "Translator|"
+msgid "ZOOM_OUT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:184
+msgctxt "Translator|"
+msgid "ADVANCED_PWM_CONTROL"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:186
+msgctxt "Translator|"
+msgid "ADVANCED_TIMER"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:187
+msgctxt "Translator|"
+msgid "POSTPONE_DURATION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:188
+msgctxt "Translator|"
+msgid "TIMER_TYPE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:189
+msgctxt "Translator|"
+msgid "BREAK_EVERY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:190
+msgctxt "Translator|"
+msgid "HAVE_A_REST_NOW"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:191
+msgctxt "Translator|"
+msgid "AUTO_CLOSE_REST_SCREEN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:192
+msgctxt "Translator|"
+msgid "USE_SOUNDS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:194
+msgctxt "Translator|"
+msgid "ADVANCED_SYSTEM"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:195
+msgctxt "Translator|"
+msgid "HIDE_TASKBAR_ICON_ON_CLOSE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:196
+msgctxt "Translator|"
+msgid "USE_MOUSE_INACTIVITY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:197
+msgctxt "Translator|"
+msgid "BLOCK_KEYBOARD"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:198
+msgctxt "Translator|"
+msgid "USE_SOFTWARE_MOUSE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:200
+msgctxt "Translator|"
+msgid "ADVANCED_IRIS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:201
+msgctxt "Translator|"
+msgid "AUTOSAVE_SETTINGS_CHANGES"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:202
+msgctxt "Translator|"
+msgid "USE_KEYBOARD_SHORTCUTS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:203
+msgctxt "Translator|"
+msgid "DESTROY_UI_ON_CLOSE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:204
+msgctxt "Translator|"
+msgid "USE_LOW_LEVEL_COLOR_API"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:205
+msgctxt "Translator|"
+msgid "START_IRIS_ON_STARTUP"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:207
+msgctxt "Translator|"
+msgid "RESET_COLORS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:229
+msgctxt "Translator|"
+msgid "DAY_OPACITY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:230
+msgctxt "Translator|"
+msgid "NIGHT_OPACITY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:232
+msgctxt "Translator|"
+msgid "DAY_DIM"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:233
+msgctxt "Translator|"
+msgid "NIGHT_DIM"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:242
+msgctxt "Translator|"
+msgid "USE_SMART_BRIGHTNESS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:243
+msgctxt "Translator|"
+msgid "USE_SMART_INVERSION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:244
+msgctxt "Translator|"
+msgid "ENABLE_CAMERA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:245
+msgctxt "Translator|"
+msgid "DISABLE_CAMERA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:279
+msgctxt "Translator|"
+msgid "CZECH"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:288
+msgctxt "Translator|"
+msgid "SKIP_REST"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:289
+msgctxt "Translator|"
+msgid "NORMAL"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:290
+msgctxt "Translator|"
+msgid "STRICT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:291
+msgctxt "Translator|"
+msgid "CONTINUE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:292
+msgctxt "Translator|"
+msgid "REST_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:293
+msgctxt "Translator|"
+msgid "REST_MODE_MESSAGE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:294
+msgctxt "Translator|"
+msgid "TIME_IS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:297
+msgctxt "Translator|"
+msgid "START_WORKING"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:298
+msgctxt "Translator|"
+msgid "HAVE_A_BREAK"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:206
+msgctxt "Translator|"
+msgid "RESET_SETTINGS_TO_DEFAULT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:209
+msgctxt "Translator|"
+msgid "ADVANCED_HARDWARE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:210
+msgctxt "Translator|"
+msgid "ADVANCED_SOUNDS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:211
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_PAUSERS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:212
+msgctxt "Translator|"
+msgid "ADVANCED_TIMER_PAUSERS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:214
+msgctxt "Translator|"
+msgid "ADVANCED_SCREEN_OVERLAY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:215
+msgctxt "Translator|"
+msgid "OVERLAY_COLOR"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:124
+#: ../../src/translation/Translator.cpp:216
+msgctxt "Translator|"
+msgid "GREEN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:217
+msgctxt "Translator|"
+msgid "TURQUOISE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:125
+#: ../../src/translation/Translator.cpp:218
+msgctxt "Translator|"
+msgid "BLUE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:219
+msgctxt "Translator|"
+msgid "INDIGO"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:220
+msgctxt "Translator|"
+msgid "VIOLET"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:221
+msgctxt "Translator|"
+msgid "PURPLE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:222
+msgctxt "Translator|"
+msgid "MAGENTA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:223
+msgctxt "Translator|"
+msgid "SCARLET"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:123
+#: ../../src/translation/Translator.cpp:224
+msgctxt "Translator|"
+msgid "RED"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:225
+msgctxt "Translator|"
+msgid "ORANGE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:226
+msgctxt "Translator|"
+msgid "YELLOW"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:227
+msgctxt "Translator|"
+msgid "LEMON"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:228
+msgctxt "Translator|"
+msgid "OPACITY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:231
+msgctxt "Translator|"
+msgid "SCREEN_DIM"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:234
+msgctxt "Translator|"
+msgid "DISABLE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:235
+msgctxt "Translator|"
+msgid "SELECT_SCREEN_AREA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:236
+msgctxt "Translator|"
+msgid "RESET_SELECTED_AREA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:237
+msgctxt "Translator|"
+msgid "ENABLE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:239
+msgctxt "Translator|"
+msgid "ADVANCED_ARTIFICIAL_INTELLIGENCE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:240
+msgctxt "Translator|"
+msgid "USE_AUTOMATIC_BRIGHTNESS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:241
+msgctxt "Translator|"
+msgid "USE_BLINK_DETECTION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:246
+msgctxt "Translator|"
+msgid "SHOW_BLINK_SCREEN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:247
+msgctxt "Translator|"
+msgid "HIDE_BLINK_SCREEN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:249
+msgctxt "Translator|"
+msgid "ADVANCED_EXERCISES"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:250
+msgctxt "Translator|"
+msgid "START_EYE_EXERCISES"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:251
+msgctxt "Translator|"
+msgid "START_NECK_EXERCISES"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:252
+msgctxt "Translator|"
+msgid "START_BACK_EXERCISES"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:254
+msgctxt "Translator|"
+msgid "ADVANCED_IRIS_MODEL"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:255
+msgctxt "Translator|"
+msgid "SWITCH_TO_IRIS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:256
+msgctxt "Translator|"
+msgid "SWITCH_TO_IRIS_LITE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:258
+msgctxt "Translator|"
+msgid "ADVANCED_LICENSE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:259
+msgctxt "Translator|"
+msgid "GET_IRIS_PRO"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:262
+msgctxt "Translator|"
+msgid "ADVANCED_LANGUAGE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:263
+msgctxt "Translator|"
+msgid "LANGUAGE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:264
+msgctxt "Translator|"
+msgid "ENGLISH"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:265
+msgctxt "Translator|"
+msgid "RUSSIAN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:266
+msgctxt "Translator|"
+msgid "SPANISH"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:267
+msgctxt "Translator|"
+msgid "CHINESE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:268
+msgctxt "Translator|"
+msgid "INDIAN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:269
+msgctxt "Translator|"
+msgid "JAPANESE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:270
+msgctxt "Translator|"
+msgid "ARABIC"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:271
+msgctxt "Translator|"
+msgid "TURKISH"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:272
+msgctxt "Translator|"
+msgid "PORTUGUESE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:273
+msgctxt "Translator|"
+msgid "FRENCH"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:274
+msgctxt "Translator|"
+msgid "GERMAN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:275
+msgctxt "Translator|"
+msgid "KOREAN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:276
+msgctxt "Translator|"
+msgid "ITALIAN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:277
+msgctxt "Translator|"
+msgid "BULGARIAN"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:278
+msgctxt "Translator|"
+msgid "GREEK"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:281
+msgctxt "Translator|"
+msgid "ADVANCED_ABOUT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:282
+msgctxt "Translator|"
+msgid "NAME"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:283
+msgctxt "Translator|"
+msgid "VERSION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:284
+msgctxt "Translator|"
+msgid "PUBLISHER"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:285
+msgctxt "Translator|"
+msgid "WEBSITE"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:65 ../../ui/components/TrayIcon.cpp:370
+msgctxt "TrayIcon|"
+msgid "Settings"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:74
+msgctxt "TrayIcon|"
+msgid "&Automatic"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:78
+msgctxt "TrayIcon|"
+msgid "&Manual"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:82
+msgctxt "TrayIcon|"
+msgid "&Paused"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:86
+msgctxt "TrayIcon|"
+msgid "&Change mode"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:102 ../../ui/components/TrayIcon.cpp:371
+msgctxt "TrayIcon|"
+msgid "&Health"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:106 ../../ui/components/TrayIcon.cpp:372
+msgctxt "TrayIcon|"
+msgid "&Sleep"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:110 ../../ui/components/TrayIcon.cpp:373
+msgctxt "TrayIcon|"
+msgid "&Reading"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:114 ../../ui/components/TrayIcon.cpp:374
+msgctxt "TrayIcon|"
+msgid "&Programming"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:118 ../../ui/components/TrayIcon.cpp:375
+msgctxt "TrayIcon|"
+msgid "&Biohacker"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:122 ../../ui/components/TrayIcon.cpp:376
+msgctxt "TrayIcon|"
+msgid "&Movie"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:126 ../../ui/components/TrayIcon.cpp:377
+msgctxt "TrayIcon|"
+msgid "&Overlay"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:143 ../../ui/components/TrayIcon.cpp:378
+msgctxt "TrayIcon|"
+msgid "Exit"
+msgstr ""
+
+#: ../../ui/blink_reminding_screen.ui:14
+#: ../../ui/webkit/blink_reminding_screen.ui:14
+msgctxt "blink_reminding_screen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/blink_reminding_screen.ui:27
+#: ../../ui/webkit/blink_reminding_screen.ui:27
+msgctxt "blink_reminding_screen|"
+msgid "qrc:/html/blink_reminding_screen.html"
+msgstr ""
+
+#: ../../ui/dummy_screen_effects.ui:14
+#: ../../ui/webkit/dummy_screen_effects.ui:14
+msgctxt "dummy_screen_effects|"
+msgid "dummy_screen_effects"
+msgstr ""
+
+#: ../../ui/dummy_screen_effects.ui:26 ../../ui/dummy_screen_effects.ui:39
+#: ../../ui/dummy_screen_effects.ui:52 ../../ui/dummy_screen_effects.ui:65
+#: ../../ui/webkit/dummy_screen_effects.ui:26
+#: ../../ui/webkit/dummy_screen_effects.ui:39
+#: ../../ui/webkit/dummy_screen_effects.ui:52
+#: ../../ui/webkit/dummy_screen_effects.ui:65
+msgctxt "dummy_screen_effects|"
+msgid "PushButton"
+msgstr ""
+
+#: ../../ui/webkit/zoom_widget.ui:14 ../../ui/zoom_widget.ui:14
+msgctxt "zoomwidget|"
+msgid "zoomwidget"
+msgstr ""
+
+#: ../../ui/webkit/zoom_widget.ui:26 ../../ui/webkit/zoom_widget.ui:39
+#: ../../ui/webkit/zoom_widget.ui:52 ../../ui/webkit/zoom_widget.ui:65
+#: ../../ui/zoom_widget.ui:26 ../../ui/zoom_widget.ui:39
+#: ../../ui/zoom_widget.ui:52 ../../ui/zoom_widget.ui:65
+msgctxt "zoomwidget|"
+msgid "PushButton"
+msgstr ""

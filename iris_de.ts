@@ -56,7 +56,7 @@
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="172"/>
-        <source>Some functionallity is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
+        <source>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -133,7 +133,7 @@ See your new options in the advanced view.</source>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="156"/>
-        <source>No giveway</source>
+        <source>No giveaway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -464,7 +464,7 @@ http://iristech.co/iris-mini</source>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="77"/>
-        <location filename="../../src/translation/Translator.cpp" line="256"/>
+        <location filename="../../src/translation/Translator.cpp" line="260"/>
         <source>ACTIVATE_CODE</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1011,52 +1011,72 @@ http://iristech.co/iris-mini</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="275"/>
+        <location filename="../../src/translation/Translator.cpp" line="242"/>
+        <source>USE_SMART_BRIGHTNESS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="243"/>
+        <source>USE_SMART_INVERSION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="244"/>
+        <source>ENABLE_CAMERA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="245"/>
+        <source>DISABLE_CAMERA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="279"/>
         <source>CZECH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="284"/>
+        <location filename="../../src/translation/Translator.cpp" line="288"/>
         <source>SKIP_REST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="285"/>
+        <location filename="../../src/translation/Translator.cpp" line="289"/>
         <source>NORMAL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="286"/>
+        <location filename="../../src/translation/Translator.cpp" line="290"/>
         <source>STRICT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="287"/>
+        <location filename="../../src/translation/Translator.cpp" line="291"/>
         <source>CONTINUE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="288"/>
+        <location filename="../../src/translation/Translator.cpp" line="292"/>
         <source>REST_MODE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="289"/>
+        <location filename="../../src/translation/Translator.cpp" line="293"/>
         <source>REST_MODE_MESSAGE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="290"/>
+        <location filename="../../src/translation/Translator.cpp" line="294"/>
         <source>TIME_IS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="293"/>
+        <location filename="../../src/translation/Translator.cpp" line="297"/>
         <source>START_WORKING</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="294"/>
+        <location filename="../../src/translation/Translator.cpp" line="298"/>
         <source>HAVE_A_BREAK</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1204,167 +1224,167 @@ http://iristech.co/iris-mini</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="242"/>
+        <location filename="../../src/translation/Translator.cpp" line="246"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="243"/>
+        <location filename="../../src/translation/Translator.cpp" line="247"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="245"/>
+        <location filename="../../src/translation/Translator.cpp" line="249"/>
         <source>ADVANCED_EXERCISES</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="246"/>
+        <location filename="../../src/translation/Translator.cpp" line="250"/>
         <source>START_EYE_EXERCISES</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="247"/>
+        <location filename="../../src/translation/Translator.cpp" line="251"/>
         <source>START_NECK_EXERCISES</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="248"/>
+        <location filename="../../src/translation/Translator.cpp" line="252"/>
         <source>START_BACK_EXERCISES</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="250"/>
+        <location filename="../../src/translation/Translator.cpp" line="254"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="251"/>
+        <location filename="../../src/translation/Translator.cpp" line="255"/>
         <source>SWITCH_TO_IRIS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="252"/>
+        <location filename="../../src/translation/Translator.cpp" line="256"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="254"/>
+        <location filename="../../src/translation/Translator.cpp" line="258"/>
         <source>ADVANCED_LICENSE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="255"/>
+        <location filename="../../src/translation/Translator.cpp" line="259"/>
         <source>GET_IRIS_PRO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="258"/>
+        <location filename="../../src/translation/Translator.cpp" line="262"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="259"/>
+        <location filename="../../src/translation/Translator.cpp" line="263"/>
         <source>LANGUAGE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="260"/>
+        <location filename="../../src/translation/Translator.cpp" line="264"/>
         <source>ENGLISH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="261"/>
+        <location filename="../../src/translation/Translator.cpp" line="265"/>
         <source>RUSSIAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="262"/>
+        <location filename="../../src/translation/Translator.cpp" line="266"/>
         <source>SPANISH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="263"/>
+        <location filename="../../src/translation/Translator.cpp" line="267"/>
         <source>CHINESE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="264"/>
+        <location filename="../../src/translation/Translator.cpp" line="268"/>
         <source>INDIAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="265"/>
+        <location filename="../../src/translation/Translator.cpp" line="269"/>
         <source>JAPANESE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="266"/>
+        <location filename="../../src/translation/Translator.cpp" line="270"/>
         <source>ARABIC</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="267"/>
+        <location filename="../../src/translation/Translator.cpp" line="271"/>
         <source>TURKISH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="268"/>
+        <location filename="../../src/translation/Translator.cpp" line="272"/>
         <source>PORTUGUESE</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="269"/>
+        <location filename="../../src/translation/Translator.cpp" line="273"/>
         <source>FRENCH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="270"/>
+        <location filename="../../src/translation/Translator.cpp" line="274"/>
         <source>GERMAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="271"/>
+        <location filename="../../src/translation/Translator.cpp" line="275"/>
         <source>KOREAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="272"/>
+        <location filename="../../src/translation/Translator.cpp" line="276"/>
         <source>ITALIAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="273"/>
+        <location filename="../../src/translation/Translator.cpp" line="277"/>
         <source>BULGARIAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="274"/>
+        <location filename="../../src/translation/Translator.cpp" line="278"/>
         <source>GREEK</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="277"/>
+        <location filename="../../src/translation/Translator.cpp" line="281"/>
         <source>ADVANCED_ABOUT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="278"/>
+        <location filename="../../src/translation/Translator.cpp" line="282"/>
         <source>NAME</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="279"/>
+        <location filename="../../src/translation/Translator.cpp" line="283"/>
         <source>VERSION</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="280"/>
+        <location filename="../../src/translation/Translator.cpp" line="284"/>
         <source>PUBLISHER</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="281"/>
+        <location filename="../../src/translation/Translator.cpp" line="285"/>
         <source>WEBSITE</source>
         <translation type="unfinished"></translation>
     </message>

@@ -1,0 +1,1507 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: bg_BG\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../ui/asana_OAuth.ui:20 ../../ui/webkit/asana_OAuth.ui:20
+msgctxt "AsanaOAuth|"
+msgid "Asana"
+msgstr ""
+
+#: ../../ui/asana_OAuth.ui:33 ../../ui/webkit/asana_OAuth.ui:33
+msgctxt "AsanaOAuth|"
+msgid ""
+"https://app.asana.com/-/oauth_authorize?client_id=51957652060682&redirect_uri=http://iristech.co/asana&response_type=token&state=somerandomstate"
+msgstr ""
+
+#: ../../ui/blink_screen.ui:14 ../../ui/webkit/blink_screen.ui:14
+msgctxt "BlinkScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/blink_screen.ui:27 ../../ui/webkit/blink_screen.ui:27
+msgctxt "BlinkScreen|"
+msgid "qrc:/html/blink_screen.html"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:158 ../cyclops/Cyclops.cpp:171
+msgctxt "Cyclops|"
+msgid "Restart your PC"
+msgstr "Рестартирай компютърът си"
+
+#: ../cyclops/Cyclops.cpp:159
+msgctxt "Cyclops|"
+msgid ""
+"Iris just removed some video card limitations. You need to restart your PC "
+"once to unlock full functionality."
+msgstr ""
+"Iris премахна някои лимитации на видео картата. Трябва да рестартирате "
+"компютърът си, за да отключите пълната функционалност."
+
+#: ../cyclops/Cyclops.cpp:161
+msgctxt "Cyclops|"
+msgid "Restart needed"
+msgstr "Нужен е Рестарт"
+
+#: ../cyclops/Cyclops.cpp:162
+msgctxt "Cyclops|"
+msgid ""
+"Restart your PC to unlock full color range. Iris mini will work fine, but "
+"some options may be grayed out."
+msgstr ""
+"Рестартирайте компютърът си, за да отключите пълният цветови спектър. Iris "
+"mini ще си работи, но някои опции ще са неактивни."
+
+#: ../cyclops/Cyclops.cpp:172
+msgctxt "Cyclops|"
+msgid ""
+"Some functionality is limited, because you need to Restart your PC. You are "
+"using High-level Color API right now."
+msgstr ""
+
+#~ msgctxt "Cyclops|"
+#~ msgid ""
+#~ "Some functionallity is limited, because you need to Restart your PC. You "
+#~ "are using High-level Color API right now."
+#~ msgstr ""
+#~ "Някои функционалности са лимитирани, защото трябва да си рестартирате "
+#~ "компютърът. Вие използвате High-level Color API сега."
+
+#: ../cyclops/Cyclops.cpp:215
+msgctxt "Cyclops|"
+msgid "Restart is needed"
+msgstr "Нужен е Рестарт"
+
+#: ../cyclops/Cyclops.cpp:216
+msgctxt "Cyclops|"
+msgid ""
+"Iris made some changes on your system and restart is needed to unlock full "
+"functionallity.\n"
+"Note that Iris will work fine now, but with limited color changes."
+msgstr ""
+"Iris направи някои промени и е нужен Рестарт, за да отключите пълната "
+"функционалност. Iris ще си работи, но с лимитирани цветови промени."
+
+#: ../../ui/expand_range_screen.ui:14 ../../ui/webkit/expand_range_screen.ui:14
+msgctxt "ExpandRangeScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/expand_range_screen.ui:39 ../../ui/webkit/expand_range_screen.ui:39
+msgctxt "ExpandRangeScreen|"
+msgid "qrc:/html/notifications/expand_range_screen.html"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:109 ../../src/licensing/License.cpp:176
+msgctxt "License|"
+msgid "Your Iris is now Pro"
+msgstr "Твоят Iris е Про"
+
+#: ../../src/licensing/License.cpp:111 ../../src/licensing/License.cpp:113
+msgctxt "License|"
+msgid ""
+"Thank you very much for supporting Iris! :)\n"
+"See your new options in the advanced view."
+msgstr ""
+"Благодаря ти, че подкрепи Iris! :) Виж новите настройки в разширеният изглед."
+
+#: ../../src/licensing/License.cpp:126
+msgctxt "License|"
+msgid "Already used"
+msgstr "Вече използван"
+
+#: ../../src/licensing/License.cpp:127
+msgctxt "License|"
+msgid "You have already used this code on another machine"
+msgstr "Вече сте използвали този код на друга машина"
+
+#: ../../src/licensing/License.cpp:136
+msgctxt "License|"
+msgid "Other version"
+msgstr "Друга версия"
+
+#: ../../src/licensing/License.cpp:137
+msgctxt "License|"
+msgid ""
+"You have already used this code with other version of Iris. Download and use "
+"the old version again or buy new activation code."
+msgstr ""
+"Вече сте използвали този код с друга версия на Iris. Изтеглете и използвайте "
+"старата версия или си купете нов активационен код."
+
+#: ../../src/licensing/License.cpp:146
+msgctxt "License|"
+msgid "No such code"
+msgstr "Няма такъв код"
+
+#: ../../src/licensing/License.cpp:147
+msgctxt "License|"
+msgid "There is no such activation code"
+msgstr "Няма такъв активационен код"
+
+#~ msgctxt "License|"
+#~ msgid "No giveway"
+#~ msgstr "Няма активна промоция"
+
+#: ../../src/licensing/License.cpp:156
+msgctxt "License|"
+msgid "No giveaway"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:157
+msgctxt "License|"
+msgid "There is no active giveaway right now"
+msgstr "В момента няма активна промоция"
+
+#: ../../src/licensing/License.cpp:166
+msgctxt "License|"
+msgid "This code is for Iris mini"
+msgstr "Този код е за Iris mini"
+
+#: ../../src/licensing/License.cpp:167
+msgctxt "License|"
+msgid ""
+"This is Iris and your activation code is for Iris mini. Download Iris mini "
+"from\n"
+"http://iristech.co/iris-mini"
+msgstr ""
+"Това е Iris, а вашият активационен код е за Iris min. Изтеглете Iris mini от "
+"http://iristech.co/iris-mini"
+
+#: ../../src/licensing/License.cpp:178 ../../src/licensing/License.cpp:180
+msgctxt "License|"
+msgid ""
+"Team license activation. Thank you very much for supporting Iris! :)\n"
+"See your new options in the advanced view."
+msgstr ""
+"Активация на отборен лиценз. Благодаря ви, че подкрепяте Iris! :)\\nВижте "
+"новите си настройки в Разширеното меню."
+
+#: ../../src/licensing/License.cpp:192
+msgctxt "License|"
+msgid "Team license code for Iris mini"
+msgstr "Отборен активационен код за Iris mini"
+
+#: ../../src/licensing/License.cpp:193
+msgctxt "License|"
+msgid ""
+"This is Iris and remaining Team license codes are for Iris mini. Download "
+"Iris mini from\n"
+"http://iristech.co/iris-mini"
+msgstr ""
+"Това е Iris, а оставащите ви отборни активационни кодове са за Iris mini. "
+"Изтеглете Iris mini от http://iristech.co/iris-mini"
+
+#: ../../src/licensing/License.cpp:202
+msgctxt "License|"
+msgid "No more Team activations"
+msgstr "Няма повече отборни активации"
+
+#: ../../src/licensing/License.cpp:203
+msgctxt "License|"
+msgid "You have used all your Team license activations."
+msgstr "Използвали сте всички ваши отборни активации"
+
+#: ../../src/licensing/License.cpp:212
+msgctxt "License|"
+msgid "No such Team license"
+msgstr "Няма такъв отборен лиценз"
+
+#: ../../src/licensing/License.cpp:213
+msgctxt "License|"
+msgid "There is no such Team license for Iris or Iris mini."
+msgstr "Няма такъв отборен лиценз за Iris или Iris mini."
+
+#: ../../src/licensing/License.cpp:222
+msgctxt "License|"
+msgid "Iris offline activation"
+msgstr "Iris офлайн активация"
+
+#: ../../src/licensing/License.cpp:224 ../../src/licensing/License.cpp:226
+msgctxt "License|"
+msgid "Your Iris is now Pro. See your new options in the advanced view."
+msgstr "Твоят Iris е вече Pro. Виж новите настройки в Разширеното меню."
+
+#: ../../src/licensing/License.cpp:238
+msgctxt "License|"
+msgid "Invalid response"
+msgstr "Невалиден отговор"
+
+#: ../../src/licensing/License.cpp:241
+msgctxt "License|"
+msgid ". Maybe you are not connected to the internet?"
+msgstr ". Може би не сте свързани към интернет"
+
+#: ../../ui/main_screen.ui:19 ../../ui/webkit/main_screen.ui:19
+msgctxt "MainScreen|"
+msgid "Form"
+msgstr ""
+
+#: ../../ui/main_screen.ui:47 ../../ui/webkit/main_screen.ui:47
+msgctxt "MainScreen|"
+msgid "qrc:/html/main_screen.html"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:594
+msgctxt "MainWindow|"
+msgid "until"
+msgstr "до"
+
+#: ../../src/MainWindow.cpp:606
+msgctxt "MainWindow|"
+msgid "rest"
+msgstr "почивка"
+
+#: ../../src/MainWindow.cpp:629
+msgctxt "MainWindow|"
+msgid "work"
+msgstr "работа"
+
+#: ../../src/MainWindow.cpp:707
+msgctxt "MainWindow|"
+msgid "Paused"
+msgstr "Спрян"
+
+#: ../../src/MainWindow.cpp:1138
+msgctxt "MainWindow|"
+msgid "Iris Pro needed"
+msgstr "Нужен е Iris Pro"
+
+#: ../../src/MainWindow.cpp:1139
+msgctxt "MainWindow|"
+msgid "You need Iris Pro to access this section."
+msgstr "За тази секция ти трябва Iris Pro."
+
+#: ../../src/MainWindow.cpp:1616
+msgctxt "MainWindow|"
+msgid "Relaunch Iris"
+msgstr "Рестартирайте Iris"
+
+#: ../../src/MainWindow.cpp:1617
+msgctxt "MainWindow|"
+msgid "You need to relaunch Iris for changes to take effect."
+msgstr "Трябва да рестартирате Iris, за да се отразят промените."
+
+#: ../../src/MainWindow.cpp:1619
+msgctxt "MainWindow|"
+msgid "Relaunch now"
+msgstr "Рестартирай сега"
+
+#: ../../src/MainWindow.cpp:1620
+msgctxt "MainWindow|"
+msgid "Later"
+msgstr "По-късно"
+
+#: ../../src/MainWindow.cpp:1636 ../../src/MainWindow.cpp:1701
+msgctxt "MainWindow|"
+msgid "Restart is needed"
+msgstr "Нужен е Рестарт"
+
+#: ../../src/MainWindow.cpp:1637 ../../src/MainWindow.cpp:1701
+msgctxt "MainWindow|"
+msgid ""
+"Iris made some changes on your system and restart is needed for changes to "
+"take effect."
+msgstr ""
+"Iris направи някои промени и е нужен рестарт, за да се отразят промените."
+
+#: ../../ui/new_version_screen.ui:14 ../../ui/webkit/new_version_screen.ui:14
+msgctxt "NewVersionScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/new_version_screen.ui:39 ../../ui/webkit/new_version_screen.ui:39
+msgctxt "NewVersionScreen|"
+msgid "qrc:/html/notifications/new_version_screen.html"
+msgstr ""
+
+#: ../../ui/notification_screen.ui:14 ../../ui/webkit/notification_screen.ui:14
+msgctxt "NotificationScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/notification_screen.ui:39 ../../ui/webkit/notification_screen.ui:39
+msgctxt "NotificationScreen|"
+msgid "qrc:/html/notifications/notification_screen.html"
+msgstr ""
+
+#: ../../ui/postpone_screen.ui:14 ../../ui/webkit/postpone_screen.ui:14
+msgctxt "PostponeScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/postpone_screen.ui:39 ../../ui/webkit/postpone_screen.ui:39
+msgctxt "PostponeScreen|"
+msgid "qrc:/html/notifications/postpone_screen.html"
+msgstr ""
+
+#: ../../ui/productive_screen.ui:14 ../../ui/webkit/productive_screen.ui:14
+msgctxt "ProductiveScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/productive_screen.ui:33 ../../ui/webkit/productive_screen.ui:33
+msgctxt "ProductiveScreen|"
+msgid "qrc:/html/notifications/productive_screen.html"
+msgstr ""
+
+#: ../../ui/rest_screen.ui:20 ../../ui/webkit/rest_screen.ui:20
+msgctxt "RestScreen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/rest_screen.ui:45 ../../ui/webkit/rest_screen.ui:45
+msgctxt "RestScreen|"
+msgid "qrc:/html/rest_screen.html"
+msgstr ""
+
+#: ../../ui/screen_overlay.ui:14 ../../ui/webkit/screen_overlay.ui:14
+msgctxt "ScreenOverlay|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/screen_overlay.ui:39 ../../ui/webkit/screen_overlay.ui:39
+msgctxt "ScreenOverlay|"
+msgid "qrc:/html/screen_overlay.html"
+msgstr ""
+
+#: ../../ui/components/TaskbarButton.cpp:185
+msgctxt "TaskbarButton|"
+msgid " until rest"
+msgstr "до почивка"
+
+#: ../../ui/components/TaskbarButton.cpp:199
+msgctxt "TaskbarButton|"
+msgid " until work"
+msgstr "до работа"
+
+#: ../../src/translation/Translator.cpp:62
+msgctxt "Translator|"
+msgid "IRIS_MODE"
+msgstr "Режим"
+
+#: ../../src/translation/Translator.cpp:67
+msgctxt "Translator|"
+msgid "IRIS_TYPE"
+msgstr "Тип"
+
+#: ../../src/translation/Translator.cpp:63
+msgctxt "Translator|"
+msgid "AUTOMATIC_MODE"
+msgstr "Автоматичен"
+
+#: ../../src/translation/Translator.cpp:64
+msgctxt "Translator|"
+msgid "MANUAL_MODE"
+msgstr "Ръчен"
+
+#: ../../src/translation/Translator.cpp:65
+msgctxt "Translator|"
+msgid "PAUSED_MODE"
+msgstr "Спрян"
+
+#: ../../src/translation/Translator.cpp:68
+msgctxt "Translator|"
+msgid "HEALTH_MODE"
+msgstr "Здравословен"
+
+#: ../../src/translation/Translator.cpp:69
+msgctxt "Translator|"
+msgid "SLEEP_MODE"
+msgstr "Сън"
+
+#: ../../src/translation/Translator.cpp:70
+msgctxt "Translator|"
+msgid "READING_MODE"
+msgstr "Четене"
+
+#: ../../src/translation/Translator.cpp:71
+msgctxt "Translator|"
+msgid "PROGRAMMING_MODE"
+msgstr "Програмиране"
+
+#: ../../src/translation/Translator.cpp:72
+msgctxt "Translator|"
+msgid "BIOHACKER_MODE"
+msgstr "Биохакер"
+
+#: ../../src/translation/Translator.cpp:73
+msgctxt "Translator|"
+msgid "MOVIE_MODE"
+msgstr "Гледане на филм"
+
+#: ../../src/translation/Translator.cpp:74
+msgctxt "Translator|"
+msgid "OVERLAY_MODE"
+msgstr "Наслоен"
+
+#: ../../src/translation/Translator.cpp:76
+msgctxt "Translator|"
+msgid "IRIS_LICENSE"
+msgstr "Лиценз"
+
+#: ../../src/translation/Translator.cpp:77
+#: ../../src/translation/Translator.cpp:260
+msgctxt "Translator|"
+msgid "ACTIVATE_CODE"
+msgstr "Активирай код"
+
+#: ../../src/translation/Translator.cpp:79
+msgctxt "Translator|"
+msgid "IRIS_TIMER"
+msgstr "Таймер"
+
+#: ../../src/translation/Translator.cpp:80
+msgctxt "Translator|"
+msgid "TIMER_OFF"
+msgstr "Спрян"
+
+#: ../../src/translation/Translator.cpp:81
+msgctxt "Translator|"
+msgid "TIMER_NORMAL"
+msgstr "Обикновен"
+
+#: ../../src/translation/Translator.cpp:82
+msgctxt "Translator|"
+msgid "TIMER_STRICT"
+msgstr "Стриктен"
+
+#: ../../src/translation/Translator.cpp:83
+msgctxt "Translator|"
+msgid "TIMER_PRODUCTIVE"
+msgstr "Продуктивен"
+
+#: ../../src/translation/Translator.cpp:84
+msgctxt "Translator|"
+msgid "TIMER_TASKBAR"
+msgstr "Таскбар"
+
+#: ../../src/translation/Translator.cpp:85
+msgctxt "Translator|"
+msgid "TIMER_EXERCISE"
+msgstr "Тренировъчен"
+
+#: ../../src/translation/Translator.cpp:86
+msgctxt "Translator|"
+msgid "TIMER_NOTIFICATION"
+msgstr "Нотификация"
+
+#: ../../src/translation/Translator.cpp:87
+msgctxt "Translator|"
+msgid "TIMER_SOUND"
+msgstr "Звуков"
+
+#: ../../src/translation/Translator.cpp:89
+msgctxt "Translator|"
+msgid "IRIS_LOCATION"
+msgstr "Локация"
+
+#: ../../src/translation/Translator.cpp:90
+msgctxt "Translator|"
+msgid "SAVE_AND_CLOSE"
+msgstr "Запази и затвори"
+
+#: ../../src/translation/Translator.cpp:91
+msgctxt "Translator|"
+msgid "USE_ADVANCED_SETTINGS"
+msgstr "Още настройки"
+
+#: ../../src/translation/Translator.cpp:94
+msgctxt "Translator|"
+msgid "ADVANCED_SETTINGS_TITLE"
+msgstr "Разширени настройки"
+
+#: ../../src/translation/Translator.cpp:96
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_TEMPERATURE"
+msgstr "Синя светлина"
+
+#: ../../src/translation/Translator.cpp:97
+msgctxt "Translator|"
+msgid "DAY_TEMPERATURE"
+msgstr "Дневна Температура"
+
+#: ../../src/translation/Translator.cpp:98
+msgctxt "Translator|"
+msgid "NIGHT_TEMPERATURE"
+msgstr "Нощна Температура"
+
+#: ../../src/translation/Translator.cpp:99
+#: ../../src/translation/Translator.cpp:108
+#: ../../src/translation/Translator.cpp:114
+msgctxt "Translator|"
+msgid "EXTENDED_VALUES"
+msgstr "Разширени стойности"
+
+#: ../../src/translation/Translator.cpp:100
+msgctxt "Translator|"
+msgid "MANUAL_COLOR_SETTINGS"
+msgstr "Ръчни цветови настройки"
+
+#: ../../src/translation/Translator.cpp:101
+msgctxt "Translator|"
+msgid "RESET_TEMPERATURE"
+msgstr "Изчисти температура"
+
+#: ../../src/translation/Translator.cpp:102
+msgctxt "Translator|"
+msgid "INVERT_COLORS"
+msgstr "Обърни цветове"
+
+#: ../../src/translation/Translator.cpp:103
+msgctxt "Translator|"
+msgid "REVERT_COLORS"
+msgstr "Върни цветове"
+
+#: ../../src/translation/Translator.cpp:105
+#: ../../src/translation/Translator.cpp:111
+msgctxt "Translator|"
+msgid "ADVANCED_BRIGHTNESS"
+msgstr "Яркост"
+
+#: ../../src/translation/Translator.cpp:106
+#: ../../src/translation/Translator.cpp:112
+msgctxt "Translator|"
+msgid "DAY_BRIGHTNESS"
+msgstr "Дневна Яркост"
+
+#: ../../src/translation/Translator.cpp:107
+#: ../../src/translation/Translator.cpp:113
+msgctxt "Translator|"
+msgid "NIGHT_BRIGHTNESS"
+msgstr "Нощна Яркост"
+
+#: ../../src/translation/Translator.cpp:109
+#: ../../src/translation/Translator.cpp:115
+msgctxt "Translator|"
+msgid "MANUAL_BRIGHTNESS"
+msgstr "Ръчна Яркост"
+
+#: ../../src/translation/Translator.cpp:117
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_SCHEME"
+msgstr "Цветови схеми"
+
+#: ../../src/translation/Translator.cpp:118
+msgctxt "Translator|"
+msgid "IRIS"
+msgstr "Iris"
+
+#: ../../src/translation/Translator.cpp:119
+msgctxt "Translator|"
+msgid "MAGMUS"
+msgstr "Magmus"
+
+#: ../../src/translation/Translator.cpp:120
+msgctxt "Translator|"
+msgid "OLAF"
+msgstr "Olaf"
+
+#: ../../src/translation/Translator.cpp:121
+msgctxt "Translator|"
+msgid "GROOT"
+msgstr "Groot"
+
+#: ../../src/translation/Translator.cpp:122
+msgctxt "Translator|"
+msgid "LEADING_COLOR"
+msgstr "Водещ цвят"
+
+#: ../../src/translation/Translator.cpp:127
+msgctxt "Translator|"
+msgid "ADVANCED_LOCATION"
+msgstr "Локация"
+
+#: ../../src/translation/Translator.cpp:128
+msgctxt "Translator|"
+msgid "MANUAL_LOCATION"
+msgstr "Ръчна локация"
+
+#: ../../src/translation/Translator.cpp:129
+msgctxt "Translator|"
+msgid "LATITUDE"
+msgstr "Географска ширина:"
+
+#: ../../src/translation/Translator.cpp:130
+msgctxt "Translator|"
+msgid "LONGITUDE"
+msgstr "Географска дължина:"
+
+#: ../../src/translation/Translator.cpp:131
+msgctxt "Translator|"
+msgid "MANUAL_NIGHT_DURATION"
+msgstr "Ръчна дължина на нощта"
+
+#: ../../src/translation/Translator.cpp:132
+msgctxt "Translator|"
+msgid "NIGHT_START_TIME"
+msgstr "Нощта започва в:"
+
+#: ../../src/translation/Translator.cpp:133
+msgctxt "Translator|"
+msgid "NIGHT_END_TIME"
+msgstr "Нощта свършва в:"
+
+#: ../../src/translation/Translator.cpp:135
+msgctxt "Translator|"
+msgid "ADVANCED_MANAGE_MONITORS"
+msgstr "Монитори"
+
+#: ../../src/translation/Translator.cpp:136
+msgctxt "Translator|"
+msgid "MONITOR_1"
+msgstr "Монитор 1"
+
+#: ../../src/translation/Translator.cpp:137
+msgctxt "Translator|"
+msgid "MONITOR_2"
+msgstr "Монитор 2"
+
+#: ../../src/translation/Translator.cpp:138
+msgctxt "Translator|"
+msgid "MONITOR_3"
+msgstr "Монитор 3"
+
+#: ../../src/translation/Translator.cpp:139
+msgctxt "Translator|"
+msgid "MONITOR_4"
+msgstr "Монитор 4"
+
+#: ../../src/translation/Translator.cpp:141
+msgctxt "Translator|"
+msgid "ADVANCED_SCREEN_EFFECTS"
+msgstr "Дисплей ефекти"
+
+#: ../../src/translation/Translator.cpp:142
+#| msgid "COLOR_EFFECT"
+msgctxt "Translator|"
+msgid "SCREEN_EFFECT"
+msgstr "Цветови ефект"
+
+#: ../../src/translation/Translator.cpp:143
+msgctxt "Translator|"
+msgid "SIMPLE_INVERSION"
+msgstr "Проста инверсия"
+
+#: ../../src/translation/Translator.cpp:144
+msgctxt "Translator|"
+msgid "GRAYSCALE_1"
+msgstr "Черно-бял 1"
+
+#: ../../src/translation/Translator.cpp:145
+msgctxt "Translator|"
+msgid "GRAYSCALE_2"
+msgstr "Черно-бял 2"
+
+#: ../../src/translation/Translator.cpp:146
+msgctxt "Translator|"
+msgid "GRAYSCALE_3"
+msgstr "Черно-бял 3"
+
+#: ../../src/translation/Translator.cpp:147
+msgctxt "Translator|"
+msgid "NEGATIVE_GRAYSCALE"
+msgstr "Негативен Черно-бял"
+
+#: ../../src/translation/Translator.cpp:148
+msgctxt "Translator|"
+msgid "WASHOUT_1"
+msgstr "Отмиване 1"
+
+#: ../../src/translation/Translator.cpp:149
+msgctxt "Translator|"
+msgid "WASHOUT_2"
+msgstr "Отмиване 2"
+
+#: ../../src/translation/Translator.cpp:150
+msgctxt "Translator|"
+msgid "WASHOUT_3"
+msgstr "Отмиване 3"
+
+#: ../../src/translation/Translator.cpp:151
+msgctxt "Translator|"
+msgid "SMART_INVERSION_1"
+msgstr "Умна инверсия 1"
+
+#: ../../src/translation/Translator.cpp:152
+msgctxt "Translator|"
+msgid "SMART_INVERSION_2"
+msgstr "Умна инверсия 2"
+
+#: ../../src/translation/Translator.cpp:153
+msgctxt "Translator|"
+msgid "SMART_INVERSION_3"
+msgstr "Умна инверсия 3"
+
+#: ../../src/translation/Translator.cpp:154
+msgctxt "Translator|"
+msgid "SMART_INVERSION_4"
+msgstr "Умна инверсия 4"
+
+#: ../../src/translation/Translator.cpp:155
+msgctxt "Translator|"
+msgid "SMART_INVERSION_5"
+msgstr "Умна инверсия 5"
+
+#: ../../src/translation/Translator.cpp:156
+msgctxt "Translator|"
+msgid "SEPIA"
+msgstr "Сепия"
+
+#: ../../src/translation/Translator.cpp:157
+msgctxt "Translator|"
+msgid "NEGATIVE_SEPIA"
+msgstr "Негативна Сепия"
+
+#: ../../src/translation/Translator.cpp:158
+msgctxt "Translator|"
+msgid "GRAYSCALE_RED"
+msgstr "Червено-бял"
+
+#: ../../src/translation/Translator.cpp:159
+msgctxt "Translator|"
+msgid "NEGATIVE_GRAYSCALE_RED"
+msgstr "Червено-черен"
+
+#: ../../src/translation/Translator.cpp:160
+msgctxt "Translator|"
+msgid "PROTANOPIA"
+msgstr "Протанопиа"
+
+#: ../../src/translation/Translator.cpp:161
+msgctxt "Translator|"
+msgid "PROTANOMALY"
+msgstr "Протаномали"
+
+#: ../../src/translation/Translator.cpp:162
+msgctxt "Translator|"
+msgid "DEUTERANOPIA"
+msgstr "Деутеранопиа"
+
+#: ../../src/translation/Translator.cpp:163
+msgctxt "Translator|"
+msgid "DEUTERANOMALY"
+msgstr "Деутераномали"
+
+#: ../../src/translation/Translator.cpp:164
+msgctxt "Translator|"
+msgid "TRITANOPIA"
+msgstr "Тританопиа"
+
+#: ../../src/translation/Translator.cpp:165
+msgctxt "Translator|"
+msgid "TRITANOMALY"
+msgstr "Тританомали"
+
+#: ../../src/translation/Translator.cpp:166
+msgctxt "Translator|"
+msgid "ACHROMATOPSIA"
+msgstr "Акроматопсия"
+
+#: ../../src/translation/Translator.cpp:167
+msgctxt "Translator|"
+msgid "ACHROMATOMALY"
+msgstr "Акроматомали"
+
+#: ../../src/translation/Translator.cpp:168
+msgctxt "Translator|"
+msgid "COLOR_EFFECTS"
+msgstr "Цветови ефекти"
+
+#: ../../src/translation/Translator.cpp:170
+msgctxt "Translator|"
+msgid "ADVANCED_FONTS"
+msgstr "Шрифтове"
+
+#: ../../src/translation/Translator.cpp:171
+msgctxt "Translator|"
+msgid "FONTS_TYPE"
+msgstr "Шрифтове"
+
+#: ../../src/translation/Translator.cpp:172
+msgctxt "Translator|"
+msgid "SIMPLE_FONTS"
+msgstr "Прости шрифтове"
+
+#: ../../src/translation/Translator.cpp:173
+msgctxt "Translator|"
+msgid "ANTI_ALIASING_FONTS"
+msgstr "Anti-aliasing шрифтове"
+
+#: ../../src/translation/Translator.cpp:174
+msgctxt "Translator|"
+msgid "CLEAR_TYPE_FONTS"
+msgstr "ClearType шрифтове"
+
+#: ../../src/translation/Translator.cpp:175
+msgctxt "Translator|"
+msgid "GDIPP"
+msgstr "GDIPP"
+
+#: ../../src/translation/Translator.cpp:176
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_LIGHT"
+msgstr "Леко заглаждане на шрифтовете"
+
+#: ../../src/translation/Translator.cpp:177
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_MEDIUM"
+msgstr "Средно заглаждане на шрифтовете"
+
+#: ../../src/translation/Translator.cpp:178
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_HIGH"
+msgstr "Голямо заглаждане на шрифтовете"
+
+#: ../../src/translation/Translator.cpp:180
+msgctxt "Translator|"
+msgid "ADVANCED_MAGNIFICATION"
+msgstr "Увеличение"
+
+#: ../../src/translation/Translator.cpp:181
+msgctxt "Translator|"
+msgid "ZOOM_IN"
+msgstr "Увеличи"
+
+#: ../../src/translation/Translator.cpp:182
+msgctxt "Translator|"
+msgid "ZOOM_OUT"
+msgstr "Намали"
+
+#: ../../src/translation/Translator.cpp:184
+msgctxt "Translator|"
+msgid "ADVANCED_PWM_CONTROL"
+msgstr "Контрол на PWM"
+
+#: ../../src/translation/Translator.cpp:186
+msgctxt "Translator|"
+msgid "ADVANCED_TIMER"
+msgstr "Таймер"
+
+#: ../../src/translation/Translator.cpp:187
+msgctxt "Translator|"
+msgid "POSTPONE_DURATION"
+msgstr "Отлагане"
+
+#: ../../src/translation/Translator.cpp:188
+msgctxt "Translator|"
+msgid "TIMER_TYPE"
+msgstr "Тип на таймера"
+
+#: ../../src/translation/Translator.cpp:189
+msgctxt "Translator|"
+msgid "BREAK_EVERY"
+msgstr "Пауза на всеки"
+
+#: ../../src/translation/Translator.cpp:190
+msgctxt "Translator|"
+msgid "HAVE_A_REST_NOW"
+msgstr "Почивка сега"
+
+#: ../../src/translation/Translator.cpp:191
+msgctxt "Translator|"
+msgid "AUTO_CLOSE_REST_SCREEN"
+msgstr "Затваряй екрана за почивка автоматично"
+
+#: ../../src/translation/Translator.cpp:192
+msgctxt "Translator|"
+msgid "USE_SOUNDS"
+msgstr "Използвай звукове"
+
+#: ../../src/translation/Translator.cpp:194
+msgctxt "Translator|"
+msgid "ADVANCED_SYSTEM"
+msgstr "Система"
+
+#: ../../src/translation/Translator.cpp:195
+msgctxt "Translator|"
+msgid "HIDE_TASKBAR_ICON_ON_CLOSE"
+msgstr "Скривай таскбар иконата"
+
+#: ../../src/translation/Translator.cpp:196
+msgctxt "Translator|"
+msgid "USE_MOUSE_INACTIVITY"
+msgstr "Спирай таймера на база движението на мишката"
+
+#: ../../src/translation/Translator.cpp:197
+msgctxt "Translator|"
+msgid "BLOCK_KEYBOARD"
+msgstr "Блокирай клавиатурата в Стриктен Режим"
+
+#: ../../src/translation/Translator.cpp:198
+msgctxt "Translator|"
+msgid "USE_SOFTWARE_MOUSE"
+msgstr "Използвай софтуерен курсор"
+
+#: ../../src/translation/Translator.cpp:200
+msgctxt "Translator|"
+msgid "ADVANCED_IRIS"
+msgstr "Iris"
+
+#: ../../src/translation/Translator.cpp:201
+msgctxt "Translator|"
+msgid "AUTOSAVE_SETTINGS_CHANGES"
+msgstr "Автоматично запазване на настройки"
+
+#: ../../src/translation/Translator.cpp:202
+msgctxt "Translator|"
+msgid "USE_KEYBOARD_SHORTCUTS"
+msgstr "Използвай бързи клавиши"
+
+#: ../../src/translation/Translator.cpp:203
+msgctxt "Translator|"
+msgid "DESTROY_UI_ON_CLOSE"
+msgstr "Унищожавай UI при изход"
+
+#: ../../src/translation/Translator.cpp:204
+msgctxt "Translator|"
+msgid "USE_LOW_LEVEL_COLOR_API"
+msgstr "Color API на ниско ниво"
+
+#: ../../src/translation/Translator.cpp:205
+msgctxt "Translator|"
+msgid "START_IRIS_ON_STARTUP"
+msgstr "Стартирай при включване на компютъра"
+
+#: ../../src/translation/Translator.cpp:207
+msgctxt "Translator|"
+msgid "RESET_COLORS"
+msgstr "Изчисти цветовете"
+
+#: ../../src/translation/Translator.cpp:229
+msgctxt "Translator|"
+msgid "DAY_OPACITY"
+msgstr "Дневна Прозрачност"
+
+#: ../../src/translation/Translator.cpp:230
+msgctxt "Translator|"
+msgid "NIGHT_OPACITY"
+msgstr "Нощна Прозрачност"
+
+#: ../../src/translation/Translator.cpp:232
+msgctxt "Translator|"
+msgid "DAY_DIM"
+msgstr "Дневно Затъмняване"
+
+#: ../../src/translation/Translator.cpp:233
+msgctxt "Translator|"
+msgid "NIGHT_DIM"
+msgstr "Нощно Затъмняване"
+
+#: ../../src/translation/Translator.cpp:242
+msgctxt "Translator|"
+msgid "USE_SMART_BRIGHTNESS"
+msgstr "Умна яркост"
+
+#: ../../src/translation/Translator.cpp:243
+msgctxt "Translator|"
+msgid "USE_SMART_INVERSION"
+msgstr "Умна инверсия"
+
+#: ../../src/translation/Translator.cpp:244
+msgctxt "Translator|"
+msgid "ENABLE_CAMERA"
+msgstr "Включи Камерата"
+
+#: ../../src/translation/Translator.cpp:245
+msgctxt "Translator|"
+msgid "DISABLE_CAMERA"
+msgstr "Изключи Камерата"
+
+#: ../../src/translation/Translator.cpp:279
+msgctxt "Translator|"
+msgid "CZECH"
+msgstr "Чешки"
+
+#: ../../src/translation/Translator.cpp:288
+msgctxt "Translator|"
+msgid "SKIP_REST"
+msgstr "Пропусни"
+
+#: ../../src/translation/Translator.cpp:289
+msgctxt "Translator|"
+msgid "NORMAL"
+msgstr "Нормален"
+
+#: ../../src/translation/Translator.cpp:290
+msgctxt "Translator|"
+msgid "STRICT"
+msgstr "Стриктен"
+
+#: ../../src/translation/Translator.cpp:291
+msgctxt "Translator|"
+msgid "CONTINUE"
+msgstr "Продължи"
+
+#: ../../src/translation/Translator.cpp:292
+msgctxt "Translator|"
+msgid "REST_MODE"
+msgstr "Режим"
+
+#: ../../src/translation/Translator.cpp:293
+msgctxt "Translator|"
+msgid "REST_MODE_MESSAGE"
+msgstr ""
+"Вие сте в режим на почивка. Може да редактирайте таймерът от настройките."
+
+#: ../../src/translation/Translator.cpp:294
+msgctxt "Translator|"
+msgid "TIME_IS"
+msgstr "Часът е"
+
+#: ../../src/translation/Translator.cpp:297
+msgctxt "Translator|"
+msgid "START_WORKING"
+msgstr "Работа"
+
+#: ../../src/translation/Translator.cpp:298
+msgctxt "Translator|"
+msgid "HAVE_A_BREAK"
+msgstr "Почивка"
+
+#: ../../src/translation/Translator.cpp:206
+msgctxt "Translator|"
+msgid "RESET_SETTINGS_TO_DEFAULT"
+msgstr "Изчисти настройките"
+
+#: ../../src/translation/Translator.cpp:209
+msgctxt "Translator|"
+msgid "ADVANCED_HARDWARE"
+msgstr "Хардуер"
+
+#: ../../src/translation/Translator.cpp:210
+msgctxt "Translator|"
+msgid "ADVANCED_SOUNDS"
+msgstr "Звукове"
+
+#: ../../src/translation/Translator.cpp:211
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_PAUSERS"
+msgstr "Цветови паузи"
+
+#: ../../src/translation/Translator.cpp:212
+msgctxt "Translator|"
+msgid "ADVANCED_TIMER_PAUSERS"
+msgstr "Таймер паузи"
+
+#: ../../src/translation/Translator.cpp:214
+msgctxt "Translator|"
+msgid "ADVANCED_SCREEN_OVERLAY"
+msgstr "Покривка на дисплея"
+
+#: ../../src/translation/Translator.cpp:215
+msgctxt "Translator|"
+msgid "OVERLAY_COLOR"
+msgstr "Цвят на слоя"
+
+#: ../../src/translation/Translator.cpp:124
+#: ../../src/translation/Translator.cpp:216
+msgctxt "Translator|"
+msgid "GREEN"
+msgstr "Зелен"
+
+#: ../../src/translation/Translator.cpp:217
+msgctxt "Translator|"
+msgid "TURQUOISE"
+msgstr "Тюркоаз"
+
+#: ../../src/translation/Translator.cpp:125
+#: ../../src/translation/Translator.cpp:218
+msgctxt "Translator|"
+msgid "BLUE"
+msgstr "Син"
+
+#: ../../src/translation/Translator.cpp:219
+msgctxt "Translator|"
+msgid "INDIGO"
+msgstr "Индиго"
+
+#: ../../src/translation/Translator.cpp:220
+msgctxt "Translator|"
+msgid "VIOLET"
+msgstr "Виолетов"
+
+#: ../../src/translation/Translator.cpp:221
+msgctxt "Translator|"
+msgid "PURPLE"
+msgstr "Лилаво"
+
+#: ../../src/translation/Translator.cpp:222
+msgctxt "Translator|"
+msgid "MAGENTA"
+msgstr "Пурпурен"
+
+#: ../../src/translation/Translator.cpp:223
+msgctxt "Translator|"
+msgid "SCARLET"
+msgstr "Ален"
+
+#: ../../src/translation/Translator.cpp:123
+#: ../../src/translation/Translator.cpp:224
+msgctxt "Translator|"
+msgid "RED"
+msgstr "Червен"
+
+#: ../../src/translation/Translator.cpp:225
+msgctxt "Translator|"
+msgid "ORANGE"
+msgstr "Оранжев"
+
+#: ../../src/translation/Translator.cpp:226
+msgctxt "Translator|"
+msgid "YELLOW"
+msgstr "Жълт"
+
+#: ../../src/translation/Translator.cpp:227
+msgctxt "Translator|"
+msgid "LEMON"
+msgstr "Лимон"
+
+#: ../../src/translation/Translator.cpp:228
+msgctxt "Translator|"
+msgid "OPACITY"
+msgstr "Прозрачност"
+
+#: ../../src/translation/Translator.cpp:231
+msgctxt "Translator|"
+msgid "SCREEN_DIM"
+msgstr "Затъмняване"
+
+#: ../../src/translation/Translator.cpp:234
+msgctxt "Translator|"
+msgid "DISABLE"
+msgstr "Изключи"
+
+#: ../../src/translation/Translator.cpp:235
+msgctxt "Translator|"
+msgid "SELECT_SCREEN_AREA"
+msgstr "Селектирай област"
+
+#: ../../src/translation/Translator.cpp:236
+msgctxt "Translator|"
+msgid "RESET_SELECTED_AREA"
+msgstr "Изчисти селектира област"
+
+#: ../../src/translation/Translator.cpp:237
+msgctxt "Translator|"
+msgid "ENABLE"
+msgstr "Включи"
+
+#: ../../src/translation/Translator.cpp:239
+msgctxt "Translator|"
+msgid "ADVANCED_ARTIFICIAL_INTELLIGENCE"
+msgstr "Изкуствен интелект (AI)"
+
+#: ../../src/translation/Translator.cpp:240
+msgctxt "Translator|"
+msgid "USE_AUTOMATIC_BRIGHTNESS"
+msgstr "Автоматична яркост"
+
+#: ../../src/translation/Translator.cpp:241
+msgctxt "Translator|"
+msgid "USE_BLINK_DETECTION"
+msgstr "Засичане на миганията"
+
+#: ../../src/translation/Translator.cpp:246
+msgctxt "Translator|"
+msgid "SHOW_BLINK_SCREEN"
+msgstr "Покажи екран за мигания"
+
+#: ../../src/translation/Translator.cpp:247
+msgctxt "Translator|"
+msgid "HIDE_BLINK_SCREEN"
+msgstr "Скрий екран за мигания"
+
+#: ../../src/translation/Translator.cpp:249
+msgctxt "Translator|"
+msgid "ADVANCED_EXERCISES"
+msgstr "Упражнения"
+
+#: ../../src/translation/Translator.cpp:250
+msgctxt "Translator|"
+msgid "START_EYE_EXERCISES"
+msgstr "Упражнения за очи"
+
+#: ../../src/translation/Translator.cpp:251
+msgctxt "Translator|"
+msgid "START_NECK_EXERCISES"
+msgstr "Упражнения за врат"
+
+#: ../../src/translation/Translator.cpp:252
+msgctxt "Translator|"
+msgid "START_BACK_EXERCISES"
+msgstr "Упражнения за гръб"
+
+#: ../../src/translation/Translator.cpp:254
+msgctxt "Translator|"
+msgid "ADVANCED_IRIS_MODEL"
+msgstr "Модел на Iris"
+
+#: ../../src/translation/Translator.cpp:255
+msgctxt "Translator|"
+msgid "SWITCH_TO_IRIS"
+msgstr "Към Iris"
+
+#: ../../src/translation/Translator.cpp:256
+msgctxt "Translator|"
+msgid "SWITCH_TO_IRIS_LITE"
+msgstr "Към Iris lite"
+
+#: ../../src/translation/Translator.cpp:258
+msgctxt "Translator|"
+msgid "ADVANCED_LICENSE"
+msgstr "Лиценз"
+
+#: ../../src/translation/Translator.cpp:259
+msgctxt "Translator|"
+msgid "GET_IRIS_PRO"
+msgstr "Купи Iris Pro"
+
+#: ../../src/translation/Translator.cpp:262
+msgctxt "Translator|"
+msgid "ADVANCED_LANGUAGE"
+msgstr "Език"
+
+#: ../../src/translation/Translator.cpp:263
+msgctxt "Translator|"
+msgid "LANGUAGE"
+msgstr "Език"
+
+#: ../../src/translation/Translator.cpp:264
+msgctxt "Translator|"
+msgid "ENGLISH"
+msgstr "Английски"
+
+#: ../../src/translation/Translator.cpp:265
+msgctxt "Translator|"
+msgid "RUSSIAN"
+msgstr "Руски"
+
+#: ../../src/translation/Translator.cpp:266
+msgctxt "Translator|"
+msgid "SPANISH"
+msgstr "Испански"
+
+#: ../../src/translation/Translator.cpp:267
+msgctxt "Translator|"
+msgid "CHINESE"
+msgstr "Китайски"
+
+#: ../../src/translation/Translator.cpp:268
+msgctxt "Translator|"
+msgid "INDIAN"
+msgstr "Индийски"
+
+#: ../../src/translation/Translator.cpp:269
+msgctxt "Translator|"
+msgid "JAPANESE"
+msgstr "Японски"
+
+#: ../../src/translation/Translator.cpp:270
+msgctxt "Translator|"
+msgid "ARABIC"
+msgstr "Арабски"
+
+#: ../../src/translation/Translator.cpp:271
+msgctxt "Translator|"
+msgid "TURKISH"
+msgstr "Турски"
+
+#: ../../src/translation/Translator.cpp:272
+msgctxt "Translator|"
+msgid "PORTUGUESE"
+msgstr "Португалски"
+
+#: ../../src/translation/Translator.cpp:273
+msgctxt "Translator|"
+msgid "FRENCH"
+msgstr "Френски"
+
+#: ../../src/translation/Translator.cpp:274
+msgctxt "Translator|"
+msgid "GERMAN"
+msgstr "Немски"
+
+#: ../../src/translation/Translator.cpp:275
+msgctxt "Translator|"
+msgid "KOREAN"
+msgstr "Корейски"
+
+#: ../../src/translation/Translator.cpp:276
+msgctxt "Translator|"
+msgid "ITALIAN"
+msgstr "Италиански"
+
+#: ../../src/translation/Translator.cpp:277
+msgctxt "Translator|"
+msgid "BULGARIAN"
+msgstr "Български"
+
+#: ../../src/translation/Translator.cpp:278
+msgctxt "Translator|"
+msgid "GREEK"
+msgstr "Гръцки"
+
+#: ../../src/translation/Translator.cpp:281
+msgctxt "Translator|"
+msgid "ADVANCED_ABOUT"
+msgstr "За нас"
+
+#: ../../src/translation/Translator.cpp:282
+msgctxt "Translator|"
+msgid "NAME"
+msgstr "Име"
+
+#: ../../src/translation/Translator.cpp:283
+msgctxt "Translator|"
+msgid "VERSION"
+msgstr "Версия"
+
+#: ../../src/translation/Translator.cpp:284
+msgctxt "Translator|"
+msgid "PUBLISHER"
+msgstr "Издател"
+
+#: ../../src/translation/Translator.cpp:285
+msgctxt "Translator|"
+msgid "WEBSITE"
+msgstr "Уебсайт"
+
+#: ../../ui/components/TrayIcon.cpp:65 ../../ui/components/TrayIcon.cpp:370
+msgctxt "TrayIcon|"
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../../ui/components/TrayIcon.cpp:74
+msgctxt "TrayIcon|"
+msgid "&Automatic"
+msgstr "Автоматичен"
+
+#: ../../ui/components/TrayIcon.cpp:78
+msgctxt "TrayIcon|"
+msgid "&Manual"
+msgstr "Ръчен"
+
+#: ../../ui/components/TrayIcon.cpp:82
+msgctxt "TrayIcon|"
+msgid "&Paused"
+msgstr "Спрян"
+
+#: ../../ui/components/TrayIcon.cpp:86
+msgctxt "TrayIcon|"
+msgid "&Change mode"
+msgstr "Смени режим"
+
+#: ../../ui/components/TrayIcon.cpp:102 ../../ui/components/TrayIcon.cpp:371
+msgctxt "TrayIcon|"
+msgid "&Health"
+msgstr "Здравословен"
+
+#: ../../ui/components/TrayIcon.cpp:106 ../../ui/components/TrayIcon.cpp:372
+msgctxt "TrayIcon|"
+msgid "&Sleep"
+msgstr "Сън"
+
+#: ../../ui/components/TrayIcon.cpp:110 ../../ui/components/TrayIcon.cpp:373
+msgctxt "TrayIcon|"
+msgid "&Reading"
+msgstr "Четене"
+
+#: ../../ui/components/TrayIcon.cpp:114 ../../ui/components/TrayIcon.cpp:374
+msgctxt "TrayIcon|"
+msgid "&Programming"
+msgstr "Програмиране"
+
+#: ../../ui/components/TrayIcon.cpp:118 ../../ui/components/TrayIcon.cpp:375
+msgctxt "TrayIcon|"
+msgid "&Biohacker"
+msgstr "Биохакер"
+
+#: ../../ui/components/TrayIcon.cpp:122 ../../ui/components/TrayIcon.cpp:376
+msgctxt "TrayIcon|"
+msgid "&Movie"
+msgstr "Гледане на филм"
+
+#: ../../ui/components/TrayIcon.cpp:126 ../../ui/components/TrayIcon.cpp:377
+msgctxt "TrayIcon|"
+msgid "&Overlay"
+msgstr "Наслоен"
+
+#, qt-format
+#~ msgctxt "TrayIcon|"
+#~ msgid "Pause %1"
+#~ msgstr "Пауза %1"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Pause color changes"
+#~ msgstr "Спри цветовите промени"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Stop work timer"
+#~ msgstr "Спри таймера"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Use camera"
+#~ msgstr "Използвай камерата"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Activate Code"
+#~ msgstr "Активирай код"
+
+#: ../../ui/components/TrayIcon.cpp:143 ../../ui/components/TrayIcon.cpp:378
+msgctxt "TrayIcon|"
+msgid "Exit"
+msgstr "Изход"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "&Activate Code"
+#~ msgstr "&Активационен код"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "&Exit"
+#~ msgstr "&Изход"
+
+#: ../../ui/blink_reminding_screen.ui:14
+#: ../../ui/webkit/blink_reminding_screen.ui:14
+msgctxt "blink_reminding_screen|"
+msgid "Dialog"
+msgstr ""
+
+#: ../../ui/blink_reminding_screen.ui:27
+#: ../../ui/webkit/blink_reminding_screen.ui:27
+msgctxt "blink_reminding_screen|"
+msgid "qrc:/html/blink_reminding_screen.html"
+msgstr ""
+
+#: ../../ui/dummy_screen_effects.ui:14
+#: ../../ui/webkit/dummy_screen_effects.ui:14
+msgctxt "dummy_screen_effects|"
+msgid "dummy_screen_effects"
+msgstr ""
+
+#: ../../ui/dummy_screen_effects.ui:26 ../../ui/dummy_screen_effects.ui:39
+#: ../../ui/dummy_screen_effects.ui:52 ../../ui/dummy_screen_effects.ui:65
+#: ../../ui/webkit/dummy_screen_effects.ui:26
+#: ../../ui/webkit/dummy_screen_effects.ui:39
+#: ../../ui/webkit/dummy_screen_effects.ui:52
+#: ../../ui/webkit/dummy_screen_effects.ui:65
+msgctxt "dummy_screen_effects|"
+msgid "PushButton"
+msgstr ""
+
+#: ../../ui/webkit/zoom_widget.ui:14 ../../ui/zoom_widget.ui:14
+msgctxt "zoomwidget|"
+msgid "zoomwidget"
+msgstr ""
+
+#: ../../ui/webkit/zoom_widget.ui:26 ../../ui/webkit/zoom_widget.ui:39
+#: ../../ui/webkit/zoom_widget.ui:52 ../../ui/webkit/zoom_widget.ui:65
+#: ../../ui/zoom_widget.ui:26 ../../ui/zoom_widget.ui:39
+#: ../../ui/zoom_widget.ui:52 ../../ui/zoom_widget.ui:65
+msgctxt "zoomwidget|"
+msgid "PushButton"
+msgstr ""

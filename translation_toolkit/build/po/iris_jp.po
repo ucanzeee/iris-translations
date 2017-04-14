@@ -1,0 +1,1488 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: ja_JP\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../ui/asana_OAuth.ui:20 ../../ui/webkit/asana_OAuth.ui:20
+msgctxt "AsanaOAuth|"
+msgid "Asana"
+msgstr "アサナ"
+
+#: ../../ui/asana_OAuth.ui:33 ../../ui/webkit/asana_OAuth.ui:33
+msgctxt "AsanaOAuth|"
+msgid ""
+"https://app.asana.com/-/oauth_authorize?client_id=51957652060682&redirect_uri=http://iristech.co/asana&response_type=token&state=somerandomstate"
+msgstr ""
+
+#: ../../ui/blink_screen.ui:14 ../../ui/webkit/blink_screen.ui:14
+msgctxt "BlinkScreen|"
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#: ../../ui/blink_screen.ui:27 ../../ui/webkit/blink_screen.ui:27
+msgctxt "BlinkScreen|"
+msgid "qrc:/html/blink_screen.html"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:158 ../cyclops/Cyclops.cpp:171
+msgctxt "Cyclops|"
+msgid "Restart your PC"
+msgstr "PCをリセット"
+
+#: ../cyclops/Cyclops.cpp:159
+msgctxt "Cyclops|"
+msgid ""
+"Iris just removed some video card limitations. You need to restart your PC "
+"once to unlock full functionality."
+msgstr "グラフィックカードの制限を解除します PCを再起動してください"
+
+#: ../cyclops/Cyclops.cpp:161
+msgctxt "Cyclops|"
+msgid "Restart needed"
+msgstr "PCを再起動させてください"
+
+#: ../cyclops/Cyclops.cpp:162
+msgctxt "Cyclops|"
+msgid ""
+"Restart your PC to unlock full color range. Iris mini will work fine, but "
+"some options may be grayed out."
+msgstr "幾つかの機能が制限されています PCを再起動させてください"
+
+#: ../cyclops/Cyclops.cpp:172
+#, fuzzy
+msgctxt "Cyclops|"
+msgid ""
+"Some functionality is limited, because you need to Restart your PC. You are "
+"using High-level Color API right now."
+msgstr "幾つかの機能が制限されています PCを再起動させてください"
+
+#~ msgctxt "Cyclops|"
+#~ msgid ""
+#~ "Some functionallity is limited, because you need to Restart your PC. You "
+#~ "are using High-level Color API right now."
+#~ msgstr "幾つかの機能が制限されています PCを再起動させてください"
+
+#: ../cyclops/Cyclops.cpp:215
+msgctxt "Cyclops|"
+msgid "Restart is needed"
+msgstr "PCを再起動させてください"
+
+#: ../cyclops/Cyclops.cpp:216
+msgctxt "Cyclops|"
+msgid ""
+"Iris made some changes on your system and restart is needed to unlock full "
+"functionallity.\n"
+"Note that Iris will work fine now, but with limited color changes."
+msgstr "幾つかの機能を追加しました PCを再起動後、設定が反映されます"
+
+#: ../../ui/expand_range_screen.ui:14 ../../ui/webkit/expand_range_screen.ui:14
+msgctxt "ExpandRangeScreen|"
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#: ../../ui/expand_range_screen.ui:39 ../../ui/webkit/expand_range_screen.ui:39
+msgctxt "ExpandRangeScreen|"
+msgid "qrc:/html/notifications/expand_range_screen.html"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:109 ../../src/licensing/License.cpp:176
+msgctxt "License|"
+msgid "Your Iris is now Pro"
+msgstr "アクティベーションコードが正しく入力されました"
+
+#: ../../src/licensing/License.cpp:111 ../../src/licensing/License.cpp:113
+msgctxt "License|"
+msgid ""
+"Thank you very much for supporting Iris! :)\n"
+"See your new options in the advanced view."
+msgstr ""
+"「目に優しい画面」をご使用頂き誠にありがとうございます！:)\n"
+"詳細設定画面で使用可能な機能が追加されました。"
+
+#: ../../src/licensing/License.cpp:126
+msgctxt "License|"
+msgid "Already used"
+msgstr "このアクティベーションコードは既に使用されています"
+
+#: ../../src/licensing/License.cpp:127
+msgctxt "License|"
+msgid "You have already used this code on another machine"
+msgstr "このアクティベーションコードは他のPCで登録済みです"
+
+#: ../../src/licensing/License.cpp:136
+msgctxt "License|"
+msgid "Other version"
+msgstr "他のバージョン"
+
+#: ../../src/licensing/License.cpp:137
+msgctxt "License|"
+msgid ""
+"You have already used this code with other version of Iris. Download and use "
+"the old version again or buy new activation code."
+msgstr "このアクティベーションコードは、他のプログラムで使用されています"
+
+#: ../../src/licensing/License.cpp:146
+msgctxt "License|"
+msgid "No such code"
+msgstr "シリアル番号が間違えています"
+
+#: ../../src/licensing/License.cpp:147
+msgctxt "License|"
+msgid "There is no such activation code"
+msgstr "アクティベーションコードが間違えています"
+
+#~ msgctxt "License|"
+#~ msgid "No giveway"
+#~ msgstr "アクティベーションコードは移管できません"
+
+#: ../../src/licensing/License.cpp:156
+msgctxt "License|"
+msgid "No giveaway"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:157
+msgctxt "License|"
+msgid "There is no active giveaway right now"
+msgstr "このアクティベーションコードは他のPCへ移管できません"
+
+#: ../../src/licensing/License.cpp:166
+msgctxt "License|"
+msgid "This code is for Iris mini"
+msgstr "このアクティベーションコードは、Iris mini用です"
+
+#: ../../src/licensing/License.cpp:167
+msgctxt "License|"
+msgid ""
+"This is Iris and your activation code is for Iris mini. Download Iris mini "
+"from\n"
+"http://iristech.co/iris-mini"
+msgstr "このアクティベーションコードは、Iris mini用です"
+
+#: ../../src/licensing/License.cpp:178 ../../src/licensing/License.cpp:180
+msgctxt "License|"
+msgid ""
+"Team license activation. Thank you very much for supporting Iris! :)\n"
+"See your new options in the advanced view."
+msgstr "ボリュームライセンスアクティベーションをありがとうございます"
+
+#: ../../src/licensing/License.cpp:192
+msgctxt "License|"
+msgid "Team license code for Iris mini"
+msgstr "ボリュームライセンス"
+
+#: ../../src/licensing/License.cpp:193
+msgctxt "License|"
+msgid ""
+"This is Iris and remaining Team license codes are for Iris mini. Download "
+"Iris mini from\n"
+"http://iristech.co/iris-mini"
+msgstr "このアクティベーションコードはボリュームライセンス用です"
+
+#: ../../src/licensing/License.cpp:202
+msgctxt "License|"
+msgid "No more Team activations"
+msgstr "これ以上、アクティベーションできません"
+
+#: ../../src/licensing/License.cpp:203
+msgctxt "License|"
+msgid "You have used all your Team license activations."
+msgstr "ボリュームライセンスの上限に達しました"
+
+#: ../../src/licensing/License.cpp:212
+msgctxt "License|"
+msgid "No such Team license"
+msgstr "これはボリュームライセンスではありません"
+
+#: ../../src/licensing/License.cpp:213
+msgctxt "License|"
+msgid "There is no such Team license for Iris or Iris mini."
+msgstr "これはボリュームライセンスではありません"
+
+#: ../../src/licensing/License.cpp:222
+msgctxt "License|"
+msgid "Iris offline activation"
+msgstr "これはボリュームライセンスではありません"
+
+#: ../../src/licensing/License.cpp:224 ../../src/licensing/License.cpp:226
+msgctxt "License|"
+msgid "Your Iris is now Pro. See your new options in the advanced view."
+msgstr "新機能が追加されました"
+
+#: ../../src/licensing/License.cpp:238
+msgctxt "License|"
+msgid "Invalid response"
+msgstr "応答無し"
+
+#: ../../src/licensing/License.cpp:241
+msgctxt "License|"
+msgid ". Maybe you are not connected to the internet?"
+msgstr "インターネットに接続されていません"
+
+#: ../../ui/main_screen.ui:19 ../../ui/webkit/main_screen.ui:19
+msgctxt "MainScreen|"
+msgid "Form"
+msgstr "フォーム"
+
+#: ../../ui/main_screen.ui:47 ../../ui/webkit/main_screen.ui:47
+msgctxt "MainScreen|"
+msgid "qrc:/html/main_screen.html"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:594
+msgctxt "MainWindow|"
+msgid "until"
+msgstr "まで"
+
+#: ../../src/MainWindow.cpp:606
+msgctxt "MainWindow|"
+msgid "rest"
+msgstr "残り"
+
+#: ../../src/MainWindow.cpp:629
+msgctxt "MainWindow|"
+msgid "work"
+msgstr "起動"
+
+#: ../../src/MainWindow.cpp:707
+msgctxt "MainWindow|"
+msgid "Paused"
+msgstr "停止"
+
+#: ../../src/MainWindow.cpp:1138
+msgctxt "MainWindow|"
+msgid "Iris Pro needed"
+msgstr "本機能を使用するには製品版をご購入いただく必要があります"
+
+# Ignore this error.There is no problem with this Japanese sentence.
+#: ../../src/MainWindow.cpp:1139
+msgctxt "MainWindow|"
+msgid "You need Iris Pro to access this section."
+msgstr "本機能は製品版のみ利用可能です"
+
+#: ../../src/MainWindow.cpp:1616
+msgctxt "MainWindow|"
+msgid "Relaunch Iris"
+msgstr "新版"
+
+#: ../../src/MainWindow.cpp:1617
+msgctxt "MainWindow|"
+msgid "You need to relaunch Iris for changes to take effect."
+msgstr "エフェクトが追加されました新版を適用して下さい"
+
+#: ../../src/MainWindow.cpp:1619
+msgctxt "MainWindow|"
+msgid "Relaunch now"
+msgstr "新版を適用"
+
+#: ../../src/MainWindow.cpp:1620
+msgctxt "MainWindow|"
+msgid "Later"
+msgstr "あとで"
+
+#: ../../src/MainWindow.cpp:1636 ../../src/MainWindow.cpp:1701
+msgctxt "MainWindow|"
+msgid "Restart is needed"
+msgstr "PCを再起動させてください"
+
+#: ../../src/MainWindow.cpp:1637 ../../src/MainWindow.cpp:1701
+msgctxt "MainWindow|"
+msgid ""
+"Iris made some changes on your system and restart is needed for changes to "
+"take effect."
+msgstr "新版がインストールされましたPCを再起動して下さい"
+
+#: ../../ui/new_version_screen.ui:14 ../../ui/webkit/new_version_screen.ui:14
+msgctxt "NewVersionScreen|"
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#: ../../ui/new_version_screen.ui:39 ../../ui/webkit/new_version_screen.ui:39
+msgctxt "NewVersionScreen|"
+msgid "qrc:/html/notifications/new_version_screen.html"
+msgstr ""
+
+#: ../../ui/notification_screen.ui:14 ../../ui/webkit/notification_screen.ui:14
+msgctxt "NotificationScreen|"
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#: ../../ui/notification_screen.ui:39 ../../ui/webkit/notification_screen.ui:39
+msgctxt "NotificationScreen|"
+msgid "qrc:/html/notifications/notification_screen.html"
+msgstr ""
+
+#: ../../ui/postpone_screen.ui:14 ../../ui/webkit/postpone_screen.ui:14
+msgctxt "PostponeScreen|"
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#: ../../ui/postpone_screen.ui:39 ../../ui/webkit/postpone_screen.ui:39
+msgctxt "PostponeScreen|"
+msgid "qrc:/html/notifications/postpone_screen.html"
+msgstr ""
+
+#: ../../ui/productive_screen.ui:14 ../../ui/webkit/productive_screen.ui:14
+msgctxt "ProductiveScreen|"
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#: ../../ui/productive_screen.ui:33 ../../ui/webkit/productive_screen.ui:33
+msgctxt "ProductiveScreen|"
+msgid "qrc:/html/notifications/productive_screen.html"
+msgstr ""
+
+#: ../../ui/rest_screen.ui:20 ../../ui/webkit/rest_screen.ui:20
+msgctxt "RestScreen|"
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#: ../../ui/rest_screen.ui:45 ../../ui/webkit/rest_screen.ui:45
+msgctxt "RestScreen|"
+msgid "qrc:/html/rest_screen.html"
+msgstr ""
+
+#: ../../ui/screen_overlay.ui:14 ../../ui/webkit/screen_overlay.ui:14
+msgctxt "ScreenOverlay|"
+msgid "Dialog"
+msgstr "ダイアログ"
+
+#: ../../ui/screen_overlay.ui:39 ../../ui/webkit/screen_overlay.ui:39
+msgctxt "ScreenOverlay|"
+msgid "qrc:/html/screen_overlay.html"
+msgstr ""
+
+#: ../../ui/components/TaskbarButton.cpp:185
+msgctxt "TaskbarButton|"
+msgid " until rest"
+msgstr "使用可能"
+
+#: ../../ui/components/TaskbarButton.cpp:199
+msgctxt "TaskbarButton|"
+msgid " until work"
+msgstr "使用可能"
+
+#: ../../src/translation/Translator.cpp:62
+msgctxt "Translator|"
+msgid "IRIS_MODE"
+msgstr "推奨設定"
+
+#: ../../src/translation/Translator.cpp:67
+msgctxt "Translator|"
+msgid "IRIS_TYPE"
+msgstr "推奨タイプ"
+
+#: ../../src/translation/Translator.cpp:63
+msgctxt "Translator|"
+msgid "AUTOMATIC_MODE"
+msgstr "自動設定"
+
+#: ../../src/translation/Translator.cpp:64
+msgctxt "Translator|"
+msgid "MANUAL_MODE"
+msgstr "手動設定"
+
+#: ../../src/translation/Translator.cpp:65
+msgctxt "Translator|"
+msgid "PAUSED_MODE"
+msgstr "停止中"
+
+#: ../../src/translation/Translator.cpp:68
+msgctxt "Translator|"
+msgid "HEALTH_MODE"
+msgstr "健康設定"
+
+#: ../../src/translation/Translator.cpp:69
+msgctxt "Translator|"
+msgid "SLEEP_MODE"
+msgstr "睡眠導入設定"
+
+#: ../../src/translation/Translator.cpp:70
+msgctxt "Translator|"
+msgid "READING_MODE"
+msgstr "読書設定"
+
+#: ../../src/translation/Translator.cpp:71
+msgctxt "Translator|"
+msgid "PROGRAMMING_MODE"
+msgstr "プログラミング設定"
+
+#: ../../src/translation/Translator.cpp:72
+msgctxt "Translator|"
+msgid "BIOHACKER_MODE"
+msgstr "バイオリズム自動調整設定"
+
+#: ../../src/translation/Translator.cpp:73
+msgctxt "Translator|"
+msgid "MOVIE_MODE"
+msgstr "映画鑑賞設定"
+
+#: ../../src/translation/Translator.cpp:74
+msgctxt "Translator|"
+msgid "OVERLAY_MODE"
+msgstr "オーバーレイ設定"
+
+#: ../../src/translation/Translator.cpp:76
+msgctxt "Translator|"
+msgid "IRIS_LICENSE"
+msgstr "ライセンス"
+
+#: ../../src/translation/Translator.cpp:77
+#: ../../src/translation/Translator.cpp:260
+msgctxt "Translator|"
+msgid "ACTIVATE_CODE"
+msgstr "アクティベーションコード"
+
+#: ../../src/translation/Translator.cpp:79
+msgctxt "Translator|"
+msgid "IRIS_TIMER"
+msgstr "タイマー"
+
+#: ../../src/translation/Translator.cpp:80
+msgctxt "Translator|"
+msgid "TIMER_OFF"
+msgstr "タイマーOFF"
+
+#: ../../src/translation/Translator.cpp:81
+msgctxt "Translator|"
+msgid "TIMER_NORMAL"
+msgstr "タイマー ノーマル"
+
+#: ../../src/translation/Translator.cpp:82
+msgctxt "Translator|"
+msgid "TIMER_STRICT"
+msgstr "タイマー シビア"
+
+#: ../../src/translation/Translator.cpp:83
+msgctxt "Translator|"
+msgid "TIMER_PRODUCTIVE"
+msgstr "タイマー プロダクティブ"
+
+#: ../../src/translation/Translator.cpp:84
+msgctxt "Translator|"
+msgid "TIMER_TASKBAR"
+msgstr "タイマー タスクバー"
+
+#: ../../src/translation/Translator.cpp:85
+msgctxt "Translator|"
+msgid "TIMER_EXERCISE"
+msgstr "タイマー エクササイズ"
+
+#: ../../src/translation/Translator.cpp:86
+msgctxt "Translator|"
+msgid "TIMER_NOTIFICATION"
+msgstr "タイマー お知らせ"
+
+#: ../../src/translation/Translator.cpp:87
+msgctxt "Translator|"
+msgid "TIMER_SOUND"
+msgstr "タイマー サウンド"
+
+#: ../../src/translation/Translator.cpp:89
+msgctxt "Translator|"
+msgid "IRIS_LOCATION"
+msgstr "場所"
+
+#: ../../src/translation/Translator.cpp:90
+msgctxt "Translator|"
+msgid "SAVE_AND_CLOSE"
+msgstr "設定を保存"
+
+#: ../../src/translation/Translator.cpp:91
+msgctxt "Translator|"
+msgid "USE_ADVANCED_SETTINGS"
+msgstr "詳細設定を表示"
+
+#: ../../src/translation/Translator.cpp:94
+msgctxt "Translator|"
+msgid "ADVANCED_SETTINGS_TITLE"
+msgstr "詳細設定 タイトル"
+
+#: ../../src/translation/Translator.cpp:96
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_TEMPERATURE"
+msgstr "詳細設定 色温度"
+
+#: ../../src/translation/Translator.cpp:97
+msgctxt "Translator|"
+msgid "DAY_TEMPERATURE"
+msgstr "日中の温度"
+
+#: ../../src/translation/Translator.cpp:98
+msgctxt "Translator|"
+msgid "NIGHT_TEMPERATURE"
+msgstr "夜の温度"
+
+#: ../../src/translation/Translator.cpp:99
+#: ../../src/translation/Translator.cpp:108
+#: ../../src/translation/Translator.cpp:114
+msgctxt "Translator|"
+msgid "EXTENDED_VALUES"
+msgstr "拡張値"
+
+#: ../../src/translation/Translator.cpp:100
+msgctxt "Translator|"
+msgid "MANUAL_COLOR_SETTINGS"
+msgstr "手動色設定"
+
+#: ../../src/translation/Translator.cpp:101
+msgctxt "Translator|"
+msgid "RESET_TEMPERATURE"
+msgstr "色温度設定解除"
+
+#: ../../src/translation/Translator.cpp:102
+msgctxt "Translator|"
+msgid "INVERT_COLORS"
+msgstr "色反転"
+
+#: ../../src/translation/Translator.cpp:103
+msgctxt "Translator|"
+msgid "REVERT_COLORS"
+msgstr "色を元に戻す"
+
+#: ../../src/translation/Translator.cpp:105
+#: ../../src/translation/Translator.cpp:111
+msgctxt "Translator|"
+msgid "ADVANCED_BRIGHTNESS"
+msgstr "詳細ブライトネス"
+
+#: ../../src/translation/Translator.cpp:106
+#: ../../src/translation/Translator.cpp:112
+msgctxt "Translator|"
+msgid "DAY_BRIGHTNESS"
+msgstr "日中のブライトネス"
+
+#: ../../src/translation/Translator.cpp:107
+#: ../../src/translation/Translator.cpp:113
+msgctxt "Translator|"
+msgid "NIGHT_BRIGHTNESS"
+msgstr "夜間のブライトネス"
+
+#: ../../src/translation/Translator.cpp:109
+#: ../../src/translation/Translator.cpp:115
+msgctxt "Translator|"
+msgid "MANUAL_BRIGHTNESS"
+msgstr "手動ブライトネス"
+
+#: ../../src/translation/Translator.cpp:117
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_SCHEME"
+msgstr "カラースキーム"
+
+#: ../../src/translation/Translator.cpp:118
+msgctxt "Translator|"
+msgid "IRIS"
+msgstr "Iris"
+
+#: ../../src/translation/Translator.cpp:119
+msgctxt "Translator|"
+msgid "MAGMUS"
+msgstr "マグナス"
+
+#: ../../src/translation/Translator.cpp:120
+msgctxt "Translator|"
+msgid "OLAF"
+msgstr "オラフ"
+
+#: ../../src/translation/Translator.cpp:121
+msgctxt "Translator|"
+msgid "GROOT"
+msgstr "グルート"
+
+#: ../../src/translation/Translator.cpp:122
+msgctxt "Translator|"
+msgid "LEADING_COLOR"
+msgstr "リーディングカラー"
+
+#: ../../src/translation/Translator.cpp:127
+msgctxt "Translator|"
+msgid "ADVANCED_LOCATION"
+msgstr "詳細場所"
+
+#: ../../src/translation/Translator.cpp:128
+msgctxt "Translator|"
+msgid "MANUAL_LOCATION"
+msgstr "手動場所"
+
+#: ../../src/translation/Translator.cpp:129
+msgctxt "Translator|"
+msgid "LATITUDE"
+msgstr "緯度"
+
+#: ../../src/translation/Translator.cpp:130
+msgctxt "Translator|"
+msgid "LONGITUDE"
+msgstr "経度"
+
+#: ../../src/translation/Translator.cpp:131
+msgctxt "Translator|"
+msgid "MANUAL_NIGHT_DURATION"
+msgstr "夜間手動設定"
+
+#: ../../src/translation/Translator.cpp:132
+msgctxt "Translator|"
+msgid "NIGHT_START_TIME"
+msgstr "開始時間"
+
+#: ../../src/translation/Translator.cpp:133
+msgctxt "Translator|"
+msgid "NIGHT_END_TIME"
+msgstr "終了時間"
+
+#: ../../src/translation/Translator.cpp:135
+msgctxt "Translator|"
+msgid "ADVANCED_MANAGE_MONITORS"
+msgstr "詳細モニタリング"
+
+#: ../../src/translation/Translator.cpp:136
+msgctxt "Translator|"
+msgid "MONITOR_1"
+msgstr "モニター1"
+
+#: ../../src/translation/Translator.cpp:137
+msgctxt "Translator|"
+msgid "MONITOR_2"
+msgstr "モニター2"
+
+#: ../../src/translation/Translator.cpp:138
+msgctxt "Translator|"
+msgid "MONITOR_3"
+msgstr "モニター3"
+
+#: ../../src/translation/Translator.cpp:139
+msgctxt "Translator|"
+msgid "MONITOR_4"
+msgstr "モニター4"
+
+#: ../../src/translation/Translator.cpp:141
+msgctxt "Translator|"
+msgid "ADVANCED_SCREEN_EFFECTS"
+msgstr "詳細エフェクト"
+
+#: ../../src/translation/Translator.cpp:142
+#| msgid "COLOR_EFFECT"
+msgctxt "Translator|"
+msgid "SCREEN_EFFECT"
+msgstr "カラーエフェクト"
+
+#: ../../src/translation/Translator.cpp:143
+msgctxt "Translator|"
+msgid "SIMPLE_INVERSION"
+msgstr "シンプル"
+
+#: ../../src/translation/Translator.cpp:144
+msgctxt "Translator|"
+msgid "GRAYSCALE_1"
+msgstr "グレースケール1"
+
+#: ../../src/translation/Translator.cpp:145
+msgctxt "Translator|"
+msgid "GRAYSCALE_2"
+msgstr "グレースケール2"
+
+#: ../../src/translation/Translator.cpp:146
+msgctxt "Translator|"
+msgid "GRAYSCALE_3"
+msgstr "グレースケール3"
+
+#: ../../src/translation/Translator.cpp:147
+msgctxt "Translator|"
+msgid "NEGATIVE_GRAYSCALE"
+msgstr "グレースケール反転"
+
+#: ../../src/translation/Translator.cpp:148
+msgctxt "Translator|"
+msgid "WASHOUT_1"
+msgstr "ウォッシュモード1"
+
+#: ../../src/translation/Translator.cpp:149
+msgctxt "Translator|"
+msgid "WASHOUT_2"
+msgstr "ウォッシュモード2"
+
+#: ../../src/translation/Translator.cpp:150
+msgctxt "Translator|"
+msgid "WASHOUT_3"
+msgstr "ウォッシュモード3"
+
+#: ../../src/translation/Translator.cpp:151
+msgctxt "Translator|"
+msgid "SMART_INVERSION_1"
+msgstr "自動反転1"
+
+#: ../../src/translation/Translator.cpp:152
+msgctxt "Translator|"
+msgid "SMART_INVERSION_2"
+msgstr "自動反転2"
+
+#: ../../src/translation/Translator.cpp:153
+msgctxt "Translator|"
+msgid "SMART_INVERSION_3"
+msgstr "自動反転3"
+
+#: ../../src/translation/Translator.cpp:154
+msgctxt "Translator|"
+msgid "SMART_INVERSION_4"
+msgstr "自動反転4"
+
+#: ../../src/translation/Translator.cpp:155
+msgctxt "Translator|"
+msgid "SMART_INVERSION_5"
+msgstr "自動反転5"
+
+#: ../../src/translation/Translator.cpp:156
+msgctxt "Translator|"
+msgid "SEPIA"
+msgstr "セピア"
+
+#: ../../src/translation/Translator.cpp:157
+msgctxt "Translator|"
+msgid "NEGATIVE_SEPIA"
+msgstr "セピア反転"
+
+#: ../../src/translation/Translator.cpp:158
+msgctxt "Translator|"
+msgid "GRAYSCALE_RED"
+msgstr "グレースケール 赤"
+
+#: ../../src/translation/Translator.cpp:159
+msgctxt "Translator|"
+msgid "NEGATIVE_GRAYSCALE_RED"
+msgstr "グレースケール 赤 反転"
+
+#: ../../src/translation/Translator.cpp:160
+msgctxt "Translator|"
+msgid "PROTANOPIA"
+msgstr "第1色盲"
+
+#: ../../src/translation/Translator.cpp:161
+msgctxt "Translator|"
+msgid "PROTANOMALY"
+msgstr "第1色弱"
+
+#: ../../src/translation/Translator.cpp:162
+msgctxt "Translator|"
+msgid "DEUTERANOPIA"
+msgstr "第2色盲"
+
+#: ../../src/translation/Translator.cpp:163
+msgctxt "Translator|"
+msgid "DEUTERANOMALY"
+msgstr "第2色弱"
+
+#: ../../src/translation/Translator.cpp:164
+msgctxt "Translator|"
+msgid "TRITANOPIA"
+msgstr "第3色盲"
+
+#: ../../src/translation/Translator.cpp:165
+msgctxt "Translator|"
+msgid "TRITANOMALY"
+msgstr "第3色弱"
+
+#: ../../src/translation/Translator.cpp:166
+msgctxt "Translator|"
+msgid "ACHROMATOPSIA"
+msgstr "色覚障害"
+
+#: ../../src/translation/Translator.cpp:167
+msgctxt "Translator|"
+msgid "ACHROMATOMALY"
+msgstr "色素沈着症"
+
+#: ../../src/translation/Translator.cpp:168
+msgctxt "Translator|"
+msgid "COLOR_EFFECTS"
+msgstr "カラーエフェクト"
+
+#: ../../src/translation/Translator.cpp:170
+msgctxt "Translator|"
+msgid "ADVANCED_FONTS"
+msgstr "フォント詳細"
+
+#: ../../src/translation/Translator.cpp:171
+msgctxt "Translator|"
+msgid "FONTS_TYPE"
+msgstr "フォントタイプ"
+
+#: ../../src/translation/Translator.cpp:172
+msgctxt "Translator|"
+msgid "SIMPLE_FONTS"
+msgstr "シンプルフォント"
+
+#: ../../src/translation/Translator.cpp:173
+msgctxt "Translator|"
+msgid "ANTI_ALIASING_FONTS"
+msgstr "アンチエイリアシング"
+
+#: ../../src/translation/Translator.cpp:174
+msgctxt "Translator|"
+msgid "CLEAR_TYPE_FONTS"
+msgstr "フォントタイプをリセット"
+
+#: ../../src/translation/Translator.cpp:175
+msgctxt "Translator|"
+msgid "GDIPP"
+msgstr "GDIPP"
+
+#: ../../src/translation/Translator.cpp:176
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_LIGHT"
+msgstr "フォント： スムーズライト"
+
+#: ../../src/translation/Translator.cpp:177
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_MEDIUM"
+msgstr "フォント： スムーズミディアム"
+
+#: ../../src/translation/Translator.cpp:178
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_HIGH"
+msgstr "フォント： スムーズハイ"
+
+#: ../../src/translation/Translator.cpp:180
+msgctxt "Translator|"
+msgid "ADVANCED_MAGNIFICATION"
+msgstr "倍率"
+
+#: ../../src/translation/Translator.cpp:181
+msgctxt "Translator|"
+msgid "ZOOM_IN"
+msgstr "ズームイン"
+
+#: ../../src/translation/Translator.cpp:182
+msgctxt "Translator|"
+msgid "ZOOM_OUT"
+msgstr "ズームアウト"
+
+#: ../../src/translation/Translator.cpp:184
+msgctxt "Translator|"
+msgid "ADVANCED_PWM_CONTROL"
+msgstr "PWM操作"
+
+#: ../../src/translation/Translator.cpp:186
+msgctxt "Translator|"
+msgid "ADVANCED_TIMER"
+msgstr "タイマー設定"
+
+#: ../../src/translation/Translator.cpp:187
+msgctxt "Translator|"
+msgid "POSTPONE_DURATION"
+msgstr "ポストポイント"
+
+#: ../../src/translation/Translator.cpp:188
+msgctxt "Translator|"
+msgid "TIMER_TYPE"
+msgstr "タイマータイプ"
+
+#: ../../src/translation/Translator.cpp:189
+msgctxt "Translator|"
+msgid "BREAK_EVERY"
+msgstr "毎回設定"
+
+#: ../../src/translation/Translator.cpp:190
+msgctxt "Translator|"
+msgid "HAVE_A_REST_NOW"
+msgstr "今すぐリセット"
+
+#: ../../src/translation/Translator.cpp:191
+msgctxt "Translator|"
+msgid "AUTO_CLOSE_REST_SCREEN"
+msgstr "自動スクリーンクローズ"
+
+#: ../../src/translation/Translator.cpp:192
+msgctxt "Translator|"
+msgid "USE_SOUNDS"
+msgstr "音楽を使う"
+
+#: ../../src/translation/Translator.cpp:194
+msgctxt "Translator|"
+msgid "ADVANCED_SYSTEM"
+msgstr "上位システム"
+
+#: ../../src/translation/Translator.cpp:195
+msgctxt "Translator|"
+msgid "HIDE_TASKBAR_ICON_ON_CLOSE"
+msgstr "設定画面終了後、タスクバーから非表示"
+
+#: ../../src/translation/Translator.cpp:196
+msgctxt "Translator|"
+msgid "USE_MOUSE_INACTIVITY"
+msgstr "マウスを停止"
+
+#: ../../src/translation/Translator.cpp:197
+msgctxt "Translator|"
+msgid "BLOCK_KEYBOARD"
+msgstr "シビアモード時のキーボード操作不可"
+
+#: ../../src/translation/Translator.cpp:198
+msgctxt "Translator|"
+msgid "USE_SOFTWARE_MOUSE"
+msgstr "ソフトウェアマウスカーソルを使用"
+
+#: ../../src/translation/Translator.cpp:200
+msgctxt "Translator|"
+msgid "ADVANCED_IRIS"
+msgstr "上位"
+
+#: ../../src/translation/Translator.cpp:201
+msgctxt "Translator|"
+msgid "AUTOSAVE_SETTINGS_CHANGES"
+msgstr "更新した設定を自動保存"
+
+#: ../../src/translation/Translator.cpp:202
+msgctxt "Translator|"
+msgid "USE_KEYBOARD_SHORTCUTS"
+msgstr "キーボードショートカットを有効化"
+
+#: ../../src/translation/Translator.cpp:203
+msgctxt "Translator|"
+msgid "DESTROY_UI_ON_CLOSE"
+msgstr "UI上の閉じるボタンを無効化"
+
+#: ../../src/translation/Translator.cpp:204
+msgctxt "Translator|"
+msgid "USE_LOW_LEVEL_COLOR_API"
+msgstr "低レベルカラーAPIを使用"
+
+#: ../../src/translation/Translator.cpp:205
+msgctxt "Translator|"
+msgid "START_IRIS_ON_STARTUP"
+msgstr "スタートアップに登録"
+
+#: ../../src/translation/Translator.cpp:206
+msgctxt "Translator|"
+msgid "RESET_SETTINGS_TO_DEFAULT"
+msgstr "初期設定に戻す"
+
+#: ../../src/translation/Translator.cpp:207
+msgctxt "Translator|"
+msgid "RESET_COLORS"
+msgstr "カラー設定を元に戻す"
+
+#: ../../src/translation/Translator.cpp:209
+msgctxt "Translator|"
+msgid "ADVANCED_HARDWARE"
+msgstr "ハードウェア設定"
+
+#: ../../src/translation/Translator.cpp:210
+msgctxt "Translator|"
+msgid "ADVANCED_SOUNDS"
+msgstr "サウンド設定"
+
+#: ../../src/translation/Translator.cpp:211
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_PAUSERS"
+msgstr "カラーブレイク"
+
+#: ../../src/translation/Translator.cpp:212
+msgctxt "Translator|"
+msgid "ADVANCED_TIMER_PAUSERS"
+msgstr "タイマーブレイク"
+
+#: ../../src/translation/Translator.cpp:214
+msgctxt "Translator|"
+msgid "ADVANCED_SCREEN_OVERLAY"
+msgstr "スクリーンオーバーレイ"
+
+#: ../../src/translation/Translator.cpp:215
+msgctxt "Translator|"
+msgid "OVERLAY_COLOR"
+msgstr "オーバーレイカラー"
+
+#: ../../src/translation/Translator.cpp:229
+msgctxt "Translator|"
+msgid "DAY_OPACITY"
+msgstr "日中：不透明度"
+
+#: ../../src/translation/Translator.cpp:230
+msgctxt "Translator|"
+msgid "NIGHT_OPACITY"
+msgstr "夜間：不透明度"
+
+#: ../../src/translation/Translator.cpp:232
+msgctxt "Translator|"
+msgid "DAY_DIM"
+msgstr "日中：暗転"
+
+#: ../../src/translation/Translator.cpp:233
+msgctxt "Translator|"
+msgid "NIGHT_DIM"
+msgstr "夜間：暗転"
+
+#: ../../src/translation/Translator.cpp:242
+msgctxt "Translator|"
+msgid "USE_SMART_BRIGHTNESS"
+msgstr "スマートな明るさ"
+
+#: ../../src/translation/Translator.cpp:243
+msgctxt "Translator|"
+msgid "USE_SMART_INVERSION"
+msgstr "スマートインバージョン"
+
+#: ../../src/translation/Translator.cpp:244
+msgctxt "Translator|"
+msgid "ENABLE_CAMERA"
+msgstr "カメラを有効にする"
+
+#: ../../src/translation/Translator.cpp:245
+msgctxt "Translator|"
+msgid "DISABLE_CAMERA"
+msgstr "カメラを無効にする"
+
+#: ../../src/translation/Translator.cpp:279
+msgctxt "Translator|"
+msgid "CZECH"
+msgstr "チェコ"
+
+#: ../../src/translation/Translator.cpp:288
+msgctxt "Translator|"
+msgid "SKIP_REST"
+msgstr "リセットスキップ"
+
+#: ../../src/translation/Translator.cpp:289
+msgctxt "Translator|"
+msgid "NORMAL"
+msgstr "ノーマル"
+
+#: ../../src/translation/Translator.cpp:290
+msgctxt "Translator|"
+msgid "STRICT"
+msgstr "厳格"
+
+#: ../../src/translation/Translator.cpp:291
+msgctxt "Translator|"
+msgid "CONTINUE"
+msgstr "続ける"
+
+#: ../../src/translation/Translator.cpp:292
+msgctxt "Translator|"
+msgid "REST_MODE"
+msgstr "リセットモード"
+
+#: ../../src/translation/Translator.cpp:293
+msgctxt "Translator|"
+msgid "REST_MODE_MESSAGE"
+msgstr "休止します タイマーを設定してください"
+
+#: ../../src/translation/Translator.cpp:294
+msgctxt "Translator|"
+msgid "TIME_IS"
+msgstr "時間は"
+
+#: ../../src/translation/Translator.cpp:297
+msgctxt "Translator|"
+msgid "START_WORKING"
+msgstr "開始時間"
+
+#: ../../src/translation/Translator.cpp:298
+msgctxt "Translator|"
+msgid "HAVE_A_BREAK"
+msgstr "休憩"
+
+#: ../../src/translation/Translator.cpp:124
+#: ../../src/translation/Translator.cpp:216
+msgctxt "Translator|"
+msgid "GREEN"
+msgstr "グリーン"
+
+#: ../../src/translation/Translator.cpp:217
+msgctxt "Translator|"
+msgid "TURQUOISE"
+msgstr "ターコイズ"
+
+#: ../../src/translation/Translator.cpp:125
+#: ../../src/translation/Translator.cpp:218
+msgctxt "Translator|"
+msgid "BLUE"
+msgstr "ブルー"
+
+#: ../../src/translation/Translator.cpp:219
+msgctxt "Translator|"
+msgid "INDIGO"
+msgstr "インディゴ"
+
+#: ../../src/translation/Translator.cpp:220
+msgctxt "Translator|"
+msgid "VIOLET"
+msgstr "バイオレット"
+
+#: ../../src/translation/Translator.cpp:221
+msgctxt "Translator|"
+msgid "PURPLE"
+msgstr "パープル"
+
+#: ../../src/translation/Translator.cpp:222
+msgctxt "Translator|"
+msgid "MAGENTA"
+msgstr "マゼンタ"
+
+#: ../../src/translation/Translator.cpp:223
+msgctxt "Translator|"
+msgid "SCARLET"
+msgstr "スカーレット"
+
+#: ../../src/translation/Translator.cpp:123
+#: ../../src/translation/Translator.cpp:224
+msgctxt "Translator|"
+msgid "RED"
+msgstr "レッド"
+
+#: ../../src/translation/Translator.cpp:225
+msgctxt "Translator|"
+msgid "ORANGE"
+msgstr "オレンジ"
+
+#: ../../src/translation/Translator.cpp:226
+msgctxt "Translator|"
+msgid "YELLOW"
+msgstr "イエロー"
+
+#: ../../src/translation/Translator.cpp:227
+msgctxt "Translator|"
+msgid "LEMON"
+msgstr "レモン"
+
+#: ../../src/translation/Translator.cpp:228
+msgctxt "Translator|"
+msgid "OPACITY"
+msgstr "不透明度"
+
+#: ../../src/translation/Translator.cpp:231
+msgctxt "Translator|"
+msgid "SCREEN_DIM"
+msgstr "スクリーンDIM"
+
+#: ../../src/translation/Translator.cpp:234
+msgctxt "Translator|"
+msgid "DISABLE"
+msgstr "無効"
+
+#: ../../src/translation/Translator.cpp:235
+msgctxt "Translator|"
+msgid "SELECT_SCREEN_AREA"
+msgstr "画面領域を指定"
+
+#: ../../src/translation/Translator.cpp:236
+msgctxt "Translator|"
+msgid "RESET_SELECTED_AREA"
+msgstr "画面領域の指定解除"
+
+#: ../../src/translation/Translator.cpp:237
+msgctxt "Translator|"
+msgid "ENABLE"
+msgstr "無効"
+
+#: ../../src/translation/Translator.cpp:239
+msgctxt "Translator|"
+msgid "ADVANCED_ARTIFICIAL_INTELLIGENCE"
+msgstr "AI"
+
+#: ../../src/translation/Translator.cpp:240
+msgctxt "Translator|"
+msgid "USE_AUTOMATIC_BRIGHTNESS"
+msgstr "ブライトネス自動調整"
+
+#: ../../src/translation/Translator.cpp:241
+msgctxt "Translator|"
+msgid "USE_BLINK_DETECTION"
+msgstr "点滅検知"
+
+#: ../../src/translation/Translator.cpp:246
+msgctxt "Translator|"
+msgid "SHOW_BLINK_SCREEN"
+msgstr "点滅画面表示"
+
+#: ../../src/translation/Translator.cpp:247
+msgctxt "Translator|"
+msgid "HIDE_BLINK_SCREEN"
+msgstr "点滅画面非表示"
+
+#: ../../src/translation/Translator.cpp:249
+msgctxt "Translator|"
+msgid "ADVANCED_EXERCISES"
+msgstr "エクササイズ"
+
+#: ../../src/translation/Translator.cpp:250
+msgctxt "Translator|"
+msgid "START_EYE_EXERCISES"
+msgstr "アイエクササイズ"
+
+#: ../../src/translation/Translator.cpp:251
+msgctxt "Translator|"
+msgid "START_NECK_EXERCISES"
+msgstr "ネックエクササイズ"
+
+#: ../../src/translation/Translator.cpp:252
+msgctxt "Translator|"
+msgid "START_BACK_EXERCISES"
+msgstr "背面エクササイズ"
+
+#: ../../src/translation/Translator.cpp:254
+msgctxt "Translator|"
+msgid "ADVANCED_IRIS_MODEL"
+msgstr "上位機種"
+
+#: ../../src/translation/Translator.cpp:255
+msgctxt "Translator|"
+msgid "SWITCH_TO_IRIS"
+msgstr "変更"
+
+#: ../../src/translation/Translator.cpp:256
+msgctxt "Translator|"
+msgid "SWITCH_TO_IRIS_LITE"
+msgstr "下位版へ変更"
+
+#: ../../src/translation/Translator.cpp:258
+msgctxt "Translator|"
+msgid "ADVANCED_LICENSE"
+msgstr "製品版ライセンス"
+
+#: ../../src/translation/Translator.cpp:259
+msgctxt "Translator|"
+msgid "GET_IRIS_PRO"
+msgstr "製品版を購入"
+
+#: ../../src/translation/Translator.cpp:262
+msgctxt "Translator|"
+msgid "ADVANCED_LANGUAGE"
+msgstr "多言語設定"
+
+#: ../../src/translation/Translator.cpp:263
+msgctxt "Translator|"
+msgid "LANGUAGE"
+msgstr "言語"
+
+#: ../../src/translation/Translator.cpp:264
+msgctxt "Translator|"
+msgid "ENGLISH"
+msgstr "英語"
+
+#: ../../src/translation/Translator.cpp:265
+msgctxt "Translator|"
+msgid "RUSSIAN"
+msgstr "ロシア語"
+
+#: ../../src/translation/Translator.cpp:266
+msgctxt "Translator|"
+msgid "SPANISH"
+msgstr "スペイン語"
+
+#: ../../src/translation/Translator.cpp:267
+msgctxt "Translator|"
+msgid "CHINESE"
+msgstr "中国語"
+
+#: ../../src/translation/Translator.cpp:268
+msgctxt "Translator|"
+msgid "INDIAN"
+msgstr "インド語"
+
+#: ../../src/translation/Translator.cpp:269
+msgctxt "Translator|"
+msgid "JAPANESE"
+msgstr "日本語"
+
+#: ../../src/translation/Translator.cpp:270
+msgctxt "Translator|"
+msgid "ARABIC"
+msgstr "アラビア語"
+
+#: ../../src/translation/Translator.cpp:271
+msgctxt "Translator|"
+msgid "TURKISH"
+msgstr "トルコ語"
+
+#: ../../src/translation/Translator.cpp:272
+msgctxt "Translator|"
+msgid "PORTUGUESE"
+msgstr "ポルトガル語"
+
+#: ../../src/translation/Translator.cpp:273
+msgctxt "Translator|"
+msgid "FRENCH"
+msgstr "フランス語"
+
+#: ../../src/translation/Translator.cpp:274
+msgctxt "Translator|"
+msgid "GERMAN"
+msgstr "ドイツ語"
+
+#: ../../src/translation/Translator.cpp:275
+msgctxt "Translator|"
+msgid "KOREAN"
+msgstr "韓国語"
+
+#: ../../src/translation/Translator.cpp:276
+msgctxt "Translator|"
+msgid "ITALIAN"
+msgstr "イタリア語"
+
+#: ../../src/translation/Translator.cpp:277
+msgctxt "Translator|"
+msgid "BULGARIAN"
+msgstr "ブルガリア語"
+
+#: ../../src/translation/Translator.cpp:278
+msgctxt "Translator|"
+msgid "GREEK"
+msgstr "ギリシャ語"
+
+#: ../../src/translation/Translator.cpp:281
+msgctxt "Translator|"
+msgid "ADVANCED_ABOUT"
+msgstr "アバウト"
+
+#: ../../src/translation/Translator.cpp:282
+msgctxt "Translator|"
+msgid "NAME"
+msgstr "製品名"
+
+#: ../../src/translation/Translator.cpp:283
+msgctxt "Translator|"
+msgid "VERSION"
+msgstr "バージョン"
+
+#: ../../src/translation/Translator.cpp:284
+msgctxt "Translator|"
+msgid "PUBLISHER"
+msgstr "販売元"
+
+#: ../../src/translation/Translator.cpp:285
+msgctxt "Translator|"
+msgid "WEBSITE"
+msgstr "ウェブサイト"
+
+#: ../../ui/components/TrayIcon.cpp:65 ../../ui/components/TrayIcon.cpp:370
+msgctxt "TrayIcon|"
+msgid "Settings"
+msgstr "設定"
+
+#: ../../ui/components/TrayIcon.cpp:74
+msgctxt "TrayIcon|"
+msgid "&Automatic"
+msgstr "自動"
+
+#: ../../ui/components/TrayIcon.cpp:78
+msgctxt "TrayIcon|"
+msgid "&Manual"
+msgstr "マニュアル"
+
+#: ../../ui/components/TrayIcon.cpp:82
+msgctxt "TrayIcon|"
+msgid "&Paused"
+msgstr "一時停止中"
+
+#: ../../ui/components/TrayIcon.cpp:86
+msgctxt "TrayIcon|"
+msgid "&Change mode"
+msgstr "モードを変更する"
+
+#: ../../ui/components/TrayIcon.cpp:102 ../../ui/components/TrayIcon.cpp:371
+msgctxt "TrayIcon|"
+msgid "&Health"
+msgstr "&健康"
+
+#: ../../ui/components/TrayIcon.cpp:106 ../../ui/components/TrayIcon.cpp:372
+msgctxt "TrayIcon|"
+msgid "&Sleep"
+msgstr "&睡眠"
+
+#: ../../ui/components/TrayIcon.cpp:110 ../../ui/components/TrayIcon.cpp:373
+msgctxt "TrayIcon|"
+msgid "&Reading"
+msgstr "&読書"
+
+#: ../../ui/components/TrayIcon.cpp:114 ../../ui/components/TrayIcon.cpp:374
+msgctxt "TrayIcon|"
+msgid "&Programming"
+msgstr "&プログラミング"
+
+#: ../../ui/components/TrayIcon.cpp:118 ../../ui/components/TrayIcon.cpp:375
+msgctxt "TrayIcon|"
+msgid "&Biohacker"
+msgstr "&バイオハッカー"
+
+#: ../../ui/components/TrayIcon.cpp:122 ../../ui/components/TrayIcon.cpp:376
+msgctxt "TrayIcon|"
+msgid "&Movie"
+msgstr "&映画鑑賞"
+
+#: ../../ui/components/TrayIcon.cpp:126 ../../ui/components/TrayIcon.cpp:377
+msgctxt "TrayIcon|"
+msgid "&Overlay"
+msgstr "&オーバーレイ"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Pause PCEyeGuard"
+#~ msgstr "停止"
+
+#, qt-format
+#~ msgctxt "TrayIcon|"
+#~ msgid "Pause %1"
+#~ msgstr "停止 %1"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Pause color changes"
+#~ msgstr "カラー変更を停止"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Stop work timer"
+#~ msgstr "タイマー停止"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Use camera"
+#~ msgstr "カメラを使用"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Activate Code"
+#~ msgstr "アクティベーションコード"
+
+#: ../../ui/components/TrayIcon.cpp:143 ../../ui/components/TrayIcon.cpp:378
+msgctxt "TrayIcon|"
+msgid "Exit"
+msgstr "終了"
+
+#: ../../ui/blink_reminding_screen.ui:14
+#: ../../ui/webkit/blink_reminding_screen.ui:14
+msgctxt "blink_reminding_screen|"
+msgid "Dialog"
+msgstr "ダイヤログ"
+
+#: ../../ui/blink_reminding_screen.ui:27
+#: ../../ui/webkit/blink_reminding_screen.ui:27
+msgctxt "blink_reminding_screen|"
+msgid "qrc:/html/blink_reminding_screen.html"
+msgstr ""
+
+#: ../../ui/dummy_screen_effects.ui:14
+#: ../../ui/webkit/dummy_screen_effects.ui:14
+msgctxt "dummy_screen_effects|"
+msgid "dummy_screen_effects"
+msgstr "ダミー スクリーンエフェクト"
+
+#: ../../ui/dummy_screen_effects.ui:26 ../../ui/dummy_screen_effects.ui:39
+#: ../../ui/dummy_screen_effects.ui:52 ../../ui/dummy_screen_effects.ui:65
+#: ../../ui/webkit/dummy_screen_effects.ui:26
+#: ../../ui/webkit/dummy_screen_effects.ui:39
+#: ../../ui/webkit/dummy_screen_effects.ui:52
+#: ../../ui/webkit/dummy_screen_effects.ui:65
+msgctxt "dummy_screen_effects|"
+msgid "PushButton"
+msgstr "ボタンを押して下さい"
+
+#: ../../ui/webkit/zoom_widget.ui:14 ../../ui/zoom_widget.ui:14
+msgctxt "zoomwidget|"
+msgid "zoomwidget"
+msgstr "ズームウィジェット"
+
+#: ../../ui/webkit/zoom_widget.ui:26 ../../ui/webkit/zoom_widget.ui:39
+#: ../../ui/webkit/zoom_widget.ui:52 ../../ui/webkit/zoom_widget.ui:65
+#: ../../ui/zoom_widget.ui:26 ../../ui/zoom_widget.ui:39
+#: ../../ui/zoom_widget.ui:52 ../../ui/zoom_widget.ui:65
+msgctxt "zoomwidget|"
+msgid "PushButton"
+msgstr "ボタンを押して下さい"

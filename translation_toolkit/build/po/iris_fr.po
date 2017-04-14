@@ -1,0 +1,1555 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Language: fr_FR\n"
+"X-Qt-Contexts: true\n"
+
+#: ../../ui/asana_OAuth.ui:20 ../../ui/webkit/asana_OAuth.ui:20
+msgctxt "AsanaOAuth|"
+msgid "Asana"
+msgstr ""
+
+#: ../../ui/asana_OAuth.ui:33 ../../ui/webkit/asana_OAuth.ui:33
+msgctxt "AsanaOAuth|"
+msgid ""
+"https://app.asana.com/-/oauth_authorize?client_id=51957652060682&redirect_uri=http://iristech.co/asana&response_type=token&state=somerandomstate"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/blink_screen.ui:14 ../../ui/webkit/blink_screen.ui:14
+#, fuzzy
+msgctxt "BlinkScreen|"
+msgid "Dialog"
+msgstr "Dialogue"
+
+#: ../../ui/blink_screen.ui:27 ../../ui/webkit/blink_screen.ui:27
+msgctxt "BlinkScreen|"
+msgid "qrc:/html/blink_screen.html"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:158 ../cyclops/Cyclops.cpp:171
+msgctxt "Cyclops|"
+msgid "Restart your PC"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:159
+msgctxt "Cyclops|"
+msgid ""
+"Iris just removed some video card limitations. You need to restart your PC "
+"once to unlock full functionality."
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:161
+msgctxt "Cyclops|"
+msgid "Restart needed"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:162
+msgctxt "Cyclops|"
+msgid ""
+"Restart your PC to unlock full color range. Iris mini will work fine, but "
+"some options may be grayed out."
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:172
+msgctxt "Cyclops|"
+msgid ""
+"Some functionality is limited, because you need to Restart your PC. You are "
+"using High-level Color API right now."
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:215
+msgctxt "Cyclops|"
+msgid "Restart is needed"
+msgstr ""
+
+#: ../cyclops/Cyclops.cpp:216
+msgctxt "Cyclops|"
+msgid ""
+"Iris made some changes on your system and restart is needed to unlock full "
+"functionallity.\n"
+"Note that Iris will work fine now, but with limited color changes."
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/expand_range_screen.ui:14 ../../ui/webkit/expand_range_screen.ui:14
+#, fuzzy
+msgctxt "ExpandRangeScreen|"
+msgid "Dialog"
+msgstr "Dialogue"
+
+#: ../../ui/expand_range_screen.ui:39 ../../ui/webkit/expand_range_screen.ui:39
+msgctxt "ExpandRangeScreen|"
+msgid "qrc:/html/notifications/expand_range_screen.html"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:109 ../../src/licensing/License.cpp:176
+msgctxt "License|"
+msgid "Your Iris is now Pro"
+msgstr "Iris est maintenant en version Pro"
+
+#: ../../src/licensing/License.cpp:111 ../../src/licensing/License.cpp:113
+msgctxt "License|"
+msgid ""
+"Thank you very much for supporting Iris! :)\n"
+"See your new options in the advanced view."
+msgstr ""
+"Merci beaucoup de soutenir Iris ! :)\n"
+"De nouvelles options sont visibles dans la vue avancée."
+
+#: ../../src/licensing/License.cpp:126
+msgctxt "License|"
+msgid "Already used"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:127
+msgctxt "License|"
+msgid "You have already used this code on another machine"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:136
+msgctxt "License|"
+msgid "Other version"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:137
+msgctxt "License|"
+msgid ""
+"You have already used this code with other version of Iris. Download and use "
+"the old version again or buy new activation code."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:146
+msgctxt "License|"
+msgid "No such code"
+msgstr "Code incorrect"
+
+#: ../../src/licensing/License.cpp:147
+msgctxt "License|"
+msgid "There is no such activation code"
+msgstr "Ce code d'activation est incorrect"
+
+#: ../../src/licensing/License.cpp:156
+msgctxt "License|"
+msgid "No giveaway"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:157
+msgctxt "License|"
+msgid "There is no active giveaway right now"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:166
+msgctxt "License|"
+msgid "This code is for Iris mini"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:167
+msgctxt "License|"
+msgid ""
+"This is Iris and your activation code is for Iris mini. Download Iris mini "
+"from\n"
+"http://iristech.co/iris-mini"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:178 ../../src/licensing/License.cpp:180
+msgctxt "License|"
+msgid ""
+"Team license activation. Thank you very much for supporting Iris! :)\n"
+"See your new options in the advanced view."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:192
+msgctxt "License|"
+msgid "Team license code for Iris mini"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:193
+msgctxt "License|"
+msgid ""
+"This is Iris and remaining Team license codes are for Iris mini. Download "
+"Iris mini from\n"
+"http://iristech.co/iris-mini"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:202
+msgctxt "License|"
+msgid "No more Team activations"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:203
+msgctxt "License|"
+msgid "You have used all your Team license activations."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:212
+msgctxt "License|"
+msgid "No such Team license"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:213
+msgctxt "License|"
+msgid "There is no such Team license for Iris or Iris mini."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:222
+msgctxt "License|"
+msgid "Iris offline activation"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:224 ../../src/licensing/License.cpp:226
+msgctxt "License|"
+msgid "Your Iris is now Pro. See your new options in the advanced view."
+msgstr ""
+
+#: ../../src/licensing/License.cpp:238
+msgctxt "License|"
+msgid "Invalid response"
+msgstr ""
+
+#: ../../src/licensing/License.cpp:241
+msgctxt "License|"
+msgid ". Maybe you are not connected to the internet?"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/main_screen.ui:19 ../../ui/webkit/main_screen.ui:19
+#, fuzzy
+msgctxt "MainScreen|"
+msgid "Form"
+msgstr "Formulaire"
+
+#: ../../ui/main_screen.ui:47 ../../ui/webkit/main_screen.ui:47
+msgctxt "MainScreen|"
+msgid "qrc:/html/main_screen.html"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../src/MainWindow.cpp:594
+#, fuzzy
+msgctxt "MainWindow|"
+msgid "until"
+msgstr "Jusqu'à"
+
+#: ../../src/MainWindow.cpp:606
+msgctxt "MainWindow|"
+msgid "rest"
+msgstr "pause"
+
+#: ../../src/MainWindow.cpp:629
+msgctxt "MainWindow|"
+msgid "work"
+msgstr "travail"
+
+#: ../../src/MainWindow.cpp:707
+msgctxt "MainWindow|"
+msgid "Paused"
+msgstr "Suspendu"
+
+#: ../../src/MainWindow.cpp:1138
+msgctxt "MainWindow|"
+msgid "Iris Pro needed"
+msgstr "Nécessite la version Pro d'Iris"
+
+#: ../../src/MainWindow.cpp:1139
+msgctxt "MainWindow|"
+msgid "You need Iris Pro to access this section."
+msgstr "Cette partie est réservée à la version Pro d'Iris."
+
+#: ../../src/MainWindow.cpp:1616
+msgctxt "MainWindow|"
+msgid "Relaunch Iris"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1617
+msgctxt "MainWindow|"
+msgid "You need to relaunch Iris for changes to take effect."
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1619
+msgctxt "MainWindow|"
+msgid "Relaunch now"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1620
+msgctxt "MainWindow|"
+msgid "Later"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1636 ../../src/MainWindow.cpp:1701
+msgctxt "MainWindow|"
+msgid "Restart is needed"
+msgstr ""
+
+#: ../../src/MainWindow.cpp:1637 ../../src/MainWindow.cpp:1701
+msgctxt "MainWindow|"
+msgid ""
+"Iris made some changes on your system and restart is needed for changes to "
+"take effect."
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/new_version_screen.ui:14 ../../ui/webkit/new_version_screen.ui:14
+#, fuzzy
+msgctxt "NewVersionScreen|"
+msgid "Dialog"
+msgstr "Dialogue"
+
+#: ../../ui/new_version_screen.ui:39 ../../ui/webkit/new_version_screen.ui:39
+msgctxt "NewVersionScreen|"
+msgid "qrc:/html/notifications/new_version_screen.html"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/notification_screen.ui:14 ../../ui/webkit/notification_screen.ui:14
+#, fuzzy
+msgctxt "NotificationScreen|"
+msgid "Dialog"
+msgstr "Dialogue"
+
+#: ../../ui/notification_screen.ui:39 ../../ui/webkit/notification_screen.ui:39
+msgctxt "NotificationScreen|"
+msgid "qrc:/html/notifications/notification_screen.html"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/postpone_screen.ui:14 ../../ui/webkit/postpone_screen.ui:14
+#, fuzzy
+msgctxt "PostponeScreen|"
+msgid "Dialog"
+msgstr "Dialogue"
+
+#: ../../ui/postpone_screen.ui:39 ../../ui/webkit/postpone_screen.ui:39
+msgctxt "PostponeScreen|"
+msgid "qrc:/html/notifications/postpone_screen.html"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/productive_screen.ui:14 ../../ui/webkit/productive_screen.ui:14
+#, fuzzy
+msgctxt "ProductiveScreen|"
+msgid "Dialog"
+msgstr "Dialogue"
+
+#: ../../ui/productive_screen.ui:33 ../../ui/webkit/productive_screen.ui:33
+msgctxt "ProductiveScreen|"
+msgid "qrc:/html/notifications/productive_screen.html"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/rest_screen.ui:20 ../../ui/webkit/rest_screen.ui:20
+#, fuzzy
+msgctxt "RestScreen|"
+msgid "Dialog"
+msgstr "Dialogue"
+
+#: ../../ui/rest_screen.ui:45 ../../ui/webkit/rest_screen.ui:45
+msgctxt "RestScreen|"
+msgid "qrc:/html/rest_screen.html"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/screen_overlay.ui:14 ../../ui/webkit/screen_overlay.ui:14
+#, fuzzy
+msgctxt "ScreenOverlay|"
+msgid "Dialog"
+msgstr "Dialogue"
+
+#: ../../ui/screen_overlay.ui:39 ../../ui/webkit/screen_overlay.ui:39
+msgctxt "ScreenOverlay|"
+msgid "qrc:/html/screen_overlay.html"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../ui/components/TaskbarButton.cpp:185
+msgctxt "TaskbarButton|"
+msgid " until rest"
+msgstr "avant la pause"
+
+# Need context to be sure of translation
+#: ../../ui/components/TaskbarButton.cpp:199
+#, fuzzy
+msgctxt "TaskbarButton|"
+msgid " until work"
+msgstr "avant le travail"
+
+#: ../../src/translation/Translator.cpp:62
+msgctxt "Translator|"
+msgid "IRIS_MODE"
+msgstr "Mode"
+
+#: ../../src/translation/Translator.cpp:63
+msgctxt "Translator|"
+msgid "AUTOMATIC_MODE"
+msgstr "Automatique"
+
+#: ../../src/translation/Translator.cpp:64
+msgctxt "Translator|"
+msgid "MANUAL_MODE"
+msgstr "Manuel"
+
+#: ../../src/translation/Translator.cpp:65
+msgctxt "Translator|"
+msgid "PAUSED_MODE"
+msgstr "Suspendu"
+
+#: ../../src/translation/Translator.cpp:67
+msgctxt "Translator|"
+msgid "IRIS_TYPE"
+msgstr "Type"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:68
+#, fuzzy
+msgctxt "Translator|"
+msgid "HEALTH_MODE"
+msgstr "Santé"
+
+#: ../../src/translation/Translator.cpp:69
+msgctxt "Translator|"
+msgid "SLEEP_MODE"
+msgstr "Veille"
+
+#: ../../src/translation/Translator.cpp:70
+msgctxt "Translator|"
+msgid "READING_MODE"
+msgstr "Lecture"
+
+#: ../../src/translation/Translator.cpp:71
+msgctxt "Translator|"
+msgid "PROGRAMMING_MODE"
+msgstr "Programmation"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:72
+#, fuzzy
+msgctxt "Translator|"
+msgid "BIOHACKER_MODE"
+msgstr "Biohacker"
+
+#: ../../src/translation/Translator.cpp:73
+msgctxt "Translator|"
+msgid "MOVIE_MODE"
+msgstr "Film"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:74
+msgctxt "Translator|"
+msgid "OVERLAY_MODE"
+msgstr "Recouvrement"
+
+#: ../../src/translation/Translator.cpp:76
+msgctxt "Translator|"
+msgid "IRIS_LICENSE"
+msgstr "Licence"
+
+#: ../../src/translation/Translator.cpp:77
+#: ../../src/translation/Translator.cpp:260
+msgctxt "Translator|"
+msgid "ACTIVATE_CODE"
+msgstr "Code d'activation"
+
+#: ../../src/translation/Translator.cpp:79
+msgctxt "Translator|"
+msgid "IRIS_TIMER"
+msgstr "Compteur"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:80
+msgctxt "Translator|"
+msgid "TIMER_OFF"
+msgstr "Désactivé"
+
+#: ../../src/translation/Translator.cpp:81
+msgctxt "Translator|"
+msgid "TIMER_NORMAL"
+msgstr "Normal"
+
+#: ../../src/translation/Translator.cpp:82
+msgctxt "Translator|"
+msgid "TIMER_STRICT"
+msgstr "Strict"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:83
+msgctxt "Translator|"
+msgid "TIMER_PRODUCTIVE"
+msgstr "Productif"
+
+#: ../../src/translation/Translator.cpp:84
+msgctxt "Translator|"
+msgid "TIMER_TASKBAR"
+msgstr "Barre des tâches"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:85
+msgctxt "Translator|"
+msgid "TIMER_EXERCISE"
+msgstr "Exercice"
+
+#: ../../src/translation/Translator.cpp:86
+msgctxt "Translator|"
+msgid "TIMER_NOTIFICATION"
+msgstr "Notification"
+
+#: ../../src/translation/Translator.cpp:87
+msgctxt "Translator|"
+msgid "TIMER_SOUND"
+msgstr "son"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:89
+msgctxt "Translator|"
+msgid "IRIS_LOCATION"
+msgstr "Localisation"
+
+#: ../../src/translation/Translator.cpp:90
+msgctxt "Translator|"
+msgid "SAVE_AND_CLOSE"
+msgstr "Sauvegarder et quitter"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:91
+msgctxt "Translator|"
+msgid "USE_ADVANCED_SETTINGS"
+msgstr "Réglages avancés"
+
+#: ../../src/translation/Translator.cpp:94
+msgctxt "Translator|"
+msgid "ADVANCED_SETTINGS_TITLE"
+msgstr "Réglages avancés"
+
+#: ../../src/translation/Translator.cpp:96
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_TEMPERATURE"
+msgstr "Température de couleurs"
+
+#: ../../src/translation/Translator.cpp:97
+msgctxt "Translator|"
+msgid "DAY_TEMPERATURE"
+msgstr "Température journée"
+
+#: ../../src/translation/Translator.cpp:98
+msgctxt "Translator|"
+msgid "NIGHT_TEMPERATURE"
+msgstr "Température nuit"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:99
+#: ../../src/translation/Translator.cpp:108
+#: ../../src/translation/Translator.cpp:114
+msgctxt "Translator|"
+msgid "EXTENDED_VALUES"
+msgstr "Valeurs étendues"
+
+#: ../../src/translation/Translator.cpp:100
+msgctxt "Translator|"
+msgid "MANUAL_COLOR_SETTINGS"
+msgstr "Réglage manuel des couleurs"
+
+#: ../../src/translation/Translator.cpp:101
+msgctxt "Translator|"
+msgid "RESET_TEMPERATURE"
+msgstr "RàZ température"
+
+#: ../../src/translation/Translator.cpp:102
+msgctxt "Translator|"
+msgid "INVERT_COLORS"
+msgstr "Inverser les couleurs"
+
+#: ../../src/translation/Translator.cpp:103
+msgctxt "Translator|"
+msgid "REVERT_COLORS"
+msgstr "Rétablir les couleurs"
+
+#: ../../src/translation/Translator.cpp:105
+#: ../../src/translation/Translator.cpp:111
+msgctxt "Translator|"
+msgid "ADVANCED_BRIGHTNESS"
+msgstr "Luminosité"
+
+#: ../../src/translation/Translator.cpp:106
+#: ../../src/translation/Translator.cpp:112
+#, fuzzy
+msgctxt "Translator|"
+msgid "DAY_BRIGHTNESS"
+msgstr "Luminosité jour"
+
+#: ../../src/translation/Translator.cpp:107
+#: ../../src/translation/Translator.cpp:113
+#, fuzzy
+msgctxt "Translator|"
+msgid "NIGHT_BRIGHTNESS"
+msgstr "Luminosité nuit"
+
+#: ../../src/translation/Translator.cpp:109
+#: ../../src/translation/Translator.cpp:115
+msgctxt "Translator|"
+msgid "MANUAL_BRIGHTNESS"
+msgstr "Réglage manuel luminosité"
+
+#: ../../src/translation/Translator.cpp:117
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_SCHEME"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:118
+msgctxt "Translator|"
+msgid "IRIS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:119
+msgctxt "Translator|"
+msgid "MAGMUS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:120
+msgctxt "Translator|"
+msgid "OLAF"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:121
+msgctxt "Translator|"
+msgid "GROOT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:122
+msgctxt "Translator|"
+msgid "LEADING_COLOR"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:127
+msgctxt "Translator|"
+msgid "ADVANCED_LOCATION"
+msgstr "Localisation"
+
+#: ../../src/translation/Translator.cpp:128
+msgctxt "Translator|"
+msgid "MANUAL_LOCATION"
+msgstr "Localisation manuelle"
+
+#: ../../src/translation/Translator.cpp:129
+msgctxt "Translator|"
+msgid "LATITUDE"
+msgstr "Latitude :"
+
+#: ../../src/translation/Translator.cpp:130
+msgctxt "Translator|"
+msgid "LONGITUDE"
+msgstr "Longitude :"
+
+#: ../../src/translation/Translator.cpp:131
+msgctxt "Translator|"
+msgid "MANUAL_NIGHT_DURATION"
+msgstr "Durée nuit manuelle"
+
+#: ../../src/translation/Translator.cpp:132
+#, fuzzy
+msgctxt "Translator|"
+msgid "NIGHT_START_TIME"
+msgstr "Début de la nuit (heure) :"
+
+#: ../../src/translation/Translator.cpp:133
+#, fuzzy
+msgctxt "Translator|"
+msgid "NIGHT_END_TIME"
+msgstr "Fin de la nuit (heure) :"
+
+#: ../../src/translation/Translator.cpp:135
+msgctxt "Translator|"
+msgid "ADVANCED_MANAGE_MONITORS"
+msgstr "Gestion écrans"
+
+#: ../../src/translation/Translator.cpp:136
+msgctxt "Translator|"
+msgid "MONITOR_1"
+msgstr "Ecran 1"
+
+#: ../../src/translation/Translator.cpp:137
+msgctxt "Translator|"
+msgid "MONITOR_2"
+msgstr "Ecran 2"
+
+#: ../../src/translation/Translator.cpp:138
+msgctxt "Translator|"
+msgid "MONITOR_3"
+msgstr "Ecran 3"
+
+#: ../../src/translation/Translator.cpp:139
+msgctxt "Translator|"
+msgid "MONITOR_4"
+msgstr "Ecran 4"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:141
+msgctxt "Translator|"
+msgid "ADVANCED_SCREEN_EFFECTS"
+msgstr "Effets"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:142
+#, fuzzy
+#| msgid "COLOR_EFFECT"
+msgctxt "Translator|"
+msgid "SCREEN_EFFECT"
+msgstr "Effets couleurs"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:143
+msgctxt "Translator|"
+msgid "SIMPLE_INVERSION"
+msgstr "Inversion simple"
+
+#: ../../src/translation/Translator.cpp:144
+msgctxt "Translator|"
+msgid "GRAYSCALE_1"
+msgstr "Nuance de gris 1"
+
+#: ../../src/translation/Translator.cpp:145
+msgctxt "Translator|"
+msgid "GRAYSCALE_2"
+msgstr "Nuance de gris 2"
+
+#: ../../src/translation/Translator.cpp:146
+msgctxt "Translator|"
+msgid "GRAYSCALE_3"
+msgstr "Nuance de gris 3"
+
+#: ../../src/translation/Translator.cpp:147
+msgctxt "Translator|"
+msgid "NEGATIVE_GRAYSCALE"
+msgstr "Négatif nuance de gris"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:148
+msgctxt "Translator|"
+msgid "WASHOUT_1"
+msgstr "Délavé 1"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:149
+msgctxt "Translator|"
+msgid "WASHOUT_2"
+msgstr "Délavé 2"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:150
+msgctxt "Translator|"
+msgid "WASHOUT_3"
+msgstr "Délavé 3"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:151
+msgctxt "Translator|"
+msgid "SMART_INVERSION_1"
+msgstr "Inversion élégante 1"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:152
+msgctxt "Translator|"
+msgid "SMART_INVERSION_2"
+msgstr "Inversion élégante 2"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:153
+msgctxt "Translator|"
+msgid "SMART_INVERSION_3"
+msgstr "Inversion élégante 3"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:154
+msgctxt "Translator|"
+msgid "SMART_INVERSION_4"
+msgstr "Inversion élégante 4"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:155
+msgctxt "Translator|"
+msgid "SMART_INVERSION_5"
+msgstr "Inversion élégante 5"
+
+#: ../../src/translation/Translator.cpp:156
+msgctxt "Translator|"
+msgid "SEPIA"
+msgstr "Sépia"
+
+#: ../../src/translation/Translator.cpp:157
+msgctxt "Translator|"
+msgid "NEGATIVE_SEPIA"
+msgstr "Négatif sépia"
+
+#: ../../src/translation/Translator.cpp:158
+msgctxt "Translator|"
+msgid "GRAYSCALE_RED"
+msgstr "Nuance de gris rouge"
+
+#: ../../src/translation/Translator.cpp:159
+msgctxt "Translator|"
+msgid "NEGATIVE_GRAYSCALE_RED"
+msgstr "Négatif nuance de gris rouge"
+
+#: ../../src/translation/Translator.cpp:160
+msgctxt "Translator|"
+msgid "PROTANOPIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:161
+msgctxt "Translator|"
+msgid "PROTANOMALY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:162
+msgctxt "Translator|"
+msgid "DEUTERANOPIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:163
+msgctxt "Translator|"
+msgid "DEUTERANOMALY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:164
+msgctxt "Translator|"
+msgid "TRITANOPIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:165
+msgctxt "Translator|"
+msgid "TRITANOMALY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:166
+msgctxt "Translator|"
+msgid "ACHROMATOPSIA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:167
+msgctxt "Translator|"
+msgid "ACHROMATOMALY"
+msgstr ""
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:168
+msgctxt "Translator|"
+msgid "COLOR_EFFECTS"
+msgstr "Effets couleurs"
+
+#: ../../src/translation/Translator.cpp:170
+msgctxt "Translator|"
+msgid "ADVANCED_FONTS"
+msgstr "Polices"
+
+#: ../../src/translation/Translator.cpp:171
+msgctxt "Translator|"
+msgid "FONTS_TYPE"
+msgstr "Type de polices"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:172
+msgctxt "Translator|"
+msgid "SIMPLE_FONTS"
+msgstr "Polices simples"
+
+#: ../../src/translation/Translator.cpp:173
+msgctxt "Translator|"
+msgid "ANTI_ALIASING_FONTS"
+msgstr "Polices anti-crénelage"
+
+#: ../../src/translation/Translator.cpp:174
+msgctxt "Translator|"
+msgid "CLEAR_TYPE_FONTS"
+msgstr "Polices ClearType"
+
+#: ../../src/translation/Translator.cpp:175
+msgctxt "Translator|"
+msgid "GDIPP"
+msgstr "GDIPP"
+
+#: ../../src/translation/Translator.cpp:176
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_LIGHT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:177
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_MEDIUM"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:178
+msgctxt "Translator|"
+msgid "FONT_SMOOTHING_HIGH"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:180
+msgctxt "Translator|"
+msgid "ADVANCED_MAGNIFICATION"
+msgstr "Grossissement"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:181
+msgctxt "Translator|"
+msgid "ZOOM_IN"
+msgstr "Zoomer"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:182
+msgctxt "Translator|"
+msgid "ZOOM_OUT"
+msgstr "Dézoomer"
+
+#: ../../src/translation/Translator.cpp:184
+msgctxt "Translator|"
+msgid "ADVANCED_PWM_CONTROL"
+msgstr "Réglage MLI (PWM)"
+
+#: ../../src/translation/Translator.cpp:186
+msgctxt "Translator|"
+msgid "ADVANCED_TIMER"
+msgstr "Compteur"
+
+#: ../../src/translation/Translator.cpp:187
+msgctxt "Translator|"
+msgid "POSTPONE_DURATION"
+msgstr "Durée du report"
+
+#: ../../src/translation/Translator.cpp:188
+msgctxt "Translator|"
+msgid "TIMER_TYPE"
+msgstr "Type compteur"
+
+#: ../../src/translation/Translator.cpp:189
+msgctxt "Translator|"
+msgid "BREAK_EVERY"
+msgstr "Pause tous les"
+
+#: ../../src/translation/Translator.cpp:190
+msgctxt "Translator|"
+msgid "HAVE_A_REST_NOW"
+msgstr "Faire une pause maintenant"
+
+# anti-crénelage
+#: ../../src/translation/Translator.cpp:191
+msgctxt "Translator|"
+msgid "AUTO_CLOSE_REST_SCREEN"
+msgstr "Fermeture automatique écran de pause"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:192
+msgctxt "Translator|"
+msgid "USE_SOUNDS"
+msgstr "Sons"
+
+#: ../../src/translation/Translator.cpp:194
+msgctxt "Translator|"
+msgid "ADVANCED_SYSTEM"
+msgstr "Système"
+
+#: ../../src/translation/Translator.cpp:195
+msgctxt "Translator|"
+msgid "HIDE_TASKBAR_ICON_ON_CLOSE"
+msgstr "Cacher l'icône de la barre des tâches à la fermeture"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:196
+#, fuzzy
+msgctxt "Translator|"
+msgid "USE_MOUSE_INACTIVITY"
+msgstr "Désactiver le compteur travail par l'inactivité de la souris"
+
+#: ../../src/translation/Translator.cpp:197
+msgctxt "Translator|"
+msgid "BLOCK_KEYBOARD"
+msgstr "Désactiver le clavier en mode strict"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:198
+#, fuzzy
+msgctxt "Translator|"
+msgid "USE_SOFTWARE_MOUSE"
+msgstr "Utiliser les curseurs souris logiciels"
+
+#: ../../src/translation/Translator.cpp:200
+msgctxt "Translator|"
+msgid "ADVANCED_IRIS"
+msgstr "Iris"
+
+#: ../../src/translation/Translator.cpp:201
+msgctxt "Translator|"
+msgid "AUTOSAVE_SETTINGS_CHANGES"
+msgstr "Sauvegarde automatique des paramètres"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:202
+msgctxt "Translator|"
+msgid "USE_KEYBOARD_SHORTCUTS"
+msgstr "Raccourcis clavier"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:203
+msgctxt "Translator|"
+msgid "DESTROY_UI_ON_CLOSE"
+msgstr "Faire disparaître l'interface utilisateur à la fermeture"
+
+#: ../../src/translation/Translator.cpp:204
+#, fuzzy
+msgctxt "Translator|"
+msgid "USE_LOW_LEVEL_COLOR_API"
+msgstr "Bibliothèques couleurs de bas niveau"
+
+#: ../../src/translation/Translator.cpp:205
+msgctxt "Translator|"
+msgid "START_IRIS_ON_STARTUP"
+msgstr "Lancer Iris au démarrage"
+
+#: ../../src/translation/Translator.cpp:207
+msgctxt "Translator|"
+msgid "RESET_COLORS"
+msgstr "RàZ couleurs"
+
+#: ../../src/translation/Translator.cpp:229
+msgctxt "Translator|"
+msgid "DAY_OPACITY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:230
+msgctxt "Translator|"
+msgid "NIGHT_OPACITY"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:232
+msgctxt "Translator|"
+msgid "DAY_DIM"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:233
+msgctxt "Translator|"
+msgid "NIGHT_DIM"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:242
+msgctxt "Translator|"
+msgid "USE_SMART_BRIGHTNESS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:243
+msgctxt "Translator|"
+msgid "USE_SMART_INVERSION"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:244
+msgctxt "Translator|"
+msgid "ENABLE_CAMERA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:245
+msgctxt "Translator|"
+msgid "DISABLE_CAMERA"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:279
+msgctxt "Translator|"
+msgid "CZECH"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:288
+msgctxt "Translator|"
+msgid "SKIP_REST"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:289
+msgctxt "Translator|"
+msgid "NORMAL"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:290
+msgctxt "Translator|"
+msgid "STRICT"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:291
+msgctxt "Translator|"
+msgid "CONTINUE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:292
+msgctxt "Translator|"
+msgid "REST_MODE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:293
+msgctxt "Translator|"
+msgid "REST_MODE_MESSAGE"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:294
+msgctxt "Translator|"
+msgid "TIME_IS"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:297
+msgctxt "Translator|"
+msgid "START_WORKING"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:298
+msgctxt "Translator|"
+msgid "HAVE_A_BREAK"
+msgstr ""
+
+#: ../../src/translation/Translator.cpp:206
+msgctxt "Translator|"
+msgid "RESET_SETTINGS_TO_DEFAULT"
+msgstr "Réglages par défaut"
+
+#: ../../src/translation/Translator.cpp:209
+msgctxt "Translator|"
+msgid "ADVANCED_HARDWARE"
+msgstr "Matériel"
+
+#: ../../src/translation/Translator.cpp:210
+msgctxt "Translator|"
+msgid "ADVANCED_SOUNDS"
+msgstr "Sons"
+
+#: ../../src/translation/Translator.cpp:211
+msgctxt "Translator|"
+msgid "ADVANCED_COLOR_PAUSERS"
+msgstr "Désactivation couleurs"
+
+#: ../../src/translation/Translator.cpp:212
+msgctxt "Translator|"
+msgid "ADVANCED_TIMER_PAUSERS"
+msgstr "Désactivation compteur"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:214
+msgctxt "Translator|"
+msgid "ADVANCED_SCREEN_OVERLAY"
+msgstr "Recouvrement"
+
+#: ../../src/translation/Translator.cpp:215
+msgctxt "Translator|"
+msgid "OVERLAY_COLOR"
+msgstr "Couleur recouvrement"
+
+#: ../../src/translation/Translator.cpp:124
+#: ../../src/translation/Translator.cpp:216
+msgctxt "Translator|"
+msgid "GREEN"
+msgstr "Vert"
+
+#: ../../src/translation/Translator.cpp:217
+msgctxt "Translator|"
+msgid "TURQUOISE"
+msgstr "Turquoise"
+
+#: ../../src/translation/Translator.cpp:125
+#: ../../src/translation/Translator.cpp:218
+msgctxt "Translator|"
+msgid "BLUE"
+msgstr "Bleu"
+
+#: ../../src/translation/Translator.cpp:219
+msgctxt "Translator|"
+msgid "INDIGO"
+msgstr "Indigo"
+
+# Need context to be sure of translation (risk of ambiguity with purple)
+#: ../../src/translation/Translator.cpp:220
+msgctxt "Translator|"
+msgid "VIOLET"
+msgstr "Violet"
+
+#: ../../src/translation/Translator.cpp:221
+msgctxt "Translator|"
+msgid "PURPLE"
+msgstr "Violet"
+
+#: ../../src/translation/Translator.cpp:222
+msgctxt "Translator|"
+msgid "MAGENTA"
+msgstr "Magenta"
+
+#: ../../src/translation/Translator.cpp:223
+msgctxt "Translator|"
+msgid "SCARLET"
+msgstr "Ecarlate"
+
+#: ../../src/translation/Translator.cpp:123
+#: ../../src/translation/Translator.cpp:224
+msgctxt "Translator|"
+msgid "RED"
+msgstr "Rouge"
+
+#: ../../src/translation/Translator.cpp:225
+msgctxt "Translator|"
+msgid "ORANGE"
+msgstr "Orange"
+
+#: ../../src/translation/Translator.cpp:226
+msgctxt "Translator|"
+msgid "YELLOW"
+msgstr "Jaune"
+
+#: ../../src/translation/Translator.cpp:227
+msgctxt "Translator|"
+msgid "LEMON"
+msgstr "Citron"
+
+#: ../../src/translation/Translator.cpp:228
+msgctxt "Translator|"
+msgid "OPACITY"
+msgstr "Opacité"
+
+#: ../../src/translation/Translator.cpp:231
+#, fuzzy
+msgctxt "Translator|"
+msgid "SCREEN_DIM"
+msgstr "Assombrissement écran"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:234
+msgctxt "Translator|"
+msgid "DISABLE"
+msgstr "Désactiver"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:235
+msgctxt "Translator|"
+msgid "SELECT_SCREEN_AREA"
+msgstr "Sélection zone écran"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:236
+msgctxt "Translator|"
+msgid "RESET_SELECTED_AREA"
+msgstr "RàZ zone sélectionnée"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:237
+msgctxt "Translator|"
+msgid "ENABLE"
+msgstr "Activer"
+
+#: ../../src/translation/Translator.cpp:239
+msgctxt "Translator|"
+msgid "ADVANCED_ARTIFICIAL_INTELLIGENCE"
+msgstr "Intelligence Articificielle (IA)"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:240
+msgctxt "Translator|"
+msgid "USE_AUTOMATIC_BRIGHTNESS"
+msgstr "Luminosité automatique"
+
+#: ../../src/translation/Translator.cpp:241
+#, fuzzy
+msgctxt "Translator|"
+msgid "USE_BLINK_DETECTION"
+msgstr "Détection clignement des yeux"
+
+#: ../../src/translation/Translator.cpp:246
+#, fuzzy
+msgctxt "Translator|"
+msgid "SHOW_BLINK_SCREEN"
+msgstr "Montrer capture clignement des yeux"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:247
+#, fuzzy
+msgctxt "Translator|"
+msgid "HIDE_BLINK_SCREEN"
+msgstr "Cacher capture clignement des yeux"
+
+#: ../../src/translation/Translator.cpp:249
+msgctxt "Translator|"
+msgid "ADVANCED_EXERCISES"
+msgstr "Exercices"
+
+#: ../../src/translation/Translator.cpp:250
+msgctxt "Translator|"
+msgid "START_EYE_EXERCISES"
+msgstr "Commencer les exercices des yeux"
+
+#: ../../src/translation/Translator.cpp:251
+msgctxt "Translator|"
+msgid "START_NECK_EXERCISES"
+msgstr "Commencer les exercices de la nuque"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:252
+msgctxt "Translator|"
+msgid "START_BACK_EXERCISES"
+msgstr "Commencer les exercices du dos"
+
+# Need context to be sure of translation
+#: ../../src/translation/Translator.cpp:254
+msgctxt "Translator|"
+msgid "ADVANCED_IRIS_MODEL"
+msgstr "Version d'Iris"
+
+#: ../../src/translation/Translator.cpp:255
+msgctxt "Translator|"
+msgid "SWITCH_TO_IRIS"
+msgstr "Basculer vers Iris"
+
+#: ../../src/translation/Translator.cpp:256
+msgctxt "Translator|"
+msgid "SWITCH_TO_IRIS_LITE"
+msgstr "Basculer vers Iris Lite"
+
+#: ../../src/translation/Translator.cpp:258
+msgctxt "Translator|"
+msgid "ADVANCED_LICENSE"
+msgstr "Licence"
+
+#: ../../src/translation/Translator.cpp:259
+msgctxt "Translator|"
+msgid "GET_IRIS_PRO"
+msgstr "Obtenir la version Pro"
+
+#: ../../src/translation/Translator.cpp:262
+msgctxt "Translator|"
+msgid "ADVANCED_LANGUAGE"
+msgstr "Langue"
+
+#: ../../src/translation/Translator.cpp:263
+msgctxt "Translator|"
+msgid "LANGUAGE"
+msgstr "Langue"
+
+#: ../../src/translation/Translator.cpp:264
+msgctxt "Translator|"
+msgid "ENGLISH"
+msgstr "Anglais"
+
+#: ../../src/translation/Translator.cpp:265
+msgctxt "Translator|"
+msgid "RUSSIAN"
+msgstr "Russe"
+
+#: ../../src/translation/Translator.cpp:266
+msgctxt "Translator|"
+msgid "SPANISH"
+msgstr "Espagnol"
+
+#: ../../src/translation/Translator.cpp:267
+msgctxt "Translator|"
+msgid "CHINESE"
+msgstr "Chinois"
+
+#: ../../src/translation/Translator.cpp:268
+msgctxt "Translator|"
+msgid "INDIAN"
+msgstr "Indien"
+
+#: ../../src/translation/Translator.cpp:269
+msgctxt "Translator|"
+msgid "JAPANESE"
+msgstr "Japonais"
+
+#: ../../src/translation/Translator.cpp:270
+msgctxt "Translator|"
+msgid "ARABIC"
+msgstr "Arabe"
+
+#: ../../src/translation/Translator.cpp:271
+msgctxt "Translator|"
+msgid "TURKISH"
+msgstr "Turque"
+
+#: ../../src/translation/Translator.cpp:272
+msgctxt "Translator|"
+msgid "PORTUGUESE"
+msgstr "Portugais"
+
+#: ../../src/translation/Translator.cpp:273
+msgctxt "Translator|"
+msgid "FRENCH"
+msgstr "Français"
+
+#: ../../src/translation/Translator.cpp:274
+msgctxt "Translator|"
+msgid "GERMAN"
+msgstr "Allemand"
+
+#: ../../src/translation/Translator.cpp:275
+msgctxt "Translator|"
+msgid "KOREAN"
+msgstr "Coréen"
+
+#: ../../src/translation/Translator.cpp:276
+msgctxt "Translator|"
+msgid "ITALIAN"
+msgstr "Italien"
+
+#: ../../src/translation/Translator.cpp:277
+msgctxt "Translator|"
+msgid "BULGARIAN"
+msgstr "Bulgare"
+
+#: ../../src/translation/Translator.cpp:278
+msgctxt "Translator|"
+msgid "GREEK"
+msgstr "Grec"
+
+#: ../../src/translation/Translator.cpp:281
+msgctxt "Translator|"
+msgid "ADVANCED_ABOUT"
+msgstr "A propos"
+
+#: ../../src/translation/Translator.cpp:282
+msgctxt "Translator|"
+msgid "NAME"
+msgstr "Nom"
+
+#: ../../src/translation/Translator.cpp:283
+#, fuzzy
+msgctxt "Translator|"
+msgid "VERSION"
+msgstr "Version"
+
+#: ../../src/translation/Translator.cpp:284
+msgctxt "Translator|"
+msgid "PUBLISHER"
+msgstr "Editeur"
+
+#: ../../src/translation/Translator.cpp:285
+msgctxt "Translator|"
+msgid "WEBSITE"
+msgstr "Site web"
+
+#: ../../ui/components/TrayIcon.cpp:65 ../../ui/components/TrayIcon.cpp:370
+msgctxt "TrayIcon|"
+msgid "Settings"
+msgstr "Réglages"
+
+#: ../../ui/components/TrayIcon.cpp:74
+msgctxt "TrayIcon|"
+msgid "&Automatic"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:78
+msgctxt "TrayIcon|"
+msgid "&Manual"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:82
+msgctxt "TrayIcon|"
+msgid "&Paused"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:86
+msgctxt "TrayIcon|"
+msgid "&Change mode"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:102 ../../ui/components/TrayIcon.cpp:371
+msgctxt "TrayIcon|"
+msgid "&Health"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:106 ../../ui/components/TrayIcon.cpp:372
+msgctxt "TrayIcon|"
+msgid "&Sleep"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:110 ../../ui/components/TrayIcon.cpp:373
+msgctxt "TrayIcon|"
+msgid "&Reading"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:114 ../../ui/components/TrayIcon.cpp:374
+msgctxt "TrayIcon|"
+msgid "&Programming"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:118 ../../ui/components/TrayIcon.cpp:375
+msgctxt "TrayIcon|"
+msgid "&Biohacker"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:122 ../../ui/components/TrayIcon.cpp:376
+msgctxt "TrayIcon|"
+msgid "&Movie"
+msgstr ""
+
+#: ../../ui/components/TrayIcon.cpp:126 ../../ui/components/TrayIcon.cpp:377
+msgctxt "TrayIcon|"
+msgid "&Overlay"
+msgstr ""
+
+# Need context to be sure of translation
+#, qt-format
+#~ msgctxt "TrayIcon|"
+#~ msgid "Pause %1"
+#~ msgstr "Suspendre %1"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Pause color changes"
+#~ msgstr "Suspendre les changements de couleurs"
+
+#~ msgctxt "TrayIcon|"
+#~ msgid "Stop work timer"
+#~ msgstr "Arrêter le compteur travail"
+
+# Need context to be sure of translation
+#~ msgctxt "TrayIcon|"
+#~ msgid "Use camera"
+#~ msgstr "Webcam"
+
+# Need context to be sure of translation
+#~ msgctxt "TrayIcon|"
+#~ msgid "Activate Code"
+#~ msgstr "Code d'activation"
+
+#: ../../ui/components/TrayIcon.cpp:143 ../../ui/components/TrayIcon.cpp:378
+msgctxt "TrayIcon|"
+msgid "Exit"
+msgstr "Quitter"
+
+# Need context to be sure of translation
+#: ../../ui/blink_reminding_screen.ui:14
+#: ../../ui/webkit/blink_reminding_screen.ui:14
+msgctxt "blink_reminding_screen|"
+msgid "Dialog"
+msgstr "Fenêtre de rappel clignement"
+
+#: ../../ui/blink_reminding_screen.ui:27
+#: ../../ui/webkit/blink_reminding_screen.ui:27
+msgctxt "blink_reminding_screen|"
+msgid "qrc:/html/blink_reminding_screen.html"
+msgstr ""
+
+#: ../../ui/dummy_screen_effects.ui:14
+#: ../../ui/webkit/dummy_screen_effects.ui:14
+msgctxt "dummy_screen_effects|"
+msgid "dummy_screen_effects"
+msgstr ""
+
+#: ../../ui/dummy_screen_effects.ui:26 ../../ui/dummy_screen_effects.ui:39
+#: ../../ui/dummy_screen_effects.ui:52 ../../ui/dummy_screen_effects.ui:65
+#: ../../ui/webkit/dummy_screen_effects.ui:26
+#: ../../ui/webkit/dummy_screen_effects.ui:39
+#: ../../ui/webkit/dummy_screen_effects.ui:52
+#: ../../ui/webkit/dummy_screen_effects.ui:65
+msgctxt "dummy_screen_effects|"
+msgid "PushButton"
+msgstr "Bouton poussoir"
+
+#: ../../ui/webkit/zoom_widget.ui:14 ../../ui/zoom_widget.ui:14
+msgctxt "zoomwidget|"
+msgid "zoomwidget"
+msgstr ""
+
+#: ../../ui/webkit/zoom_widget.ui:26 ../../ui/webkit/zoom_widget.ui:39
+#: ../../ui/webkit/zoom_widget.ui:52 ../../ui/webkit/zoom_widget.ui:65
+#: ../../ui/zoom_widget.ui:26 ../../ui/zoom_widget.ui:39
+#: ../../ui/zoom_widget.ui:52 ../../ui/zoom_widget.ui:65
+msgctxt "zoomwidget|"
+msgid "PushButton"
+msgstr "Bouton poussoir"
