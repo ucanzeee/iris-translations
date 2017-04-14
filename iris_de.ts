@@ -526,12 +526,12 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="90"/>
         <source>SAVE_AND_CLOSE</source>
-        <translation>Speichern und schließen</translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="91"/>
         <source>USE_ADVANCED_SETTINGS</source>
-        <translation>Verwenden Sie erweiterte Einstellungen</translation>
+        <translation>Erweiterte Einstellungen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="94"/>
@@ -1088,7 +1088,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="206"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
-        <translation>Setzen Sie die Einstellungen auf den Standard zurück</translation>
+        <translation>Rücksetzen  Einstellungen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="209"/>
