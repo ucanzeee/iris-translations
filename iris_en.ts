@@ -208,17 +208,17 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="224"/>
         <location filename="../../src/licensing/License.cpp" line="226"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation></translation>
+        <translation>Your Iris is now Pro. See your new options in the advanced view.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
         <source>Invalid response</source>
-        <translation></translation>
+        <translation>Invalid response</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="241"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation></translation>
+        <translation>. Maybe you are not connected to the internet?</translation>
     </message>
 </context>
 <context>
@@ -271,7 +271,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1616"/>
         <source>Relaunch Iris</source>
-        <translation></translation>
+        <translation>Relaunch Iris</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1617"/>
@@ -281,24 +281,24 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1619"/>
         <source>Relaunch now</source>
-        <translation></translation>
+        <translation>Relaunch now</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1620"/>
         <source>Later</source>
-        <translation></translation>
+        <translation>Later</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1636"/>
         <location filename="../../src/MainWindow.cpp" line="1701"/>
         <source>Restart is needed</source>
-        <translation></translation>
+        <translation>Restart is needed</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1637"/>
         <location filename="../../src/MainWindow.cpp" line="1701"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation></translation>
+        <translation>Iris made some changes on your system and restart is needed for changes to take effect.</translation>
     </message>
 </context>
 <context>
@@ -872,17 +872,17 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
         <source>FONT_SMOOTHING_LIGHT</source>
-        <translation></translation>
+        <translation>Font Smoothing Light</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="177"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
-        <translation></translation>
+        <translation>Font Smoothing Medium</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
         <source>FONT_SMOOTHING_HIGH</source>
-        <translation></translation>
+        <translation>Font Smoothing High</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="180"/>
@@ -1430,7 +1430,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/TrayIcon.cpp" line="102"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="371"/>
         <source>&amp;Health</source>
-        <translation></translation>
+        <translation>Health</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="106"/>
@@ -1442,13 +1442,13 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/TrayIcon.cpp" line="110"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="373"/>
         <source>&amp;Reading</source>
-        <translation></translation>
+        <translation>Reading</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="114"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="374"/>
         <source>&amp;Programming</source>
-        <translation></translation>
+        <translation>Programming</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="118"/>
@@ -1460,13 +1460,13 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/TrayIcon.cpp" line="122"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="376"/>
         <source>&amp;Movie</source>
-        <translation></translation>
+        <translation>Movie</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="126"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
         <source>&amp;Overlay</source>
-        <translation></translation>
+        <translation>Overlay</translation>
     </message>
     <message>
         <source>Pause PCEyeGuard</source>
