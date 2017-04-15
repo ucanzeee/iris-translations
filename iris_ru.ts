@@ -37,38 +37,39 @@
         <location filename="../cyclops/Cyclops.cpp" line="158"/>
         <location filename="../cyclops/Cyclops.cpp" line="171"/>
         <source>Restart your PC</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузите компьютер</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="159"/>
         <source>Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ирис просто удалил некоторые ограничения видеоплаты. Вам необходимо перезагрузить компьютер один раз, чтобы разблокировать полную функциональность.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="161"/>
         <source>Restart needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Требуется перезагрузка</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="162"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезагрузите компьютер, чтобы разблокировать полный диапазон цветов. Ирис мини будет работать нормально, но некоторые параметры могут быть недоступны.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="172"/>
         <source>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Некоторые функции ограничены, так как вам необходимо перезагрузить компьютер. Вы используете API верхнего уровня прямо сейчас.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="215"/>
         <source>Restart is needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходим перезапуск</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="216"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris внесла некоторые изменения в вашу систему, и для полной функциональности требуется перезапуск.
+Обратите внимание, что радужка теперь будет работать нормально, но с ограниченными цветовыми изменениями.</translation>
     </message>
 </context>
 <context>
@@ -104,22 +105,22 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="126"/>
         <source>Already used</source>
-        <translation type="unfinished"></translation>
+        <translation>Уже использован</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="127"/>
         <source>You have already used this code on another machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уже использовали этот код на другом компьютере</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="136"/>
         <source>Other version</source>
-        <translation type="unfinished"></translation>
+        <translation>Другая версия</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>You have already used this code with other version of Iris. Download and use the old version again or buy new activation code.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уже использовали этот код с другой версией Iris. Загрузите и снова используйте старую версию или приобретите новый код активации.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="146"/>
@@ -134,82 +135,85 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="156"/>
         <source>No giveaway</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет поддавки</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="157"/>
         <source>There is no active giveaway right now</source>
-        <translation type="unfinished"></translation>
+        <translation>Сейчас нет активной поддавки</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="166"/>
         <source>This code is for Iris mini</source>
-        <translation type="unfinished"></translation>
+        <translation>Этот код для Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="167"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished"></translation>
+        <translation>Это Iris, и ваш код активации для Iris mini. Загрузить Iris mini из
+Http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="178"/>
         <location filename="../../src/licensing/License.cpp" line="180"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Активация командной лицензии. Большое спасибо за поддержку Iris! :)
+Смотрите ваши новые возможности в расширенном виде.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="192"/>
         <source>Team license code for Iris mini</source>
-        <translation type="unfinished"></translation>
+        <translation>Командный лицензионный код для Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="193"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished"></translation>
+        <translation>Это Iris, а остальные лицензионные коды Team для Iris mini. Загрузить Iris mini из
+Http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="202"/>
         <source>No more Team activations</source>
-        <translation type="unfinished"></translation>
+        <translation>Больше активаций не требуется</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>You have used all your Team license activations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы использовали все активационные активации Team.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>No such Team license</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет такой команды</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="213"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation type="unfinished"></translation>
+        <translation>Для Iris или Iris mini нет такой команды.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="222"/>
         <source>Iris offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Работа в автономном режиме Iris</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="224"/>
         <location filename="../../src/licensing/License.cpp" line="226"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша радужка теперь Pro. Смотрите ваши новые возможности в расширенном виде.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
         <source>Invalid response</source>
-        <translation type="unfinished"></translation>
+        <translation>Недопустимый ответ</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="241"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation type="unfinished"></translation>
+        <translation>. Может быть, вы не подключены к Интернету?</translation>
     </message>
 </context>
 <context>
@@ -262,34 +266,34 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1616"/>
         <source>Relaunch Iris</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустить Iris</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1617"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтобы изменения вступили в силу, вам нужно перезапустить Iris.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1619"/>
         <source>Relaunch now</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустить сейчас</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1620"/>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Позже</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1636"/>
         <location filename="../../src/MainWindow.cpp" line="1701"/>
         <source>Restart is needed</source>
-        <translation type="unfinished"></translation>
+        <translation>Необходим перезапуск</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1637"/>
         <location filename="../../src/MainWindow.cpp" line="1701"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ирис внесла некоторые изменения в вашу систему, и для того, чтобы изменения вступили в силу, необходим перезапуск.</translation>
     </message>
 </context>
 <context>
@@ -521,7 +525,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="90"/>
         <source>SAVE_AND_CLOSE</source>
-        <translation type="unfinished">Сохранить</translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="91"/>
@@ -602,32 +606,32 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="117"/>
         <source>ADVANCED_COLOR_SCHEME</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовая схема</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="118"/>
         <source>IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation>Ирис</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="119"/>
         <source>MAGMUS</source>
-        <translation type="unfinished"></translation>
+        <translation>Magmus</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="120"/>
         <source>OLAF</source>
-        <translation type="unfinished"></translation>
+        <translation>Олаф</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="121"/>
         <source>GROOT</source>
-        <translation type="unfinished"></translation>
+        <translation>Groot</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="122"/>
         <source>LEADING_COLOR</source>
-        <translation type="unfinished"></translation>
+        <translation>Ведущий цвет</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="127"/>
@@ -698,7 +702,7 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/translation/Translator.cpp" line="142"/>
         <source>SCREEN_EFFECT</source>
         <oldsource>COLOR_EFFECT</oldsource>
-        <translation type="unfinished">Цветовой эффект</translation>
+        <translation>Цветовой эффект</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="143"/>
@@ -788,42 +792,42 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="160"/>
         <source>PROTANOPIA</source>
-        <translation type="unfinished"></translation>
+        <translation>Протанопия</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="161"/>
         <source>PROTANOMALY</source>
-        <translation type="unfinished"></translation>
+        <translation>Protanomaly</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="162"/>
         <source>DEUTERANOPIA</source>
-        <translation type="unfinished"></translation>
+        <translation>Дейтеранопия</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="163"/>
         <source>DEUTERANOMALY</source>
-        <translation type="unfinished"></translation>
+        <translation>Deuteranomaly</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="164"/>
         <source>TRITANOPIA</source>
-        <translation type="unfinished"></translation>
+        <translation>Tritanopia</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="165"/>
         <source>TRITANOMALY</source>
-        <translation type="unfinished"></translation>
+        <translation>Тританомалия</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="166"/>
         <source>ACHROMATOPSIA</source>
-        <translation type="unfinished"></translation>
+        <translation>Ахроматопсия</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="167"/>
         <source>ACHROMATOMALY</source>
-        <translation type="unfinished"></translation>
+        <translation>Ахроматома</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="168"/>
@@ -863,17 +867,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
         <source>FONT_SMOOTHING_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Сглаживающий свет шрифта</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="177"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
-        <translation type="unfinished"></translation>
+        <translation>Средство сглаживания шрифтов</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
         <source>FONT_SMOOTHING_HIGH</source>
-        <translation type="unfinished"></translation>
+        <translation>Сглаживание больших букв</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="180"/>
@@ -993,92 +997,92 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="229"/>
         <source>DAY_OPACITY</source>
-        <translation type="unfinished"></translation>
+        <translation>День Непрозрачность</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="230"/>
         <source>NIGHT_OPACITY</source>
-        <translation type="unfinished"></translation>
+        <translation>Ночь Непрозрачность</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="232"/>
         <source>DAY_DIM</source>
-        <translation type="unfinished"></translation>
+        <translation>Дневной свет</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="233"/>
         <source>NIGHT_DIM</source>
-        <translation type="unfinished"></translation>
+        <translation>Ночная съемка</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="242"/>
         <source>USE_SMART_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>Интеллектуальная яркость</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="243"/>
         <source>USE_SMART_INVERSION</source>
-        <translation type="unfinished"></translation>
+        <translation>Интеллектуальная инверсия</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="244"/>
         <source>ENABLE_CAMERA</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить камеру</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="245"/>
         <source>DISABLE_CAMERA</source>
-        <translation type="unfinished"></translation>
+        <translation>Отключить камеру</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="279"/>
         <source>CZECH</source>
-        <translation type="unfinished"></translation>
+        <translation>Чешский</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="288"/>
         <source>SKIP_REST</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропускать</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="289"/>
         <source>NORMAL</source>
-        <translation type="unfinished"></translation>
+        <translation>Нормальный</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="290"/>
         <source>STRICT</source>
-        <translation type="unfinished"></translation>
+        <translation>Строгий</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="291"/>
         <source>CONTINUE</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжать</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="292"/>
         <source>REST_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим отдыха</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="293"/>
         <source>REST_MODE_MESSAGE</source>
-        <translation type="unfinished"></translation>
+        <translation>Сейчас вы находитесь в режиме покоя. Отредактируйте таймер на панели настроек.</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="294"/>
         <source>TIME_IS</source>
-        <translation type="unfinished"></translation>
+        <translation>Время</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="297"/>
         <source>START_WORKING</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать работать</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="298"/>
         <source>HAVE_A_BREAK</source>
-        <translation type="unfinished"></translation>
+        <translation>Перерыв</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="206"/>
@@ -1400,64 +1404,64 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="74"/>
         <source>&amp;Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматический</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="78"/>
         <source>&amp;Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручной</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="82"/>
         <source>&amp;Paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Приостановлено</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="86"/>
         <source>&amp;Change mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим изменения</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="102"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="371"/>
         <source>&amp;Health</source>
-        <translation type="unfinished"></translation>
+        <translation>Здоровье</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="106"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="372"/>
         <source>&amp;Sleep</source>
-        <translation type="unfinished"></translation>
+        <translation>Спать</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="110"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="373"/>
         <source>&amp;Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Чтение</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="114"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="374"/>
         <source>&amp;Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Программирование</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="118"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="375"/>
         <source>&amp;Biohacker</source>
-        <translation type="unfinished"></translation>
+        <translation>Биохакер</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="122"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="376"/>
         <source>&amp;Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Кино</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="126"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
         <source>&amp;Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Наложение</translation>
     </message>
     <message>
         <source>Pause %1</source>
