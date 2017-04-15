@@ -526,7 +526,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="90"/>
         <source>SAVE_AND_CLOSE</source>
-        <translation>Salvar e fechar</translation>
+        <translation type="unfinished">Salvar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="91"/>
