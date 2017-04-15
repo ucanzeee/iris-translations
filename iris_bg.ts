@@ -57,7 +57,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="172"/>
         <source>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
-        <translation type="unfinished"></translation>
+        <translation>Някои функционалности са лимитирани, защото е нужен рестарт на компютърът. Вие използвате High-level Color API в момента.</translation>
     </message>
     <message>
         <source>Some functionallity is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
@@ -142,7 +142,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="156"/>
         <source>No giveaway</source>
-        <translation type="unfinished"></translation>
+        <translation>Няма промоция</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="157"/>
