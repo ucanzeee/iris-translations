@@ -42,7 +42,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="159"/>
         <source>Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</source>
-        <translation>Iris hat einige Beschrдnkungen der Grafikkarte aufgehoben. Du musst Deinen PC neu starten, um den vollen Funktionsumfang freizuschalten.</translation>
+        <translation>Iris hat einige Beschränkungen der Grafikkarte aufgehoben. Du musst Deinen PC neu starten, um den vollen Funktionsumfang freizuschalten.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="161"/>
@@ -52,12 +52,12 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="162"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation>Starte Deinen PC neu, um die volle Farbpalette freizuschalten. Iris mini wird gut funktionieren, aber einige Optionen kцnnten ausgegraut sein.</translation>
+        <translation>Starte Deinen PC neu, um die volle Farbpalette freizuschalten. Iris mini wird gut funktionieren, aber einige Optionen könnten ausgegraut sein.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="172"/>
         <source>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
-        <translation>Einige Funktionen sind begrenzt, weil Du Deinen PC neu starten musst. Du verwendest jetzt High-Level-Color-API.</translation>
+        <translation>Einige Funktionen sind noch begrenzt, weil Du Deinen PC neu starten musst. Du verwendest jetzt High-Level-Color-API.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="215"/>
@@ -68,8 +68,8 @@
         <location filename="../cyclops/Cyclops.cpp" line="216"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>Iris hat einige Дnderungen an Deinem System vorgenommen. Ein Neustart ist erforderlich, um den vollen Funktionsumfang freizuschalten.
-Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbverдnderungen.</translation>
+        <translation>Iris hat einige Änderungen an Deinem System vorgenommen. Ein Neustart ist erforderlich, um den vollen Funktionsumfang freizuschalten.
+Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbveränderungen.</translation>
     </message>
 </context>
 <context>
@@ -100,7 +100,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
         <location filename="../../src/licensing/License.cpp" line="113"/>
         <source>Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>Vielen Dank fьr die Unterstьtzung von Iris! :)
+        <translation>Vielen Dank für die Unterstützung von Iris! :)
 Schaue Dir die neuen Optionen in der erweiterten Ansicht an.</translation>
     </message>
     <message>
@@ -126,12 +126,12 @@ Schaue Dir die neuen Optionen in der erweiterten Ansicht an.</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="146"/>
         <source>No such code</source>
-        <translation>Kein solcher Code</translation>
+        <translation>Dieser Code existiert nicht</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="147"/>
         <source>There is no such activation code</source>
-        <translation>Es gibt keinen solchen Aktivierungscode</translation>
+        <translation>Dieser Aktivierungscode existiert nicht</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="156"/>
@@ -146,32 +146,32 @@ Schaue Dir die neuen Optionen in der erweiterten Ansicht an.</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="166"/>
         <source>This code is for Iris mini</source>
-        <translation>Dieser Code ist fьr Iris mini</translation>
+        <translation>Dieser Code ist für Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="167"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Das ist Iris und Dein Aktivierungscode ist fьr Iris mini. Lade Iris mini von Http://iristech.co/iris-mini</translation>
+        <translation>Das ist Iris und Dein Aktivierungscode ist für Iris mini. Lade Iris mini von Http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="178"/>
         <location filename="../../src/licensing/License.cpp" line="180"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>Teamlizenzaktivierung. Vielen Dank fьr die Unterstьtzung von Iris! :)
+        <translation>Teamlizenzaktivierung. Vielen Dank für die Unterstützung von Iris! :)
 Schaue Dir die neuen Optionen in der erweiterten Ansicht an.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="192"/>
         <source>Team license code for Iris mini</source>
-        <translation>Team Lizenzcode fьr Iris mini</translation>
+        <translation>Team Lizenzcode für Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="193"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Das ist Iris und verbleibende Team-Lizenzcodes sind fьr Iris mini. Lade Iris mini von Http://iristech.co/iris-mini</translation>
+        <translation>Das ist Iris und die verbliebenen Team-Lizenzcodes sind für Iris mini. Lade Iris mini von Http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="202"/>
@@ -191,7 +191,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="213"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation>Es gibt keine solche Teamlizenz fьr Iris oder Iris mini.</translation>
+        <translation>Diese Teamlizenz existiert nicht für Iris oder Iris mini.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="222"/>
@@ -207,7 +207,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
         <source>Invalid response</source>
-        <translation>Ungьltige Antwort</translation>
+        <translation>Ungültige Antwort</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="241"/>
@@ -259,12 +259,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1138"/>
         <source>Iris Pro needed</source>
-        <translation>Iris Pro wird benцtigt</translation>
+        <translation>Iris Pro wird benötigt</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1139"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation>Du benцtigst Iris Pro, um auf diesen Bereich zuzugreifen.</translation>
+        <translation>Du benötigst Iris Pro, um auf diesen Bereich zuzugreifen.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1616"/>
@@ -274,7 +274,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1617"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation>Du musst Iris neu starten, damit Дnderungen wirksam werden.</translation>
+        <translation>Du musst Iris neu starten, damit die Änderungen wirksam werden.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1619"/>
@@ -284,7 +284,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1620"/>
         <source>Later</source>
-        <translation>Spдter</translation>
+        <translation>Später</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1636"/>
@@ -296,7 +296,7 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/MainWindow.cpp" line="1637"/>
         <location filename="../../src/MainWindow.cpp" line="1701"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>Iris hat einige Дnderungen an Deinem System vorgenommen. Ein Neustart ist erforderlich, damit die Дnderungen wirksam werden.</translation>
+        <translation>Iris hat einige Änderungen an Deinem System vorgenommen. Ein Neustart ist erforderlich, damit die Änderungen wirksam werden.</translation>
     </message>
 </context>
 <context>
@@ -394,12 +394,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="185"/>
         <source> until rest</source>
-        <translation>Bis Ruhe</translation>
+        <translation>bis zur Pause</translation>
     </message>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="199"/>
         <source> until work</source>
-        <translation>Bis zur Arbeit</translation>
+        <translation>bis zur Arbeitsaufnahme</translation>
     </message>
 </context>
 <context>
@@ -407,7 +407,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="62"/>
         <source>IRIS_MODE</source>
-        <translation>Modus</translation>
+        <translation>Pausenmodus</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="63"/>
@@ -417,7 +417,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="64"/>
         <source>MANUAL_MODE</source>
-        <translation>Handbuch</translation>
+        <translation>Manuell</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="65"/>
@@ -462,7 +462,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="74"/>
         <source>OVERLAY_MODE</source>
-        <translation>Ьberlagern</translation>
+        <translation>Überlagern</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="76"/>
@@ -508,7 +508,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="85"/>
         <source>TIMER_EXERCISE</source>
-        <translation>Ьbung</translation>
+        <translation>Übung</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="86"/>
@@ -518,12 +518,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="87"/>
         <source>TIMER_SOUND</source>
-        <translation>Klingen</translation>
+        <translation>Klang</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="89"/>
         <source>IRIS_LOCATION</source>
-        <translation>Ort</translation>
+        <translation>Standort</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="90"/>
@@ -570,7 +570,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="101"/>
         <source>RESET_TEMPERATURE</source>
-        <translation>Temperatur zurьcksetzen</translation>
+        <translation>Temperatur zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="102"/>
@@ -580,7 +580,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="103"/>
         <source>REVERT_COLORS</source>
-        <translation>Farben zurьcksetzen</translation>
+        <translation>Farben zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="105"/>
@@ -592,13 +592,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/translation/Translator.cpp" line="106"/>
         <location filename="../../src/translation/Translator.cpp" line="112"/>
         <source>DAY_BRIGHTNESS</source>
-        <translation>Tag Helligkeit</translation>
+        <translation>Taghelligkeit</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <location filename="../../src/translation/Translator.cpp" line="113"/>
         <source>NIGHT_BRIGHTNESS</source>
-        <translation>Nacht Helligkeit</translation>
+        <translation>Nachthelligkeit</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="109"/>
@@ -634,17 +634,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="122"/>
         <source>LEADING_COLOR</source>
-        <translation>Fьhrende Farbe</translation>
+        <translation>Führende Farbe</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="127"/>
         <source>ADVANCED_LOCATION</source>
-        <translation>Ort</translation>
+        <translation>Standort</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="128"/>
         <source>MANUAL_LOCATION</source>
-        <translation>Manuelle Lage</translation>
+        <translation>Manueller Standort</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="129"/>
@@ -654,22 +654,22 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="130"/>
         <source>LONGITUDE</source>
-        <translation>Lдnge:</translation>
+        <translation>Länge:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="131"/>
         <source>MANUAL_NIGHT_DURATION</source>
-        <translation>Manuelle Nacht Dauer</translation>
+        <translation>Manuelle Nachtdauer</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="132"/>
         <source>NIGHT_START_TIME</source>
-        <translation>Nacht beginnt bei:</translation>
+        <translation>Nacht beginnt um:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="133"/>
         <source>NIGHT_END_TIME</source>
-        <translation>Nacht endet bei:</translation>
+        <translation>Nacht endet um:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="135"/>
@@ -790,7 +790,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="159"/>
         <source>NEGATIVE_GRAYSCALE_RED</source>
-        <translation>Negative Graustufenrot</translation>
+        <translation>Negatives Graustufenrot</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="160"/>
@@ -855,7 +855,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="173"/>
         <source>ANTI_ALIASING_FONTS</source>
-        <translation>Anti-Aliasing-Schriften</translation>
+        <translation>Anti-Aliasing-Schriftarten</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="174"/>
@@ -870,22 +870,22 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
         <source>FONT_SMOOTHING_LIGHT</source>
-        <translation>Schrift Glдttung Licht</translation>
+        <translation>Schriftglättung leicht</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="177"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
-        <translation>Schriftglдttung Medium</translation>
+        <translation>Schriftglättung medium</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
         <source>FONT_SMOOTHING_HIGH</source>
-        <translation>Schriftartglдttung hoch</translation>
+        <translation>Schriftglättung hoch</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="180"/>
         <source>ADVANCED_MAGNIFICATION</source>
-        <translation>VergrцЯerung</translation>
+        <translation>Vergrößerung</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="181"/>
@@ -895,7 +895,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="182"/>
         <source>ZOOM_OUT</source>
-        <translation>Rauszoomen</translation>
+        <translation>Herauszoomen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="184"/>
@@ -925,17 +925,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="190"/>
         <source>HAVE_A_REST_NOW</source>
-        <translation>Jetzt pausieren</translation>
+        <translation>Mach mal Pause</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="191"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
-        <translation>Pausen-Bildschirm automatisch schlieЯen</translation>
+        <translation>Pausenbildschirm automatisch schließen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="192"/>
         <source>USE_SOUNDS</source>
-        <translation>Tцne verwenden</translation>
+        <translation>Töne verwenden</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="194"/>
@@ -945,12 +945,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="195"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
-        <translation>Beim SchlieЯen Icon in die Taskleiste minimieren</translation>
+        <translation>Beim Schließen Icon in die Taskleiste minimieren</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="196"/>
         <source>USE_MOUSE_INACTIVITY</source>
-        <translation>Maus-Inaktivitдt nutzen, um Work-Timer zu pausieren</translation>
+        <translation>Maus-Inaktivität nutzen, um Work-Timer zu pausieren</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="197"/>
@@ -995,7 +995,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="207"/>
         <source>RESET_COLORS</source>
-        <translation>Farben zurьcksetzen</translation>
+        <translation>Farben zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="229"/>
@@ -1045,7 +1045,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="288"/>
         <source>SKIP_REST</source>
-        <translation>Pause ьberspringen</translation>
+        <translation>Pause überspringen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="289"/>
@@ -1055,7 +1055,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="290"/>
         <source>STRICT</source>
-        <translation>Streng</translation>
+        <translation>Strikt</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="291"/>
@@ -1065,17 +1065,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="292"/>
         <source>REST_MODE</source>
-        <translation>Ruhemodus</translation>
+        <translation>Pausenmodus</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="293"/>
         <source>REST_MODE_MESSAGE</source>
-        <translation>Du bist jetzt im Ruhemodus. Bearbeite den Timer im Einstellungsfeld.</translation>
+        <translation>Du bist jetzt im Pausenmodus. Bearbeite den Timer im Einstellungsfeld.</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="294"/>
         <source>TIME_IS</source>
-        <translation>Die Zeit ist</translation>
+        <translation>Aktuelle Uhrzeit</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="297"/>
@@ -1090,7 +1090,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="206"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
-        <translation>Einstellungen zurьcksetzen</translation>
+        <translation>Einstellungen auf Standardwerte zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="209"/>
@@ -1100,7 +1100,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="210"/>
         <source>ADVANCED_SOUNDS</source>
-        <translation>Tцne</translation>
+        <translation>Töne</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="211"/>
@@ -1110,28 +1110,28 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="212"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
-        <translation>Timer pausiert</translation>
+        <translation>Timer-Pausen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="214"/>
         <source>ADVANCED_SCREEN_OVERLAY</source>
-        <translation>Bildschirmauflage</translation>
+        <translation>Bildschirmmaske</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="215"/>
         <source>OVERLAY_COLOR</source>
-        <translation>Farbe ьberlagern</translation>
+        <translation>Farbe überlagern</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="124"/>
         <location filename="../../src/translation/Translator.cpp" line="216"/>
         <source>GREEN</source>
-        <translation>Grьn</translation>
+        <translation>Grün</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="217"/>
         <source>TURQUOISE</source>
-        <translation>Tьrkis</translation>
+        <translation>Türkis</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="125"/>
@@ -1203,12 +1203,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="235"/>
         <source>SELECT_SCREEN_AREA</source>
-        <translation>Wдhle den Bildschirmbereich</translation>
+        <translation>Wähle den Bildschirmbereich</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="236"/>
         <source>RESET_SELECTED_AREA</source>
-        <translation>Ausgewдhlten Bereich zurьcksetzen</translation>
+        <translation>Ausgewählten Bereich zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="237"/>
@@ -1233,7 +1233,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="246"/>
         <source>SHOW_BLINK_SCREEN</source>
-        <translation>Blinzelanzeige цffnen</translation>
+        <translation>Blinzelanzeige öffnen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="247"/>
@@ -1243,22 +1243,22 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="249"/>
         <source>ADVANCED_EXERCISES</source>
-        <translation>Ьbungen</translation>
+        <translation>Übungen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="250"/>
         <source>START_EYE_EXERCISES</source>
-        <translation>Beginne Augenьbungen</translation>
+        <translation>Beginne mit Augenübungen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="251"/>
         <source>START_NECK_EXERCISES</source>
-        <translation>Beginne Nackenьbungen</translation>
+        <translation>Beginne mit Nackenübungen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="252"/>
         <source>START_BACK_EXERCISES</source>
-        <translation>Mit Ьbungen erneut beginnen</translation>
+        <translation>Mit Übungen erneut beginnen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="254"/>
@@ -1333,7 +1333,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="271"/>
         <source>TURKISH</source>
-        <translation>Tьrkisch</translation>
+        <translation>Türkisch</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="272"/>
@@ -1343,7 +1343,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="273"/>
         <source>FRENCH</source>
-        <translation>Franzцsisch</translation>
+        <translation>Französisch</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="274"/>
@@ -1412,7 +1412,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="78"/>
         <source>&amp;Manual</source>
-        <translation>Handbuch</translation>
+        <translation>Manuell</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="82"/>
@@ -1422,7 +1422,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="86"/>
         <source>&amp;Change mode</source>
-        <translation>Дnderungsmodus</translation>
+        <translation>Änderungsmodus</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="102"/>
@@ -1464,7 +1464,7 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/components/TrayIcon.cpp" line="126"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
         <source>&amp;Overlay</source>
-        <translation>Ьberlagern</translation>
+        <translation>Überlagern</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="143"/>
