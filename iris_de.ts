@@ -212,7 +212,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="241"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation type="unfinished">. Bist Du vielleicht nicht mit dem Internet verbunden?</translation>
+        <translation>. Bist Du vielleicht nicht mit dem Internet verbunden?</translation>
     </message>
     <message>
         <source>Maybe you are not connected to the internet?</source>
@@ -674,7 +674,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="135"/>
         <source>ADVANCED_MANAGE_MONITORS</source>
-        <translation>Monitor-VerwaltungMonitor-Verwaltung</translation>
+        <translation>Monitor-Verwaltung</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="136"/>
@@ -1218,7 +1218,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="239"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
-        <translation>Kьnstliche Intelligenz (KI)</translation>
+        <translation>Künstliche Intelligenz (KI)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="240"/>
@@ -1373,7 +1373,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="281"/>
         <source>ADVANCED_ABOUT</source>
-        <translation>Ьber</translation>
+        <translation>Über</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="282"/>
