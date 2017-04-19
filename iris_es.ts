@@ -100,7 +100,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
         <location filename="../../src/licensing/License.cpp" line="113"/>
         <source>Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>¡Muchas gracias por apoyar a Iris! Unesdoc.unesco.org unesdoc.unesco.org
+        <translation>¡Muchas gracias por apoyar a Iris!  :)
 Vea sus nuevas opciones en la vista avanzada.</translation>
     </message>
     <message>
@@ -160,7 +160,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="180"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>Activación de licencia de equipo. ¡Muchas gracias por apoyar a Iris! Unesdoc.unesco.org unesdoc.unesco.org
+        <translation>Activación de licencia de equipo. ¡Muchas gracias por apoyar a Iris! :)
 Vea sus nuevas opciones en la vista avanzada.</translation>
     </message>
     <message>
