@@ -108,12 +108,12 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="127"/>
         <source>License Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Лицензът е изтекъл</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="128"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation type="unfinished"></translation>
+        <translation>Твоят лиценз за Iris Pro е изтекъл. Можеш да си купиш нов активационен код от</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="140"/>
@@ -599,27 +599,27 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="105"/>
         <source>ADVANCED_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Синя светлина</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="106"/>
         <source>DAY_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Дневна светлина</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Нощна светлина</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="109"/>
         <source>MANUAL_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Ръчна светлина</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="110"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Изчисти</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="114"/>
@@ -1445,76 +1445,81 @@ http://iristech.co/iris-mini</source>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="75"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="379"/>
         <source>&amp;Automatic</source>
         <translation>Автоматичен</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="79"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="380"/>
         <source>&amp;Manual</source>
         <translation>Ръчен</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="83"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="381"/>
         <source>&amp;Paused</source>
         <translation>Спрян</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="87"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
         <source>&amp;Change mode</source>
         <translation>Смени режим</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="103"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="376"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="383"/>
         <source>&amp;Health</source>
         <translation>Здравословен</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="107"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="384"/>
         <source>&amp;Sleep</source>
         <translation>Сън</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="111"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="378"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="385"/>
         <source>&amp;Reading</source>
         <translation>Четене</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="115"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="379"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="386"/>
         <source>&amp;Programming</source>
         <translation>Програмиране</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="119"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="380"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="387"/>
         <source>&amp;Biohacker</source>
         <translation>Биохакер</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="123"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="381"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="388"/>
         <source>&amp;Movie</source>
         <translation>Гледане на филм</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="127"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="382"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="389"/>
         <source>&amp;Overlay</source>
         <translation>Наслоен</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="147"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="386"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="393"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Изход</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="192"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="378"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <source>Pause %1</source>
@@ -1538,7 +1543,7 @@ http://iristech.co/iris-mini</source>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="145"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="384"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="391"/>
         <source>Exit</source>
         <translation>Изход</translation>
     </message>
@@ -1592,17 +1597,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation type="unfinished"></translation>
+        <translation>Въведи заклинание:</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -1611,12 +1616,12 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>

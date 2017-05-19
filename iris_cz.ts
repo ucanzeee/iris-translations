@@ -1443,74 +1443,79 @@ http://iristech.co/iris-mini</source>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="75"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="379"/>
         <source>&amp;Automatic</source>
         <translation>Automaticky</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="79"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="380"/>
         <source>&amp;Manual</source>
         <translation>Ručně</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="83"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="381"/>
         <source>&amp;Paused</source>
         <translation>Pozastaveno</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="87"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
         <source>&amp;Change mode</source>
         <translation>Změna režimu</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="103"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="376"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="383"/>
         <source>&amp;Health</source>
         <translation>Zdraví</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="107"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="384"/>
         <source>&amp;Sleep</source>
         <translation>Spánek</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="111"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="378"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="385"/>
         <source>&amp;Reading</source>
         <translation>Čtení</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="115"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="379"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="386"/>
         <source>&amp;Programming</source>
         <translation>Programování</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="119"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="380"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="387"/>
         <source>&amp;Biohacker</source>
         <translation>Nadšenec do biorytmů</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="123"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="381"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="388"/>
         <source>&amp;Movie</source>
         <translation>Sledování filmu</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="127"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="382"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="389"/>
         <source>&amp;Overlay</source>
         <translation>Část obrazovky</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="147"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="386"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="393"/>
         <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="192"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="378"/>
         <source>Mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1540,7 +1545,7 @@ http://iristech.co/iris-mini</source>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="145"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="384"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="391"/>
         <source>Exit</source>
         <translation>Ukončit</translation>
     </message>

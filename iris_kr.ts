@@ -1442,80 +1442,85 @@ http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="75"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="379"/>
         <source>&amp;Automatic</source>
         <translation>오토매틱</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="79"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="380"/>
         <source>&amp;Manual</source>
         <translation>조작</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="83"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="381"/>
         <source>&amp;Paused</source>
         <translation>일시 중지됨</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="87"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
         <source>&amp;Change mode</source>
         <translation>모드 변경</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="103"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="376"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="383"/>
         <source>&amp;Health</source>
         <translation>건강</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="107"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="384"/>
         <source>&amp;Sleep</source>
         <translation>자다</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="111"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="378"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="385"/>
         <source>&amp;Reading</source>
         <translation>독서</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="115"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="379"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="386"/>
         <source>&amp;Programming</source>
         <translation>프로그램 작성</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="119"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="380"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="387"/>
         <source>&amp;Biohacker</source>
         <translation>바이오 해커</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="123"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="381"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="388"/>
         <source>&amp;Movie</source>
         <translation>영화</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="127"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="382"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="389"/>
         <source>&amp;Overlay</source>
         <translation>위에 까는 것</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="145"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="384"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="391"/>
         <source>Exit</source>
         <translation>출구</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="147"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="386"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="393"/>
         <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="192"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="378"/>
         <source>Mode</source>
         <translation type="unfinished"></translation>
     </message>
