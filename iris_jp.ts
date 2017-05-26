@@ -92,6 +92,423 @@ Note that Iris will work fine now, but with limited color changes.</source>
     </message>
 </context>
 <context>
+    <name>HiddenFeatures</name>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="276"/>
+        <source>Invalid spell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="277"/>
+        <source>The spell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="279"/>
+        <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="280"/>
+        <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="303"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="326"/>
+        <source>Invalid temperature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="306"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="329"/>
+        <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="313"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="336"/>
+        <source>Temperature changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="314"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="337"/>
+        <source>Color temperature changed to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="349"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="372"/>
+        <source>Invalid brightness</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="352"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="375"/>
+        <source>is invalid value for Brightness. Use number between 10 and 100.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="359"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="382"/>
+        <source>Brightness changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="360"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="383"/>
+        <source>Brightness changed to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="412"/>
+        <source>Gamma fixer disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="413"/>
+        <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="418"/>
+        <source>Gamma fixer enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="419"/>
+        <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="449"/>
+        <source>Start at startup enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="450"/>
+        <source>Iris mini will start when you turn ON your computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="455"/>
+        <source>Start at startup disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="456"/>
+        <source>Iris mini will not start when you turn ON your computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="485"/>
+        <source>Tray icon rotation is enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
+        <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="491"/>
+        <source>Tray icon rotation is disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="492"/>
+        <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="503"/>
+        <source>Manual temperature enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="504"/>
+        <source>You are now using Iris Mixed mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
+        <source>Manual temperature disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
+        <source>Iris will use your selected mode for temperature again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="521"/>
+        <source>Manual brightness enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
+        <source>You are now using Iris mini Mixed mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="527"/>
+        <source>Manual brightness disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="528"/>
+        <source>Iris mini will use your selected mode for brightness again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="540"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
+        <source>Monitor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="541"/>
+        <source> disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="542"/>
+        <source>Iris will not apply color changes to Monitor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="549"/>
+        <source> enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="550"/>
+        <source>Iris will apply color changes to Monitor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
+        <source>Reset colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="562"/>
+        <source>Screen colors are reset to default values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="571"/>
+        <source>Reset settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="572"/>
+        <source>Iris settings are reset to default values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="582"/>
+        <source>Invert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="583"/>
+        <source>Colors are inverted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="593"/>
+        <source>Zero blue light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="594"/>
+        <source>All blue light is removed from the screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="605"/>
+        <source>Gamma preservation enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="606"/>
+        <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="611"/>
+        <source>Gamma preservation disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="612"/>
+        <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
+        <source>Notifications enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
+        <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
+        <source>Notifications disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
+        <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="662"/>
+        <source>Manual location enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="663"/>
+        <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="668"/>
+        <source>Manual location disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="669"/>
+        <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="681"/>
+        <source>Manual night duration enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
+        <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="687"/>
+        <source>Manual night duration disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="688"/>
+        <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="699"/>
+        <source>Invalid Night start time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="702"/>
+        <source>is invalid value for Night start time. Use number between 0 and 24.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="709"/>
+        <source>Night start time changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="710"/>
+        <source>Manual night start time changed to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
+        <source>Invalid Night end time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="725"/>
+        <source>is invalid value for Night end time. Use number between 0 and 24.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="732"/>
+        <source>Night end time changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="733"/>
+        <source>Manual night end time changed to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="744"/>
+        <source>Latitude changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
+        <source>Latitude changed to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="755"/>
+        <source>Longitude changed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
+        <source>Longitude changed to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="765"/>
+        <source>Software cursor enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="766"/>
+        <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="774"/>
+        <source>Hardware cursor enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="775"/>
+        <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="788"/>
+        <source>Conflicting applications enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="789"/>
+        <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="794"/>
+        <source>Conflicting applications disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="795"/>
+        <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>License</name>
     <message>
         <location filename="../../src/licensing/License.cpp" line="110"/>
@@ -110,7 +527,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="127"/>
         <source>License Expired</source>
-        <translation>ライセンスが失効しました</translation>
+        <translation>ライセンスの有効期限が切れました</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="128"/>
@@ -149,12 +566,12 @@ See your new options in the advanced view.</source>
     </message>
     <message>
         <source>No giveway</source>
-        <translation type="vanished">アクティベーションコードは移管できません</translation>
+        <translation type="vanished">移管できません</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="170"/>
         <source>No giveaway</source>
-        <translation>プレゼントなし</translation>
+        <translation>プレゼントはありません</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="171"/>
@@ -251,67 +668,67 @@ http://iristech.co/iris-mini</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="604"/>
+        <location filename="../../src/MainWindow.cpp" line="610"/>
         <source>until</source>
         <translation>まで</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="616"/>
+        <location filename="../../src/MainWindow.cpp" line="622"/>
         <source>rest</source>
         <translation>残り</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="638"/>
+        <location filename="../../src/MainWindow.cpp" line="644"/>
         <source>work</source>
         <translation>起動</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="721"/>
+        <location filename="../../src/MainWindow.cpp" line="727"/>
         <source>Paused</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1152"/>
+        <location filename="../../src/MainWindow.cpp" line="1158"/>
         <source>Iris Pro needed</source>
-        <translation>本機能を使用するには製品版をご購入いただく必要があります</translation>
+        <translation>本機能を使用するには製品版をが必要です</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1153"/>
+        <location filename="../../src/MainWindow.cpp" line="1159"/>
         <source>You need Iris Pro to access this section.</source>
         <translatorcomment>Ignore this error.There is no problem with this Japanese sentence.</translatorcomment>
         <translation>この機能は製品版のみ利用可能です。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1627"/>
+        <location filename="../../src/MainWindow.cpp" line="1636"/>
         <source>Relaunch Iris</source>
-        <translation>アイリスを再開</translation>
+        <translation>プログラムの再起動</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1628"/>
+        <location filename="../../src/MainWindow.cpp" line="1637"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation>あなたは変更を有効にするためにアイリスを再起動する必要があります。</translation>
+        <translation>あなたは変更を有効にするためにプログラムを再起動する必要があります。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1630"/>
+        <location filename="../../src/MainWindow.cpp" line="1639"/>
         <source>Relaunch now</source>
-        <translation>今すぐリニューアル</translation>
+        <translation>今すぐ再起動</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1631"/>
+        <location filename="../../src/MainWindow.cpp" line="1640"/>
         <source>Later</source>
         <translation>後で</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1647"/>
-        <location filename="../../src/MainWindow.cpp" line="1712"/>
+        <location filename="../../src/MainWindow.cpp" line="1656"/>
+        <location filename="../../src/MainWindow.cpp" line="1721"/>
         <source>Restart is needed</source>
         <translation>再起動が必要です</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1648"/>
-        <location filename="../../src/MainWindow.cpp" line="1712"/>
+        <location filename="../../src/MainWindow.cpp" line="1657"/>
+        <location filename="../../src/MainWindow.cpp" line="1721"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>はシステムにいくつかの変更を加え、変更を有効にするには再起動が必要です。</translation>
+        <translation>システム設定の変更をしました。変更を有効にするには再起動が必要です。</translation>
     </message>
 </context>
 <context>
@@ -409,12 +826,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="185"/>
         <source> until rest</source>
-        <translation>休憩まで</translation>
+        <translation>後に休憩時間</translation>
     </message>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="199"/>
         <source> until work</source>
-        <translation>作業開始まで</translation>
+        <translation>後に休憩終了</translation>
     </message>
 </context>
 <context>
@@ -427,7 +844,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="67"/>
         <source>IRIS_TYPE</source>
-        <translation>推奨タイプ</translation>
+        <translation>タイプ選択</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="63"/>
@@ -477,7 +894,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="74"/>
         <source>OVERLAY_MODE</source>
-        <translation>オーバーレイ設定</translation>
+        <translation>オーバーレイ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="76"/>
@@ -538,7 +955,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="89"/>
         <source>IRIS_LOCATION</source>
-        <translation>ロケーション</translation>
+        <translation>位置情報</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="90"/>
@@ -553,7 +970,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="94"/>
         <source>ADVANCED_SETTINGS_TITLE</source>
-        <translation>タイトル</translation>
+        <translation>タイトル設定</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="96"/>
@@ -586,7 +1003,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="101"/>
         <source>RESET_TEMPERATURE</source>
-        <translation>色温度設定の解除</translation>
+        <translation>色温度設定解除</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="102"/>
@@ -603,27 +1020,27 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="105"/>
         <source>ADVANCED_BLUE_LIGHT</source>
-        <translation>青色光</translation>
+        <translation>ブルーライト設定</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="106"/>
         <source>DAY_BLUE_LIGHT</source>
-        <translation>日光</translation>
+        <translation>日中のブルーライト</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation>夜の光</translation>
+        <translation>夜間のブルーライト</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="109"/>
         <source>MANUAL_BLUE_LIGHT</source>
-        <translation>マニュアルライト</translation>
+        <translation>手動設定</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="110"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation>リセット</translation>
+        <translation>設定の解除</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="114"/>
@@ -657,22 +1074,22 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="127"/>
         <source>IRIS</source>
-        <translation>Iris</translation>
+        <translation>Iris（アイリス）</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="128"/>
         <source>MAGMUS</source>
-        <translation>Magmus</translation>
+        <translation>Magmus（マグマス）</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="129"/>
         <source>OLAF</source>
-        <translation>Olaf</translation>
+        <translation>Olaf（オラフ）</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="130"/>
         <source>GROOT</source>
-        <translation>Groot</translation>
+        <translation>Groot（グルート）</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="131"/>
@@ -682,7 +1099,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="136"/>
         <source>ADVANCED_LOCATION</source>
-        <translation>ロケーション設定</translation>
+        <translation>位置情報設定</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="137"/>
@@ -742,7 +1159,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="150"/>
         <source>ADVANCED_SCREEN_EFFECTS</source>
-        <translation>スクリーン効果</translation>
+        <translation>スクリーン効果設定</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="151"/>
@@ -913,22 +1330,22 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="185"/>
         <source>FONT_SMOOTHING_LIGHT</source>
-        <translation>フォントスムージングライト</translation>
+        <translation>font smoothing：低</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="186"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
-        <translation>フォントスムージング媒体</translation>
+        <translation>font smoothing：中</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="187"/>
         <source>FONT_SMOOTHING_HIGH</source>
-        <translation>フォントスムージングが高い</translation>
+        <translation>font smoothing：高</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="189"/>
         <source>ADVANCED_MAGNIFICATION</source>
-        <translation>倍率</translation>
+        <translation>拡大縮小表示</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="190"/>
@@ -963,7 +1380,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="198"/>
         <source>BREAK_EVERY</source>
-        <translation>休憩までの時間</translation>
+        <translation>作業と休憩時間</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="199"/>
@@ -993,12 +1410,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="205"/>
         <source>USE_MOUSE_INACTIVITY</source>
-        <translation>マウス停止時、作業時間を停止</translation>
+        <translation>マウス停止時、作業時間も停止</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="206"/>
         <source>BLOCK_KEYBOARD</source>
-        <translation>シビアモードはキーボード操作不可</translation>
+        <translation>シビアモードでキーボードを無効にする</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="207"/>
@@ -1043,7 +1460,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="216"/>
         <source>RESET_COLORS</source>
-        <translation>色設定を戻す</translation>
+        <translation>色設定を解除</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="218"/>
@@ -1058,52 +1475,52 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="220"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
-        <translation>カラー・ポーズ</translation>
+        <translation>カラー調整の一時停止設定</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="221"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
-        <translation>タイマー・ポーズ</translation>
+        <translation>タイマーの一時停止設定</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="223"/>
         <source>ADVANCED_SCREEN_OVERLAY</source>
-        <translation>スクリーンオーバーレイ</translation>
+        <translation>スクリーン・オーバーレイ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="224"/>
         <source>OVERLAY_COLOR</source>
-        <translation>オーバーレイカラー</translation>
+        <translation>フィルタの色選択</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="238"/>
         <source>DAY_OPACITY</source>
-        <translation>日の不透明度</translation>
+        <translation>日中の不透明度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="239"/>
         <source>NIGHT_OPACITY</source>
-        <translation>夜の不透明度</translation>
+        <translation>夜間の不透明度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="241"/>
         <source>DAY_DIM</source>
-        <translation>昼間は暗い</translation>
+        <translation>日中の暗さ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="242"/>
         <source>NIGHT_DIM</source>
-        <translation>ナイトディム</translation>
+        <translation>夜間の暗さ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="251"/>
         <source>USE_SMART_BRIGHTNESS</source>
-        <translation>スマートな明るさを使用する</translation>
+        <translation>スマートブライトネスを使用する</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="252"/>
         <source>USE_SMART_INVERSION</source>
-        <translation>スマートインバージョンを使う</translation>
+        <translation>スマートインバージョンを使用する</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="253"/>
@@ -1118,7 +1535,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="288"/>
         <source>CZECH</source>
-        <translation>チェコ語</translation>
+        <translation>čeština(Czech)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="297"/>
@@ -1138,7 +1555,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="300"/>
         <source>CONTINUE</source>
-        <translation>継続</translation>
+        <translation>コンティニュー</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="301"/>
@@ -1158,12 +1575,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="306"/>
         <source>START_WORKING</source>
-        <translation>作業開始まで</translation>
+        <translation>作業開始までの時間</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="307"/>
         <source>HAVE_A_BREAK</source>
-        <translation>休憩まで</translation>
+        <translation>休憩までの時間</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="133"/>
@@ -1236,7 +1653,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="240"/>
         <source>SCREEN_DIM</source>
-        <translation>スクリーンDIM</translation>
+        <translation>画面の暗さ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="243"/>
@@ -1246,7 +1663,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="244"/>
         <source>SELECT_SCREEN_AREA</source>
-        <translation>画面領域を指定</translation>
+        <translation>画面領域の指定</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="245"/>
@@ -1341,77 +1758,77 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="273"/>
         <source>ENGLISH</source>
-        <translation>英語</translation>
+        <translation>English</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="274"/>
         <source>RUSSIAN</source>
-        <translation>ロシア語</translation>
+        <translation>русский(Russian)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="275"/>
         <source>SPANISH</source>
-        <translation>スペイン語</translation>
+        <translation>Español(Spanish)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="276"/>
         <source>CHINESE</source>
-        <translation>中国語</translation>
+        <translation>汉语(Chinese)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="277"/>
         <source>INDIAN</source>
-        <translation>ヒンディー語</translation>
+        <translation>हिन्दी(Hindi)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="278"/>
         <source>JAPANESE</source>
-        <translation>日本語</translation>
+        <translation>日本語(Japanese)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="279"/>
         <source>ARABIC</source>
-        <translation>アラビア語</translation>
+        <translation>Arabic</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="280"/>
         <source>TURKISH</source>
-        <translation>トルコ語</translation>
+        <translation>Türkçe(Turkish)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="281"/>
         <source>PORTUGUESE</source>
-        <translation>ポルトガル語</translation>
+        <translation>Português(Portuguese)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="282"/>
         <source>FRENCH</source>
-        <translation>フランス語</translation>
+        <translation>Français(French)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="283"/>
         <source>GERMAN</source>
-        <translation>ドイツ語</translation>
+        <translation>Deutsch(German)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="284"/>
         <source>KOREAN</source>
-        <translation>韓国語</translation>
+        <translation>한국어(Korean)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="285"/>
         <source>ITALIAN</source>
-        <translation>イタリア語</translation>
+        <translation>Italiano(Itarian)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="286"/>
         <source>BULGARIAN</source>
-        <translation>ブルガリア語</translation>
+        <translation>български(Bulgarian)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="287"/>
         <source>GREEK</source>
-        <translation>ギリシャ語</translation>
+        <translation>Ελληνικά(Greek)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="290"/>
@@ -1443,85 +1860,85 @@ http://iristech.co/iris-mini</source>
     <name>TrayIcon</name>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="66"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="375"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="376"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="75"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="379"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="380"/>
         <source>&amp;Automatic</source>
-        <translation>自動</translation>
+        <translation>自動(&amp;A)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="79"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="380"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="381"/>
         <source>&amp;Manual</source>
-        <translation>マニュアル</translation>
+        <translation>マニュアル(&amp;M)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="83"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="381"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="382"/>
         <source>&amp;Paused</source>
-        <translation>一時停止中</translation>
+        <translation>一時停止(&amp;P)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="87"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="377"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="378"/>
         <source>&amp;Change mode</source>
-        <translation>モードを変更する</translation>
+        <translation>モードを変更(&amp;C)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="103"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="383"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="384"/>
         <source>&amp;Health</source>
-        <translation>健康</translation>
+        <translation>健康(&amp;H)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="107"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="384"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="385"/>
         <source>&amp;Sleep</source>
-        <translation>睡眠</translation>
+        <translation>睡眠誘導(&amp;S)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="111"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="385"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="386"/>
         <source>&amp;Reading</source>
-        <translation>読書</translation>
+        <translation>読書(&amp;R)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="115"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="386"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="387"/>
         <source>&amp;Programming</source>
-        <translation>プログラミング</translation>
+        <translation>プログラマー(&amp;P)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="119"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="387"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="388"/>
         <source>&amp;Biohacker</source>
-        <translation>バイオハッカー</translation>
+        <translation>バイオリズム自動調整(&amp;B)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="123"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="388"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="389"/>
         <source>&amp;Movie</source>
-        <translation>映画</translation>
+        <translation>映画鑑賞(&amp;M)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="127"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="389"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="390"/>
         <source>&amp;Overlay</source>
-        <translation>オーバーレイ</translation>
+        <translation>オーバーレイ(&amp;O)</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="147"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="393"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="394"/>
         <source>Quit</source>
         <translation>終了する</translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="192"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="378"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="379"/>
         <source>Mode</source>
         <translation>モード</translation>
     </message>
@@ -1551,7 +1968,7 @@ http://iristech.co/iris-mini</source>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="145"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="391"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="392"/>
         <source>Exit</source>
         <translation>終了</translation>
     </message>
@@ -1602,12 +2019,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation>あなたの呪文を入力してください：</translation>
+        <translation>入力してください:</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation>はい</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1621,7 +2038,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation>はい</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
