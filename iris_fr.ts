@@ -647,6 +647,21 @@ Http://iristech.co/iris-mini</translation>
     </message>
 </context>
 <context>
+    <name>LightnessScreen</name>
+    <message>
+        <location filename="../../ui/lightness_screen.ui" line="14"/>
+        <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/lightness_screen.ui" line="39"/>
+        <location filename="../../ui/webkit/lightness_screen.ui" line="39"/>
+        <source>qrc:/html/lightness_screen.html</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainScreen</name>
     <message>
         <location filename="../../ui/main_screen.ui" line="19"/>
@@ -665,65 +680,65 @@ Http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="650"/>
+        <location filename="../../src/MainWindow.cpp" line="645"/>
         <source>until</source>
         <translatorcomment>Need context to be sure of translation</translatorcomment>
         <translation>jusqu&apos;à</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="662"/>
+        <location filename="../../src/MainWindow.cpp" line="657"/>
         <source>rest</source>
         <translation>pause</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="684"/>
+        <location filename="../../src/MainWindow.cpp" line="679"/>
         <source>work</source>
         <translation>travail</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="767"/>
+        <location filename="../../src/MainWindow.cpp" line="762"/>
         <source>Paused</source>
         <translation>Suspendu</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1421"/>
+        <location filename="../../src/MainWindow.cpp" line="1547"/>
         <source>Iris Pro needed</source>
         <translation>Nécessite la version Pro d&apos;Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1422"/>
+        <location filename="../../src/MainWindow.cpp" line="1548"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>Cette partie est réservée à la version Pro d&apos;Iris.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1912"/>
+        <location filename="../../src/MainWindow.cpp" line="2070"/>
         <source>Relaunch Iris</source>
         <translation>Relancer Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1913"/>
+        <location filename="../../src/MainWindow.cpp" line="2071"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>Vous devez relancer Iris pour que les modifications prennent effet.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1915"/>
+        <location filename="../../src/MainWindow.cpp" line="2073"/>
         <source>Relaunch now</source>
         <translation>Relancer maintenant</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1916"/>
+        <location filename="../../src/MainWindow.cpp" line="2074"/>
         <source>Later</source>
         <translation>Plus tard</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1932"/>
-        <location filename="../../src/MainWindow.cpp" line="1997"/>
+        <location filename="../../src/MainWindow.cpp" line="2090"/>
+        <location filename="../../src/MainWindow.cpp" line="2155"/>
         <source>Restart is needed</source>
         <translation>Un redémarrage est nécessaire</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1933"/>
-        <location filename="../../src/MainWindow.cpp" line="1997"/>
+        <location filename="../../src/MainWindow.cpp" line="2091"/>
+        <location filename="../../src/MainWindow.cpp" line="2155"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris a apporté quelques modifications sur votre système et le redémarrage est nécessaire pour que les modifications prennent effet.</translation>
     </message>
@@ -841,7 +856,7 @@ Http://iristech.co/iris-mini</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="108"/>
+        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="109"/>
         <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1941,91 +1956,97 @@ Http://iristech.co/iris-mini</translation>
     <name>TrayIcon</name>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="67"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="399"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="405"/>
         <source>Settings</source>
         <translation>Réglages</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="76"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="403"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="409"/>
         <source>&amp;Automatic</source>
         <translation>Automatique</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="80"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="404"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="410"/>
         <source>&amp;Manual</source>
         <translation>Manuel</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="84"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="405"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="411"/>
         <source>&amp;Paused</source>
         <translation>En pause</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="88"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="401"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="407"/>
         <source>&amp;Change mode</source>
         <translation>Changer le mode</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="104"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="407"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="413"/>
         <source>&amp;Health</source>
         <translation>Santé</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="108"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="408"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="414"/>
         <source>&amp;Sleep</source>
         <translation>Dormir</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="409"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="415"/>
         <source>&amp;Reading</source>
         <translation>Lecture</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="410"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="416"/>
         <source>&amp;Programming</source>
         <translation>Programmation</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="120"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="411"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="417"/>
         <source>&amp;Biohacker</source>
         <translation>Biohacker</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="412"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="418"/>
         <source>&amp;Sunglasses</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="413"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="419"/>
+        <source>&amp;Dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="132"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="420"/>
         <source>&amp;Movie</source>
         <translation>Film</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="132"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="414"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="136"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="421"/>
         <source>&amp;Overlay</source>
         <translation>Recouvrir</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="153"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="418"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="158"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="425"/>
         <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="198"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="402"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="203"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="408"/>
         <source>Mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2053,8 +2074,8 @@ Http://iristech.co/iris-mini</translation>
         <translation type="vanished">Code d&apos;activation</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="151"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="416"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="156"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="423"/>
         <source>Exit</source>
         <translation>Quitter</translation>
     </message>

@@ -523,12 +523,12 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="131"/>
         <source>License Expired</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="132"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="144"/>
@@ -645,6 +645,21 @@ http://iristech.co/iris-mini</translation>
     </message>
 </context>
 <context>
+    <name>LightnessScreen</name>
+    <message>
+        <location filename="../../ui/lightness_screen.ui" line="14"/>
+        <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/lightness_screen.ui" line="39"/>
+        <location filename="../../ui/webkit/lightness_screen.ui" line="39"/>
+        <source>qrc:/html/lightness_screen.html</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainScreen</name>
     <message>
         <location filename="../../ui/main_screen.ui" line="19"/>
@@ -662,64 +677,64 @@ http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="650"/>
+        <location filename="../../src/MainWindow.cpp" line="645"/>
         <source>until</source>
         <translation>直到</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="662"/>
+        <location filename="../../src/MainWindow.cpp" line="657"/>
         <source>rest</source>
         <translation>休息</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="684"/>
+        <location filename="../../src/MainWindow.cpp" line="679"/>
         <source>work</source>
         <translation>工作</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="767"/>
+        <location filename="../../src/MainWindow.cpp" line="762"/>
         <source>Paused</source>
         <translation>暂停</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1421"/>
+        <location filename="../../src/MainWindow.cpp" line="1547"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro需要</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1422"/>
+        <location filename="../../src/MainWindow.cpp" line="1548"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>您需要Iris Pro才能访问此部分。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1912"/>
+        <location filename="../../src/MainWindow.cpp" line="2070"/>
         <source>Relaunch Iris</source>
         <translation>重新启动虹膜</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1913"/>
+        <location filename="../../src/MainWindow.cpp" line="2071"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>您需要重新启动Iris才能使更改生效。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1915"/>
+        <location filename="../../src/MainWindow.cpp" line="2073"/>
         <source>Relaunch now</source>
         <translation>现在重启</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1916"/>
+        <location filename="../../src/MainWindow.cpp" line="2074"/>
         <source>Later</source>
-        <translation>后来</translation>
+        <translation>稍后</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1932"/>
-        <location filename="../../src/MainWindow.cpp" line="1997"/>
+        <location filename="../../src/MainWindow.cpp" line="2090"/>
+        <location filename="../../src/MainWindow.cpp" line="2155"/>
         <source>Restart is needed</source>
         <translation>需要重新启动</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1933"/>
-        <location filename="../../src/MainWindow.cpp" line="1997"/>
+        <location filename="../../src/MainWindow.cpp" line="2091"/>
+        <location filename="../../src/MainWindow.cpp" line="2155"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>虹膜在您的系统上进行了一些更改，需要重新启动才能使更改生效。</translation>
     </message>
@@ -832,7 +847,7 @@ http://iristech.co/iris-mini</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="108"/>
+        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="109"/>
         <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
@@ -865,7 +880,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="64"/>
         <source>MANUAL_MODE</source>
-        <translation>手册</translation>
+        <translation>手动</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="65"/>
@@ -890,7 +905,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="70"/>
         <source>READING_MODE</source>
-        <translation>读</translation>
+        <translation>阅读</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="71"/>
@@ -1001,7 +1016,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="98"/>
         <source>DAY_TEMPERATURE</source>
-        <translation>日温度</translation>
+        <translation>白天温度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="99"/>
@@ -1041,27 +1056,27 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="106"/>
         <source>ADVANCED_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <source>DAY_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="108"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="110"/>
         <source>MANUAL_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="111"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="115"/>
@@ -1073,13 +1088,13 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/translation/Translator.cpp" line="116"/>
         <location filename="../../src/translation/Translator.cpp" line="122"/>
         <source>DAY_BRIGHTNESS</source>
-        <translation>日亮度</translation>
+        <translation>白天</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="117"/>
         <location filename="../../src/translation/Translator.cpp" line="123"/>
         <source>NIGHT_BRIGHTNESS</source>
-        <translation>夜间亮度</translation>
+        <translation>夜间</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="119"/>
@@ -1100,7 +1115,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="129"/>
         <source>MAGMUS</source>
-        <translation>魔土豆</translation>
+        <translation>玛格诺斯</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="130"/>
@@ -1110,7 +1125,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="131"/>
         <source>GROOT</source>
-        <translation>伟大</translation>
+        <translation>格鲁特</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="132"/>
@@ -1276,32 +1291,32 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="170"/>
         <source>PROTANOPIA</source>
-        <translation>普罗维素</translation>
+        <translation>红色盲</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="171"/>
         <source>PROTANOMALY</source>
-        <translation>突变体</translation>
+        <translation>红色弱</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="172"/>
         <source>DEUTERANOPIA</source>
-        <translation>脱盲症</translation>
+        <translation>绿色盲</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="173"/>
         <source>DEUTERANOMALY</source>
-        <translation>脱盲症</translation>
+        <translation>绿色弱</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="174"/>
         <source>TRITANOPIA</source>
-        <translation>三叉戟</translation>
+        <translation>蓝色盲</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="175"/>
         <source>TRITANOMALY</source>
-        <translation>三叉戟</translation>
+        <translation>蓝色弱</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
@@ -1351,17 +1366,17 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="186"/>
         <source>FONT_SMOOTHING_LIGHT</source>
-        <translation>字体平滑光</translation>
+        <translation>字体平滑：低</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="187"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
-        <translation>字体平滑介质</translation>
+        <translation>字体平滑：中</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="188"/>
         <source>FONT_SMOOTHING_HIGH</source>
-        <translation>字体平滑高</translation>
+        <translation>字体平滑：高</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="190"/>
@@ -1401,7 +1416,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="199"/>
         <source>BREAK_EVERY</source>
-        <translation>打破每一个</translation>
+        <translation>作息时间</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="200"/>
@@ -1426,7 +1441,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="205"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
-        <translation>关闭隐藏任务栏图标</translation>
+        <translation>最小化到系统托盘而不是任务栏</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="206"/>
@@ -1446,7 +1461,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="210"/>
         <source>ADVANCED_IRIS</source>
-        <translation>虹膜</translation>
+        <translation>IRIS</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="211"/>
@@ -1481,7 +1496,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="239"/>
         <source>DAY_OPACITY</source>
-        <translation>日不透明度</translation>
+        <translation>白天不透明度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="240"/>
@@ -1491,12 +1506,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="242"/>
         <source>DAY_DIM</source>
-        <translation>一天昏暗</translation>
+        <translation>白天昏暗</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="243"/>
         <source>NIGHT_DIM</source>
-        <translation>夜昏</translation>
+        <translation>夜间昏暗</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="252"/>
@@ -1628,7 +1643,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="230"/>
         <source>VIOLET</source>
-        <translation>紫色</translation>
+        <translation>紫罗兰</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="231"/>
@@ -1881,99 +1896,105 @@ http://iristech.co/iris-mini</translation>
     <name>TrayIcon</name>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="67"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="399"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="405"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="76"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="403"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="409"/>
         <source>&amp;Automatic</source>
         <translation>自动</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="80"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="404"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="410"/>
         <source>&amp;Manual</source>
-        <translation>手册</translation>
+        <translation>手动</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="84"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="405"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="411"/>
         <source>&amp;Paused</source>
         <translation>暂停</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="88"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="401"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="407"/>
         <source>&amp;Change mode</source>
         <translation>更改模式</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="104"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="407"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="413"/>
         <source>&amp;Health</source>
         <translation>健康</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="108"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="408"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="414"/>
         <source>&amp;Sleep</source>
         <translation>睡觉</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="409"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="415"/>
         <source>&amp;Reading</source>
-        <translation>读</translation>
+        <translation>阅读</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="410"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="416"/>
         <source>&amp;Programming</source>
         <translation>编程</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="120"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="411"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="417"/>
         <source>&amp;Biohacker</source>
         <translation>生物黑客</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="412"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="418"/>
         <source>&amp;Sunglasses</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="413"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="419"/>
+        <source>&amp;Dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="132"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="420"/>
         <source>&amp;Movie</source>
         <translation>电影</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="132"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="414"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="136"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="421"/>
         <source>&amp;Overlay</source>
         <translation>覆盖</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="151"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="416"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="156"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="423"/>
         <source>Exit</source>
-        <translation>出口</translation>
+        <translation>退出</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="153"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="418"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="158"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="425"/>
         <source>Quit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="198"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="402"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="203"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="408"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
