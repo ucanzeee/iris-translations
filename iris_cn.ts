@@ -523,12 +523,12 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="131"/>
         <source>License Expired</source>
-        <translation></translation>
+        <translation>许可证已过期</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="132"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation></translation>
+        <translation>您的虹膜 Pro 许可证已过期。您可以购买新的激活代码</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="144"/>
@@ -1016,12 +1016,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="98"/>
         <source>DAY_TEMPERATURE</source>
-        <translation>白天温度</translation>
+        <translation>白天</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="99"/>
         <source>NIGHT_TEMPERATURE</source>
-        <translation>夜间温度</translation>
+        <translation>夜间</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="100"/>
@@ -1034,7 +1034,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="101"/>
         <source>MANUAL_COLOR_SETTINGS</source>
-        <translation>手动颜色设置</translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="102"/>
@@ -1056,27 +1056,27 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="106"/>
         <source>ADVANCED_BLUE_LIGHT</source>
-        <translation></translation>
+        <translation>蓝光</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <source>DAY_BLUE_LIGHT</source>
-        <translation></translation>
+        <translation>白天</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="108"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation></translation>
+        <translation>夜间</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="110"/>
         <source>MANUAL_BLUE_LIGHT</source>
-        <translation></translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="111"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation></translation>
+        <translation>复位</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="115"/>
@@ -1100,7 +1100,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/translation/Translator.cpp" line="119"/>
         <location filename="../../src/translation/Translator.cpp" line="125"/>
         <source>MANUAL_BRIGHTNESS</source>
-        <translation>手动亮度</translation>
+        <translation>手动设置</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="127"/>
@@ -1326,7 +1326,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="177"/>
         <source>ACHROMATOMALY</source>
-        <translation>染色体</translation>
+        <translation>全色弱</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
@@ -1759,7 +1759,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="264"/>
         <source>ADVANCED_IRIS_MODEL</source>
-        <translation>虹膜模型</translation>
+        <translation>虹膜模式</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="265"/>
@@ -1958,7 +1958,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="418"/>
         <source>&amp;Sunglasses</source>
-        <translation></translation>
+        <translation>墨镜</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -1994,7 +1994,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="203"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="408"/>
         <source>Mode</source>
-        <translation></translation>
+        <translation>模式</translation>
     </message>
 </context>
 <context>
