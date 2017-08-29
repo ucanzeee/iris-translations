@@ -830,7 +830,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="978"/>
         <location filename="../../src/MainWindow.cpp" line="1088"/>
         <source>Sleep transition duration</source>
-        <translation></translation>
+        <translation>Sleep transition duration</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="984"/>

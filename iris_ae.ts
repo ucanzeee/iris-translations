@@ -527,12 +527,12 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="131"/>
         <source>License Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>الرخصة انتهت</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="132"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت صلاحية ترخيص إيريس برو. يمكنك شراء رمز تفعيل جديد من</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="144"/>
@@ -654,13 +654,13 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/lightness_screen.ui" line="14"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/lightness_screen.ui" line="39"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="39"/>
         <source>qrc:/html/lightness_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -704,168 +704,168 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="924"/>
         <location filename="../../src/MainWindow.cpp" line="1034"/>
         <source>Day start time</source>
-        <translation type="unfinished"></translation>
+        <translation>يوم بدء الوقت</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="926"/>
         <location filename="../../src/MainWindow.cpp" line="1036"/>
         <source>Day transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>يوم بدء وقت الانتقال</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="928"/>
         <location filename="../../src/MainWindow.cpp" line="1038"/>
         <source>Day transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>يوم نهاية وقت الانتقال</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="930"/>
         <location filename="../../src/MainWindow.cpp" line="1040"/>
         <source>Day end time</source>
-        <translation type="unfinished"></translation>
+        <translation>يوم نهاية الوقت</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="935"/>
         <location filename="../../src/MainWindow.cpp" line="1045"/>
         <source>Night start time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت بدء الليل</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="937"/>
         <location filename="../../src/MainWindow.cpp" line="1047"/>
         <source>Night transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت بدء الانتقال الليلي</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="939"/>
         <location filename="../../src/MainWindow.cpp" line="1049"/>
         <source>Night transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>ليلة نهاية وقت الانتقال</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="941"/>
         <location filename="../../src/MainWindow.cpp" line="1051"/>
         <source>Night end time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت نهاية الليل</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="946"/>
         <location filename="../../src/MainWindow.cpp" line="1056"/>
         <source>Bedtime</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت النوم</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="948"/>
         <location filename="../../src/MainWindow.cpp" line="1058"/>
         <source>Bedtime transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت بدء الانتقال وقت النوم</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="950"/>
         <location filename="../../src/MainWindow.cpp" line="1060"/>
         <source>Bedtime transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت االنتقال وقت االنتقال</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="952"/>
         <location filename="../../src/MainWindow.cpp" line="1062"/>
         <source>Bedtime end time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت نهاية النوم</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="957"/>
         <location filename="../../src/MainWindow.cpp" line="1067"/>
         <source>Wake time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت الاستيقاظ</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="959"/>
         <location filename="../../src/MainWindow.cpp" line="1069"/>
         <source>Wake time transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>ويك وقت الانتقال وقت البدء</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="961"/>
         <location filename="../../src/MainWindow.cpp" line="1071"/>
         <source>Wake time transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت الاستيقاظ وقت انتهاء الانتقال</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="963"/>
         <location filename="../../src/MainWindow.cpp" line="1073"/>
         <source>Wake time end time</source>
-        <translation type="unfinished"></translation>
+        <translation>استيقظ الوقت نهاية الوقت</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="968"/>
         <location filename="../../src/MainWindow.cpp" line="1078"/>
         <source>Day duration</source>
-        <translation type="unfinished"></translation>
+        <translation>يوم</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="970"/>
         <location filename="../../src/MainWindow.cpp" line="1080"/>
         <source>Day transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>يوم مدة الانتقال</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="972"/>
         <location filename="../../src/MainWindow.cpp" line="1082"/>
         <source>Night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>مدة الليل</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="974"/>
         <location filename="../../src/MainWindow.cpp" line="1084"/>
         <source>Night transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>مدة الانتقال الليلي</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="976"/>
         <location filename="../../src/MainWindow.cpp" line="1086"/>
         <source>Sleep duration</source>
-        <translation type="unfinished"></translation>
+        <translation>مدة النوم</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="978"/>
         <location filename="../../src/MainWindow.cpp" line="1088"/>
         <source>Sleep transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>مدة الانتقال من النوم</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="984"/>
         <source>Time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة زمنية</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="986"/>
         <source>Custom Time zone offset</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة المنطقة الزمنية المخصصة</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="991"/>
         <source>Sunrise time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت الشروق</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="993"/>
         <source>Sunset time</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت الغروب</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="998"/>
         <source>New moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>القمر الجديد تعويض</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1000"/>
         <source>Full moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>كامل القمر تعويض</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1002"/>
         <source>Current moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>القمر الحالي تعويض</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1579"/>
@@ -946,13 +946,13 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/overlay_screen.ui" line="14"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/overlay_screen.ui" line="39"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="39"/>
         <source>qrc:/html/overlay_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1005,22 +1005,22 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>تخطى</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="109"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>استمر</translation>
     </message>
 </context>
 <context>
@@ -1096,7 +1096,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="74"/>
         <source>DARK_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>داكن</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="75"/>
@@ -1232,27 +1232,32 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <source>ADVANCED_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>ضوء أزرق</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="108"/>
         <source>DAY_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>ضوء النهار</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="109"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Translate
+
+Night Light
+
+11/5000
+ضوء الليل</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="111"/>
         <source>MANUAL_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>ضوء يدوي</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="112"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="116"/>
@@ -1346,118 +1351,118 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="146"/>
         <source>ADVANCED_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="147"/>
         <source>DAY_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال اليوم</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="148"/>
         <source>NIGHT_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>الانتقال الليلي</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="149"/>
         <source>SLEEP_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>انتقال النوم</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="150"/>
         <source>PAUSE_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف مؤقت</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="151"/>
         <location filename="../../src/translation/Translator.cpp" line="156"/>
         <source>TRANSITION_TIMES</source>
-        <translation type="unfinished"></translation>
+        <translation>أوقات الانتقال</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="153"/>
         <source>ADVANCED_MOON</source>
-        <translation type="unfinished"></translation>
+        <translation>القمر</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="154"/>
         <source>FULL_MOON_OFFSET</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة القمر الكامل</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="155"/>
         <source>NEW_MOON_OFFSET</source>
-        <translation type="unfinished"></translation>
+        <translation>تعديل القمر الجديد</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="158"/>
         <source>ADVANCED_LIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>خفة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="159"/>
         <source>RADIUS</source>
-        <translation type="unfinished"></translation>
+        <translation>نصف القطر</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="161"/>
         <source>X_POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="162"/>
         <source>Y_POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="166"/>
         <source>ADVANCED_SLEEP</source>
-        <translation type="unfinished"></translation>
+        <translation>ينام</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="167"/>
         <source>SLEEP_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>ضوء النوم</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="168"/>
         <source>SLEEP_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>سطوع النوم</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="169"/>
         <source>BEDTIME</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت النوم</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="170"/>
         <source>WAKE_TIME</source>
-        <translation type="unfinished"></translation>
+        <translation>وقت الاستيقاظ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="172"/>
         <source>ADVANCED_REST_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation>بقية الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="173"/>
         <source>TYPE</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتب</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="174"/>
         <source>LITE</source>
-        <translation type="unfinished"></translation>
+        <translation>قليل الدسم</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="175"/>
         <source>SIMPLE</source>
-        <translation type="unfinished"></translation>
+        <translation>بسيط</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
         <source>STANDARD</source>
-        <translation type="unfinished"></translation>
+        <translation>اساسي</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
@@ -1788,12 +1793,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="257"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
-        <translation type="unfinished"></translation>
+        <translation>الماوس الماوس</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="258"/>
         <source>FULLSCREEN_APPS</source>
-        <translation type="unfinished"></translation>
+        <translation>تطبيقات ملء الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="275"/>
@@ -1843,17 +1848,17 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="327"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation>الميزات المخفية</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="328"/>
         <source>ENTER_YOUR_SPELL</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل توضيحك</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="329"/>
         <source>ACTIVATE</source>
-        <translation type="unfinished"></translation>
+        <translation>تفعيل</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="338"/>
@@ -1903,12 +1908,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="351"/>
         <source>ADD</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="352"/>
         <source>REMOVE</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="249"/>
@@ -2288,13 +2293,13 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="125"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="606"/>
         <source>&amp;Sunglasses</source>
-        <translation type="unfinished"></translation>
+        <translation>نظارات شمسيه</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="129"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="607"/>
         <source>&amp;Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>داكن</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="133"/>
@@ -2318,31 +2323,31 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="199"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="618"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>استقال</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="245"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="596"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>الوضع</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="254"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="611"/>
         <source>Color pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>اللون الأمازون</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="255"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="612"/>
         <source>Timer pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤقت الموقتات</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="256"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="613"/>
         <source>Mouse pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>الماوس الماوس</translation>
     </message>
 </context>
 <context>
@@ -2386,17 +2391,17 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation type="unfinished"></translation>
+        <translation>أدخل توضيحك</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>حسنا</translation>
     </message>
 </context>
 <context>
@@ -2405,12 +2410,12 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذير</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>حسنا</translation>
     </message>
 </context>
 <context>
