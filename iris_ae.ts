@@ -1242,12 +1242,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="109"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation>Translate
-
-Night Light
-
-11/5000
-ضوء الليل</translation>
+        <translation type="unfinished">ضوء الليل</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="111"/>

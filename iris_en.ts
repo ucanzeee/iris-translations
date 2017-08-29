@@ -405,7 +405,7 @@ Note that Iris will work fine now, but with limited color changes.</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation></translation>
+        <translation>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="711"/>
