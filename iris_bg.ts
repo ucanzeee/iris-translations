@@ -95,22 +95,22 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="288"/>
         <source>Invalid spell</source>
-        <translation type="unfinished"></translation>
+        <translation>Невалидно заклинание</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="289"/>
         <source>The spell</source>
-        <translation type="unfinished"></translation>
+        <translation>Заклинанието</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="291"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>изглежда грешно. Проверете синтаксиса или опитайте с някоя друга скрита функционалност.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="292"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Използвайте &quot;help&quot;, за да видите списък от всички скрити функционалности</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="315"/>
@@ -653,13 +653,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/lightness_screen.ui" line="14"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/lightness_screen.ui" line="39"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="39"/>
         <source>qrc:/html/lightness_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -703,168 +703,168 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/MainWindow.cpp" line="924"/>
         <location filename="../../src/MainWindow.cpp" line="1034"/>
         <source>Day start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало на деня</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="926"/>
         <location filename="../../src/MainWindow.cpp" line="1036"/>
         <source>Day transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало на дневната промяна</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="928"/>
         <location filename="../../src/MainWindow.cpp" line="1038"/>
         <source>Day transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на дневната промяна</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="930"/>
         <location filename="../../src/MainWindow.cpp" line="1040"/>
         <source>Day end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на деня</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="935"/>
         <location filename="../../src/MainWindow.cpp" line="1045"/>
         <source>Night start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало на нощта</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="937"/>
         <location filename="../../src/MainWindow.cpp" line="1047"/>
         <source>Night transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало на нощната промяна</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="939"/>
         <location filename="../../src/MainWindow.cpp" line="1049"/>
         <source>Night transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на нощната промяна</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="941"/>
         <location filename="../../src/MainWindow.cpp" line="1051"/>
         <source>Night end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на нощта</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="946"/>
         <location filename="../../src/MainWindow.cpp" line="1056"/>
         <source>Bedtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Време за сън</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="948"/>
         <location filename="../../src/MainWindow.cpp" line="1058"/>
         <source>Bedtime transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало на промяната на времето за сън</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="950"/>
         <location filename="../../src/MainWindow.cpp" line="1060"/>
         <source>Bedtime transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на промяната на времето за сън</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="952"/>
         <location filename="../../src/MainWindow.cpp" line="1062"/>
         <source>Bedtime end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на времето за сън</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="957"/>
         <location filename="../../src/MainWindow.cpp" line="1067"/>
         <source>Wake time</source>
-        <translation type="unfinished"></translation>
+        <translation>Време за събуждане</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="959"/>
         <location filename="../../src/MainWindow.cpp" line="1069"/>
         <source>Wake time transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Начало на промяната на времето за събуждане</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="961"/>
         <location filename="../../src/MainWindow.cpp" line="1071"/>
         <source>Wake time transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на промяната на времето за събуждане</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="963"/>
         <location filename="../../src/MainWindow.cpp" line="1073"/>
         <source>Wake time end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Край на времето за събуждане</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="968"/>
         <location filename="../../src/MainWindow.cpp" line="1078"/>
         <source>Day duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Продължителност на деня</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="970"/>
         <location filename="../../src/MainWindow.cpp" line="1080"/>
         <source>Day transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Продължителност на дневната промяна</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="972"/>
         <location filename="../../src/MainWindow.cpp" line="1082"/>
         <source>Night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Продължителност на нощта</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="974"/>
         <location filename="../../src/MainWindow.cpp" line="1084"/>
         <source>Night transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Продължителност на нощната промяна</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="976"/>
         <location filename="../../src/MainWindow.cpp" line="1086"/>
         <source>Sleep duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Продължителност на съня</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="978"/>
         <location filename="../../src/MainWindow.cpp" line="1088"/>
         <source>Sleep transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Продължителност на сънната промяна</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="984"/>
         <source>Time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Часова зона</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="986"/>
         <source>Custom Time zone offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Отместване на часовата зона</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="991"/>
         <source>Sunrise time</source>
-        <translation type="unfinished"></translation>
+        <translation>Изгрев</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="993"/>
         <source>Sunset time</source>
-        <translation type="unfinished"></translation>
+        <translation>Залез</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="998"/>
         <source>New moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Отместване при новолуние</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1000"/>
         <source>Full moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Отместване при пълнолуние</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1002"/>
         <source>Current moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Лунно отместване</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1579"/>
@@ -945,13 +945,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/overlay_screen.ui" line="14"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/overlay_screen.ui" line="39"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="39"/>
         <source>qrc:/html/overlay_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1004,22 +1004,22 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропусни</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="109"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Продължи</translation>
     </message>
 </context>
 <context>
@@ -1095,7 +1095,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="74"/>
         <source>DARK_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>Тъмен</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="75"/>
@@ -1345,118 +1345,118 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="146"/>
         <source>ADVANCED_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Промяна</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="147"/>
         <source>DAY_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Дневна промяна:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="148"/>
         <source>NIGHT_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Нощна промяна:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="149"/>
         <source>SLEEP_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Сънна промяна:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="150"/>
         <source>PAUSE_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Пауза промяна</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="151"/>
         <location filename="../../src/translation/Translator.cpp" line="156"/>
         <source>TRANSITION_TIMES</source>
-        <translation type="unfinished"></translation>
+        <translation>Времена за промяна</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="153"/>
         <source>ADVANCED_MOON</source>
-        <translation type="unfinished"></translation>
+        <translation>Луна</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="154"/>
         <source>FULL_MOON_OFFSET</source>
-        <translation type="unfinished"></translation>
+        <translation>Отместване при пълнолуние:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="155"/>
         <source>NEW_MOON_OFFSET</source>
-        <translation type="unfinished"></translation>
+        <translation>Отместване при новолуние:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="158"/>
         <source>ADVANCED_LIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>Светлина</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="159"/>
         <source>RADIUS</source>
-        <translation type="unfinished"></translation>
+        <translation>Радиус</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="161"/>
         <source>X_POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="162"/>
         <source>Y_POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="166"/>
         <source>ADVANCED_SLEEP</source>
-        <translation type="unfinished"></translation>
+        <translation>Сън</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="167"/>
         <source>SLEEP_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Сънна светлина</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="168"/>
         <source>SLEEP_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>Сънна яркост</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="169"/>
         <source>BEDTIME</source>
-        <translation type="unfinished"></translation>
+        <translation>Време за лягане:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="170"/>
         <source>WAKE_TIME</source>
-        <translation type="unfinished"></translation>
+        <translation>Време за ставане:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="172"/>
         <source>ADVANCED_REST_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation>Екран за почивка</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="173"/>
         <source>TYPE</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="174"/>
         <source>LITE</source>
-        <translation type="unfinished"></translation>
+        <translation>Олекотен</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="175"/>
         <source>SIMPLE</source>
-        <translation type="unfinished"></translation>
+        <translation>Обикновен</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
         <source>STANDARD</source>
-        <translation type="unfinished"></translation>
+        <translation>Стандартен</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
@@ -1787,12 +1787,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="257"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
-        <translation type="unfinished"></translation>
+        <translation>Мишка паузи</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="258"/>
         <source>FULLSCREEN_APPS</source>
-        <translation type="unfinished"></translation>
+        <translation>Приложения на цял екран</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="275"/>
@@ -1842,17 +1842,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="327"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрити функционалности</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="328"/>
         <source>ENTER_YOUR_SPELL</source>
-        <translation type="unfinished"></translation>
+        <translation>Въведете вашето заклинание:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="329"/>
         <source>ACTIVATE</source>
-        <translation type="unfinished"></translation>
+        <translation>Активирай</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="338"/>
@@ -1902,12 +1902,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="351"/>
         <source>ADD</source>
-        <translation type="unfinished"></translation>
+        <translation>Добави</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="352"/>
         <source>REMOVE</source>
-        <translation type="unfinished"></translation>
+        <translation>Премахни</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="249"/>
@@ -2287,13 +2287,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="125"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="606"/>
         <source>&amp;Sunglasses</source>
-        <translation type="unfinished"></translation>
+        <translation>Слънчеви очила</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="129"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="607"/>
         <source>&amp;Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Тъмен</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="133"/>
@@ -2323,19 +2323,19 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="254"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="611"/>
         <source>Color pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветови паузи</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="255"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="612"/>
         <source>Timer pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>Таймер паузи</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="256"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="613"/>
         <source>Mouse pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>Мишка паузи</translation>
     </message>
     <message>
         <source>Pause %1</source>
