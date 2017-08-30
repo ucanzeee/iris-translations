@@ -1258,7 +1258,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/translation/Translator.cpp" line="116"/>
         <location filename="../../src/translation/Translator.cpp" line="122"/>
         <source>ADVANCED_BRIGHTNESS</source>
-        <translation>亮度</translation>
+        <translation type="unfinished">明亮</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="117"/>

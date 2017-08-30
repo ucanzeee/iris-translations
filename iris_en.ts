@@ -704,7 +704,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="924"/>
         <location filename="../../src/MainWindow.cpp" line="1034"/>
         <source>Day start time</source>
-        <translation>Day start time</translation>
+        <translation type="unfinished">Day start time</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="926"/>
