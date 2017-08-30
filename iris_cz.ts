@@ -526,12 +526,12 @@ Nově zpřístupněné předvolby naleznete v režimu pokročilého zobrazení u
     <message>
         <location filename="../../src/licensing/License.cpp" line="131"/>
         <source>License Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence vypršela</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="132"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence Iris Pro vypršela. Můžete si zakoupit nový aktivační kód od</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="144"/>
@@ -651,13 +651,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/lightness_screen.ui" line="14"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Obrazovka připomínání mrkání</translation>
+        <translation>Obrazovka připomínání mrkání</translation>
     </message>
     <message>
         <location filename="../../ui/lightness_screen.ui" line="39"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="39"/>
         <source>qrc:/html/lightness_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -701,168 +701,168 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/MainWindow.cpp" line="924"/>
         <location filename="../../src/MainWindow.cpp" line="1034"/>
         <source>Day start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Den zahájení</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="926"/>
         <location filename="../../src/MainWindow.cpp" line="1036"/>
         <source>Day transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Den zahájení přechodu na den</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="928"/>
         <location filename="../../src/MainWindow.cpp" line="1038"/>
         <source>Day transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Denní konečný čas přechodu</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="930"/>
         <location filename="../../src/MainWindow.cpp" line="1040"/>
         <source>Day end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Den konce</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="935"/>
         <location filename="../../src/MainWindow.cpp" line="1045"/>
         <source>Night start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba zahájení noci</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="937"/>
         <location filename="../../src/MainWindow.cpp" line="1047"/>
         <source>Night transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba zahájení nočního přechodu</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="939"/>
         <location filename="../../src/MainWindow.cpp" line="1049"/>
         <source>Night transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba ukončení nočního přechodu</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="941"/>
         <location filename="../../src/MainWindow.cpp" line="1051"/>
         <source>Night end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba ukončení noci</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="946"/>
         <location filename="../../src/MainWindow.cpp" line="1056"/>
         <source>Bedtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba noci</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="948"/>
         <location filename="../../src/MainWindow.cpp" line="1058"/>
         <source>Bedtime transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba zahájení přechodu do noci</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="950"/>
         <location filename="../../src/MainWindow.cpp" line="1060"/>
         <source>Bedtime transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba ukončení přechodu do noci</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="952"/>
         <location filename="../../src/MainWindow.cpp" line="1062"/>
         <source>Bedtime end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba ukončení spánku</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="957"/>
         <location filename="../../src/MainWindow.cpp" line="1067"/>
         <source>Wake time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba probuzení</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="959"/>
         <location filename="../../src/MainWindow.cpp" line="1069"/>
         <source>Wake time transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba zahájení přechodu času probuzení</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="961"/>
         <location filename="../../src/MainWindow.cpp" line="1071"/>
         <source>Wake time transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba ukončení přechodu času probuzení</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="963"/>
         <location filename="../../src/MainWindow.cpp" line="1073"/>
         <source>Wake time end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba ukončení času probuzení</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="968"/>
         <location filename="../../src/MainWindow.cpp" line="1078"/>
         <source>Day duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Denní trvání</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="970"/>
         <location filename="../../src/MainWindow.cpp" line="1080"/>
         <source>Day transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Denní doba přechodu</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="972"/>
         <location filename="../../src/MainWindow.cpp" line="1082"/>
         <source>Night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Noční trvání</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="974"/>
         <location filename="../../src/MainWindow.cpp" line="1084"/>
         <source>Night transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Délka nočního přechodu</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="976"/>
         <location filename="../../src/MainWindow.cpp" line="1086"/>
         <source>Sleep duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba spánku</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="978"/>
         <location filename="../../src/MainWindow.cpp" line="1088"/>
         <source>Sleep transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba přechodu spánku</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="984"/>
         <source>Time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Časové pásmo</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="986"/>
         <source>Custom Time zone offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Vlastní odsazení časového pásma</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="991"/>
         <source>Sunrise time</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba východu slunce</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="993"/>
         <source>Sunset time</source>
-        <translation type="unfinished"></translation>
+        <translation>Čas západu slunce</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="998"/>
         <source>New moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový měsíční ofset</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1000"/>
         <source>Full moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Úplný měsíc offset</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1002"/>
         <source>Current moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuální posun měsíce</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1579"/>
@@ -943,13 +943,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/overlay_screen.ui" line="14"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Obrazovka připomínání mrkání</translation>
+        <translation>Obrazovka připomínání mrkání</translation>
     </message>
     <message>
         <location filename="../../ui/overlay_screen.ui" line="39"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="39"/>
         <source>qrc:/html/overlay_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1002,22 +1002,22 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Obrazovka připomínání mrkání</translation>
+        <translation>Obrazovka připomínání mrkání</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>Přeskočit</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="109"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokračovat</translation>
     </message>
 </context>
 <context>
@@ -1093,7 +1093,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="74"/>
         <source>DARK_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>Temný</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="75"/>
@@ -1229,27 +1229,27 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <source>ADVANCED_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Modré světlo</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="108"/>
         <source>DAY_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Denní světlo</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="109"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Noční světlo</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="111"/>
         <source>MANUAL_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuální osvětlení</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="112"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetovat</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="116"/>
@@ -1343,118 +1343,118 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="146"/>
         <source>ADVANCED_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Přechod</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="147"/>
         <source>DAY_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Denní přechod:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="148"/>
         <source>NIGHT_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Noční přechod:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="149"/>
         <source>SLEEP_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Přechod do spánku:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="150"/>
         <source>PAUSE_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozastavení přechodu:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="151"/>
         <location filename="../../src/translation/Translator.cpp" line="156"/>
         <source>TRANSITION_TIMES</source>
-        <translation type="unfinished"></translation>
+        <translation>Přechodové časy</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="153"/>
         <source>ADVANCED_MOON</source>
-        <translation type="unfinished"></translation>
+        <translation>Měsíc</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="154"/>
         <source>FULL_MOON_OFFSET</source>
-        <translation type="unfinished"></translation>
+        <translation>Úplný měsíční ofset:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="155"/>
         <source>NEW_MOON_OFFSET</source>
-        <translation type="unfinished"></translation>
+        <translation>Nový měsíční ofset:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="158"/>
         <source>ADVANCED_LIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>Lehkost</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="159"/>
         <source>RADIUS</source>
-        <translation type="unfinished"></translation>
+        <translation>Poloměr</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="161"/>
         <source>X_POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="162"/>
         <source>Y_POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="166"/>
         <source>ADVANCED_SLEEP</source>
-        <translation type="unfinished"></translation>
+        <translation>Spát</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="167"/>
         <source>SLEEP_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>Světlo spánku</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="168"/>
         <source>SLEEP_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>Jas spánku</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="169"/>
         <source>BEDTIME</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba pohotovosti:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="170"/>
         <source>WAKE_TIME</source>
-        <translation type="unfinished"></translation>
+        <translation>Doba probuzení:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="172"/>
         <source>ADVANCED_REST_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazovka odpočinku</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="173"/>
         <source>TYPE</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="174"/>
         <source>LITE</source>
-        <translation type="unfinished"></translation>
+        <translation>Lite</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="175"/>
         <source>SIMPLE</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednoduchý</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
         <source>STANDARD</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
@@ -1785,12 +1785,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="257"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavte myš</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="258"/>
         <source>FULLSCREEN_APPS</source>
-        <translation type="unfinished"></translation>
+        <translation>Fullscreen aplikace</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="275"/>
@@ -1840,17 +1840,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="327"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryté funkce</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="328"/>
         <source>ENTER_YOUR_SPELL</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte své kouzlo:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="329"/>
         <source>ACTIVATE</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivovat</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="338"/>
@@ -1900,12 +1900,12 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="351"/>
         <source>ADD</source>
-        <translation type="unfinished"></translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="352"/>
         <source>REMOVE</source>
-        <translation type="unfinished"></translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="249"/>
@@ -2285,13 +2285,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="125"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="606"/>
         <source>&amp;Sunglasses</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluneční brýle</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="129"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="607"/>
         <source>&amp;Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Temný</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="133"/>
@@ -2309,31 +2309,31 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="199"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="618"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Přestat</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="245"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="596"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režim</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="254"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="611"/>
         <source>Color pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>Barevné pauzy</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="255"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="612"/>
         <source>Timer pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>Časové spouštěče</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="256"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="613"/>
         <source>Mouse pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastavte myš</translation>
     </message>
     <message>
         <source>Pause PCEyeGuard</source>
@@ -2415,17 +2415,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Formulář</translation>
+        <translation>Formulář</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadejte své kouzlo:</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2434,12 +2434,12 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>

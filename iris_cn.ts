@@ -102,7 +102,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="291"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation>似乎是错的。检查语法或者尝试其他的隐藏功能</translation>
+        <translation>似乎是错的。请检查语法或者尝试其他的隐藏功能</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="292"/>
@@ -119,7 +119,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="318"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="341"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation>是一个无效的色温值。请使用0-10000之间的数字。</translation>
+        <translation>是一个无效的色温值。请使用0-10000之间的数字输入。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="325"/>
@@ -143,7 +143,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="364"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="387"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
-        <translation>是一个无效的亮度值，请使用10-100之间的数字。</translation>
+        <translation>是一个无效的亮度值，请使用10-100之间的数字输入。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="371"/>
@@ -175,7 +175,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="431"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
-        <translation>Gamma修正已启用。如果发现显示器美妙都有轻微的颜色变化，请关闭Gamma修正功能。因为Windows有时会忽视Iris的变化。</translation>
+        <translation>Gamma修正已启用。如果发现显示器每秒都有轻微的颜色变化，请关闭Gamma修正功能。因为Windows有时会忽视Iris对屏幕颜色的更改。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="461"/>
@@ -215,7 +215,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="504"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>Iris在使用中时托盘图标将不会旋转。这一设置可以提醒用户Iris mini正在使用中，屏幕颜色没有校准。</translation>
+        <translation>Iris在使用中时托盘图标将不会旋转。这一设置可以提醒用户Iris mini正在使用中，屏幕颜色尚未校准。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="515"/>
@@ -460,12 +460,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
         <source>Longitude changed</source>
-        <translation>精度已更改</translation>
+        <translation>经度已更改</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
         <source>Longitude changed to</source>
-        <translation>精度已更改为</translation>
+        <translation>经度已更改为</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="777"/>
@@ -583,7 +583,7 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="185"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>这是Iris，您的激活码是Iris mini。 下载Iris mini
+        <translation>这是Iris，您的激活码是Iris mini。Iris mini下载地址：
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -603,13 +603,13 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="211"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>这是Iris，剩下的团队许可证是Iris mini。 下载Iris mini
+        <translation>这是Iris，剩下的团队许可证是Iris mini。 Iris mini下载地址：
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="220"/>
         <source>No more Team activations</source>
-        <translation>没有更多的团队激活</translation>
+        <translation>没有更多的团队许可</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="221"/>
@@ -654,7 +654,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/lightness_screen.ui" line="14"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation>对话</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/lightness_screen.ui" line="39"/>
@@ -1111,13 +1111,13 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="78"/>
         <source>IRIS_LICENSE</source>
-        <translation>执照</translation>
+        <translation>许可证</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="79"/>
         <location filename="../../src/translation/Translator.cpp" line="306"/>
         <source>ACTIVATE_CODE</source>
-        <translation>激活代码</translation>
+        <translation>激活码</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="81"/>
@@ -1162,12 +1162,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="89"/>
         <source>TIMER_SOUND</source>
-        <translation>声音</translation>
+        <translation>音效</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="91"/>
         <source>IRIS_LOCATION</source>
-        <translation>位置</translation>
+        <translation>定位</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="92"/>
@@ -1192,12 +1192,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="99"/>
         <source>DAY_TEMPERATURE</source>
-        <translation>白天</translation>
+        <translation>白天色温</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="100"/>
         <source>NIGHT_TEMPERATURE</source>
-        <translation>夜间</translation>
+        <translation>夜间色温</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="101"/>
@@ -1210,12 +1210,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="102"/>
         <source>MANUAL_COLOR_SETTINGS</source>
-        <translation>手动设置</translation>
+        <translation>手动色彩设置</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="103"/>
         <source>RESET_TEMPERATURE</source>
-        <translation>复位温度</translation>
+        <translation>重置温度选项</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="104"/>
@@ -1252,7 +1252,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="112"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation>复位</translation>
+        <translation>重置蓝光选项</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="116"/>
@@ -1264,19 +1264,19 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/translation/Translator.cpp" line="117"/>
         <location filename="../../src/translation/Translator.cpp" line="123"/>
         <source>DAY_BRIGHTNESS</source>
-        <translation>白天</translation>
+        <translation>白天亮度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="118"/>
         <location filename="../../src/translation/Translator.cpp" line="124"/>
         <source>NIGHT_BRIGHTNESS</source>
-        <translation>夜间</translation>
+        <translation>夜晚亮度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="120"/>
         <location filename="../../src/translation/Translator.cpp" line="126"/>
         <source>MANUAL_BRIGHTNESS</source>
-        <translation>手动设置</translation>
+        <translation>手动亮度调节</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="128"/>
@@ -1286,7 +1286,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="129"/>
         <source>IRIS</source>
-        <translation>虹膜</translation>
+        <translation>IRIS</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="130"/>
@@ -1311,12 +1311,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="138"/>
         <source>ADVANCED_LOCATION</source>
-        <translation>位置</translation>
+        <translation>高级位置设置</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="139"/>
         <source>MANUAL_LOCATION</source>
-        <translation>手动位置</translation>
+        <translation>手动位置调整</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="140"/>
@@ -1331,32 +1331,32 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="142"/>
         <source>MANUAL_NIGHT_DURATION</source>
-        <translation>手动夜间</translation>
+        <translation>手动夜间时间调整</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="143"/>
         <source>NIGHT_START_TIME</source>
-        <translation>晚上开始于：</translation>
+        <translation>夜晚开始时间：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="144"/>
         <source>NIGHT_END_TIME</source>
-        <translation>夜晚结束于：</translation>
+        <translation>夜晚结束时间：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="146"/>
         <source>ADVANCED_TRANSITION</source>
-        <translation>过渡</translation>
+        <translation>昼夜交替</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="147"/>
         <source>DAY_TRANSITION</source>
-        <translation>一天过渡：</translation>
+        <translation>白天过渡：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="148"/>
         <source>NIGHT_TRANSITION</source>
-        <translation>夜间过渡：</translation>
+        <translation>夜晚过渡：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="149"/>
@@ -1377,17 +1377,17 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="153"/>
         <source>ADVANCED_MOON</source>
-        <translation>月亮</translation>
+        <translation>月光</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="154"/>
         <source>FULL_MOON_OFFSET</source>
-        <translation>满月偏移量：</translation>
+        <translation>满月补偿：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="155"/>
         <source>NEW_MOON_OFFSET</source>
-        <translation>新月偏移：</translation>
+        <translation>新月补偿：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="158"/>
@@ -1412,7 +1412,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="166"/>
         <source>ADVANCED_SLEEP</source>
-        <translation>睡觉</translation>
+        <translation>睡眠</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="167"/>
@@ -1437,7 +1437,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="172"/>
         <source>ADVANCED_REST_SCREEN</source>
-        <translation>休息屏幕</translation>
+        <translation>屏幕睡眠</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="173"/>
@@ -1467,7 +1467,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="179"/>
         <source>MONITOR_1</source>
-        <translation>监视器1</translation>
+        <translation>显示器1</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="180"/>
@@ -1698,7 +1698,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="230"/>
         <source>POSTPONE_DURATION</source>
-        <translation>延期时间</translation>
+        <translation>推迟时间</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="231"/>
@@ -1738,7 +1738,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="239"/>
         <source>USE_MOUSE_INACTIVITY</source>
-        <translation>使用鼠标不活动来暂停工作定时器</translation>
+        <translation>使用鼠标静止来暂停工作定时器</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="240"/>
@@ -1753,7 +1753,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="243"/>
         <source>ADVANCED_IRIS</source>
-        <translation>IRIS</translation>
+        <translation>高级IRIS</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="244"/>
@@ -1773,12 +1773,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="247"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
-        <translation>使用低级的Color API</translation>
+        <translation>使用低级的色彩API</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="248"/>
         <source>START_IRIS_ON_STARTUP</source>
-        <translation>启动时启动虹膜</translation>
+        <translation>启动时启动IRIS</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="250"/>
@@ -1848,7 +1848,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="328"/>
         <source>ENTER_YOUR_SPELL</source>
-        <translation>输入你的法术：</translation>
+        <translation>请输入口令：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="329"/>
@@ -2089,7 +2089,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="300"/>
         <source>ADVANCED_IRIS_MODEL</source>
-        <translation>虹膜模式</translation>
+        <translation>高级IRIS模式</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="301"/>
@@ -2114,7 +2114,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="308"/>
         <source>ADVANCED_LANGUAGE</source>
-        <translation>语言</translation>
+        <translation>高级语言</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="309"/>
@@ -2351,7 +2351,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation>会话</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -2391,7 +2391,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation></translation>
+        <translation>请输入口令</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
