@@ -681,231 +681,231 @@ http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="683"/>
+        <location filename="../../src/MainWindow.cpp" line="686"/>
         <source>until</source>
         <translation>直到</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="695"/>
+        <location filename="../../src/MainWindow.cpp" line="698"/>
         <source>rest</source>
         <translation>休息</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="717"/>
+        <location filename="../../src/MainWindow.cpp" line="720"/>
         <source>work</source>
         <translation>工作</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="801"/>
+        <location filename="../../src/MainWindow.cpp" line="804"/>
         <source>Paused</source>
         <translation>暂停</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="924"/>
-        <location filename="../../src/MainWindow.cpp" line="1034"/>
+        <location filename="../../src/MainWindow.cpp" line="927"/>
+        <location filename="../../src/MainWindow.cpp" line="1037"/>
         <source>Day start time</source>
         <translation>开始时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="926"/>
-        <location filename="../../src/MainWindow.cpp" line="1036"/>
+        <location filename="../../src/MainWindow.cpp" line="929"/>
+        <location filename="../../src/MainWindow.cpp" line="1039"/>
         <source>Day transition start time</source>
         <translation>日过渡开始时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="928"/>
-        <location filename="../../src/MainWindow.cpp" line="1038"/>
+        <location filename="../../src/MainWindow.cpp" line="931"/>
+        <location filename="../../src/MainWindow.cpp" line="1041"/>
         <source>Day transition end time</source>
         <translation>日过渡结束时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="930"/>
-        <location filename="../../src/MainWindow.cpp" line="1040"/>
+        <location filename="../../src/MainWindow.cpp" line="933"/>
+        <location filename="../../src/MainWindow.cpp" line="1043"/>
         <source>Day end time</source>
         <translation>日结束时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="935"/>
-        <location filename="../../src/MainWindow.cpp" line="1045"/>
+        <location filename="../../src/MainWindow.cpp" line="938"/>
+        <location filename="../../src/MainWindow.cpp" line="1048"/>
         <source>Night start time</source>
         <translation>夜间开始时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="937"/>
-        <location filename="../../src/MainWindow.cpp" line="1047"/>
+        <location filename="../../src/MainWindow.cpp" line="940"/>
+        <location filename="../../src/MainWindow.cpp" line="1050"/>
         <source>Night transition start time</source>
         <translation>夜间转换开始时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="939"/>
-        <location filename="../../src/MainWindow.cpp" line="1049"/>
+        <location filename="../../src/MainWindow.cpp" line="942"/>
+        <location filename="../../src/MainWindow.cpp" line="1052"/>
         <source>Night transition end time</source>
         <translation>夜班结束时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="941"/>
-        <location filename="../../src/MainWindow.cpp" line="1051"/>
+        <location filename="../../src/MainWindow.cpp" line="944"/>
+        <location filename="../../src/MainWindow.cpp" line="1054"/>
         <source>Night end time</source>
         <translation>夜晚结束</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="946"/>
-        <location filename="../../src/MainWindow.cpp" line="1056"/>
+        <location filename="../../src/MainWindow.cpp" line="949"/>
+        <location filename="../../src/MainWindow.cpp" line="1059"/>
         <source>Bedtime</source>
         <translation>就寝时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="948"/>
-        <location filename="../../src/MainWindow.cpp" line="1058"/>
+        <location filename="../../src/MainWindow.cpp" line="951"/>
+        <location filename="../../src/MainWindow.cpp" line="1061"/>
         <source>Bedtime transition start time</source>
         <translation>睡前转换开始时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="950"/>
-        <location filename="../../src/MainWindow.cpp" line="1060"/>
+        <location filename="../../src/MainWindow.cpp" line="953"/>
+        <location filename="../../src/MainWindow.cpp" line="1063"/>
         <source>Bedtime transition end time</source>
         <translation>睡前过渡结束时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="952"/>
-        <location filename="../../src/MainWindow.cpp" line="1062"/>
+        <location filename="../../src/MainWindow.cpp" line="955"/>
+        <location filename="../../src/MainWindow.cpp" line="1065"/>
         <source>Bedtime end time</source>
         <translation>睡前结束时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="957"/>
-        <location filename="../../src/MainWindow.cpp" line="1067"/>
+        <location filename="../../src/MainWindow.cpp" line="960"/>
+        <location filename="../../src/MainWindow.cpp" line="1070"/>
         <source>Wake time</source>
         <translation>唤醒时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="959"/>
-        <location filename="../../src/MainWindow.cpp" line="1069"/>
+        <location filename="../../src/MainWindow.cpp" line="962"/>
+        <location filename="../../src/MainWindow.cpp" line="1072"/>
         <source>Wake time transition start time</source>
         <translation>唤醒时间转换开始时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="961"/>
-        <location filename="../../src/MainWindow.cpp" line="1071"/>
+        <location filename="../../src/MainWindow.cpp" line="964"/>
+        <location filename="../../src/MainWindow.cpp" line="1074"/>
         <source>Wake time transition end time</source>
         <translation>唤醒时间过渡结束时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="963"/>
-        <location filename="../../src/MainWindow.cpp" line="1073"/>
+        <location filename="../../src/MainWindow.cpp" line="966"/>
+        <location filename="../../src/MainWindow.cpp" line="1076"/>
         <source>Wake time end time</source>
         <translation>唤醒时间结束时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="968"/>
-        <location filename="../../src/MainWindow.cpp" line="1078"/>
+        <location filename="../../src/MainWindow.cpp" line="971"/>
+        <location filename="../../src/MainWindow.cpp" line="1081"/>
         <source>Day duration</source>
         <translation>日期</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="970"/>
-        <location filename="../../src/MainWindow.cpp" line="1080"/>
+        <location filename="../../src/MainWindow.cpp" line="973"/>
+        <location filename="../../src/MainWindow.cpp" line="1083"/>
         <source>Day transition duration</source>
         <translation>日过渡期</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="972"/>
-        <location filename="../../src/MainWindow.cpp" line="1082"/>
+        <location filename="../../src/MainWindow.cpp" line="975"/>
+        <location filename="../../src/MainWindow.cpp" line="1085"/>
         <source>Night duration</source>
         <translation>夜间时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="974"/>
-        <location filename="../../src/MainWindow.cpp" line="1084"/>
+        <location filename="../../src/MainWindow.cpp" line="977"/>
+        <location filename="../../src/MainWindow.cpp" line="1087"/>
         <source>Night transition duration</source>
         <translation>夜间过渡时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="976"/>
-        <location filename="../../src/MainWindow.cpp" line="1086"/>
+        <location filename="../../src/MainWindow.cpp" line="979"/>
+        <location filename="../../src/MainWindow.cpp" line="1089"/>
         <source>Sleep duration</source>
         <translation>睡眠时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="978"/>
-        <location filename="../../src/MainWindow.cpp" line="1088"/>
+        <location filename="../../src/MainWindow.cpp" line="981"/>
+        <location filename="../../src/MainWindow.cpp" line="1091"/>
         <source>Sleep transition duration</source>
         <translation>睡眠过渡时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="984"/>
+        <location filename="../../src/MainWindow.cpp" line="987"/>
         <source>Time zone</source>
         <translation>时区</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="986"/>
+        <location filename="../../src/MainWindow.cpp" line="989"/>
         <source>Custom Time zone offset</source>
         <translation>自定义时区偏移</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="991"/>
+        <location filename="../../src/MainWindow.cpp" line="994"/>
         <source>Sunrise time</source>
         <translation>日出时间</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="993"/>
+        <location filename="../../src/MainWindow.cpp" line="996"/>
         <source>Sunset time</source>
         <translation>落日时光</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="998"/>
+        <location filename="../../src/MainWindow.cpp" line="1001"/>
         <source>New moon offset</source>
         <translation>新月偏移</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1000"/>
+        <location filename="../../src/MainWindow.cpp" line="1003"/>
         <source>Full moon offset</source>
         <translation>满月偏移</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1002"/>
+        <location filename="../../src/MainWindow.cpp" line="1005"/>
         <source>Current moon offset</source>
         <translation>当前月球偏移</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1579"/>
+        <location filename="../../src/MainWindow.cpp" line="1583"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro功能</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1580"/>
+        <location filename="../../src/MainWindow.cpp" line="1584"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>您需要升级到Iris Pro才能访问此部分。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2141"/>
+        <location filename="../../src/MainWindow.cpp" line="2159"/>
         <source>Relaunch Iris</source>
         <translation>重新启动Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2142"/>
+        <location filename="../../src/MainWindow.cpp" line="2160"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>您需要重新启动Iris才能使更改生效。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2144"/>
+        <location filename="../../src/MainWindow.cpp" line="2162"/>
         <source>Relaunch now</source>
         <translation>现在重启</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2145"/>
+        <location filename="../../src/MainWindow.cpp" line="2163"/>
         <source>Later</source>
         <translation>稍后</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2161"/>
-        <location filename="../../src/MainWindow.cpp" line="2226"/>
+        <location filename="../../src/MainWindow.cpp" line="2179"/>
+        <location filename="../../src/MainWindow.cpp" line="2244"/>
         <source>Restart is needed</source>
         <translation>需要重新启动</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2162"/>
-        <location filename="../../src/MainWindow.cpp" line="2226"/>
+        <location filename="../../src/MainWindow.cpp" line="2180"/>
+        <location filename="../../src/MainWindow.cpp" line="2244"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>重启使更改生效。</translation>
     </message>
@@ -1841,72 +1841,77 @@ http://iristech.co/iris-mini</translation>
         <translation>捷克语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="327"/>
+        <location filename="../../src/translation/Translator.cpp" line="326"/>
+        <source>UKRAINIAN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="328"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>隐藏的功能</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="328"/>
+        <location filename="../../src/translation/Translator.cpp" line="329"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>请输入口令：</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="329"/>
+        <location filename="../../src/translation/Translator.cpp" line="330"/>
         <source>ACTIVATE</source>
         <translation>启用</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="338"/>
+        <location filename="../../src/translation/Translator.cpp" line="339"/>
         <source>SKIP_REST</source>
         <translation>跳过休息</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="340"/>
         <source>NORMAL</source>
         <translation>正常</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="340"/>
+        <location filename="../../src/translation/Translator.cpp" line="341"/>
         <source>STRICT</source>
         <translation>严格</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="341"/>
+        <location filename="../../src/translation/Translator.cpp" line="342"/>
         <source>CONTINUE</source>
         <translation>继续</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="342"/>
+        <location filename="../../src/translation/Translator.cpp" line="343"/>
         <source>REST_MODE</source>
         <translation>休息模式</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="343"/>
+        <location filename="../../src/translation/Translator.cpp" line="344"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>你现在处于休息模式。 在设置面板中编辑计时器。</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="345"/>
         <source>TIME_IS</source>
         <translation>现在的时间是</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="347"/>
+        <location filename="../../src/translation/Translator.cpp" line="348"/>
         <source>START_WORKING</source>
         <translation>开始工作</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="348"/>
+        <location filename="../../src/translation/Translator.cpp" line="349"/>
         <source>HAVE_A_BREAK</source>
         <translation>休息一下</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="352"/>
         <source>ADD</source>
         <translation>加</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="353"/>
         <source>REMOVE</source>
         <translation>去掉</translation>
     </message>
@@ -2197,27 +2202,27 @@ http://iristech.co/iris-mini</translation>
         <translation>希腊语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="331"/>
+        <location filename="../../src/translation/Translator.cpp" line="332"/>
         <source>ADVANCED_ABOUT</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="332"/>
+        <location filename="../../src/translation/Translator.cpp" line="333"/>
         <source>NAME</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="333"/>
+        <location filename="../../src/translation/Translator.cpp" line="334"/>
         <source>VERSION</source>
         <translation>版本</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="334"/>
+        <location filename="../../src/translation/Translator.cpp" line="335"/>
         <source>PUBLISHER</source>
         <translation>厂商</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="336"/>
         <source>WEBSITE</source>
         <translation>网站</translation>
     </message>

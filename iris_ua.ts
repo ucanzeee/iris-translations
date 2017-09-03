@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="en_US">
+<TS version="2.1" language="uk" sourcelanguage="en">
 <context>
     <name>AsanaOAuth</name>
     <message>
@@ -37,39 +37,39 @@
         <location filename="../cyclops/Cyclops.cpp" line="158"/>
         <location filename="../cyclops/Cyclops.cpp" line="171"/>
         <source>Restart your PC</source>
-        <translation>Κάντε επανεκκίνηση του υπολογιστή σας</translation>
+        <translation>Перезавантажте комп&apos;ютер</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="159"/>
         <source>Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</source>
-        <translation>Iris μόλις αφαιρεθεί κάποιους περιορισμούς κάρτα γραφικών. Θα χρειαστεί να κάνετε επανεκκίνηση του υπολογιστή σας μια φορά για να ξεκλειδώσετε την πλήρη λειτουργικότητα.</translation>
+        <translation>Iris просто видалив деякі обмеження на відеокарту. Вам потрібно буде перезавантажити комп&apos;ютер один раз, щоб розблокувати повну функціональність.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="161"/>
         <source>Restart needed</source>
-        <translation>Επανεκκίνηση χρειάζεται</translation>
+        <translation>Перезавантаження потрібно</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="162"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation>Κάντε επανεκκίνηση του υπολογιστή σας για να ξεκλειδώσετε την πλήρη γκάμα χρωμάτων. Iris μίνι θα δουλεύουν μια χαρά, αλλά μερικές επιλογές μπορεί να εμφανίζεται με γκρι χρώμα.</translation>
+        <translation>Перезавантажте комп&apos;ютер, щоб розблокувати повний колірний діапазон. Ірис міні буде працювати добре, але деякі параметри можуть бути неактивними.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="172"/>
         <source>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
-        <translation>Ορισμένες λειτουργίες είναι περιορισμένες, διότι θα πρέπει να επανεκκινήσετε τον υπολογιστή σας. Χρησιμοποιείτε υψηλού επιπέδου Χρώμα API τώρα.</translation>
+        <translation>Деякі функції обмежені, тому що вам потрібно перезавантажити комп&apos;ютер. Ви використовуєте API високого рівня кольорів прямо зараз.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="215"/>
         <source>Restart is needed</source>
-        <translation>Επανεκκίνηση χρειάζεται</translation>
+        <translation>Перезавантаження потрібно</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="216"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>Iris κάνει κάποιες αλλαγές στο σύστημά σας και κάντε επανεκκίνηση είναι απαραίτητη για να ξεκλειδώσετε την πλήρη λειτουργικότητα.
-Σημειώστε ότι Iris θα λειτουργήσει μια χαρά τώρα, αλλά με περιορισμένες αλλαγές χρώματος.</translation>
+        <translation>Ірис внесла деякі зміни у вашу систему, і для розблокування повної функціональності потрібна перезавантаження.
+Зверніть увагу, що Ірис буде добре працювати зараз, але з обмеженими змінами кольору.</translation>
     </message>
 </context>
 <context>
@@ -92,7 +92,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="288"/>
         <source>Invalid spell</source>
-        <translation type="unfinished"></translation>
+        <translation>Невірне заклинання</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="289"/>
@@ -510,76 +510,76 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="114"/>
         <location filename="../../src/licensing/License.cpp" line="194"/>
         <source>Your Iris is now Pro</source>
-        <translation>Iris σας είναι τώρα Pro</translation>
+        <translation>Ваша Ірис зараз Pro</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="116"/>
         <location filename="../../src/licensing/License.cpp" line="118"/>
         <source>Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>Σας ευχαριστώ πολύ για την υποστήριξη Iris! :)
-Δείτε τις νέες επιλογές σας στην προηγμένη προβολή.</translation>
+        <translation>Велике спасибі за підтримку Iris! :)
+Перегляньте нові параметри у розширеному перегляді.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="131"/>
         <source>License Expired</source>
-        <translation>Η άδεια λήγει</translation>
+        <translation>Ліцензія минув</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="132"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation>Η άδειά σας Iris Pro έχει λήξει. Μπορείτε να αγοράσετε νέο κωδικό ενεργοποίησης από το</translation>
+        <translation>Термін дії ліцензії на Iris Pro закінчився. Ви можете придбати новий код активації з</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="144"/>
         <source>Already used</source>
-        <translation>ήδη χρησιμοποιείται</translation>
+        <translation>Вже використано</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="145"/>
         <source>You have already used this code on another machine</source>
-        <translation>Έχετε ήδη χρησιμοποιήσει αυτόν τον κώδικα σε ένα άλλο μηχάνημα</translation>
+        <translation>Ви вже використовували цей код на іншому комп&apos;ютері</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="154"/>
         <source>Other version</source>
-        <translation>Άλλες έκδοση</translation>
+        <translation>Інша версія</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="155"/>
         <source>You have already used this code with other version of Iris. Download and use the old version again or buy new activation code.</source>
-        <translation>Έχετε ήδη χρησιμοποιήσει αυτόν τον κωδικό με άλλη εκδοχή της Iris. Κατεβάσετε και να χρησιμοποιήσετε ξανά την παλιά έκδοση ή να αγοράσουν νέο κωδικό ενεργοποίησης.</translation>
+        <translation>Ви вже використовували цей код з іншою версією Iris. Завантажте та знову використовуйте стару версію або купуйте новий код активації.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="164"/>
         <source>No such code</source>
-        <translation>Δεν υπάρχει τέτοιο κώδικα</translation>
+        <translation>Немає такого коду</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="165"/>
         <source>There is no such activation code</source>
-        <translation>Δεν υπάρχει τέτοιο κωδικό ενεργοποίησης</translation>
+        <translation>Такого коду активації немає</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="174"/>
         <source>No giveaway</source>
-        <translation>Δεν δίνουν μακριά</translation>
+        <translation>Немає подарунків</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="175"/>
         <source>There is no active giveaway right now</source>
-        <translation>Δεν υπάρχει ενεργή giveaway τώρα</translation>
+        <translation>Зараз немає активного подарунку</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="184"/>
         <source>This code is for Iris mini</source>
-        <translation>Αυτός ο κωδικός είναι για Iris μίνι</translation>
+        <translation>Цей код для Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="185"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Αυτό είναι Ίρις και τον κωδικό ενεργοποίησης είναι για Iris μίνι. Κατεβάστε Iris μίνι από
+        <translation>Це Iris, а ваш код активації для Iris mini. Завантажити Ірис міні з
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -587,61 +587,61 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="198"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>ενεργοποίηση Team άδεια. Σας ευχαριστώ πολύ για την υποστήριξη Iris! :)
-Δείτε τις νέες επιλογές σας στην προηγμένη προβολή.</translation>
+        <translation>Активація ліцензії команди. Велике спасибі за підтримку Iris! :)
+Перегляньте нові параметри у розширеному перегляді.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="210"/>
         <source>Team license code for Iris mini</source>
-        <translation>Κωδικός άδειας ομάδας για Iris μίνι</translation>
+        <translation>Код ліцензійного коду для Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="211"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Αυτό είναι Ίρις και απομένει κωδικούς άδειας ομάδας είναι για Iris μίνι. Κατεβάστε Iris μίνι από
+        <translation>Це ірис, а коди ліцензій Команди залишаються для Iris mini. Завантажити Ірис міні з
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="220"/>
         <source>No more Team activations</source>
-        <translation>Δεν περισσότερες ενεργοποιήσεις Team</translation>
+        <translation>Більше не активовано команду</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="221"/>
         <source>You have used all your Team license activations.</source>
-        <translation>Έχετε χρησιμοποιήσει όλες τις ενεργοποιήσεις άδειας ομάδας σας.</translation>
+        <translation>Ви використали всі активізацію ліцензій вашої команди.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="230"/>
         <source>No such Team license</source>
-        <translation>Δεν υπάρχει τέτοια άδεια Team</translation>
+        <translation>Немає такої ліцензії на Команду</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="231"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation>Δεν υπάρχει καμία τέτοια άδεια της ομάδας για Iris ή Iris μίνι.</translation>
+        <translation>Такої ліцензії на Корисне правило на Іріс або Іріс міні немає.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="240"/>
         <source>Iris offline activation</source>
-        <translation>Iris σύνδεση ενεργοποίησης</translation>
+        <translation>Ірис офлайн активація</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="242"/>
         <location filename="../../src/licensing/License.cpp" line="244"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>Iris είναι τώρα Pro. Δείτε τις νέες επιλογές σας στην προηγμένη προβολή.</translation>
+        <translation>Ваша Ірис зараз Pro. Перегляньте нові параметри у розширеному перегляді.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="256"/>
         <source>Invalid response</source>
-        <translation>Μη έγκυρη απόκριση</translation>
+        <translation>Недійсна відповідь</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="259"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation>. Ίσως δεν είστε συνδεδεμένοι στο διαδίκτυο;</translation>
+        <translation>. Може бути, ви не підключені до Інтернету?</translation>
     </message>
 </context>
 <context>
@@ -679,231 +679,231 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="686"/>
         <source>until</source>
-        <translation>μέχρι</translation>
+        <translation>до</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="698"/>
         <source>rest</source>
-        <translation>υπόλοιπο</translation>
+        <translation>відпочинок</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="720"/>
         <source>work</source>
-        <translation>δουλειά</translation>
+        <translation>робота</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="804"/>
         <source>Paused</source>
-        <translation>Παύση</translation>
+        <translation>Призупинено</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="927"/>
         <location filename="../../src/MainWindow.cpp" line="1037"/>
         <source>Day start time</source>
-        <translation>Ημέρα έναρξης ημέρας</translation>
+        <translation>Час початку дня</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="929"/>
         <location filename="../../src/MainWindow.cpp" line="1039"/>
         <source>Day transition start time</source>
-        <translation>Ημέρα έναρξης μετάβασης ημέρας</translation>
+        <translation>Час початку переходу на день</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="931"/>
         <location filename="../../src/MainWindow.cpp" line="1041"/>
         <source>Day transition end time</source>
-        <translation>Ημέρα λήξης μετάβασης ημέρας</translation>
+        <translation>Час закінчення дня переходу</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="933"/>
         <location filename="../../src/MainWindow.cpp" line="1043"/>
         <source>Day end time</source>
-        <translation>Ημέρα λήξης ημέρας</translation>
+        <translation>Час закінчення дня</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="938"/>
         <location filename="../../src/MainWindow.cpp" line="1048"/>
         <source>Night start time</source>
-        <translation>Ώρα έναρξης νύχτας</translation>
+        <translation>Час початку ночі</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="940"/>
         <location filename="../../src/MainWindow.cpp" line="1050"/>
         <source>Night transition start time</source>
-        <translation>Η ώρα έναρξης της μετάβασης νύχτας</translation>
+        <translation>Час початку ночі переходу</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="942"/>
         <location filename="../../src/MainWindow.cpp" line="1052"/>
         <source>Night transition end time</source>
-        <translation>Ώρα λήξης της νύχτας μετάβασης</translation>
+        <translation>Час закінчення нічного переходу</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="944"/>
         <location filename="../../src/MainWindow.cpp" line="1054"/>
         <source>Night end time</source>
-        <translation>Η ώρα λήξης της νύχτας</translation>
+        <translation>Час закінчення ночі</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="949"/>
         <location filename="../../src/MainWindow.cpp" line="1059"/>
         <source>Bedtime</source>
-        <translation>Ωρα ύπνου</translation>
+        <translation>Спати</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="951"/>
         <location filename="../../src/MainWindow.cpp" line="1061"/>
         <source>Bedtime transition start time</source>
-        <translation>Χρόνος έναρξης μετάβασης κατά τη διάρκεια του δωματίου</translation>
+        <translation>Час початку переходу на бездоріжжя</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="953"/>
         <location filename="../../src/MainWindow.cpp" line="1063"/>
         <source>Bedtime transition end time</source>
-        <translation>Η ώρα λήξης της μετάβασης από την ώρα</translation>
+        <translation>Час закінчення переходу на бездоріжжя</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="955"/>
         <location filename="../../src/MainWindow.cpp" line="1065"/>
         <source>Bedtime end time</source>
-        <translation>Χρόνος λήξης της νύχτας</translation>
+        <translation>Час закінчення досходу</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="960"/>
         <location filename="../../src/MainWindow.cpp" line="1070"/>
         <source>Wake time</source>
-        <translation>Ξυπνήστε</translation>
+        <translation>Час прокинувся</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="962"/>
         <location filename="../../src/MainWindow.cpp" line="1072"/>
         <source>Wake time transition start time</source>
-        <translation>Ξυπνήστε με την ώρα έναρξης της μετάβασης</translation>
+        <translation>Час початку переходу в часі</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="964"/>
         <location filename="../../src/MainWindow.cpp" line="1074"/>
         <source>Wake time transition end time</source>
-        <translation>Ξυπνήστε με το χρόνο λήξης της μετάβασης</translation>
+        <translation>Час завершення переходу в часі</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="966"/>
         <location filename="../../src/MainWindow.cpp" line="1076"/>
         <source>Wake time end time</source>
-        <translation>Χρόνος λήξης χρόνου λήξης</translation>
+        <translation>Час закінчення прокидання</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="971"/>
         <location filename="../../src/MainWindow.cpp" line="1081"/>
         <source>Day duration</source>
-        <translation>Διάρκεια ημέρας</translation>
+        <translation>Тривалість дня</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="973"/>
         <location filename="../../src/MainWindow.cpp" line="1083"/>
         <source>Day transition duration</source>
-        <translation>Διάρκεια μετάβασης ημέρας</translation>
+        <translation>Тривалість дня переходу</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="975"/>
         <location filename="../../src/MainWindow.cpp" line="1085"/>
         <source>Night duration</source>
-        <translation>Νυχτερινή διάρκεια</translation>
+        <translation>Тривалість ніч</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="977"/>
         <location filename="../../src/MainWindow.cpp" line="1087"/>
         <source>Night transition duration</source>
-        <translation>Διάρκεια νυκτερινής μετάβασης</translation>
+        <translation>Тривалість нічного переходу</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="979"/>
         <location filename="../../src/MainWindow.cpp" line="1089"/>
         <source>Sleep duration</source>
-        <translation>Διάρκεια ύπνου</translation>
+        <translation>Тривалість сну</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="981"/>
         <location filename="../../src/MainWindow.cpp" line="1091"/>
         <source>Sleep transition duration</source>
-        <translation>Διάρκεια μετάβασης στο ύπνο</translation>
+        <translation>Тривалість переходу до сну</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="987"/>
         <source>Time zone</source>
-        <translation>Ζώνη ώρας</translation>
+        <translation>Часовий пояс</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="989"/>
         <source>Custom Time zone offset</source>
-        <translation>Προσαρμοσμένη ζώνη ώρας</translation>
+        <translation>Спеціальна зміна часового поясу</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="994"/>
         <source>Sunrise time</source>
-        <translation>Ήλιος χρόνος</translation>
+        <translation>Час сходу сонця</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="996"/>
         <source>Sunset time</source>
-        <translation>Ηλιοβασίλεμα</translation>
+        <translation>Час заходу сонця</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1001"/>
         <source>New moon offset</source>
-        <translation>Νέο φεγγάρι</translation>
+        <translation>Новий місяць компенсується</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1003"/>
         <source>Full moon offset</source>
-        <translation>Πλήρης μετατόπιση φεγγαριού</translation>
+        <translation>Повне Місячне зміщення</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1005"/>
         <source>Current moon offset</source>
-        <translation>Τρέχουσα μετατόπιση φεγγαριού</translation>
+        <translation>Поточний місяць компенсується</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1583"/>
         <source>Iris Pro needed</source>
-        <translation>Iris Pro απαιτείται</translation>
+        <translation>Ірис Pro потрібен</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1584"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation>Θα πρέπει Iris Pro για να αποκτήσετε πρόσβαση σε αυτό το τμήμα.</translation>
+        <translation>Вам потрібен Iris Pro, щоб отримати доступ до цього розділу.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2159"/>
         <source>Relaunch Iris</source>
-        <translation>Επανεκκίνηση Iris</translation>
+        <translation>Перезапустити Ірису</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2160"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation>Θα πρέπει να δοθεί νέα ώθηση Iris για να ισχύσουν οι αλλαγές.</translation>
+        <translation>Вам потрібно відновити ірис, щоб зміни вступили в силу.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2162"/>
         <source>Relaunch now</source>
-        <translation>Επανεκκίνηση τώρα</translation>
+        <translation>Перезапустіть зараз</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2163"/>
         <source>Later</source>
-        <translation>Αργότερα</translation>
+        <translation>Пізніше</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2179"/>
         <location filename="../../src/MainWindow.cpp" line="2244"/>
         <source>Restart is needed</source>
-        <translation>Επανεκκίνηση χρειάζεται</translation>
+        <translation>Перезавантаження потрібно</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2180"/>
         <location filename="../../src/MainWindow.cpp" line="2244"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>Iris κάνει κάποιες αλλαγές στο σύστημά σας και επανεκκίνηση είναι απαραίτητη για να ισχύσουν οι αλλαγές.</translation>
+        <translation>Ірис внесла деякі зміни у вашу систему та перезавантаження необхідна для того, щоб зміни вступили в силу.</translation>
     </message>
 </context>
 <context>
@@ -1011,12 +1011,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
         <source>Skip</source>
-        <translation>Παραλείπω</translation>
+        <translation>Пропустити</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="109"/>
         <source>Continue</source>
-        <translation>Να συνεχίσει</translation>
+        <translation>Продовжуй</translation>
     </message>
 </context>
 <context>
@@ -1024,12 +1024,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="185"/>
         <source> until rest</source>
-        <translation>μέχρι υπόλοιπο</translation>
+        <translation>до спокою</translation>
     </message>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="199"/>
         <source> until work</source>
-        <translation>μέχρι την εργασία</translation>
+        <translation>до роботи</translation>
     </message>
 </context>
 <context>
@@ -1037,163 +1037,163 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="62"/>
         <source>IRIS_MODE</source>
-        <translation>Τρόπος</translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="63"/>
         <source>AUTOMATIC_MODE</source>
-        <translation>Αυτόματο</translation>
+        <translation>Автоматичний</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="64"/>
         <source>MANUAL_MODE</source>
-        <translation>Εγχειρίδιο</translation>
+        <translation>Вручну</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="65"/>
         <source>PAUSED_MODE</source>
-        <translation>Παύση</translation>
+        <translation>Призупинено</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="67"/>
         <source>IRIS_TYPE</source>
-        <translation>Τύπος</translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="68"/>
         <source>HEALTH_MODE</source>
-        <translation>Υγεία</translation>
+        <translation>Здоров&apos;я</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="69"/>
         <source>SLEEP_MODE</source>
-        <translation>Υπνος</translation>
+        <translation>Сон</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="70"/>
         <source>READING_MODE</source>
-        <translation>ΑΝΑΓΝΩΣΗ</translation>
+        <translation>Читання</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="71"/>
         <source>PROGRAMMING_MODE</source>
-        <translation>Προγραμματισμός</translation>
+        <translation>Програмування</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="72"/>
         <source>BIOHACKER_MODE</source>
-        <translation>χάκερ Βιολογία</translation>
+        <translation>Біохокер</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="73"/>
         <source>SUNGLASSES_MODE</source>
-        <translation>Γυαλιά ηλίου</translation>
+        <translation>Сонцезахисні окуляри</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="74"/>
         <source>DARK_MODE</source>
-        <translation>Σκοτάδι</translation>
+        <translation>Темно</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="75"/>
         <source>MOVIE_MODE</source>
-        <translation>Ταινία</translation>
+        <translation>Фільм</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="76"/>
         <source>OVERLAY_MODE</source>
-        <translation>Επικάλυμμα</translation>
+        <translation>Накладання</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="78"/>
         <source>IRIS_LICENSE</source>
-        <translation>Αδεια</translation>
+        <translation>Ліцензія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="79"/>
         <location filename="../../src/translation/Translator.cpp" line="306"/>
         <source>ACTIVATE_CODE</source>
-        <translation>Ενεργοποίηση κωδικού</translation>
+        <translation>Активувати код</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="81"/>
         <source>IRIS_TIMER</source>
-        <translation>Μετρών την ώραν</translation>
+        <translation>Таймер</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="82"/>
         <source>TIMER_OFF</source>
-        <translation>Μακριά από</translation>
+        <translation>Вимкнено</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="83"/>
         <source>TIMER_NORMAL</source>
-        <translation>Κανονικός</translation>
+        <translation>Нормальний</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="84"/>
         <source>TIMER_STRICT</source>
-        <translation>Αυστηρός</translation>
+        <translation>Строгий</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="85"/>
         <source>TIMER_PRODUCTIVE</source>
-        <translation>Παραγωγικός</translation>
+        <translation>Продуктивний</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="86"/>
         <source>TIMER_TASKBAR</source>
-        <translation>Γραμμή εργασιών</translation>
+        <translation>Панель завдань</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="87"/>
         <source>TIMER_EXERCISE</source>
-        <translation>Ασκηση</translation>
+        <translation>Вправу</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="88"/>
         <source>TIMER_NOTIFICATION</source>
-        <translation>Γνωστοποίηση</translation>
+        <translation>Сповіщення</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="89"/>
         <source>TIMER_SOUND</source>
-        <translation>Ήχος</translation>
+        <translation>Звук</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="91"/>
         <source>IRIS_LOCATION</source>
-        <translation>Τοποθεσία</translation>
+        <translation>Поселення</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="92"/>
         <source>SAVE_AND_CLOSE</source>
-        <translation>Αποθηκεύσετε</translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="93"/>
         <source>USE_ADVANCED_SETTINGS</source>
-        <translation>Προηγμένες ρυθμίσεις</translation>
+        <translation>Розширені налаштування</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="96"/>
         <source>ADVANCED_SETTINGS_TITLE</source>
-        <translation>Προηγμένες ρυθμίσεις</translation>
+        <translation>Розширені налаштування</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="98"/>
         <source>ADVANCED_COLOR_TEMPERATURE</source>
-        <translation>Θερμοκρασία χρώματος</translation>
+        <translation>Колірна температура</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="99"/>
         <source>DAY_TEMPERATURE</source>
-        <translation>ημέρα της θερμοκρασίας</translation>
+        <translation>Денна температура</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="100"/>
         <source>NIGHT_TEMPERATURE</source>
-        <translation>Νύχτα Θερμοκρασία</translation>
+        <translation>Нічна температура</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="101"/>
@@ -1201,83 +1201,83 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/translation/Translator.cpp" line="119"/>
         <location filename="../../src/translation/Translator.cpp" line="125"/>
         <source>EXTENDED_VALUES</source>
-        <translation>Εκτεταμένη τιμές</translation>
+        <translation>Розширені значення</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="102"/>
         <source>MANUAL_COLOR_SETTINGS</source>
-        <translation>Εγχειρίδιο ρυθμίσεις χρώματος</translation>
+        <translation>Ручне налаштування кольорів</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="103"/>
         <source>RESET_TEMPERATURE</source>
-        <translation>Επαναφορά</translation>
+        <translation>Скинути температуру</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="104"/>
         <location filename="../../src/translation/Translator.cpp" line="113"/>
         <source>INVERT_COLORS</source>
-        <translation>Αντιστρέφω</translation>
+        <translation>Інвертувати кольори</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="105"/>
         <location filename="../../src/translation/Translator.cpp" line="114"/>
         <source>REVERT_COLORS</source>
-        <translation>Επαναστρέφω</translation>
+        <translation>Повернути кольори</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <source>ADVANCED_BLUE_LIGHT</source>
-        <translation>Μπλε φως</translation>
+        <translation>Синє світло</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="108"/>
         <source>DAY_BLUE_LIGHT</source>
-        <translation>Φως ημέρας</translation>
+        <translation>Денне світло</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="109"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation>Φωτάκι νυκτός</translation>
+        <translation>Нічне світло</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="111"/>
         <source>MANUAL_BLUE_LIGHT</source>
-        <translation>Χειροκίνητο φως</translation>
+        <translation>Ручне світло</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="112"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation>Επαναφορά</translation>
+        <translation>Скинути</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="116"/>
         <location filename="../../src/translation/Translator.cpp" line="122"/>
         <source>ADVANCED_BRIGHTNESS</source>
-        <translation>Λάμψη</translation>
+        <translation>Яскравість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="117"/>
         <location filename="../../src/translation/Translator.cpp" line="123"/>
         <source>DAY_BRIGHTNESS</source>
-        <translation>ημέρα φωτεινότητας</translation>
+        <translation>Яскравість дня</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="118"/>
         <location filename="../../src/translation/Translator.cpp" line="124"/>
         <source>NIGHT_BRIGHTNESS</source>
-        <translation>Νύχτα φωτεινότητας</translation>
+        <translation>Нічна яскравість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="120"/>
         <location filename="../../src/translation/Translator.cpp" line="126"/>
         <source>MANUAL_BRIGHTNESS</source>
-        <translation>Εγχειρίδιο φωτεινότητα</translation>
+        <translation>Ручна яскравість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="128"/>
         <source>ADVANCED_COLOR_SCHEME</source>
-        <translation>Συνδυασμός χρωμάτων</translation>
+        <translation>Кольорова схема</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="129"/>
@@ -1302,98 +1302,122 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="133"/>
         <source>LEADING_COLOR</source>
-        <translation>Κορυφαίοι Χρώμα</translation>
+        <translation>Провідний колір</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="134"/>
+        <location filename="../../src/translation/Translator.cpp" line="270"/>
+        <source>RED</source>
+        <translation>Червоний</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="135"/>
+        <location filename="../../src/translation/Translator.cpp" line="262"/>
+        <source>GREEN</source>
+        <translation>Зелений</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="136"/>
+        <location filename="../../src/translation/Translator.cpp" line="264"/>
+        <source>BLUE</source>
+        <translation>Синій</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="138"/>
         <source>ADVANCED_LOCATION</source>
-        <translation>Τοποθεσία</translation>
+        <translation>Місцезнаходження</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="139"/>
         <source>MANUAL_LOCATION</source>
-        <translation>Εγχειρίδιο θέση</translation>
+        <translation>Ручне розташування</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="140"/>
         <source>LATITUDE</source>
-        <translation>Γεωγραφικό πλάτος:</translation>
+        <translation>Широта:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="141"/>
         <source>LONGITUDE</source>
-        <translation>Γεωγραφικό μήκος:</translation>
+        <translation>Довгота:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="142"/>
         <source>MANUAL_NIGHT_DURATION</source>
-        <translation>Εγχειρίδιο διάρκεια της νύχτας</translation>
+        <translation>Ручна тривалість ночі</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="143"/>
         <source>NIGHT_START_TIME</source>
-        <translation>Νύχτα ξεκινά στις:</translation>
+        <translation>Ніч починається з:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="144"/>
         <source>NIGHT_END_TIME</source>
-        <translation>Νύχτα τελειώνει στις:</translation>
+        <translation>Ніч закінчується:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="146"/>
         <source>ADVANCED_TRANSITION</source>
-        <translation>Μετάβαση</translation>
+        <translation>Перехід</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="147"/>
         <source>DAY_TRANSITION</source>
-        <translation>Μετάβαση ημέρας:</translation>
+        <translation>Перехід дня:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="148"/>
         <source>NIGHT_TRANSITION</source>
-        <translation>Νυχτερινή μετάβαση:</translation>
+        <translation>Нічний перехід:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="149"/>
         <source>SLEEP_TRANSITION</source>
-        <translation>Μετάβαση ύπνου:</translation>
+        <translation>Перехід сну:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="150"/>
         <source>PAUSE_TRANSITION</source>
-        <translation>Παύση μετάβασης:</translation>
+        <translation>Призупинити перехід:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="151"/>
         <location filename="../../src/translation/Translator.cpp" line="156"/>
         <source>TRANSITION_TIMES</source>
-        <translation>Χρόνοι μετάβασης</translation>
+        <translation>Перехідний час</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="153"/>
         <source>ADVANCED_MOON</source>
-        <translation>Φεγγάρι</translation>
+        <translation>Місяць</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="154"/>
         <source>FULL_MOON_OFFSET</source>
-        <translation>Απόκλιση πλήρους Σελήνης:</translation>
+        <translation>Повне Місячне зміщення:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="155"/>
         <source>NEW_MOON_OFFSET</source>
-        <translation>Νέο Σελήνη μετατόπιση:</translation>
+        <translation>Нова Місяця зміщена:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="158"/>
         <source>ADVANCED_LIGHTNESS</source>
-        <translation>Ελαφρότητα</translation>
+        <translation>Легкість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="159"/>
         <source>RADIUS</source>
-        <translation>Ακτίνα κύκλου</translation>
+        <translation>Радіус</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="160"/>
+        <location filename="../../src/translation/Translator.cpp" line="274"/>
+        <source>OPACITY</source>
+        <translation>Непрозорість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="161"/>
@@ -1406,39 +1430,51 @@ http://iristech.co/iris-mini</translation>
         <translation>Y</translation>
     </message>
     <message>
+        <location filename="../../src/translation/Translator.cpp" line="163"/>
+        <location filename="../../src/translation/Translator.cpp" line="280"/>
+        <source>DISABLE</source>
+        <translation>Відключити</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="164"/>
+        <location filename="../../src/translation/Translator.cpp" line="283"/>
+        <source>ENABLE</source>
+        <translation>Увімкнути</translation>
+    </message>
+    <message>
         <location filename="../../src/translation/Translator.cpp" line="166"/>
         <source>ADVANCED_SLEEP</source>
-        <translation>Υπνος</translation>
+        <translation>Сон</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="167"/>
         <source>SLEEP_LIGHT</source>
-        <translation>Φως ύπνου</translation>
+        <translation>Сонний світло</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="168"/>
         <source>SLEEP_BRIGHTNESS</source>
-        <translation>Φωτεινότητα ύπνου</translation>
+        <translation>Яскравість сну</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="169"/>
         <source>BEDTIME</source>
-        <translation>Ωρα ύπνου:</translation>
+        <translation>Спальний час:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="170"/>
         <source>WAKE_TIME</source>
-        <translation>Χρόνος αφύπνισης:</translation>
+        <translation>Час прокидання:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="172"/>
         <source>ADVANCED_REST_SCREEN</source>
-        <translation>Υπόλοιπη οθόνη</translation>
+        <translation>Відпочинок екран</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="173"/>
         <source>TYPE</source>
-        <translation>Τύπος</translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="174"/>
@@ -1448,203 +1484,202 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="175"/>
         <source>SIMPLE</source>
-        <translation>Απλός</translation>
+        <translation>Простий</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
         <source>STANDARD</source>
-        <translation>Πρότυπο</translation>
+        <translation>Стандарт</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
         <source>ADVANCED_MANAGE_MONITORS</source>
-        <translation>Διαχείριση οθόνες</translation>
+        <translation>Управління моніторами</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="179"/>
         <source>MONITOR_1</source>
-        <translation>Οθόνη 1</translation>
+        <translation>Монітор 1</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="180"/>
         <source>MONITOR_2</source>
-        <translation>Οθόνη 2</translation>
+        <translation>Монітор 2</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="181"/>
         <source>MONITOR_3</source>
-        <translation>Οθόνη 3</translation>
+        <translation>Монітор 3</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="182"/>
         <source>MONITOR_4</source>
-        <translation>Οθόνη 4</translation>
+        <translation>Монітор 4</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="184"/>
         <source>ADVANCED_SCREEN_EFFECTS</source>
-        <translation>Οθόνη υπάρχοντα</translation>
+        <translation>Ефекти екрана</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="185"/>
         <source>SCREEN_EFFECT</source>
-        <oldsource>COLOR_EFFECT</oldsource>
-        <translation>Οθόνη αποτέλεσμα</translation>
+        <translation>Ефект екрана</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="186"/>
         <source>SIMPLE_INVERSION</source>
-        <translation>Απλή Αντιστροφή</translation>
+        <translation>Проста інверсія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="187"/>
         <source>GRAYSCALE_1</source>
-        <translation>Κλίμακα του γκρι 1</translation>
+        <translation>Градація сірого 1</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="188"/>
         <source>GRAYSCALE_2</source>
-        <translation>Κλίμακα του γκρι 2</translation>
+        <translation>Градація сірого 2</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="189"/>
         <source>GRAYSCALE_3</source>
-        <translation>Κλίμακα του γκρι 3</translation>
+        <translation>Градація сірого 3</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="190"/>
         <source>NEGATIVE_GRAYSCALE</source>
-        <translation>Αρνητική Κλίμακα του γκρι</translation>
+        <translation>Негативне відтінки сірого</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="191"/>
         <source>WASHOUT_1</source>
-        <translation>έκπλυσης 1</translation>
+        <translation>Вимивання 1</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="192"/>
         <source>WASHOUT_2</source>
-        <translation>έκπλυσης 2</translation>
+        <translation>Вимивання 2</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="193"/>
         <source>WASHOUT_3</source>
-        <translation>έκπλυσης 3</translation>
+        <translation>Вимивання 3</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="194"/>
         <source>SMART_INVERSION_1</source>
-        <translation>έξυπνη αντιστροφή 1</translation>
+        <translation>Спритна інверсія 1</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="195"/>
         <source>SMART_INVERSION_2</source>
-        <translation>έξυπνη αντιστροφή 2</translation>
+        <translation>Смарт Інверсія 2</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="196"/>
         <source>SMART_INVERSION_3</source>
-        <translation>έξυπνη αντιστροφή 3</translation>
+        <translation>Смарт Інверсія 3</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="197"/>
         <source>SMART_INVERSION_4</source>
-        <translation>έξυπνη αντιστροφή 4</translation>
+        <translation>Смарт Інверсія 4</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="198"/>
         <source>SMART_INVERSION_5</source>
-        <translation>έξυπνη αντιστροφή 5</translation>
+        <translation>Смарт Інверсія 5</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="199"/>
         <source>SEPIA</source>
-        <translation>Καστανόχρους</translation>
+        <translation>Сепія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="200"/>
         <source>NEGATIVE_SEPIA</source>
-        <translation>Αρνητικός Καστανόχρους</translation>
+        <translation>Негативний сепія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="201"/>
         <source>GRAYSCALE_RED</source>
-        <translation>Κλίμακα του γκρι Κόκκινο</translation>
+        <translation>Чорне відтінки червоного кольору</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="202"/>
         <source>NEGATIVE_GRAYSCALE_RED</source>
-        <translation>Αρνητική κλίμακα του γκρι Κόκκινο</translation>
+        <translation>Негативне відтінки сірого кольору</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="203"/>
         <source>PROTANOPIA</source>
-        <translation>Protanopia</translation>
+        <translation>Протанопія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="204"/>
         <source>PROTANOMALY</source>
-        <translation>Protanomaly</translation>
+        <translation>Протаномалії</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="205"/>
         <source>DEUTERANOPIA</source>
-        <translation>Deuteranopia</translation>
+        <translation>Детерантопія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="206"/>
         <source>DEUTERANOMALY</source>
-        <translation>Deuteranomaly</translation>
+        <translation>Дютеранмомалі</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="207"/>
         <source>TRITANOPIA</source>
-        <translation>Tritanopia</translation>
+        <translation>Тританопія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="208"/>
         <source>TRITANOMALY</source>
-        <translation>Tritanomaly</translation>
+        <translation>Тританомалы</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="209"/>
         <source>ACHROMATOPSIA</source>
-        <translation>αχρωμάτοπες</translation>
+        <translation>Ахроматопія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="210"/>
         <source>ACHROMATOMALY</source>
-        <translation>Achromatomaly</translation>
+        <translation>Ахроматома</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="211"/>
         <source>COLOR_EFFECTS</source>
-        <translation>χρωματικά εφέ</translation>
+        <translation>Кольорові ефекти</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="213"/>
         <source>ADVANCED_FONTS</source>
-        <translation>Γραμματοσειρές</translation>
+        <translation>Шрифти</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="214"/>
         <source>FONTS_TYPE</source>
-        <translation>Τύπος</translation>
+        <translation>Шрифти типу</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="215"/>
         <source>SIMPLE_FONTS</source>
-        <translation>Απλή γραμματοσειρές</translation>
+        <translation>Прості шрифти</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="216"/>
         <source>ANTI_ALIASING_FONTS</source>
-        <translation>Anti-aliasing γραμματοσειρές</translation>
+        <translation>Шрифти з псевдонімом</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="217"/>
         <source>CLEAR_TYPE_FONTS</source>
-        <translation>γραμματοσειρές ClearType</translation>
+        <translation>Шрифти ClearType</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="218"/>
@@ -1654,573 +1689,537 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="219"/>
         <source>FONT_SMOOTHING_LIGHT</source>
-        <translation>γραμματοσειρά Φως εξομάλυνση</translation>
+        <translation>Шрифт Smoothing Light</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="220"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
-        <translation>γραμματοσειράς Μεσαίο εξομάλυνση</translation>
+        <translation>Шрифт Smoothing Medium</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="221"/>
         <source>FONT_SMOOTHING_HIGH</source>
-        <translation>γραμματοσειρά εξομάλυνσης υψηλής</translation>
+        <translation>Шрифт згладжування високий</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="223"/>
         <source>ADVANCED_MAGNIFICATION</source>
-        <translation>Μεγέθυνση</translation>
+        <translation>Збільшення</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="224"/>
         <source>ZOOM_IN</source>
-        <translation>Κάντε μεγέθυνση</translation>
+        <translation>Збільшувати</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="225"/>
         <source>ZOOM_OUT</source>
-        <translation>Σμίκρυνση</translation>
+        <translation>Зменшення</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="227"/>
         <source>ADVANCED_PWM_CONTROL</source>
-        <translation>ελέγχου PWM</translation>
+        <translation>ШІМ-контроль</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="229"/>
         <source>ADVANCED_TIMER</source>
-        <translation>Μετρών την ώραν</translation>
+        <translation>Таймер</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="230"/>
         <source>POSTPONE_DURATION</source>
-        <translation>Αναβολή διάρκεια</translation>
+        <translation>Відкладіть тривалість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="231"/>
         <source>TIMER_TYPE</source>
-        <translation>Τύπος</translation>
+        <translation>Тип таймера</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="232"/>
         <source>BREAK_EVERY</source>
-        <translation>Σπάστε κάθε</translation>
+        <translation>Розбити кожен</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="233"/>
         <source>HAVE_A_REST_NOW</source>
-        <translation>Τώρα</translation>
+        <translation>Відпочивай зараз</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="234"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
-        <translation>Αυτόματη οθόνη κοντά υπόλοιπο</translation>
+        <translation>Автоматичний екран закриття</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="235"/>
         <source>USE_SOUNDS</source>
-        <translation>χρήση ήχους</translation>
+        <translation>Використовуйте звуки</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="237"/>
         <source>ADVANCED_SYSTEM</source>
-        <translation>Σύστημα</translation>
+        <translation>Система</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="238"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
-        <translation>Απόκρυψη γραμμής εργασιών εικονίδιο στη στενή</translation>
+        <translation>Сховати значок панелі завдань на самому кінці</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="239"/>
         <source>USE_MOUSE_INACTIVITY</source>
-        <translation>Χρησιμοποιήστε το ποντίκι αδράνειας για την παύση χρονόμετρο εργασίας</translation>
+        <translation>Використовуйте бездіяльність миші для призупинення робочого таймера</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="240"/>
         <source>BLOCK_KEYBOARD</source>
-        <translation>πληκτρολόγιο Block στην αυστηρή λειτουργία</translation>
+        <translation>Блокувати клавіатуру в суворій режимі</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="241"/>
         <source>USE_SOFTWARE_MOUSE</source>
-        <translation>Χρησιμοποιήστε το λογισμικό δείκτη του ποντικιού</translation>
+        <translation>Використовуйте програмне забезпечення курсора миші</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="243"/>
         <source>ADVANCED_IRIS</source>
-        <translation>Ίρις</translation>
+        <translation>Ірис</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="244"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
-        <translation>αλλαγές των ρυθμίσεων Αυτόματη αποθήκευση</translation>
+        <translation>Зміни налаштувань автоматичного збереження</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="245"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
-        <translation>Χρησιμοποιήστε τις συντομεύσεις πληκτρολογίου</translation>
+        <translation>Використовуйте комбінації клавіш</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="246"/>
         <source>DESTROY_UI_ON_CLOSE</source>
-        <translation>Καταστρέψτε Iris UI για κλείσιμο</translation>
+        <translation>Знищити Ірис інтерфейс на близьку</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="247"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
-        <translation>Χρησιμοποιήστε χαμηλού επιπέδου Χρώμα API</translation>
+        <translation>Використовуйте API кольорів низького рівня</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="248"/>
         <source>START_IRIS_ON_STARTUP</source>
-        <translation>Ξεκινήστε Iris κατά την εκκίνηση</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="250"/>
-        <source>RESET_COLORS</source>
-        <translation>επαναφορά χρωμάτων</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="257"/>
-        <source>ADVANCED_MOUSE_PAUSERS</source>
-        <translation>Ποντίκια για το ποντίκι</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="258"/>
-        <source>FULLSCREEN_APPS</source>
-        <translation>Πλήρης οθόνη εφαρμογών</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="275"/>
-        <source>DAY_OPACITY</source>
-        <translation>ημέρα Αδιαφάνεια</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="276"/>
-        <source>NIGHT_OPACITY</source>
-        <translation>Νύχτα Αδιαφάνεια</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="278"/>
-        <source>DAY_DIM</source>
-        <translation>ημέρα Δημ</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="279"/>
-        <source>NIGHT_DIM</source>
-        <translation>Νύχτα Δημ</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="288"/>
-        <source>USE_SMART_BRIGHTNESS</source>
-        <translation>έξυπνη φωτεινότητα</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="289"/>
-        <source>USE_SMART_INVERSION</source>
-        <translation>έξυπνη αντιστροφή</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="290"/>
-        <source>ENABLE_CAMERA</source>
-        <translation>Ενεργοποίηση κάμερας</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="291"/>
-        <source>DISABLE_CAMERA</source>
-        <translation>Απενεργοποίηση κάμερας</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="325"/>
-        <source>CZECH</source>
-        <translation>Τσέχος</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="326"/>
-        <source>UKRAINIAN</source>
-        <translation>Ουκρανός</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="328"/>
-        <source>ADVANCED_HIDDEN_FEATURES</source>
-        <translation>Κρυμμένα χαρακτηριστικά</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="329"/>
-        <source>ENTER_YOUR_SPELL</source>
-        <translation>Εισαγάγετε το ξόρκι σας:</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="330"/>
-        <source>ACTIVATE</source>
-        <translation>Δραστηριοποιώ</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="339"/>
-        <source>SKIP_REST</source>
-        <translation>Παράλειψη Υπόλοιπο</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="340"/>
-        <source>NORMAL</source>
-        <translation>Κανονικός</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="341"/>
-        <source>STRICT</source>
-        <translation>Αυστηρός</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="342"/>
-        <source>CONTINUE</source>
-        <translation>Να συνεχίσει</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="343"/>
-        <source>REST_MODE</source>
-        <translation>Υπόλοιπο λειτουργία</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="344"/>
-        <source>REST_MODE_MESSAGE</source>
-        <translation>Είστε σε κατάσταση ανάπαυσης τώρα. Επεξεργαστείτε το χρονόμετρο στην οθόνη ρυθμίσεων.</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="345"/>
-        <source>TIME_IS</source>
-        <translation>Η ώρα είναι</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="348"/>
-        <source>START_WORKING</source>
-        <translation>Έναρξη εργασίας</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="349"/>
-        <source>HAVE_A_BREAK</source>
-        <translation>Κάνε ένα διάλειμμα</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="352"/>
-        <source>ADD</source>
-        <translation>Προσθέτω</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="353"/>
-        <source>REMOVE</source>
-        <translation>Αφαιρώ</translation>
+        <translation>Почніть ірису під час запуску</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="249"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
-        <translation>επαναφορά ρυθμίσεων</translation>
+        <translation>Скидання налаштувань за замовчуванням</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="250"/>
+        <source>RESET_COLORS</source>
+        <translation>Скидання кольорів</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="252"/>
         <source>ADVANCED_HARDWARE</source>
-        <translation>Σκεύη, εξαρτήματα</translation>
+        <translation>Обладнання</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="253"/>
         <source>ADVANCED_SOUNDS</source>
-        <translation>Ήχοι</translation>
+        <translation>Звучить</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="255"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
-        <translation>παύση Χρώμα</translation>
+        <translation>Кольорові паузи</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="256"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
-        <translation>Μετρών την ώραν παύσης</translation>
+        <translation>Таймер пауз</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="257"/>
+        <source>ADVANCED_MOUSE_PAUSERS</source>
+        <translation>Паузи миші</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="258"/>
+        <source>FULLSCREEN_APPS</source>
+        <translation>Повноекранні програми</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="260"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
-        <translation>επικάλυψη της οθόνης</translation>
+        <translation>Накладення екрана</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="261"/>
         <source>OVERLAY_COLOR</source>
-        <translation>Επικάλυψη χρώματος</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="135"/>
-        <location filename="../../src/translation/Translator.cpp" line="262"/>
-        <source>GREEN</source>
-        <translation>Πράσινος</translation>
+        <translation>Колір накладення</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="263"/>
         <source>TURQUOISE</source>
-        <translation>Τουρκουάζ</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="136"/>
-        <location filename="../../src/translation/Translator.cpp" line="264"/>
-        <source>BLUE</source>
-        <translation>Μπλε</translation>
+        <translation>Бірюза</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="265"/>
         <source>INDIGO</source>
-        <translation>Ινδικό</translation>
+        <translation>Індіго</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="266"/>
         <source>VIOLET</source>
-        <translation>Βιολέτα</translation>
+        <translation>Фіолетовий</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="267"/>
         <source>PURPLE</source>
-        <translation>Μωβ</translation>
+        <translation>Багровіти</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="268"/>
         <source>MAGENTA</source>
-        <translation>Πορφύρα βαφή</translation>
+        <translation>Пурпурний</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="269"/>
         <source>SCARLET</source>
-        <translation>Κόκκινος</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="134"/>
-        <location filename="../../src/translation/Translator.cpp" line="270"/>
-        <source>RED</source>
-        <translation>Κόκκινος</translation>
+        <translation>Алое</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="271"/>
         <source>ORANGE</source>
-        <translation>Πορτοκάλι</translation>
+        <translation>Апельсин</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="272"/>
         <source>YELLOW</source>
-        <translation>Κίτρινος</translation>
+        <translation>Жовтий</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="273"/>
         <source>LEMON</source>
-        <translation>Λεμόνι</translation>
+        <translation>Лимон</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="160"/>
-        <location filename="../../src/translation/Translator.cpp" line="274"/>
-        <source>OPACITY</source>
-        <translation>Αδιαφάνεια</translation>
+        <location filename="../../src/translation/Translator.cpp" line="275"/>
+        <source>DAY_OPACITY</source>
+        <translation>Непрозорість дня</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="276"/>
+        <source>NIGHT_OPACITY</source>
+        <translation>Нічна непрозорість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="277"/>
         <source>SCREEN_DIM</source>
-        <translation>αμυδρό οθόνη</translation>
+        <translation>Екран затемнений</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="163"/>
-        <location filename="../../src/translation/Translator.cpp" line="280"/>
-        <source>DISABLE</source>
-        <translation>Καθιστώ ανίκανο</translation>
+        <location filename="../../src/translation/Translator.cpp" line="278"/>
+        <source>DAY_DIM</source>
+        <translation>Днем Дім</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="279"/>
+        <source>NIGHT_DIM</source>
+        <translation>Нічний Дим</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="281"/>
         <source>SELECT_SCREEN_AREA</source>
-        <translation>Επιλέξτε περιοχή οθόνης</translation>
+        <translation>Виберіть область екрана</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="282"/>
         <source>RESET_SELECTED_AREA</source>
-        <translation>Επαναφορά επιλεγμένης περιοχής</translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="164"/>
-        <location filename="../../src/translation/Translator.cpp" line="283"/>
-        <source>ENABLE</source>
-        <translation>επιτρέπω</translation>
+        <translation>Скинути вибрану область</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="285"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
-        <translation>Τεχνητή νοημοσύνη (AI)</translation>
+        <translation>Штучний інтелект (AI)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="286"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
-        <translation>Αυτόματη φωτεινότητα</translation>
+        <translation>Автоматична яскравість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="287"/>
         <source>USE_BLINK_DETECTION</source>
-        <translation>ανίχνευση αναλαμπής</translation>
+        <translation>Виявлення блимання</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="288"/>
+        <source>USE_SMART_BRIGHTNESS</source>
+        <translation>Розумна яскравість</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="289"/>
+        <source>USE_SMART_INVERSION</source>
+        <translation>Інтелектуальна інверсія</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="290"/>
+        <source>ENABLE_CAMERA</source>
+        <translation>Увімкнути камеру</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="291"/>
+        <source>DISABLE_CAMERA</source>
+        <translation>Вимкнути камеру</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="292"/>
         <source>SHOW_BLINK_SCREEN</source>
-        <translation>Εμφάνιση αναλαμπή της οθόνης</translation>
+        <translation>Показати світлодіодний екран</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="293"/>
         <source>HIDE_BLINK_SCREEN</source>
-        <translation>Απόκρυψη αναλαμπή της οθόνης</translation>
+        <translation>Сховати миготливий екран</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="295"/>
         <source>ADVANCED_EXERCISES</source>
-        <translation>Γυμνάσια</translation>
+        <translation>Вправи</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="296"/>
         <source>START_EYE_EXERCISES</source>
-        <translation>Ξεκινήστε ασκήσεις για τα μάτια</translation>
+        <translation>Почніть очні вправи</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="297"/>
         <source>START_NECK_EXERCISES</source>
-        <translation>Ξεκινήστε ασκήσεις του αυχένα</translation>
+        <translation>Почніть шийні вправи</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="298"/>
         <source>START_BACK_EXERCISES</source>
-        <translation>Ξεκινήστε πίσω ασκήσεις</translation>
+        <translation>Почніть назад вправи</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="300"/>
         <source>ADVANCED_IRIS_MODEL</source>
-        <translation>μοντέλου Iris</translation>
+        <translation>Ірисова модель</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="301"/>
         <source>SWITCH_TO_IRIS</source>
-        <translation>Αλλαγή σε Iris</translation>
+        <translation>Перейдіть Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="302"/>
         <source>SWITCH_TO_IRIS_LITE</source>
-        <translation>Αλλαγή σε Iris lite</translation>
+        <translation>Перейдіть на Iris lite</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="304"/>
         <source>ADVANCED_LICENSE</source>
-        <translation>Αδεια</translation>
+        <translation>Ліцензія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="305"/>
         <source>GET_IRIS_PRO</source>
-        <translation>Πάρτε Iris Pro</translation>
+        <translation>Отримати Iris Pro</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="308"/>
         <source>ADVANCED_LANGUAGE</source>
-        <translation>Γλώσσα</translation>
+        <translation>Мова</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="309"/>
         <source>LANGUAGE</source>
-        <translation>Γλώσσα</translation>
+        <translation>Мова</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="310"/>
         <source>ENGLISH</source>
-        <translation>Αγγλικά</translation>
+        <translation>Англійська</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="311"/>
         <source>RUSSIAN</source>
-        <translation>Ρωσική</translation>
+        <translation>Російський</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="312"/>
         <source>SPANISH</source>
-        <translation>Ισπανικά</translation>
+        <translation>Іспанська</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="313"/>
         <source>CHINESE</source>
-        <translation>κινέζικα</translation>
+        <translation>Китайський</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="314"/>
         <source>INDIAN</source>
-        <translation>Ινδός</translation>
+        <translation>Індійський</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="315"/>
         <source>JAPANESE</source>
-        <translation>Ιαπωνικά</translation>
+        <translation>Японський</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="316"/>
         <source>ARABIC</source>
-        <translation>Αραβικός</translation>
+        <translation>Арабська</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="317"/>
         <source>TURKISH</source>
-        <translation>Τούρκικος</translation>
+        <translation>Турецька мова</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="318"/>
         <source>PORTUGUESE</source>
-        <translation>Πορτογαλικά</translation>
+        <translation>Португальська</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="319"/>
         <source>FRENCH</source>
-        <translation>Γαλλική</translation>
+        <translation>Французька мова</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="320"/>
         <source>GERMAN</source>
-        <translation>Γερμανός</translation>
+        <translation>Німецька</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="321"/>
         <source>KOREAN</source>
-        <translation>Κορεάτης</translation>
+        <translation>Корейська</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="322"/>
         <source>ITALIAN</source>
-        <translation>Ιταλικός</translation>
+        <translation>Італійська</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="323"/>
         <source>BULGARIAN</source>
-        <translation>Βούλγαρος</translation>
+        <translation>Болгарський</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="324"/>
         <source>GREEK</source>
-        <translation>Ελληνικά</translation>
+        <translation>Грецький</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="325"/>
+        <source>CZECH</source>
+        <translation>Чеська мова</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="326"/>
+        <source>UKRAINIAN</source>
+        <translation>Українська</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="328"/>
+        <source>ADVANCED_HIDDEN_FEATURES</source>
+        <translation>Приховані функції</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="329"/>
+        <source>ENTER_YOUR_SPELL</source>
+        <translation>Введіть ваше заклинання:</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="330"/>
+        <source>ACTIVATE</source>
+        <translation>Активувати</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="332"/>
         <source>ADVANCED_ABOUT</source>
-        <translation>Σχετικά με</translation>
+        <translation>Про</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="333"/>
         <source>NAME</source>
-        <translation>Ονομα</translation>
+        <translation>Ім&apos;я</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="334"/>
         <source>VERSION</source>
-        <translation>Εκδοχή</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="335"/>
         <source>PUBLISHER</source>
-        <translation>Εκδότης</translation>
+        <translation>Видавець</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="336"/>
         <source>WEBSITE</source>
-        <translation>Δικτυακός τόπος</translation>
+        <translation>Веб-сайт</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <source>SKIP_REST</source>
+        <translation>Пропустити відпустку</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="340"/>
+        <source>NORMAL</source>
+        <translation>Нормальний</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="341"/>
+        <source>STRICT</source>
+        <translation>Строгий</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="342"/>
+        <source>CONTINUE</source>
+        <translation>Продовжуй</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="343"/>
+        <source>REST_MODE</source>
+        <translation>Режим відпочинку</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <source>REST_MODE_MESSAGE</source>
+        <translation>Ви зараз перебуваєте в режимі відпочинку. Редагувати таймер на панелі налаштувань.</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="345"/>
+        <source>TIME_IS</source>
+        <translation>Час є</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="348"/>
+        <source>START_WORKING</source>
+        <translation>Початок роботи</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="349"/>
+        <source>HAVE_A_BREAK</source>
+        <translation>Мати перерву</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <source>ADD</source>
+        <translation>Додати</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <source>REMOVE</source>
+        <translation>Видалити</translation>
     </message>
 </context>
 <context>
@@ -2229,121 +2228,121 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="68"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="593"/>
         <source>Settings</source>
-        <translation>Ρυθμίσεις</translation>
+        <translation>Налаштування</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="77"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="597"/>
         <source>&amp;Automatic</source>
-        <translation>Αυτόματο</translation>
+        <translation>Автоматичний</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="81"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="598"/>
         <source>&amp;Manual</source>
-        <translation>Εγχειρίδιο</translation>
+        <translation>Вручну</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="85"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="599"/>
         <source>&amp;Paused</source>
-        <translation>Παύση</translation>
+        <translation>Призупинено</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="89"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="595"/>
         <source>&amp;Change mode</source>
-        <translation>Αλλαγή τρόπου</translation>
+        <translation>Змінити режим</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="105"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="601"/>
         <source>&amp;Health</source>
-        <translation>Υγεία</translation>
+        <translation>Здоров&apos;я</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="109"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="602"/>
         <source>&amp;Sleep</source>
-        <translation>Υπνος</translation>
+        <translation>Сон</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="113"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="603"/>
         <source>&amp;Reading</source>
-        <translation>ΑΝΑΓΝΩΣΗ</translation>
+        <translation>Читання</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="117"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="604"/>
         <source>&amp;Programming</source>
-        <translation>Προγραμματισμός</translation>
+        <translation>Програмування</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="121"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="605"/>
         <source>&amp;Biohacker</source>
-        <translation>χάκερ Βιολογία</translation>
+        <translation>Біохокер</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="125"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="606"/>
         <source>&amp;Sunglasses</source>
-        <translation>Γυαλιά ηλίου</translation>
+        <translation>Сонцезахисні окуляри</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="129"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="607"/>
         <source>&amp;Dark</source>
-        <translation>Σκοτάδι</translation>
+        <translation>Темно</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="133"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="608"/>
         <source>&amp;Movie</source>
-        <translation>Ταινία</translation>
+        <translation>Фільм</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="137"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="609"/>
         <source>&amp;Overlay</source>
-        <translation>Επικάλυμμα</translation>
+        <translation>Накладання</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="197"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="616"/>
         <source>Exit</source>
-        <translation>Εξοδος</translation>
+        <translation>Вихід</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="199"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="618"/>
         <source>Quit</source>
-        <translation>Παρατώ</translation>
+        <translation>Кинути</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="245"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="596"/>
         <source>Mode</source>
-        <translation>Τρόπος</translation>
+        <translation>Режим</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="254"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="611"/>
         <source>Color pausers</source>
-        <translation>Χρώμα παύσης</translation>
+        <translation>Кольорові паузи</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="255"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="612"/>
         <source>Timer pausers</source>
-        <translation>Χρονοδιακόπτες</translation>
+        <translation>Таймер пауз</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="256"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="613"/>
         <source>Mouse pausers</source>
-        <translation>Ποντίκια για το ποντίκι</translation>
+        <translation>Паузи миші</translation>
     </message>
 </context>
 <context>
