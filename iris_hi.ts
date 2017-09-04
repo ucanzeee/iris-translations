@@ -523,12 +523,12 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="131"/>
         <source>License Expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">लायसेंस की समय सीमा समाप्त</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="132"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation type="unfinished"></translation>
+        <translation>आपका आईरिस प्रो लाइसेंस समाप्त हो गया है। आप से नया सक्रियण कोड खरीद सकते हैं</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="144"/>
@@ -650,13 +650,13 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/lightness_screen.ui" line="14"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/lightness_screen.ui" line="39"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="39"/>
         <source>qrc:/html/lightness_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -700,168 +700,168 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="927"/>
         <location filename="../../src/MainWindow.cpp" line="1037"/>
         <source>Day start time</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन की शुरुआत का समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="929"/>
         <location filename="../../src/MainWindow.cpp" line="1039"/>
         <source>Day transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन का संक्रमण प्रारंभ समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="931"/>
         <location filename="../../src/MainWindow.cpp" line="1041"/>
         <source>Day transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन का संक्रमण समाप्ति समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="933"/>
         <location filename="../../src/MainWindow.cpp" line="1043"/>
         <source>Day end time</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन के अंत का समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="938"/>
         <location filename="../../src/MainWindow.cpp" line="1048"/>
         <source>Night start time</source>
-        <translation type="unfinished"></translation>
+        <translation>रात की शुरुआत का समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="940"/>
         <location filename="../../src/MainWindow.cpp" line="1050"/>
         <source>Night transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>रात संक्रमण प्रारंभ समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="942"/>
         <location filename="../../src/MainWindow.cpp" line="1052"/>
         <source>Night transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>रात संक्रमण अंत समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="944"/>
         <location filename="../../src/MainWindow.cpp" line="1054"/>
         <source>Night end time</source>
-        <translation type="unfinished"></translation>
+        <translation>रात के अंत का समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="949"/>
         <location filename="../../src/MainWindow.cpp" line="1059"/>
         <source>Bedtime</source>
-        <translation type="unfinished"></translation>
+        <translation>सोने का समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="951"/>
         <location filename="../../src/MainWindow.cpp" line="1061"/>
         <source>Bedtime transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>सोने का समय संक्रमण आरंभ समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="953"/>
         <location filename="../../src/MainWindow.cpp" line="1063"/>
         <source>Bedtime transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>सोने का समय संक्रमण अंत समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="955"/>
         <location filename="../../src/MainWindow.cpp" line="1065"/>
         <source>Bedtime end time</source>
-        <translation type="unfinished"></translation>
+        <translation>सोने का समय समाप्ति समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="960"/>
         <location filename="../../src/MainWindow.cpp" line="1070"/>
         <source>Wake time</source>
-        <translation type="unfinished"></translation>
+        <translation>जागो समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="962"/>
         <location filename="../../src/MainWindow.cpp" line="1072"/>
         <source>Wake time transition start time</source>
-        <translation type="unfinished"></translation>
+        <translation>समय संक्रमण समय शुरू करने के लिए जागो</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="964"/>
         <location filename="../../src/MainWindow.cpp" line="1074"/>
         <source>Wake time transition end time</source>
-        <translation type="unfinished"></translation>
+        <translation>समय के अंत में संक्रमण के समय का जायजा लें</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="966"/>
         <location filename="../../src/MainWindow.cpp" line="1076"/>
         <source>Wake time end time</source>
-        <translation type="unfinished"></translation>
+        <translation>वेक टाइम एंड टाइम</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="971"/>
         <location filename="../../src/MainWindow.cpp" line="1081"/>
         <source>Day duration</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन की अवधि</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="973"/>
         <location filename="../../src/MainWindow.cpp" line="1083"/>
         <source>Day transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन संक्रमण अवधि</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="975"/>
         <location filename="../../src/MainWindow.cpp" line="1085"/>
         <source>Night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>रात की अवधि</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="977"/>
         <location filename="../../src/MainWindow.cpp" line="1087"/>
         <source>Night transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>रात संक्रमण की अवधि</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="979"/>
         <location filename="../../src/MainWindow.cpp" line="1089"/>
         <source>Sleep duration</source>
-        <translation type="unfinished"></translation>
+        <translation>नींद की अवधि</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="981"/>
         <location filename="../../src/MainWindow.cpp" line="1091"/>
         <source>Sleep transition duration</source>
-        <translation type="unfinished"></translation>
+        <translation>नींद संक्रमण की अवधि</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="987"/>
         <source>Time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>समय क्षेत्र</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="989"/>
         <source>Custom Time zone offset</source>
-        <translation type="unfinished"></translation>
+        <translation>कस्टम समय क्षेत्र ऑफसेट</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="994"/>
         <source>Sunrise time</source>
-        <translation type="unfinished"></translation>
+        <translation>सूर्योदय का समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="996"/>
         <source>Sunset time</source>
-        <translation type="unfinished"></translation>
+        <translation>सूर्यास्त का समय</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1001"/>
         <source>New moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>नया चाँद ऑफसेट</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1003"/>
         <source>Full moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>पूर्ण चंद्रमा ऑफसेट</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1005"/>
         <source>Current moon offset</source>
-        <translation type="unfinished"></translation>
+        <translation>वर्तमान चंद्रमा ऑफसेट</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1583"/>
@@ -942,13 +942,13 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/overlay_screen.ui" line="14"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/overlay_screen.ui" line="39"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="39"/>
         <source>qrc:/html/overlay_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1001,22 +1001,22 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
         <source>Skip</source>
-        <translation type="unfinished"></translation>
+        <translation>छोड़ें</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="109"/>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>जारी रहना</translation>
     </message>
 </context>
 <context>
@@ -1092,7 +1092,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="74"/>
         <source>DARK_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>अंधेरा</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="75"/>
@@ -1228,27 +1228,27 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="107"/>
         <source>ADVANCED_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>नीली बत्ती</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="108"/>
         <source>DAY_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन का प्रकाश</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="109"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>रात का चिराग़</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="111"/>
         <source>MANUAL_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>मैनुअल लाइट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="112"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>रीसेट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="116"/>
@@ -1342,118 +1342,118 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="146"/>
         <source>ADVANCED_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>संक्रमण</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="147"/>
         <source>DAY_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन का संक्रमण:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="148"/>
         <source>NIGHT_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>रात संक्रमण:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="149"/>
         <source>SLEEP_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>नींद संक्रमण:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="150"/>
         <source>PAUSE_TRANSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>संक्रमण रोकें:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="151"/>
         <location filename="../../src/translation/Translator.cpp" line="156"/>
         <source>TRANSITION_TIMES</source>
-        <translation type="unfinished"></translation>
+        <translation>संक्रमण के समय</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="153"/>
         <source>ADVANCED_MOON</source>
-        <translation type="unfinished"></translation>
+        <translation>चांद</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="154"/>
         <source>FULL_MOON_OFFSET</source>
-        <translation type="unfinished"></translation>
+        <translation>पूर्ण चंद्रमा ऑफसेट:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="155"/>
         <source>NEW_MOON_OFFSET</source>
-        <translation type="unfinished"></translation>
+        <translation>नई चंद्रमा ऑफसेट:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="158"/>
         <source>ADVANCED_LIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>लपट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="159"/>
         <source>RADIUS</source>
-        <translation type="unfinished"></translation>
+        <translation>त्रिज्या</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="161"/>
         <source>X_POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>X</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="162"/>
         <source>Y_POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>Y</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="166"/>
         <source>ADVANCED_SLEEP</source>
-        <translation type="unfinished"></translation>
+        <translation>नींद</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="167"/>
         <source>SLEEP_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>नींद लाइट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="168"/>
         <source>SLEEP_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>स्लीप ब्राइटनेस</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="169"/>
         <source>BEDTIME</source>
-        <translation type="unfinished"></translation>
+        <translation>सोने का समय:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="170"/>
         <source>WAKE_TIME</source>
-        <translation type="unfinished"></translation>
+        <translation>जागो समय:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="172"/>
         <source>ADVANCED_REST_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation>आराम स्क्रीन</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="173"/>
         <source>TYPE</source>
-        <translation type="unfinished"></translation>
+        <translation>प्रकार</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="174"/>
         <source>LITE</source>
-        <translation type="unfinished"></translation>
+        <translation>लाइट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="175"/>
         <source>SIMPLE</source>
-        <translation type="unfinished"></translation>
+        <translation>सरल</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="176"/>
         <source>STANDARD</source>
-        <translation type="unfinished"></translation>
+        <translation>मानक</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="178"/>
@@ -1784,12 +1784,12 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="257"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
-        <translation type="unfinished"></translation>
+        <translation>माउस पॉउसर्स</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="258"/>
         <source>FULLSCREEN_APPS</source>
-        <translation type="unfinished"></translation>
+        <translation>पूर्णस्क्रीन ऐप्स</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="275"/>
@@ -1839,22 +1839,22 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="326"/>
         <source>UKRAINIAN</source>
-        <translation type="unfinished"></translation>
+        <translation>यूक्रेनी</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="328"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation>छिपी हुई विशेषताओं</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="329"/>
         <source>ENTER_YOUR_SPELL</source>
-        <translation type="unfinished"></translation>
+        <translation>अपना वर्तनी दर्ज करें:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="330"/>
         <source>ACTIVATE</source>
-        <translation type="unfinished"></translation>
+        <translation>सक्रिय</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="339"/>
@@ -1904,12 +1904,12 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="352"/>
         <source>ADD</source>
-        <translation type="unfinished"></translation>
+        <translation>जोड़ना</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="353"/>
         <source>REMOVE</source>
-        <translation type="unfinished"></translation>
+        <translation>हटाना</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="249"/>
@@ -2289,13 +2289,13 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="125"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="606"/>
         <source>&amp;Sunglasses</source>
-        <translation type="unfinished"></translation>
+        <translation>धूप का चश्मा</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="129"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="607"/>
         <source>&amp;Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>अंधेरा</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="133"/>
@@ -2319,31 +2319,31 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="199"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="618"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>छोड़ना</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="245"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="596"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>मोड</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="254"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="611"/>
         <source>Color pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>रंग विराम</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="255"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="612"/>
         <source>Timer pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>टाइमर विराम</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="256"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="613"/>
         <source>Mouse pausers</source>
-        <translation type="unfinished"></translation>
+        <translation>माउस विराम दें</translation>
     </message>
 </context>
 <context>
@@ -2387,17 +2387,17 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2406,12 +2406,12 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
