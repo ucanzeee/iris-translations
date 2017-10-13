@@ -1047,1189 +1047,1189 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>Translator</name>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="174"/>
+        <location filename="../../src/translation/Translator.cpp" line="296"/>
         <source>IRIS_MODE</source>
         <translation>Режим</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="175"/>
+        <location filename="../../src/translation/Translator.cpp" line="297"/>
         <source>AUTOMATIC_MODE</source>
         <translation>Автоматичний</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="176"/>
+        <location filename="../../src/translation/Translator.cpp" line="298"/>
         <source>MANUAL_MODE</source>
         <translation>Вручну</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="177"/>
+        <location filename="../../src/translation/Translator.cpp" line="299"/>
         <source>PAUSED_MODE</source>
         <translation>Призупинено</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="179"/>
+        <location filename="../../src/translation/Translator.cpp" line="301"/>
         <source>IRIS_TYPE</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="180"/>
+        <location filename="../../src/translation/Translator.cpp" line="302"/>
         <source>HEALTH_MODE</source>
         <translation>Здоров&apos;я</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="181"/>
+        <location filename="../../src/translation/Translator.cpp" line="303"/>
         <source>SLEEP_MODE</source>
         <translation>Сон</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="182"/>
+        <location filename="../../src/translation/Translator.cpp" line="304"/>
         <source>READING_MODE</source>
         <translation>Читання</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="183"/>
+        <location filename="../../src/translation/Translator.cpp" line="305"/>
         <source>PROGRAMMING_MODE</source>
         <translation>Програмування</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="184"/>
+        <location filename="../../src/translation/Translator.cpp" line="306"/>
         <source>BIOHACKER_MODE</source>
         <translation>Біохокер</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="185"/>
+        <location filename="../../src/translation/Translator.cpp" line="307"/>
         <source>SUNGLASSES_MODE</source>
         <translation>Сонцезахисні окуляри</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="186"/>
+        <location filename="../../src/translation/Translator.cpp" line="308"/>
         <source>DARK_MODE</source>
         <translation>Темно</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="187"/>
+        <location filename="../../src/translation/Translator.cpp" line="309"/>
         <source>MOVIE_MODE</source>
         <translation>Фільм</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="188"/>
+        <location filename="../../src/translation/Translator.cpp" line="310"/>
         <source>OVERLAY_MODE</source>
         <translation>Накладання</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="190"/>
+        <location filename="../../src/translation/Translator.cpp" line="312"/>
         <source>IRIS_LICENSE</source>
         <translation>Ліцензія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="191"/>
-        <location filename="../../src/translation/Translator.cpp" line="418"/>
+        <location filename="../../src/translation/Translator.cpp" line="313"/>
+        <location filename="../../src/translation/Translator.cpp" line="540"/>
         <source>ACTIVATE_CODE</source>
         <translation>Активувати код</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="193"/>
+        <location filename="../../src/translation/Translator.cpp" line="315"/>
         <source>IRIS_TIMER</source>
         <translation>Таймер</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="194"/>
+        <location filename="../../src/translation/Translator.cpp" line="316"/>
         <source>TIMER_OFF</source>
         <translation>Вимкнено</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="195"/>
+        <location filename="../../src/translation/Translator.cpp" line="317"/>
         <source>TIMER_NORMAL</source>
         <translation>Нормальний</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="196"/>
+        <location filename="../../src/translation/Translator.cpp" line="318"/>
         <source>TIMER_STRICT</source>
         <translation>Строгий</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="197"/>
+        <location filename="../../src/translation/Translator.cpp" line="319"/>
         <source>TIMER_PRODUCTIVE</source>
         <translation>Продуктивний</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="198"/>
+        <location filename="../../src/translation/Translator.cpp" line="320"/>
         <source>TIMER_TASKBAR</source>
         <translation>Панель завдань</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="199"/>
+        <location filename="../../src/translation/Translator.cpp" line="321"/>
         <source>TIMER_EXERCISE</source>
         <translation>Вправу</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="200"/>
+        <location filename="../../src/translation/Translator.cpp" line="322"/>
         <source>TIMER_NOTIFICATION</source>
         <translation>Сповіщення</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="201"/>
+        <location filename="../../src/translation/Translator.cpp" line="323"/>
         <source>TIMER_SOUND</source>
         <translation>Звук</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="203"/>
+        <location filename="../../src/translation/Translator.cpp" line="325"/>
         <source>IRIS_LOCATION</source>
         <translation>Поселення</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="204"/>
+        <location filename="../../src/translation/Translator.cpp" line="326"/>
         <source>SAVE_AND_CLOSE</source>
         <translation>Зберегти</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="205"/>
+        <location filename="../../src/translation/Translator.cpp" line="327"/>
         <source>USE_ADVANCED_SETTINGS</source>
         <translation>Розширені налаштування</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="208"/>
+        <location filename="../../src/translation/Translator.cpp" line="330"/>
         <source>ADVANCED_SETTINGS_TITLE</source>
         <translation>Розширені налаштування</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="210"/>
+        <location filename="../../src/translation/Translator.cpp" line="332"/>
         <source>ADVANCED_COLOR_TEMPERATURE</source>
         <translation>Колірна температура</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="211"/>
+        <location filename="../../src/translation/Translator.cpp" line="333"/>
         <source>DAY_TEMPERATURE</source>
         <translation>Денна температура</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="212"/>
+        <location filename="../../src/translation/Translator.cpp" line="334"/>
         <source>NIGHT_TEMPERATURE</source>
         <translation>Нічна температура</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="213"/>
-        <location filename="../../src/translation/Translator.cpp" line="222"/>
-        <location filename="../../src/translation/Translator.cpp" line="231"/>
-        <location filename="../../src/translation/Translator.cpp" line="237"/>
+        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <location filename="../../src/translation/Translator.cpp" line="359"/>
         <source>EXTENDED_VALUES</source>
         <translation>Розширені значення</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="214"/>
+        <location filename="../../src/translation/Translator.cpp" line="336"/>
         <source>MANUAL_COLOR_SETTINGS</source>
         <translation>Ручне налаштування кольорів</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="215"/>
+        <location filename="../../src/translation/Translator.cpp" line="337"/>
         <source>RESET_TEMPERATURE</source>
         <translation>Скинути температуру</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="216"/>
-        <location filename="../../src/translation/Translator.cpp" line="225"/>
+        <location filename="../../src/translation/Translator.cpp" line="338"/>
+        <location filename="../../src/translation/Translator.cpp" line="347"/>
         <source>INVERT_COLORS</source>
         <translation>Інвертувати кольори</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="217"/>
-        <location filename="../../src/translation/Translator.cpp" line="226"/>
+        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="348"/>
         <source>REVERT_COLORS</source>
         <translation>Повернути кольори</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="219"/>
+        <location filename="../../src/translation/Translator.cpp" line="341"/>
         <source>ADVANCED_BLUE_LIGHT</source>
         <translation>Синє світло</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="220"/>
+        <location filename="../../src/translation/Translator.cpp" line="342"/>
         <source>DAY_BLUE_LIGHT</source>
         <translation>Денне світло</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="221"/>
+        <location filename="../../src/translation/Translator.cpp" line="343"/>
         <source>NIGHT_BLUE_LIGHT</source>
         <translation>Нічне світло</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="223"/>
+        <location filename="../../src/translation/Translator.cpp" line="345"/>
         <source>MANUAL_BLUE_LIGHT</source>
         <translation>Ручне світло</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="224"/>
+        <location filename="../../src/translation/Translator.cpp" line="346"/>
         <source>RESET_BLUE_LIGHT</source>
         <translation>Скинути</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="228"/>
-        <location filename="../../src/translation/Translator.cpp" line="234"/>
+        <location filename="../../src/translation/Translator.cpp" line="350"/>
+        <location filename="../../src/translation/Translator.cpp" line="356"/>
         <source>ADVANCED_BRIGHTNESS</source>
         <translation>Яскравість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="229"/>
-        <location filename="../../src/translation/Translator.cpp" line="235"/>
+        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="357"/>
         <source>DAY_BRIGHTNESS</source>
         <translation>Яскравість дня</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="230"/>
-        <location filename="../../src/translation/Translator.cpp" line="236"/>
+        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="358"/>
         <source>NIGHT_BRIGHTNESS</source>
         <translation>Нічна яскравість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="232"/>
-        <location filename="../../src/translation/Translator.cpp" line="238"/>
+        <location filename="../../src/translation/Translator.cpp" line="354"/>
+        <location filename="../../src/translation/Translator.cpp" line="360"/>
         <source>MANUAL_BRIGHTNESS</source>
         <translation>Ручна яскравість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="240"/>
+        <location filename="../../src/translation/Translator.cpp" line="362"/>
         <source>ADVANCED_COLOR_SCHEME</source>
         <translation>Кольорова схема</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="241"/>
+        <location filename="../../src/translation/Translator.cpp" line="363"/>
         <source>IRIS</source>
         <translation>Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="242"/>
+        <location filename="../../src/translation/Translator.cpp" line="364"/>
         <source>MAGMUS</source>
         <translation>Magmus</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="243"/>
+        <location filename="../../src/translation/Translator.cpp" line="365"/>
         <source>OLAF</source>
         <translation>Olaf</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="244"/>
+        <location filename="../../src/translation/Translator.cpp" line="366"/>
         <source>GROOT</source>
         <translation>Groot</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="245"/>
+        <location filename="../../src/translation/Translator.cpp" line="367"/>
         <source>LEADING_COLOR</source>
         <translation>Провідний колір</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="246"/>
-        <location filename="../../src/translation/Translator.cpp" line="382"/>
+        <location filename="../../src/translation/Translator.cpp" line="368"/>
+        <location filename="../../src/translation/Translator.cpp" line="504"/>
         <source>RED</source>
         <translation>Червоний</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="247"/>
-        <location filename="../../src/translation/Translator.cpp" line="374"/>
+        <location filename="../../src/translation/Translator.cpp" line="369"/>
+        <location filename="../../src/translation/Translator.cpp" line="496"/>
         <source>GREEN</source>
         <translation>Зелений</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="248"/>
-        <location filename="../../src/translation/Translator.cpp" line="376"/>
+        <location filename="../../src/translation/Translator.cpp" line="370"/>
+        <location filename="../../src/translation/Translator.cpp" line="498"/>
         <source>BLUE</source>
         <translation>Синій</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="250"/>
+        <location filename="../../src/translation/Translator.cpp" line="372"/>
         <source>ADVANCED_LOCATION</source>
         <translation>Місцезнаходження</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="251"/>
+        <location filename="../../src/translation/Translator.cpp" line="373"/>
         <source>MANUAL_LOCATION</source>
         <translation>Ручне розташування</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="252"/>
+        <location filename="../../src/translation/Translator.cpp" line="374"/>
         <source>LATITUDE</source>
         <translation>Широта:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="253"/>
+        <location filename="../../src/translation/Translator.cpp" line="375"/>
         <source>LONGITUDE</source>
         <translation>Довгота:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="254"/>
+        <location filename="../../src/translation/Translator.cpp" line="376"/>
         <source>MANUAL_NIGHT_DURATION</source>
         <translation>Ручна тривалість ночі</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="255"/>
+        <location filename="../../src/translation/Translator.cpp" line="377"/>
         <source>NIGHT_START_TIME</source>
         <translation>Ніч починається з:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="256"/>
+        <location filename="../../src/translation/Translator.cpp" line="378"/>
         <source>NIGHT_END_TIME</source>
         <translation>Ніч закінчується:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="258"/>
+        <location filename="../../src/translation/Translator.cpp" line="380"/>
         <source>ADVANCED_TRANSITION</source>
         <translation>Перехід</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="259"/>
+        <location filename="../../src/translation/Translator.cpp" line="381"/>
         <source>DAY_TRANSITION</source>
         <translation>Перехід дня:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="260"/>
+        <location filename="../../src/translation/Translator.cpp" line="382"/>
         <source>NIGHT_TRANSITION</source>
         <translation>Нічний перехід:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="261"/>
+        <location filename="../../src/translation/Translator.cpp" line="383"/>
         <source>SLEEP_TRANSITION</source>
         <translation>Перехід сну:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="262"/>
+        <location filename="../../src/translation/Translator.cpp" line="384"/>
         <source>PAUSE_TRANSITION</source>
         <translation>Призупинити перехід:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="263"/>
-        <location filename="../../src/translation/Translator.cpp" line="268"/>
+        <location filename="../../src/translation/Translator.cpp" line="385"/>
+        <location filename="../../src/translation/Translator.cpp" line="390"/>
         <source>TRANSITION_TIMES</source>
         <translation>Перехідний час</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="265"/>
+        <location filename="../../src/translation/Translator.cpp" line="387"/>
         <source>ADVANCED_MOON</source>
         <translation>Місяць</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="266"/>
+        <location filename="../../src/translation/Translator.cpp" line="388"/>
         <source>FULL_MOON_OFFSET</source>
         <translation>Повне Місячне зміщення:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="267"/>
+        <location filename="../../src/translation/Translator.cpp" line="389"/>
         <source>NEW_MOON_OFFSET</source>
         <translation>Нова Місяця зміщена:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="270"/>
+        <location filename="../../src/translation/Translator.cpp" line="392"/>
         <source>ADVANCED_LIGHTNESS</source>
         <translation>Легкість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="271"/>
+        <location filename="../../src/translation/Translator.cpp" line="393"/>
         <source>RADIUS</source>
         <translation>Радіус</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="272"/>
-        <location filename="../../src/translation/Translator.cpp" line="386"/>
+        <location filename="../../src/translation/Translator.cpp" line="394"/>
+        <location filename="../../src/translation/Translator.cpp" line="508"/>
         <source>OPACITY</source>
         <translation>Непрозорість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="273"/>
+        <location filename="../../src/translation/Translator.cpp" line="395"/>
         <source>X_POSITION</source>
         <translation>X</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="274"/>
+        <location filename="../../src/translation/Translator.cpp" line="396"/>
         <source>Y_POSITION</source>
         <translation>Y</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="275"/>
-        <location filename="../../src/translation/Translator.cpp" line="392"/>
+        <location filename="../../src/translation/Translator.cpp" line="397"/>
+        <location filename="../../src/translation/Translator.cpp" line="514"/>
         <source>DISABLE</source>
         <translation>Відключити</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="276"/>
-        <location filename="../../src/translation/Translator.cpp" line="395"/>
+        <location filename="../../src/translation/Translator.cpp" line="398"/>
+        <location filename="../../src/translation/Translator.cpp" line="517"/>
         <source>ENABLE</source>
         <translation>Увімкнути</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="278"/>
+        <location filename="../../src/translation/Translator.cpp" line="400"/>
         <source>ADVANCED_SLEEP</source>
         <translation>Сон</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="279"/>
+        <location filename="../../src/translation/Translator.cpp" line="401"/>
         <source>SLEEP_LIGHT</source>
         <translation>Сонний світло</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="280"/>
+        <location filename="../../src/translation/Translator.cpp" line="402"/>
         <source>SLEEP_BRIGHTNESS</source>
         <translation>Яскравість сну</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="281"/>
+        <location filename="../../src/translation/Translator.cpp" line="403"/>
         <source>BEDTIME</source>
         <translation>Спальний час:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="282"/>
+        <location filename="../../src/translation/Translator.cpp" line="404"/>
         <source>WAKE_TIME</source>
         <translation>Час прокидання:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="284"/>
+        <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>ADVANCED_REST_SCREEN</source>
         <translation>Відпочинок екран</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="285"/>
+        <location filename="../../src/translation/Translator.cpp" line="407"/>
         <source>TYPE</source>
         <translation>Тип</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="286"/>
+        <location filename="../../src/translation/Translator.cpp" line="408"/>
         <source>LITE</source>
         <translation>Lite</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="287"/>
+        <location filename="../../src/translation/Translator.cpp" line="409"/>
         <source>SIMPLE</source>
         <translation>Простий</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="288"/>
+        <location filename="../../src/translation/Translator.cpp" line="410"/>
         <source>STANDARD</source>
         <translation>Стандарт</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="290"/>
+        <location filename="../../src/translation/Translator.cpp" line="412"/>
         <source>ADVANCED_MANAGE_MONITORS</source>
         <translation>Управління моніторами</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="291"/>
+        <location filename="../../src/translation/Translator.cpp" line="413"/>
         <source>MONITOR_1</source>
         <translation>Монітор 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="292"/>
+        <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>MONITOR_2</source>
         <translation>Монітор 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="293"/>
+        <location filename="../../src/translation/Translator.cpp" line="415"/>
         <source>MONITOR_3</source>
         <translation>Монітор 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="294"/>
+        <location filename="../../src/translation/Translator.cpp" line="416"/>
         <source>MONITOR_4</source>
         <translation>Монітор 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="296"/>
+        <location filename="../../src/translation/Translator.cpp" line="418"/>
         <source>ADVANCED_SCREEN_EFFECTS</source>
         <translation>Ефекти екрана</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="297"/>
+        <location filename="../../src/translation/Translator.cpp" line="419"/>
         <source>SCREEN_EFFECT</source>
         <translation>Ефект екрана</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="298"/>
+        <location filename="../../src/translation/Translator.cpp" line="420"/>
         <source>SIMPLE_INVERSION</source>
         <translation>Проста інверсія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="299"/>
+        <location filename="../../src/translation/Translator.cpp" line="421"/>
         <source>GRAYSCALE_1</source>
         <translation>Градація сірого 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="300"/>
+        <location filename="../../src/translation/Translator.cpp" line="422"/>
         <source>GRAYSCALE_2</source>
         <translation>Градація сірого 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="301"/>
+        <location filename="../../src/translation/Translator.cpp" line="423"/>
         <source>GRAYSCALE_3</source>
         <translation>Градація сірого 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="302"/>
+        <location filename="../../src/translation/Translator.cpp" line="424"/>
         <source>NEGATIVE_GRAYSCALE</source>
         <translation>Негативне відтінки сірого</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="303"/>
+        <location filename="../../src/translation/Translator.cpp" line="425"/>
         <source>WASHOUT_1</source>
         <translation>Вимивання 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="304"/>
+        <location filename="../../src/translation/Translator.cpp" line="426"/>
         <source>WASHOUT_2</source>
         <translation>Вимивання 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="305"/>
+        <location filename="../../src/translation/Translator.cpp" line="427"/>
         <source>WASHOUT_3</source>
         <translation>Вимивання 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="306"/>
+        <location filename="../../src/translation/Translator.cpp" line="428"/>
         <source>SMART_INVERSION_1</source>
         <translation>Спритна інверсія 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="307"/>
+        <location filename="../../src/translation/Translator.cpp" line="429"/>
         <source>SMART_INVERSION_2</source>
         <translation>Смарт Інверсія 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="308"/>
+        <location filename="../../src/translation/Translator.cpp" line="430"/>
         <source>SMART_INVERSION_3</source>
         <translation>Смарт Інверсія 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="309"/>
+        <location filename="../../src/translation/Translator.cpp" line="431"/>
         <source>SMART_INVERSION_4</source>
         <translation>Смарт Інверсія 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="310"/>
+        <location filename="../../src/translation/Translator.cpp" line="432"/>
         <source>SMART_INVERSION_5</source>
         <translation>Смарт Інверсія 5</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="311"/>
+        <location filename="../../src/translation/Translator.cpp" line="433"/>
         <source>SEPIA</source>
         <translation>Сепія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="312"/>
+        <location filename="../../src/translation/Translator.cpp" line="434"/>
         <source>NEGATIVE_SEPIA</source>
         <translation>Негативний сепія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="313"/>
+        <location filename="../../src/translation/Translator.cpp" line="435"/>
         <source>GRAYSCALE_RED</source>
         <translation>Чорне відтінки червоного кольору</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="314"/>
+        <location filename="../../src/translation/Translator.cpp" line="436"/>
         <source>NEGATIVE_GRAYSCALE_RED</source>
         <translation>Негативне відтінки сірого кольору</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="315"/>
+        <location filename="../../src/translation/Translator.cpp" line="437"/>
         <source>PROTANOPIA</source>
         <translation>Протанопія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="316"/>
+        <location filename="../../src/translation/Translator.cpp" line="438"/>
         <source>PROTANOMALY</source>
         <translation>Протаномалії</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="317"/>
+        <location filename="../../src/translation/Translator.cpp" line="439"/>
         <source>DEUTERANOPIA</source>
         <translation>Детерантопія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="318"/>
+        <location filename="../../src/translation/Translator.cpp" line="440"/>
         <source>DEUTERANOMALY</source>
         <translation>Дютеранмомалі</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="319"/>
+        <location filename="../../src/translation/Translator.cpp" line="441"/>
         <source>TRITANOPIA</source>
         <translation>Тританопія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="320"/>
+        <location filename="../../src/translation/Translator.cpp" line="442"/>
         <source>TRITANOMALY</source>
         <translation>Тританомалы</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="321"/>
+        <location filename="../../src/translation/Translator.cpp" line="443"/>
         <source>ACHROMATOPSIA</source>
         <translation>Ахроматопія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="322"/>
+        <location filename="../../src/translation/Translator.cpp" line="444"/>
         <source>ACHROMATOMALY</source>
         <translation>Ахроматома</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="323"/>
+        <location filename="../../src/translation/Translator.cpp" line="445"/>
         <source>COLOR_EFFECTS</source>
         <translation>Кольорові ефекти</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="325"/>
+        <location filename="../../src/translation/Translator.cpp" line="447"/>
         <source>ADVANCED_FONTS</source>
         <translation>Шрифти</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="326"/>
+        <location filename="../../src/translation/Translator.cpp" line="448"/>
         <source>FONTS_TYPE</source>
         <translation>Шрифти типу</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="327"/>
+        <location filename="../../src/translation/Translator.cpp" line="449"/>
         <source>SIMPLE_FONTS</source>
         <translation>Прості шрифти</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="328"/>
+        <location filename="../../src/translation/Translator.cpp" line="450"/>
         <source>ANTI_ALIASING_FONTS</source>
         <translation>Шрифти з псевдонімом</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="329"/>
+        <location filename="../../src/translation/Translator.cpp" line="451"/>
         <source>CLEAR_TYPE_FONTS</source>
         <translation>Шрифти ClearType</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="330"/>
+        <location filename="../../src/translation/Translator.cpp" line="452"/>
         <source>GDIPP</source>
         <translation>GDIPP</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="331"/>
+        <location filename="../../src/translation/Translator.cpp" line="453"/>
         <source>FONT_SMOOTHING_LIGHT</source>
         <translation>Шрифт Smoothing Light</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="332"/>
+        <location filename="../../src/translation/Translator.cpp" line="454"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
         <translation>Шрифт Smoothing Medium</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="333"/>
+        <location filename="../../src/translation/Translator.cpp" line="455"/>
         <source>FONT_SMOOTHING_HIGH</source>
         <translation>Шрифт згладжування високий</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="457"/>
         <source>ADVANCED_MAGNIFICATION</source>
         <translation>Збільшення</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="336"/>
+        <location filename="../../src/translation/Translator.cpp" line="458"/>
         <source>ZOOM_IN</source>
         <translation>Збільшувати</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="337"/>
+        <location filename="../../src/translation/Translator.cpp" line="459"/>
         <source>ZOOM_OUT</source>
         <translation>Зменшення</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="461"/>
         <source>ADVANCED_PWM_CONTROL</source>
         <translation>ШІМ-контроль</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="341"/>
+        <location filename="../../src/translation/Translator.cpp" line="463"/>
         <source>ADVANCED_TIMER</source>
         <translation>Таймер</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="342"/>
+        <location filename="../../src/translation/Translator.cpp" line="464"/>
         <source>POSTPONE_DURATION</source>
         <translation>Відкладіть тривалість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="343"/>
+        <location filename="../../src/translation/Translator.cpp" line="465"/>
         <source>TIMER_TYPE</source>
         <translation>Тип таймера</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="466"/>
         <source>BREAK_EVERY</source>
         <translation>Розбити кожен</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="345"/>
+        <location filename="../../src/translation/Translator.cpp" line="467"/>
         <source>HAVE_A_REST_NOW</source>
         <translation>Відпочивай зараз</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="346"/>
+        <location filename="../../src/translation/Translator.cpp" line="468"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
         <translation>Автоматичний екран закриття</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="347"/>
+        <location filename="../../src/translation/Translator.cpp" line="469"/>
         <source>USE_SOUNDS</source>
         <translation>Використовуйте звуки</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="349"/>
+        <location filename="../../src/translation/Translator.cpp" line="471"/>
         <source>ADVANCED_SYSTEM</source>
         <translation>Система</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="350"/>
+        <location filename="../../src/translation/Translator.cpp" line="472"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
         <translation>Сховати значок панелі завдань на самому кінці</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="473"/>
         <source>USE_MOUSE_INACTIVITY</source>
         <translation>Використовуйте бездіяльність миші для призупинення робочого таймера</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="474"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>Блокувати клавіатуру в суворій режимі</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <location filename="../../src/translation/Translator.cpp" line="475"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>Використовуйте програмне забезпечення курсора миші</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="355"/>
+        <location filename="../../src/translation/Translator.cpp" line="477"/>
         <source>ADVANCED_IRIS</source>
         <translation>Ірис</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="356"/>
+        <location filename="../../src/translation/Translator.cpp" line="478"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>Зміни налаштувань автоматичного збереження</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="357"/>
+        <location filename="../../src/translation/Translator.cpp" line="479"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>Використовуйте комбінації клавіш</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="358"/>
+        <location filename="../../src/translation/Translator.cpp" line="480"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>Знищити Ірис інтерфейс на близьку</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="359"/>
+        <location filename="../../src/translation/Translator.cpp" line="481"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>Використовуйте API кольорів низького рівня</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="360"/>
+        <location filename="../../src/translation/Translator.cpp" line="482"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>Почніть ірису під час запуску</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="361"/>
+        <location filename="../../src/translation/Translator.cpp" line="483"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>Скидання налаштувань за замовчуванням</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="362"/>
+        <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>RESET_COLORS</source>
         <translation>Скидання кольорів</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="364"/>
+        <location filename="../../src/translation/Translator.cpp" line="486"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>Обладнання</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="365"/>
+        <location filename="../../src/translation/Translator.cpp" line="487"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>Звучить</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="367"/>
+        <location filename="../../src/translation/Translator.cpp" line="489"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>Кольорові паузи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="368"/>
+        <location filename="../../src/translation/Translator.cpp" line="490"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>Таймер пауз</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="369"/>
+        <location filename="../../src/translation/Translator.cpp" line="491"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>Паузи миші</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="370"/>
+        <location filename="../../src/translation/Translator.cpp" line="492"/>
         <source>FULLSCREEN_APPS</source>
         <translation>Повноекранні програми</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="372"/>
+        <location filename="../../src/translation/Translator.cpp" line="494"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>Накладення екрана</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="373"/>
+        <location filename="../../src/translation/Translator.cpp" line="495"/>
         <source>OVERLAY_COLOR</source>
         <translation>Колір накладення</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="375"/>
+        <location filename="../../src/translation/Translator.cpp" line="497"/>
         <source>TURQUOISE</source>
         <translation>Бірюза</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="377"/>
+        <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>INDIGO</source>
         <translation>Індіго</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="378"/>
+        <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>VIOLET</source>
         <translation>Фіолетовий</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="379"/>
+        <location filename="../../src/translation/Translator.cpp" line="501"/>
         <source>PURPLE</source>
         <translation>Багровіти</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="380"/>
+        <location filename="../../src/translation/Translator.cpp" line="502"/>
         <source>MAGENTA</source>
         <translation>Пурпурний</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="381"/>
+        <location filename="../../src/translation/Translator.cpp" line="503"/>
         <source>SCARLET</source>
         <translation>Алое</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="383"/>
+        <location filename="../../src/translation/Translator.cpp" line="505"/>
         <source>ORANGE</source>
         <translation>Апельсин</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="384"/>
+        <location filename="../../src/translation/Translator.cpp" line="506"/>
         <source>YELLOW</source>
         <translation>Жовтий</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="385"/>
+        <location filename="../../src/translation/Translator.cpp" line="507"/>
         <source>LEMON</source>
         <translation>Лимон</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="387"/>
+        <location filename="../../src/translation/Translator.cpp" line="509"/>
         <source>DAY_OPACITY</source>
         <translation>Непрозорість дня</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="388"/>
+        <location filename="../../src/translation/Translator.cpp" line="510"/>
         <source>NIGHT_OPACITY</source>
         <translation>Нічна непрозорість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="389"/>
+        <location filename="../../src/translation/Translator.cpp" line="511"/>
         <source>SCREEN_DIM</source>
         <translation>Екран затемнений</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="390"/>
+        <location filename="../../src/translation/Translator.cpp" line="512"/>
         <source>DAY_DIM</source>
         <translation>Днем Дім</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="391"/>
+        <location filename="../../src/translation/Translator.cpp" line="513"/>
         <source>NIGHT_DIM</source>
         <translation>Нічний Дим</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="393"/>
+        <location filename="../../src/translation/Translator.cpp" line="515"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>Виберіть область екрана</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="394"/>
+        <location filename="../../src/translation/Translator.cpp" line="516"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>Скинути вибрану область</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="397"/>
+        <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>Штучний інтелект (AI)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="398"/>
+        <location filename="../../src/translation/Translator.cpp" line="520"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>Автоматична яскравість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="399"/>
+        <location filename="../../src/translation/Translator.cpp" line="521"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>Виявлення блимання</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="400"/>
+        <location filename="../../src/translation/Translator.cpp" line="522"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>Розумна яскравість</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="401"/>
+        <location filename="../../src/translation/Translator.cpp" line="523"/>
         <source>USE_SMART_INVERSION</source>
         <translation>Інтелектуальна інверсія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="402"/>
+        <location filename="../../src/translation/Translator.cpp" line="524"/>
         <source>ENABLE_CAMERA</source>
         <translation>Увімкнути камеру</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="403"/>
+        <location filename="../../src/translation/Translator.cpp" line="525"/>
         <source>DISABLE_CAMERA</source>
         <translation>Вимкнути камеру</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="404"/>
+        <location filename="../../src/translation/Translator.cpp" line="526"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>Показати світлодіодний екран</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="405"/>
+        <location filename="../../src/translation/Translator.cpp" line="527"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>Сховати миготливий екран</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="407"/>
+        <location filename="../../src/translation/Translator.cpp" line="529"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>Вправи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="408"/>
+        <location filename="../../src/translation/Translator.cpp" line="530"/>
         <source>START_EYE_EXERCISES</source>
         <translation>Почніть очні вправи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="409"/>
+        <location filename="../../src/translation/Translator.cpp" line="531"/>
         <source>START_NECK_EXERCISES</source>
         <translation>Почніть шийні вправи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="410"/>
+        <location filename="../../src/translation/Translator.cpp" line="532"/>
         <source>START_BACK_EXERCISES</source>
         <translation>Почніть назад вправи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="412"/>
+        <location filename="../../src/translation/Translator.cpp" line="534"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>Ірисова модель</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="413"/>
+        <location filename="../../src/translation/Translator.cpp" line="535"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>Перейдіть Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="414"/>
+        <location filename="../../src/translation/Translator.cpp" line="536"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>Перейдіть на Iris lite</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="416"/>
+        <location filename="../../src/translation/Translator.cpp" line="538"/>
         <source>ADVANCED_LICENSE</source>
         <translation>Ліцензія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="417"/>
+        <location filename="../../src/translation/Translator.cpp" line="539"/>
         <source>GET_IRIS_PRO</source>
         <translation>Отримати Iris Pro</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="420"/>
+        <location filename="../../src/translation/Translator.cpp" line="542"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>Мова</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="421"/>
+        <location filename="../../src/translation/Translator.cpp" line="543"/>
         <source>LANGUAGE</source>
         <translation>Мова</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="422"/>
+        <location filename="../../src/translation/Translator.cpp" line="544"/>
         <source>ENGLISH</source>
         <translation>Англійська</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="423"/>
+        <location filename="../../src/translation/Translator.cpp" line="545"/>
         <source>RUSSIAN</source>
         <translation>Російський</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="424"/>
+        <location filename="../../src/translation/Translator.cpp" line="546"/>
         <source>SPANISH</source>
         <translation>Іспанська</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="425"/>
+        <location filename="../../src/translation/Translator.cpp" line="547"/>
         <source>CHINESE</source>
         <translation>Китайський</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="426"/>
+        <location filename="../../src/translation/Translator.cpp" line="548"/>
         <source>INDIAN</source>
         <translation>Індійський</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="427"/>
+        <location filename="../../src/translation/Translator.cpp" line="549"/>
         <source>JAPANESE</source>
         <translation>Японський</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="428"/>
+        <location filename="../../src/translation/Translator.cpp" line="550"/>
         <source>ARABIC</source>
         <translation>Арабська</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="429"/>
+        <location filename="../../src/translation/Translator.cpp" line="551"/>
         <source>TURKISH</source>
         <translation>Турецька мова</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="430"/>
+        <location filename="../../src/translation/Translator.cpp" line="552"/>
         <source>PORTUGUESE</source>
         <translation>Португальська</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="431"/>
+        <location filename="../../src/translation/Translator.cpp" line="553"/>
         <source>FRENCH</source>
         <translation>Французька мова</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="432"/>
+        <location filename="../../src/translation/Translator.cpp" line="554"/>
         <source>GERMAN</source>
         <translation>Німецька</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="433"/>
+        <location filename="../../src/translation/Translator.cpp" line="555"/>
         <source>KOREAN</source>
         <translation>Корейська</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="434"/>
+        <location filename="../../src/translation/Translator.cpp" line="556"/>
         <source>ITALIAN</source>
         <translation>Італійська</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="435"/>
+        <location filename="../../src/translation/Translator.cpp" line="557"/>
         <source>BULGARIAN</source>
         <translation>Болгарський</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="436"/>
+        <location filename="../../src/translation/Translator.cpp" line="558"/>
         <source>GREEK</source>
         <translation>Грецький</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="437"/>
+        <location filename="../../src/translation/Translator.cpp" line="559"/>
         <source>CZECH</source>
         <translation>Чеська мова</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="438"/>
+        <location filename="../../src/translation/Translator.cpp" line="560"/>
         <source>UKRAINIAN</source>
         <translation>Українська</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="440"/>
+        <location filename="../../src/translation/Translator.cpp" line="562"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Приховані функції</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="441"/>
+        <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Введіть ваше заклинання:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="442"/>
+        <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ACTIVATE</source>
         <translation>Активувати</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="444"/>
+        <location filename="../../src/translation/Translator.cpp" line="566"/>
         <source>ADVANCED_ABOUT</source>
         <translation>Про</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="445"/>
+        <location filename="../../src/translation/Translator.cpp" line="567"/>
         <source>NAME</source>
         <translation>Ім&apos;я</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="446"/>
+        <location filename="../../src/translation/Translator.cpp" line="568"/>
         <source>VERSION</source>
         <translation>Версія</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="447"/>
+        <location filename="../../src/translation/Translator.cpp" line="569"/>
         <source>PUBLISHER</source>
         <translation>Видавець</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="448"/>
+        <location filename="../../src/translation/Translator.cpp" line="570"/>
         <source>WEBSITE</source>
         <translation>Веб-сайт</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="451"/>
+        <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>SKIP_REST</source>
         <translation>Пропустити відпустку</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="452"/>
+        <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>NORMAL</source>
         <translation>Нормальний</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="453"/>
+        <location filename="../../src/translation/Translator.cpp" line="575"/>
         <source>STRICT</source>
         <translation>Строгий</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="454"/>
+        <location filename="../../src/translation/Translator.cpp" line="576"/>
         <source>CONTINUE</source>
         <translation>Продовжуй</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="455"/>
+        <location filename="../../src/translation/Translator.cpp" line="577"/>
         <source>REST_MODE</source>
         <translation>Режим відпочинку</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="456"/>
+        <location filename="../../src/translation/Translator.cpp" line="578"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Ви зараз перебуваєте в режимі відпочинку. Редагувати таймер на панелі налаштувань.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="457"/>
+        <location filename="../../src/translation/Translator.cpp" line="579"/>
         <source>TIME_IS</source>
         <translation>Час є</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="460"/>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>START_WORKING</source>
         <translation>Початок роботи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="461"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>HAVE_A_BREAK</source>
         <translation>Мати перерву</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="464"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>ADD</source>
         <translation>Додати</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="465"/>
+        <location filename="../../src/translation/Translator.cpp" line="587"/>
         <source>REMOVE</source>
         <translation>Видалити</translation>
     </message>

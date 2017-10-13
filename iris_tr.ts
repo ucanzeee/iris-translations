@@ -1047,1190 +1047,1190 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>Translator</name>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="174"/>
+        <location filename="../../src/translation/Translator.cpp" line="296"/>
         <source>IRIS_MODE</source>
         <translation>Mod</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="175"/>
+        <location filename="../../src/translation/Translator.cpp" line="297"/>
         <source>AUTOMATIC_MODE</source>
         <translation>Otomatik</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="176"/>
+        <location filename="../../src/translation/Translator.cpp" line="298"/>
         <source>MANUAL_MODE</source>
         <translation>Manuel</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="177"/>
+        <location filename="../../src/translation/Translator.cpp" line="299"/>
         <source>PAUSED_MODE</source>
         <translation>Duraklatıldı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="179"/>
+        <location filename="../../src/translation/Translator.cpp" line="301"/>
         <source>IRIS_TYPE</source>
         <translation>Tip</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="180"/>
+        <location filename="../../src/translation/Translator.cpp" line="302"/>
         <source>HEALTH_MODE</source>
         <translation>Sağlık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="181"/>
+        <location filename="../../src/translation/Translator.cpp" line="303"/>
         <source>SLEEP_MODE</source>
         <translation>Uyku</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="182"/>
+        <location filename="../../src/translation/Translator.cpp" line="304"/>
         <source>READING_MODE</source>
         <translation>Okuma</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="183"/>
+        <location filename="../../src/translation/Translator.cpp" line="305"/>
         <source>PROGRAMMING_MODE</source>
         <translation>Programlama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="184"/>
+        <location filename="../../src/translation/Translator.cpp" line="306"/>
         <source>BIOHACKER_MODE</source>
         <translation>Biohacker</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="185"/>
+        <location filename="../../src/translation/Translator.cpp" line="307"/>
         <source>SUNGLASSES_MODE</source>
         <translation>Güneş gözlüğü</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="186"/>
+        <location filename="../../src/translation/Translator.cpp" line="308"/>
         <source>DARK_MODE</source>
         <translation>Karanlık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="187"/>
+        <location filename="../../src/translation/Translator.cpp" line="309"/>
         <source>MOVIE_MODE</source>
         <translation>Film</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="188"/>
+        <location filename="../../src/translation/Translator.cpp" line="310"/>
         <source>OVERLAY_MODE</source>
         <translation>Kaplama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="190"/>
+        <location filename="../../src/translation/Translator.cpp" line="312"/>
         <source>IRIS_LICENSE</source>
         <translation>Lisans</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="191"/>
-        <location filename="../../src/translation/Translator.cpp" line="418"/>
+        <location filename="../../src/translation/Translator.cpp" line="313"/>
+        <location filename="../../src/translation/Translator.cpp" line="540"/>
         <source>ACTIVATE_CODE</source>
         <translation>Kodu etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="193"/>
+        <location filename="../../src/translation/Translator.cpp" line="315"/>
         <source>IRIS_TIMER</source>
         <translation>Zamanlayıcı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="194"/>
+        <location filename="../../src/translation/Translator.cpp" line="316"/>
         <source>TIMER_OFF</source>
         <translation>Kapalı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="195"/>
+        <location filename="../../src/translation/Translator.cpp" line="317"/>
         <source>TIMER_NORMAL</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="196"/>
+        <location filename="../../src/translation/Translator.cpp" line="318"/>
         <source>TIMER_STRICT</source>
         <translation>Sıkı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="197"/>
+        <location filename="../../src/translation/Translator.cpp" line="319"/>
         <source>TIMER_PRODUCTIVE</source>
         <translation>Üretken</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="198"/>
+        <location filename="../../src/translation/Translator.cpp" line="320"/>
         <source>TIMER_TASKBAR</source>
         <translation>Görev çubuğu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="199"/>
+        <location filename="../../src/translation/Translator.cpp" line="321"/>
         <source>TIMER_EXERCISE</source>
         <translation>Egzersiz</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="200"/>
+        <location filename="../../src/translation/Translator.cpp" line="322"/>
         <source>TIMER_NOTIFICATION</source>
         <translation>Bildirim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="201"/>
+        <location filename="../../src/translation/Translator.cpp" line="323"/>
         <source>TIMER_SOUND</source>
         <translation>Ses</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="203"/>
+        <location filename="../../src/translation/Translator.cpp" line="325"/>
         <source>IRIS_LOCATION</source>
         <translation>Yer</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="204"/>
+        <location filename="../../src/translation/Translator.cpp" line="326"/>
         <source>SAVE_AND_CLOSE</source>
         <translation>Kaydet ve kapat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="205"/>
+        <location filename="../../src/translation/Translator.cpp" line="327"/>
         <source>USE_ADVANCED_SETTINGS</source>
         <translation>Gelişmiş Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="208"/>
+        <location filename="../../src/translation/Translator.cpp" line="330"/>
         <source>ADVANCED_SETTINGS_TITLE</source>
         <translation>Gelişmiş Ayarlar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="210"/>
+        <location filename="../../src/translation/Translator.cpp" line="332"/>
         <source>ADVANCED_COLOR_TEMPERATURE</source>
         <translation>Renk sıcaklığı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="211"/>
+        <location filename="../../src/translation/Translator.cpp" line="333"/>
         <source>DAY_TEMPERATURE</source>
         <translation>Gün Sıcaklığı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="212"/>
+        <location filename="../../src/translation/Translator.cpp" line="334"/>
         <source>NIGHT_TEMPERATURE</source>
         <translation>Gece Sıcaklığı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="213"/>
-        <location filename="../../src/translation/Translator.cpp" line="222"/>
-        <location filename="../../src/translation/Translator.cpp" line="231"/>
-        <location filename="../../src/translation/Translator.cpp" line="237"/>
+        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <location filename="../../src/translation/Translator.cpp" line="359"/>
         <source>EXTENDED_VALUES</source>
         <translation>Genişletilmiş değerler</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="214"/>
+        <location filename="../../src/translation/Translator.cpp" line="336"/>
         <source>MANUAL_COLOR_SETTINGS</source>
         <translation>Manuel renk ayarları</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="215"/>
+        <location filename="../../src/translation/Translator.cpp" line="337"/>
         <source>RESET_TEMPERATURE</source>
         <translation>Sıcaklığı sıfırlayın</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="216"/>
-        <location filename="../../src/translation/Translator.cpp" line="225"/>
+        <location filename="../../src/translation/Translator.cpp" line="338"/>
+        <location filename="../../src/translation/Translator.cpp" line="347"/>
         <source>INVERT_COLORS</source>
         <translation>Renkleri ters çevir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="217"/>
-        <location filename="../../src/translation/Translator.cpp" line="226"/>
+        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="348"/>
         <source>REVERT_COLORS</source>
         <translation>Renkleri geri al</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="219"/>
+        <location filename="../../src/translation/Translator.cpp" line="341"/>
         <source>ADVANCED_BLUE_LIGHT</source>
         <translation>Mavi ışık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="220"/>
+        <location filename="../../src/translation/Translator.cpp" line="342"/>
         <source>DAY_BLUE_LIGHT</source>
         <translation>Günışığı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="221"/>
+        <location filename="../../src/translation/Translator.cpp" line="343"/>
         <source>NIGHT_BLUE_LIGHT</source>
         <translation>Gece lambası</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="223"/>
+        <location filename="../../src/translation/Translator.cpp" line="345"/>
         <source>MANUAL_BLUE_LIGHT</source>
         <translation>Manuel Işık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="224"/>
+        <location filename="../../src/translation/Translator.cpp" line="346"/>
         <source>RESET_BLUE_LIGHT</source>
         <translation>Sıfırla</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="228"/>
-        <location filename="../../src/translation/Translator.cpp" line="234"/>
+        <location filename="../../src/translation/Translator.cpp" line="350"/>
+        <location filename="../../src/translation/Translator.cpp" line="356"/>
         <source>ADVANCED_BRIGHTNESS</source>
         <translation>Parlaklık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="229"/>
-        <location filename="../../src/translation/Translator.cpp" line="235"/>
+        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="357"/>
         <source>DAY_BRIGHTNESS</source>
         <translation>Gün Parlaklığı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="230"/>
-        <location filename="../../src/translation/Translator.cpp" line="236"/>
+        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="358"/>
         <source>NIGHT_BRIGHTNESS</source>
         <translation>Gece Parlaklığı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="232"/>
-        <location filename="../../src/translation/Translator.cpp" line="238"/>
+        <location filename="../../src/translation/Translator.cpp" line="354"/>
+        <location filename="../../src/translation/Translator.cpp" line="360"/>
         <source>MANUAL_BRIGHTNESS</source>
         <translation>Manuel parlaklık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="240"/>
+        <location filename="../../src/translation/Translator.cpp" line="362"/>
         <source>ADVANCED_COLOR_SCHEME</source>
         <translation>Renk uyumu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="241"/>
+        <location filename="../../src/translation/Translator.cpp" line="363"/>
         <source>IRIS</source>
         <translation>İris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="242"/>
+        <location filename="../../src/translation/Translator.cpp" line="364"/>
         <source>MAGMUS</source>
         <translation>Magmus</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="243"/>
+        <location filename="../../src/translation/Translator.cpp" line="365"/>
         <source>OLAF</source>
         <translation>Olaf</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="244"/>
+        <location filename="../../src/translation/Translator.cpp" line="366"/>
         <source>GROOT</source>
         <translation>Büyük</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="245"/>
+        <location filename="../../src/translation/Translator.cpp" line="367"/>
         <source>LEADING_COLOR</source>
         <translation>Öncü Renk</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="250"/>
+        <location filename="../../src/translation/Translator.cpp" line="372"/>
         <source>ADVANCED_LOCATION</source>
         <translation>Yer</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="251"/>
+        <location filename="../../src/translation/Translator.cpp" line="373"/>
         <source>MANUAL_LOCATION</source>
         <translation>Manuel konum</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="252"/>
+        <location filename="../../src/translation/Translator.cpp" line="374"/>
         <source>LATITUDE</source>
         <translation>Enlem:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="253"/>
+        <location filename="../../src/translation/Translator.cpp" line="375"/>
         <source>LONGITUDE</source>
         <translation>Boylam:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="254"/>
+        <location filename="../../src/translation/Translator.cpp" line="376"/>
         <source>MANUAL_NIGHT_DURATION</source>
         <translation>Manuel gece süresi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="255"/>
+        <location filename="../../src/translation/Translator.cpp" line="377"/>
         <source>NIGHT_START_TIME</source>
         <translation>Gece başlıyor:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="256"/>
+        <location filename="../../src/translation/Translator.cpp" line="378"/>
         <source>NIGHT_END_TIME</source>
         <translation>Gece bitiş tarihi:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="258"/>
+        <location filename="../../src/translation/Translator.cpp" line="380"/>
         <source>ADVANCED_TRANSITION</source>
         <translation>Geçiş</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="259"/>
+        <location filename="../../src/translation/Translator.cpp" line="381"/>
         <source>DAY_TRANSITION</source>
         <translation>Gün Dönüşümü:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="260"/>
+        <location filename="../../src/translation/Translator.cpp" line="382"/>
         <source>NIGHT_TRANSITION</source>
         <translation>Gece Geçişi:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="261"/>
+        <location filename="../../src/translation/Translator.cpp" line="383"/>
         <source>SLEEP_TRANSITION</source>
         <translation>Uyku Geçişi:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="262"/>
+        <location filename="../../src/translation/Translator.cpp" line="384"/>
         <source>PAUSE_TRANSITION</source>
         <translation>Geçişin Duraklatılması:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="263"/>
-        <location filename="../../src/translation/Translator.cpp" line="268"/>
+        <location filename="../../src/translation/Translator.cpp" line="385"/>
+        <location filename="../../src/translation/Translator.cpp" line="390"/>
         <source>TRANSITION_TIMES</source>
         <translation>Geçiş süreleri</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="265"/>
+        <location filename="../../src/translation/Translator.cpp" line="387"/>
         <source>ADVANCED_MOON</source>
         <translation>Ay</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="266"/>
+        <location filename="../../src/translation/Translator.cpp" line="388"/>
         <source>FULL_MOON_OFFSET</source>
         <translation>Dolunay ayarı:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="267"/>
+        <location filename="../../src/translation/Translator.cpp" line="389"/>
         <source>NEW_MOON_OFFSET</source>
         <translation>Yeni Ay ofset:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="270"/>
+        <location filename="../../src/translation/Translator.cpp" line="392"/>
         <source>ADVANCED_LIGHTNESS</source>
         <translation>Hafiflik</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="271"/>
+        <location filename="../../src/translation/Translator.cpp" line="393"/>
         <source>RADIUS</source>
         <translation>Yarıçap</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="273"/>
+        <location filename="../../src/translation/Translator.cpp" line="395"/>
         <source>X_POSITION</source>
         <translation>X</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="274"/>
+        <location filename="../../src/translation/Translator.cpp" line="396"/>
         <source>Y_POSITION</source>
         <translation>Y</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="278"/>
+        <location filename="../../src/translation/Translator.cpp" line="400"/>
         <source>ADVANCED_SLEEP</source>
         <translation>Uyku</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="279"/>
+        <location filename="../../src/translation/Translator.cpp" line="401"/>
         <source>SLEEP_LIGHT</source>
         <translation>Uyku Işığı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="280"/>
+        <location filename="../../src/translation/Translator.cpp" line="402"/>
         <source>SLEEP_BRIGHTNESS</source>
         <translation>Uyku Parlaklığı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="281"/>
+        <location filename="../../src/translation/Translator.cpp" line="403"/>
         <source>BEDTIME</source>
         <translation>Uyku vakti:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="282"/>
+        <location filename="../../src/translation/Translator.cpp" line="404"/>
         <source>WAKE_TIME</source>
         <translation>Uyanma zamanı:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="284"/>
+        <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>ADVANCED_REST_SCREEN</source>
         <translation>Dinlenme ekranı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="285"/>
+        <location filename="../../src/translation/Translator.cpp" line="407"/>
         <source>TYPE</source>
         <translation>Tür</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="286"/>
+        <location filename="../../src/translation/Translator.cpp" line="408"/>
         <source>LITE</source>
         <translation>Temel</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="287"/>
+        <location filename="../../src/translation/Translator.cpp" line="409"/>
         <source>SIMPLE</source>
         <translation>Basit</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="288"/>
+        <location filename="../../src/translation/Translator.cpp" line="410"/>
         <source>STANDARD</source>
         <translation>Olağan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="290"/>
+        <location filename="../../src/translation/Translator.cpp" line="412"/>
         <source>ADVANCED_MANAGE_MONITORS</source>
         <translation>Monitörleri yönetin</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="291"/>
+        <location filename="../../src/translation/Translator.cpp" line="413"/>
         <source>MONITOR_1</source>
         <translation>Monitör 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="292"/>
+        <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>MONITOR_2</source>
         <translation>Monitör 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="293"/>
+        <location filename="../../src/translation/Translator.cpp" line="415"/>
         <source>MONITOR_3</source>
         <translation>Monitör 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="294"/>
+        <location filename="../../src/translation/Translator.cpp" line="416"/>
         <source>MONITOR_4</source>
         <translation>Monitör 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="296"/>
+        <location filename="../../src/translation/Translator.cpp" line="418"/>
         <source>ADVANCED_SCREEN_EFFECTS</source>
         <translation>Ekran efektleri</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="297"/>
+        <location filename="../../src/translation/Translator.cpp" line="419"/>
         <source>SCREEN_EFFECT</source>
         <oldsource>COLOR_EFFECT</oldsource>
         <translation>Ekran etkisi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="298"/>
+        <location filename="../../src/translation/Translator.cpp" line="420"/>
         <source>SIMPLE_INVERSION</source>
         <translation>Basit Dönüşüm</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="299"/>
+        <location filename="../../src/translation/Translator.cpp" line="421"/>
         <source>GRAYSCALE_1</source>
         <translation>Gri Ölçek 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="300"/>
+        <location filename="../../src/translation/Translator.cpp" line="422"/>
         <source>GRAYSCALE_2</source>
         <translation>Gri Ölçek 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="301"/>
+        <location filename="../../src/translation/Translator.cpp" line="423"/>
         <source>GRAYSCALE_3</source>
         <translation>Gri Ölçek 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="302"/>
+        <location filename="../../src/translation/Translator.cpp" line="424"/>
         <source>NEGATIVE_GRAYSCALE</source>
         <translation>Negatif Gri Ölçek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="303"/>
+        <location filename="../../src/translation/Translator.cpp" line="425"/>
         <source>WASHOUT_1</source>
         <translation>Yıkama 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="304"/>
+        <location filename="../../src/translation/Translator.cpp" line="426"/>
         <source>WASHOUT_2</source>
         <translation>Yıkama 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="305"/>
+        <location filename="../../src/translation/Translator.cpp" line="427"/>
         <source>WASHOUT_3</source>
         <translation>Yıkama 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="306"/>
+        <location filename="../../src/translation/Translator.cpp" line="428"/>
         <source>SMART_INVERSION_1</source>
         <translation>Akıllı Ters Çevirme 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="307"/>
+        <location filename="../../src/translation/Translator.cpp" line="429"/>
         <source>SMART_INVERSION_2</source>
         <translation>Akıllı Ters Çevirme 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="308"/>
+        <location filename="../../src/translation/Translator.cpp" line="430"/>
         <source>SMART_INVERSION_3</source>
         <translation>Akıllı Ters Çevirme 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="309"/>
+        <location filename="../../src/translation/Translator.cpp" line="431"/>
         <source>SMART_INVERSION_4</source>
         <translation>Akıllı Ters Çevirme 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="310"/>
+        <location filename="../../src/translation/Translator.cpp" line="432"/>
         <source>SMART_INVERSION_5</source>
         <translation>Akıllı Ters Çevirme 5</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="311"/>
+        <location filename="../../src/translation/Translator.cpp" line="433"/>
         <source>SEPIA</source>
         <translation>Sepya</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="312"/>
+        <location filename="../../src/translation/Translator.cpp" line="434"/>
         <source>NEGATIVE_SEPIA</source>
         <translation>Negatif Sepya</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="313"/>
+        <location filename="../../src/translation/Translator.cpp" line="435"/>
         <source>GRAYSCALE_RED</source>
         <translation>Gri Tonlamalı Kırmızı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="314"/>
+        <location filename="../../src/translation/Translator.cpp" line="436"/>
         <source>NEGATIVE_GRAYSCALE_RED</source>
         <translation>Negatif Gri Tonlama Kırmızı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="315"/>
+        <location filename="../../src/translation/Translator.cpp" line="437"/>
         <source>PROTANOPIA</source>
         <translation>Protanopi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="316"/>
+        <location filename="../../src/translation/Translator.cpp" line="438"/>
         <source>PROTANOMALY</source>
         <translation>Proteomi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="317"/>
+        <location filename="../../src/translation/Translator.cpp" line="439"/>
         <source>DEUTERANOPIA</source>
         <translation>Deuteranopia</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="318"/>
+        <location filename="../../src/translation/Translator.cpp" line="440"/>
         <source>DEUTERANOMALY</source>
         <translation>Deuteranomaliler</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="319"/>
+        <location filename="../../src/translation/Translator.cpp" line="441"/>
         <source>TRITANOPIA</source>
         <translation>Tritanopia</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="320"/>
+        <location filename="../../src/translation/Translator.cpp" line="442"/>
         <source>TRITANOMALY</source>
         <translation>Tritanomaly</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="321"/>
+        <location filename="../../src/translation/Translator.cpp" line="443"/>
         <source>ACHROMATOPSIA</source>
         <translation>Kromatopsi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="322"/>
+        <location filename="../../src/translation/Translator.cpp" line="444"/>
         <source>ACHROMATOMALY</source>
         <translation>Kromatomali</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="323"/>
+        <location filename="../../src/translation/Translator.cpp" line="445"/>
         <source>COLOR_EFFECTS</source>
         <translation>Renk efektleri</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="325"/>
+        <location filename="../../src/translation/Translator.cpp" line="447"/>
         <source>ADVANCED_FONTS</source>
         <translation>Yazı Tipleri</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="326"/>
+        <location filename="../../src/translation/Translator.cpp" line="448"/>
         <source>FONTS_TYPE</source>
         <translation>Yazı tipi türü</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="327"/>
+        <location filename="../../src/translation/Translator.cpp" line="449"/>
         <source>SIMPLE_FONTS</source>
         <translation>Basit fontlar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="328"/>
+        <location filename="../../src/translation/Translator.cpp" line="450"/>
         <source>ANTI_ALIASING_FONTS</source>
         <translation>Kenar yumuşatma fontları</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="329"/>
+        <location filename="../../src/translation/Translator.cpp" line="451"/>
         <source>CLEAR_TYPE_FONTS</source>
         <translation>ClearType fontlar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="330"/>
+        <location filename="../../src/translation/Translator.cpp" line="452"/>
         <source>GDIPP</source>
         <translation>GDIPP</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="331"/>
+        <location filename="../../src/translation/Translator.cpp" line="453"/>
         <source>FONT_SMOOTHING_LIGHT</source>
         <translation>Yazı Pürüzsüzleştirici Işık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="332"/>
+        <location filename="../../src/translation/Translator.cpp" line="454"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
         <translation>Yazı Düzenleme Ortamı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="333"/>
+        <location filename="../../src/translation/Translator.cpp" line="455"/>
         <source>FONT_SMOOTHING_HIGH</source>
         <translation>Yazı Pürüzsüzleştirme Yüksek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="457"/>
         <source>ADVANCED_MAGNIFICATION</source>
         <translation>Büyütme</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="336"/>
+        <location filename="../../src/translation/Translator.cpp" line="458"/>
         <source>ZOOM_IN</source>
         <translation>Yakınlaştır</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="337"/>
+        <location filename="../../src/translation/Translator.cpp" line="459"/>
         <source>ZOOM_OUT</source>
         <translation>Uzaklaştır</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="461"/>
         <source>ADVANCED_PWM_CONTROL</source>
         <translation>PWM kontrolü</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="341"/>
+        <location filename="../../src/translation/Translator.cpp" line="463"/>
         <source>ADVANCED_TIMER</source>
         <translation>Zamanlayıcı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="342"/>
+        <location filename="../../src/translation/Translator.cpp" line="464"/>
         <source>POSTPONE_DURATION</source>
         <translation>Erteleme süresi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="343"/>
+        <location filename="../../src/translation/Translator.cpp" line="465"/>
         <source>TIMER_TYPE</source>
         <translation>Zamanlayıcı türü</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="466"/>
         <source>BREAK_EVERY</source>
         <translation>Her kır</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="345"/>
+        <location filename="../../src/translation/Translator.cpp" line="467"/>
         <source>HAVE_A_REST_NOW</source>
         <translation>Şimdi dinlen</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="346"/>
+        <location filename="../../src/translation/Translator.cpp" line="468"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
         <translation>Otomatik kapanma ekranı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="347"/>
+        <location filename="../../src/translation/Translator.cpp" line="469"/>
         <source>USE_SOUNDS</source>
         <translation>Sesleri kullan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="349"/>
+        <location filename="../../src/translation/Translator.cpp" line="471"/>
         <source>ADVANCED_SYSTEM</source>
         <translation>Sistem</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="350"/>
+        <location filename="../../src/translation/Translator.cpp" line="472"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
         <translation>Kapatırken Görev Çubuğu simgesini gizle</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="473"/>
         <source>USE_MOUSE_INACTIVITY</source>
         <translation>Çalışma saatini duraklatmak için Fare hareketsizliğini kullanın</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="474"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>Sıkı modda klavye engelleme</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <location filename="../../src/translation/Translator.cpp" line="475"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>Fare imlecini kullanma</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="355"/>
+        <location filename="../../src/translation/Translator.cpp" line="477"/>
         <source>ADVANCED_IRIS</source>
         <translation>İris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="356"/>
+        <location filename="../../src/translation/Translator.cpp" line="478"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>Otomatik kaydetme ayarları değişir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="357"/>
+        <location filename="../../src/translation/Translator.cpp" line="479"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>Klavye kısayollarını kullan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="358"/>
+        <location filename="../../src/translation/Translator.cpp" line="480"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>Yakınınızda Iris kullanıcı arayüzünü yok et</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="359"/>
+        <location filename="../../src/translation/Translator.cpp" line="481"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>Düşük düzeyli Renk API&apos;sını kullanın</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="360"/>
+        <location filename="../../src/translation/Translator.cpp" line="482"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>Başlangıçta Iris&apos;i başlat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="362"/>
+        <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>RESET_COLORS</source>
         <translation>Renkleri sıfırla</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="369"/>
+        <location filename="../../src/translation/Translator.cpp" line="491"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>Fare duraklamaları</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="370"/>
+        <location filename="../../src/translation/Translator.cpp" line="492"/>
         <source>FULLSCREEN_APPS</source>
         <translation>Tam ekran uygulamalar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="387"/>
+        <location filename="../../src/translation/Translator.cpp" line="509"/>
         <source>DAY_OPACITY</source>
         <translation>Günü Sadelik</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="388"/>
+        <location filename="../../src/translation/Translator.cpp" line="510"/>
         <source>NIGHT_OPACITY</source>
         <translation>Gece Opaklık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="390"/>
+        <location filename="../../src/translation/Translator.cpp" line="512"/>
         <source>DAY_DIM</source>
         <translation>Gün Boyu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="391"/>
+        <location filename="../../src/translation/Translator.cpp" line="513"/>
         <source>NIGHT_DIM</source>
         <translation>Gece Dim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="400"/>
+        <location filename="../../src/translation/Translator.cpp" line="522"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>Akıllı parlaklık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="401"/>
+        <location filename="../../src/translation/Translator.cpp" line="523"/>
         <source>USE_SMART_INVERSION</source>
         <translation>Akıllı dönüşüm</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="402"/>
+        <location filename="../../src/translation/Translator.cpp" line="524"/>
         <source>ENABLE_CAMERA</source>
         <translation>Kamerayı Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="403"/>
+        <location filename="../../src/translation/Translator.cpp" line="525"/>
         <source>DISABLE_CAMERA</source>
         <translation>Kamerayı Devre dışı bırak</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="437"/>
+        <location filename="../../src/translation/Translator.cpp" line="559"/>
         <source>CZECH</source>
         <translation>Çek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="438"/>
+        <location filename="../../src/translation/Translator.cpp" line="560"/>
         <source>UKRAINIAN</source>
         <translation>Ukrayna</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="440"/>
+        <location filename="../../src/translation/Translator.cpp" line="562"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Gizli özellikler</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="441"/>
+        <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Büyüyü girin:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="442"/>
+        <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ACTIVATE</source>
         <translation>Aktifleştir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="451"/>
+        <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>SKIP_REST</source>
         <translation>Atla Kalan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="452"/>
+        <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>NORMAL</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="453"/>
+        <location filename="../../src/translation/Translator.cpp" line="575"/>
         <source>STRICT</source>
         <translation>Sıkı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="454"/>
+        <location filename="../../src/translation/Translator.cpp" line="576"/>
         <source>CONTINUE</source>
         <translation>Devam et</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="455"/>
+        <location filename="../../src/translation/Translator.cpp" line="577"/>
         <source>REST_MODE</source>
         <translation>Dinlenme modu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="456"/>
+        <location filename="../../src/translation/Translator.cpp" line="578"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Artık dinlenme modundasın. Zamanlayıcıyı ayarlar panelinden düzenleyin.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="457"/>
+        <location filename="../../src/translation/Translator.cpp" line="579"/>
         <source>TIME_IS</source>
         <translation>Saat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="460"/>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>START_WORKING</source>
         <translation>Başlama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="461"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>HAVE_A_BREAK</source>
         <translation>Ara vermek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="464"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>ADD</source>
         <translation>Eklemek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="465"/>
+        <location filename="../../src/translation/Translator.cpp" line="587"/>
         <source>REMOVE</source>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="361"/>
+        <location filename="../../src/translation/Translator.cpp" line="483"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>Ayarları varsayılana sıfırla</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="364"/>
+        <location filename="../../src/translation/Translator.cpp" line="486"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>Donanım</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="365"/>
+        <location filename="../../src/translation/Translator.cpp" line="487"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>Sesler</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="367"/>
+        <location filename="../../src/translation/Translator.cpp" line="489"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>Renk duraklamaları</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="368"/>
+        <location filename="../../src/translation/Translator.cpp" line="490"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>Zamanlayıcı duraklamaları</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="372"/>
+        <location filename="../../src/translation/Translator.cpp" line="494"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>Ekran yer paylaşımı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="373"/>
+        <location filename="../../src/translation/Translator.cpp" line="495"/>
         <source>OVERLAY_COLOR</source>
         <translation>Örtü rengi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="247"/>
-        <location filename="../../src/translation/Translator.cpp" line="374"/>
+        <location filename="../../src/translation/Translator.cpp" line="369"/>
+        <location filename="../../src/translation/Translator.cpp" line="496"/>
         <source>GREEN</source>
         <translation>Yeşil</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="375"/>
+        <location filename="../../src/translation/Translator.cpp" line="497"/>
         <source>TURQUOISE</source>
         <translation>Turkuaz</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="248"/>
-        <location filename="../../src/translation/Translator.cpp" line="376"/>
+        <location filename="../../src/translation/Translator.cpp" line="370"/>
+        <location filename="../../src/translation/Translator.cpp" line="498"/>
         <source>BLUE</source>
         <translation>Mavi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="377"/>
+        <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>INDIGO</source>
         <translation>Indigo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="378"/>
+        <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>VIOLET</source>
         <translation>Menekşe</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="379"/>
+        <location filename="../../src/translation/Translator.cpp" line="501"/>
         <source>PURPLE</source>
         <translation>Mor</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="380"/>
+        <location filename="../../src/translation/Translator.cpp" line="502"/>
         <source>MAGENTA</source>
         <translation>Macenta</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="381"/>
+        <location filename="../../src/translation/Translator.cpp" line="503"/>
         <source>SCARLET</source>
         <translation>Scarlet</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="246"/>
-        <location filename="../../src/translation/Translator.cpp" line="382"/>
+        <location filename="../../src/translation/Translator.cpp" line="368"/>
+        <location filename="../../src/translation/Translator.cpp" line="504"/>
         <source>RED</source>
         <translation>Kırmızı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="383"/>
+        <location filename="../../src/translation/Translator.cpp" line="505"/>
         <source>ORANGE</source>
         <translation>Portakal</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="384"/>
+        <location filename="../../src/translation/Translator.cpp" line="506"/>
         <source>YELLOW</source>
         <translation>Sarı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="385"/>
+        <location filename="../../src/translation/Translator.cpp" line="507"/>
         <source>LEMON</source>
         <translation>Limon</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="272"/>
-        <location filename="../../src/translation/Translator.cpp" line="386"/>
+        <location filename="../../src/translation/Translator.cpp" line="394"/>
+        <location filename="../../src/translation/Translator.cpp" line="508"/>
         <source>OPACITY</source>
         <translation>Opaklık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="389"/>
+        <location filename="../../src/translation/Translator.cpp" line="511"/>
         <source>SCREEN_DIM</source>
         <translation>Ekran karanlık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="275"/>
-        <location filename="../../src/translation/Translator.cpp" line="392"/>
+        <location filename="../../src/translation/Translator.cpp" line="397"/>
+        <location filename="../../src/translation/Translator.cpp" line="514"/>
         <source>DISABLE</source>
         <translation>Devre dışı bırak</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="393"/>
+        <location filename="../../src/translation/Translator.cpp" line="515"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>Ekran alanını seçin</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="394"/>
+        <location filename="../../src/translation/Translator.cpp" line="516"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>Seçili alanı sıfırlama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="276"/>
-        <location filename="../../src/translation/Translator.cpp" line="395"/>
+        <location filename="../../src/translation/Translator.cpp" line="398"/>
+        <location filename="../../src/translation/Translator.cpp" line="517"/>
         <source>ENABLE</source>
         <translation>Etkinleştir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="397"/>
+        <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>Yapay zeka (AI)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="398"/>
+        <location filename="../../src/translation/Translator.cpp" line="520"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>Otomatik parlaklık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="399"/>
+        <location filename="../../src/translation/Translator.cpp" line="521"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>Göz kırpması algılama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="404"/>
+        <location filename="../../src/translation/Translator.cpp" line="526"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>Yanıp sönme ekranını göster</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="405"/>
+        <location filename="../../src/translation/Translator.cpp" line="527"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>Yanıp sönme ekranını gizle</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="407"/>
+        <location filename="../../src/translation/Translator.cpp" line="529"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>Egzersizler</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="408"/>
+        <location filename="../../src/translation/Translator.cpp" line="530"/>
         <source>START_EYE_EXERCISES</source>
         <translation>Göz egzersizlerine başlayın</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="409"/>
+        <location filename="../../src/translation/Translator.cpp" line="531"/>
         <source>START_NECK_EXERCISES</source>
         <translation>Baş boyun egzersizlerine başlayın</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="410"/>
+        <location filename="../../src/translation/Translator.cpp" line="532"/>
         <source>START_BACK_EXERCISES</source>
         <translation>Egzersizlere geri dönün</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="412"/>
+        <location filename="../../src/translation/Translator.cpp" line="534"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>İris modeli</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="413"/>
+        <location filename="../../src/translation/Translator.cpp" line="535"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>Iris&apos;e geç</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="414"/>
+        <location filename="../../src/translation/Translator.cpp" line="536"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>Iris lite&apos;ye geç</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="416"/>
+        <location filename="../../src/translation/Translator.cpp" line="538"/>
         <source>ADVANCED_LICENSE</source>
         <translation>Lisans</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="417"/>
+        <location filename="../../src/translation/Translator.cpp" line="539"/>
         <source>GET_IRIS_PRO</source>
         <translation>Iris Pro&apos;yı alın</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="420"/>
+        <location filename="../../src/translation/Translator.cpp" line="542"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>Dil</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="421"/>
+        <location filename="../../src/translation/Translator.cpp" line="543"/>
         <source>LANGUAGE</source>
         <translation>Dil</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="422"/>
+        <location filename="../../src/translation/Translator.cpp" line="544"/>
         <source>ENGLISH</source>
         <translation>Ingilizce</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="423"/>
+        <location filename="../../src/translation/Translator.cpp" line="545"/>
         <source>RUSSIAN</source>
         <translation>Rusça</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="424"/>
+        <location filename="../../src/translation/Translator.cpp" line="546"/>
         <source>SPANISH</source>
         <translation>İspanyol</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="425"/>
+        <location filename="../../src/translation/Translator.cpp" line="547"/>
         <source>CHINESE</source>
         <translation>Çince</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="426"/>
+        <location filename="../../src/translation/Translator.cpp" line="548"/>
         <source>INDIAN</source>
         <translation>Hintli</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="427"/>
+        <location filename="../../src/translation/Translator.cpp" line="549"/>
         <source>JAPANESE</source>
         <translation>Japonca</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="428"/>
+        <location filename="../../src/translation/Translator.cpp" line="550"/>
         <source>ARABIC</source>
         <translation>Arapça</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="429"/>
+        <location filename="../../src/translation/Translator.cpp" line="551"/>
         <source>TURKISH</source>
         <translation>Türk</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="430"/>
+        <location filename="../../src/translation/Translator.cpp" line="552"/>
         <source>PORTUGUESE</source>
         <translation>Portekizce</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="431"/>
+        <location filename="../../src/translation/Translator.cpp" line="553"/>
         <source>FRENCH</source>
         <translation>Fransızca</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="432"/>
+        <location filename="../../src/translation/Translator.cpp" line="554"/>
         <source>GERMAN</source>
         <translation>Almanca</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="433"/>
+        <location filename="../../src/translation/Translator.cpp" line="555"/>
         <source>KOREAN</source>
         <translation>Koreli</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="434"/>
+        <location filename="../../src/translation/Translator.cpp" line="556"/>
         <source>ITALIAN</source>
         <translation>İtalyan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="435"/>
+        <location filename="../../src/translation/Translator.cpp" line="557"/>
         <source>BULGARIAN</source>
         <translation>Bulgarca</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="436"/>
+        <location filename="../../src/translation/Translator.cpp" line="558"/>
         <source>GREEK</source>
         <translation>Yunan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="444"/>
+        <location filename="../../src/translation/Translator.cpp" line="566"/>
         <source>ADVANCED_ABOUT</source>
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="445"/>
+        <location filename="../../src/translation/Translator.cpp" line="567"/>
         <source>NAME</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="446"/>
+        <location filename="../../src/translation/Translator.cpp" line="568"/>
         <source>VERSION</source>
         <translation>Sürüm</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="447"/>
+        <location filename="../../src/translation/Translator.cpp" line="569"/>
         <source>PUBLISHER</source>
         <translation>Yayımcı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="448"/>
+        <location filename="../../src/translation/Translator.cpp" line="570"/>
         <source>WEBSITE</source>
         <translation>Web sitesi</translation>
     </message>

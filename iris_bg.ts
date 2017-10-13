@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="bg_BG">
+<TS version="2.1" language="bg" sourcelanguage="en">
 <context>
     <name>AsanaOAuth</name>
     <message>
         <location filename="../../ui/asana_OAuth.ui" line="20"/>
         <location filename="../../ui/webkit/asana_OAuth.ui" line="20"/>
         <source>Asana</source>
-        <translation></translation>
+        <translation>Asana</translation>
     </message>
     <message>
         <location filename="../../ui/asana_OAuth.ui" line="33"/>
         <location filename="../../ui/webkit/asana_OAuth.ui" line="33"/>
         <source>https://app.asana.com/-/oauth_authorize?client_id=51957652060682&amp;redirect_uri=http://iristech.co/asana&amp;response_type=token&amp;state=somerandomstate</source>
-        <translation></translation>
+        <translation>https://app.asana.com/-/oauth_authorize?client_id=51957652060682&amp;redirect_uri=http://iristech.co/asana&amp;response_type=token&amp;state=somerandomstate</translation>
     </message>
 </context>
 <context>
@@ -22,13 +22,13 @@
         <location filename="../../ui/blink_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/blink_screen.ui" line="27"/>
         <location filename="../../ui/webkit/blink_screen.ui" line="27"/>
         <source>qrc:/html/blink_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/blink_screen.html</translation>
     </message>
 </context>
 <context>
@@ -61,7 +61,7 @@
     </message>
     <message>
         <source>Some functionallity is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
-        <translation type="vanished">Някои функционалности са ограничени, защото трябва да рестартирате компютъра. В момента Вие използвате High-level Color API.</translation>
+        <translation>Някои функционалности са ограничени, защото трябва да рестартирате компютъра. В момента Вие използвате High-level Color API.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="215"/>
@@ -81,13 +81,13 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../ui/expand_range_screen.ui" line="14"/>
         <location filename="../../ui/webkit/expand_range_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/expand_range_screen.ui" line="39"/>
         <location filename="../../ui/webkit/expand_range_screen.ui" line="39"/>
         <source>qrc:/html/notifications/expand_range_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/notifications/expand_range_screen.html</translation>
     </message>
 </context>
 <context>
@@ -116,395 +116,395 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="315"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="338"/>
         <source>Invalid temperature</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Invalid temperature</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="318"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="341"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">is invalid value for Color temperature. Use number between 0 and 10000.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="325"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="348"/>
         <source>Temperature changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Temperature changed</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="326"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="349"/>
         <source>Color temperature changed to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Color temperature changed to</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="361"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="384"/>
         <source>Invalid brightness</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Invalid brightness</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="364"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="387"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">is invalid value for Brightness. Use number between 10 and 100.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="371"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="394"/>
         <source>Brightness changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brightness changed</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="372"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="395"/>
         <source>Brightness changed to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Brightness changed to</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="424"/>
         <source>Gamma fixer disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gamma fixer disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="425"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="430"/>
         <source>Gamma fixer enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gamma fixer enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="431"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="461"/>
         <source>Start at startup enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Start at startup enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="462"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris mini will start when you turn ON your computer</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="467"/>
         <source>Start at startup disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Start at startup disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="468"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris mini will not start when you turn ON your computer</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="497"/>
         <source>Tray icon rotation is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tray icon rotation is enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="498"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="503"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tray icon rotation is disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="504"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="515"/>
         <source>Manual temperature enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual temperature enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="516"/>
         <source>You are now using Iris Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">You are now using Iris Mixed mode</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="521"/>
         <source>Manual temperature disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual temperature disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris will use your selected mode for temperature again</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
         <source>Manual brightness enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual brightness enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="534"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">You are now using Iris mini Mixed mode</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="539"/>
         <source>Manual brightness disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual brightness disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="540"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris mini will use your selected mode for brightness again</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="552"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="560"/>
         <source>Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="553"/>
         <source> disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="554"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris will not apply color changes to Monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
         <source> enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="562"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris will apply color changes to Monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="573"/>
         <source>Reset colors</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reset colors</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="574"/>
         <source>Screen colors are reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Screen colors are reset to default values</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="583"/>
         <source>Reset settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reset settings</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="584"/>
         <source>Iris settings are reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris settings are reset to default values</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="594"/>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Invert</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="595"/>
         <source>Colors are inverted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Colors are inverted</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="605"/>
         <source>Zero blue light</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zero blue light</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="606"/>
         <source>All blue light is removed from the screen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">All blue light is removed from the screen</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="617"/>
         <source>Gamma preservation enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gamma preservation enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="618"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Gamma preservation disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Gamma preservation disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="624"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris will not respect your color calibration from now on. It will use the default monitor settings instead</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="634"/>
         <source>Notifications enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Notifications enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="635"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hidden features notifications are enabled. They are show so you will know when your spell is successful</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="640"/>
         <source>Notifications disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Notifications disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="641"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hidden features notifications are disabled. This is the last notification that you will see</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="674"/>
         <source>Manual location enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual location enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="675"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris mini will use your manual location. Set latitude and longitude with the hidden features</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="680"/>
         <source>Manual location disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual location disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="681"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="693"/>
         <source>Manual night duration enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual night duration enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris mini will use manual night duration. Set start and end time with the hidden features</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="699"/>
         <source>Manual night duration disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual night duration disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="711"/>
         <source>Invalid Night start time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Invalid Night start time</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">is invalid value for Night start time. Use number between 0 and 24.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Night start time changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Night start time changed</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source>Manual night start time changed to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual night start time changed to</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Invalid Night end time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Invalid Night end time</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="737"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">is invalid value for Night end time. Use number between 0 and 24.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="744"/>
         <source>Night end time changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Night end time changed</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
         <source>Manual night end time changed to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual night end time changed to</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
         <source>Latitude changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Latitude changed</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
         <source>Latitude changed to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Latitude changed to</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
         <source>Longitude changed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Longitude changed</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
         <source>Longitude changed to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Longitude changed to</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="777"/>
         <source>Software cursor enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Software cursor enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="778"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Hardware cursor enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hardware cursor enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="787"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="800"/>
         <source>Conflicting applications enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conflicting applications enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="801"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conflicting applications are enabled. You can now use other softwares which change the screen colors.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="806"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conflicting applications disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="807"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</translation>
     </message>
 </context>
 <context>
@@ -561,10 +561,6 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="179"/>
         <source>There is no such activation code</source>
         <translation>Няма такъв активационен код</translation>
-    </message>
-    <message>
-        <source>No giveway</source>
-        <translation type="vanished">Няма активна промоция</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="188"/>
@@ -644,7 +640,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="273"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation>. Може би не сте свързани към интернет</translation>
+        <translation>. Може би не сте свързани към интернет?</translation>
     </message>
 </context>
 <context>
@@ -653,13 +649,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/lightness_screen.ui" line="14"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/lightness_screen.ui" line="39"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="39"/>
         <source>qrc:/html/lightness_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/lightness_screen.html</translation>
     </message>
 </context>
 <context>
@@ -668,13 +664,13 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
         <location filename="../../ui/webkit/main_screen.ui" line="47"/>
         <source>qrc:/html/main_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/main_screen.html</translation>
     </message>
 </context>
 <context>
@@ -906,19 +902,21 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/MainWindow.cpp" line="2186"/>
         <location filename="../../src/MainWindow.cpp" line="2250"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>Iris направи някои промени и е нужен рестарт, за да се отразят промените.</translation>
+        <translation>Iris направи някои промени и е нужен рестарт, за да се отразят.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3427"/>
         <source>WARNING!!!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WARNING!!!</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3428"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WARNING!!!
+
+Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</translation>
     </message>
 </context>
 <context>
@@ -927,13 +925,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/new_version_screen.ui" line="14"/>
         <location filename="../../ui/webkit/new_version_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/new_version_screen.ui" line="39"/>
         <location filename="../../ui/webkit/new_version_screen.ui" line="39"/>
         <source>qrc:/html/notifications/new_version_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/notifications/new_version_screen.html</translation>
     </message>
 </context>
 <context>
@@ -942,13 +940,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/notification_screen.ui" line="14"/>
         <location filename="../../ui/webkit/notification_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/notification_screen.ui" line="39"/>
         <location filename="../../ui/webkit/notification_screen.ui" line="39"/>
         <source>qrc:/html/notifications/notification_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/notifications/notification_screen.html</translation>
     </message>
 </context>
 <context>
@@ -957,13 +955,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/overlay_screen.ui" line="14"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/overlay_screen.ui" line="39"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="39"/>
         <source>qrc:/html/overlay_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/overlay_screen.html</translation>
     </message>
 </context>
 <context>
@@ -972,13 +970,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/postpone_screen.ui" line="14"/>
         <location filename="../../ui/webkit/postpone_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/postpone_screen.ui" line="39"/>
         <location filename="../../ui/webkit/postpone_screen.ui" line="39"/>
         <source>qrc:/html/notifications/postpone_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/notifications/postpone_screen.html</translation>
     </message>
 </context>
 <context>
@@ -987,13 +985,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/productive_screen.ui" line="14"/>
         <location filename="../../ui/webkit/productive_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/productive_screen.ui" line="33"/>
         <location filename="../../ui/webkit/productive_screen.ui" line="33"/>
         <source>qrc:/html/notifications/productive_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/notifications/productive_screen.html</translation>
     </message>
 </context>
 <context>
@@ -1002,13 +1000,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/rest_screen.ui" line="20"/>
         <location filename="../../ui/webkit/rest_screen.ui" line="20"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen.ui" line="45"/>
         <location filename="../../ui/webkit/rest_screen.ui" line="45"/>
         <source>qrc:/html/rest_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/rest_screen.html</translation>
     </message>
 </context>
 <context>
@@ -1016,17 +1014,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation>Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
         <source>Skip</source>
-        <translation>Пропусни</translation>
+        <translation>Пропуснкане</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
@@ -1055,11 +1053,6 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation>Режим</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="179"/>
-        <source>IRIS_TYPE</source>
-        <translation>Тип</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="175"/>
         <source>AUTOMATIC_MODE</source>
         <translation>Автоматичен</translation>
@@ -1073,6 +1066,11 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="177"/>
         <source>PAUSED_MODE</source>
         <translation>Спрян</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="179"/>
+        <source>IRIS_TYPE</source>
+        <translation>Тип</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="180"/>
@@ -2355,24 +2353,28 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation>Мишка-паузи</translation>
     </message>
     <message>
+        <source>Pause PCEyeGuard</source>
+        <translation>Pause PCEyeGuard</translation>
+    </message>
+    <message>
         <source>Pause %1</source>
-        <translation type="vanished">Пауза %1</translation>
+        <translation>Пауза %1</translation>
     </message>
     <message>
         <source>Pause color changes</source>
-        <translation type="vanished">Спиране на цветовите промени</translation>
+        <translation>Спиране на цветовите промени</translation>
     </message>
     <message>
         <source>Stop work timer</source>
-        <translation type="vanished">Спиране на таймера</translation>
+        <translation>Спиране на таймера</translation>
     </message>
     <message>
         <source>Use camera</source>
-        <translation type="vanished">Използване на камерата</translation>
+        <translation>Използване на камерата</translation>
     </message>
     <message>
         <source>Activate Code</source>
-        <translation type="vanished">Активиране на код</translation>
+        <translation>Активиране на код</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="197"/>
@@ -2382,11 +2384,11 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <source>&amp;Activate Code</source>
-        <translation type="vanished">&amp;Активационен код</translation>
+        <translation>&amp;Активационен код</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="vanished">&amp;Изход</translation>
+        <translation>&amp;Изход</translation>
     </message>
 </context>
 <context>
@@ -2395,13 +2397,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Dialog</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="27"/>
         <source>qrc:/html/blink_reminding_screen.html</source>
-        <translation></translation>
+        <translation>qrc:/html/blink_reminding_screen.html</translation>
     </message>
 </context>
 <context>
@@ -2410,7 +2412,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation></translation>
+        <translation>dummy_screen_effects</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -2422,7 +2424,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="52"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation>PushButton</translation>
     </message>
 </context>
 <context>
@@ -2430,7 +2432,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation></translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
@@ -2449,7 +2451,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation></translation>
+        <translation>Warning</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
@@ -2463,7 +2465,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation></translation>
+        <translation>zoomwidget</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
@@ -2475,7 +2477,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/zoom_widget.ui" line="52"/>
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation>PushButton</translation>
     </message>
 </context>
 </TS>

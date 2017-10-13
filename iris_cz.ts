@@ -1048,1190 +1048,1190 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>Translator</name>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="174"/>
+        <location filename="../../src/translation/Translator.cpp" line="296"/>
         <source>IRIS_MODE</source>
         <translation>Režim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="175"/>
+        <location filename="../../src/translation/Translator.cpp" line="297"/>
         <source>AUTOMATIC_MODE</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="176"/>
+        <location filename="../../src/translation/Translator.cpp" line="298"/>
         <source>MANUAL_MODE</source>
         <translation>Ručně</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="177"/>
+        <location filename="../../src/translation/Translator.cpp" line="299"/>
         <source>PAUSED_MODE</source>
         <translation>Pozastaveno</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="179"/>
+        <location filename="../../src/translation/Translator.cpp" line="301"/>
         <source>IRIS_TYPE</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="180"/>
+        <location filename="../../src/translation/Translator.cpp" line="302"/>
         <source>HEALTH_MODE</source>
         <translation>Zdraví</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="181"/>
+        <location filename="../../src/translation/Translator.cpp" line="303"/>
         <source>SLEEP_MODE</source>
         <translation>Spánek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="182"/>
+        <location filename="../../src/translation/Translator.cpp" line="304"/>
         <source>READING_MODE</source>
         <translation>Čtení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="183"/>
+        <location filename="../../src/translation/Translator.cpp" line="305"/>
         <source>PROGRAMMING_MODE</source>
         <translation>Programování</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="184"/>
+        <location filename="../../src/translation/Translator.cpp" line="306"/>
         <source>BIOHACKER_MODE</source>
         <translation>Nadšenec do biorytmů</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="185"/>
+        <location filename="../../src/translation/Translator.cpp" line="307"/>
         <source>SUNGLASSES_MODE</source>
         <translation>Sluneční brýle</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="186"/>
+        <location filename="../../src/translation/Translator.cpp" line="308"/>
         <source>DARK_MODE</source>
         <translation>Temný</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="187"/>
+        <location filename="../../src/translation/Translator.cpp" line="309"/>
         <source>MOVIE_MODE</source>
         <translation>Sledování filmu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="188"/>
+        <location filename="../../src/translation/Translator.cpp" line="310"/>
         <source>OVERLAY_MODE</source>
         <translation>Část obrazovky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="190"/>
+        <location filename="../../src/translation/Translator.cpp" line="312"/>
         <source>IRIS_LICENSE</source>
         <translation>Licence</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="191"/>
-        <location filename="../../src/translation/Translator.cpp" line="418"/>
+        <location filename="../../src/translation/Translator.cpp" line="313"/>
+        <location filename="../../src/translation/Translator.cpp" line="540"/>
         <source>ACTIVATE_CODE</source>
         <translation>Aktivační kód</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="193"/>
+        <location filename="../../src/translation/Translator.cpp" line="315"/>
         <source>IRIS_TIMER</source>
         <translation>Časovač</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="194"/>
+        <location filename="../../src/translation/Translator.cpp" line="316"/>
         <source>TIMER_OFF</source>
         <translation>Vypnuto</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="195"/>
+        <location filename="../../src/translation/Translator.cpp" line="317"/>
         <source>TIMER_NORMAL</source>
         <translation>Běžný</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="196"/>
+        <location filename="../../src/translation/Translator.cpp" line="318"/>
         <source>TIMER_STRICT</source>
         <translation>Nesmlouvavý</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="197"/>
+        <location filename="../../src/translation/Translator.cpp" line="319"/>
         <source>TIMER_PRODUCTIVE</source>
         <translation>Produktivní</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="198"/>
+        <location filename="../../src/translation/Translator.cpp" line="320"/>
         <source>TIMER_TASKBAR</source>
         <translation>Lišta úloh</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="199"/>
+        <location filename="../../src/translation/Translator.cpp" line="321"/>
         <source>TIMER_EXERCISE</source>
         <translation>Cvičení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="200"/>
+        <location filename="../../src/translation/Translator.cpp" line="322"/>
         <source>TIMER_NOTIFICATION</source>
         <translation>Oznamování</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="201"/>
+        <location filename="../../src/translation/Translator.cpp" line="323"/>
         <source>TIMER_SOUND</source>
         <translation>Zvuk</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="203"/>
+        <location filename="../../src/translation/Translator.cpp" line="325"/>
         <source>IRIS_LOCATION</source>
         <translation>Určení polohy</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="204"/>
+        <location filename="../../src/translation/Translator.cpp" line="326"/>
         <source>SAVE_AND_CLOSE</source>
         <translation>Uložit a zavřít</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="205"/>
+        <location filename="../../src/translation/Translator.cpp" line="327"/>
         <source>USE_ADVANCED_SETTINGS</source>
         <translation>Použít pokročilá nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="208"/>
+        <location filename="../../src/translation/Translator.cpp" line="330"/>
         <source>ADVANCED_SETTINGS_TITLE</source>
         <translation>Pokročilá nastavení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="210"/>
+        <location filename="../../src/translation/Translator.cpp" line="332"/>
         <source>ADVANCED_COLOR_TEMPERATURE</source>
         <translation>Barevná teplota</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="211"/>
+        <location filename="../../src/translation/Translator.cpp" line="333"/>
         <source>DAY_TEMPERATURE</source>
         <translation>Teplota ve dne</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="212"/>
+        <location filename="../../src/translation/Translator.cpp" line="334"/>
         <source>NIGHT_TEMPERATURE</source>
         <translation>Teplota v noci</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="213"/>
-        <location filename="../../src/translation/Translator.cpp" line="222"/>
-        <location filename="../../src/translation/Translator.cpp" line="231"/>
-        <location filename="../../src/translation/Translator.cpp" line="237"/>
+        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <location filename="../../src/translation/Translator.cpp" line="359"/>
         <source>EXTENDED_VALUES</source>
         <translation>Rozšířené hodnoty</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="214"/>
+        <location filename="../../src/translation/Translator.cpp" line="336"/>
         <source>MANUAL_COLOR_SETTINGS</source>
         <translation>Ruční nastavení barev</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="215"/>
+        <location filename="../../src/translation/Translator.cpp" line="337"/>
         <source>RESET_TEMPERATURE</source>
         <translation>Resetovat teplotu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="216"/>
-        <location filename="../../src/translation/Translator.cpp" line="225"/>
+        <location filename="../../src/translation/Translator.cpp" line="338"/>
+        <location filename="../../src/translation/Translator.cpp" line="347"/>
         <source>INVERT_COLORS</source>
         <translation>Převrátit barvy</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="217"/>
-        <location filename="../../src/translation/Translator.cpp" line="226"/>
+        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="348"/>
         <source>REVERT_COLORS</source>
         <translation>Vrátit barvy</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="219"/>
+        <location filename="../../src/translation/Translator.cpp" line="341"/>
         <source>ADVANCED_BLUE_LIGHT</source>
         <translation>Modré světlo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="220"/>
+        <location filename="../../src/translation/Translator.cpp" line="342"/>
         <source>DAY_BLUE_LIGHT</source>
         <translation>Denní světlo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="221"/>
+        <location filename="../../src/translation/Translator.cpp" line="343"/>
         <source>NIGHT_BLUE_LIGHT</source>
         <translation>Noční světlo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="223"/>
+        <location filename="../../src/translation/Translator.cpp" line="345"/>
         <source>MANUAL_BLUE_LIGHT</source>
         <translation>Manuální osvětlení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="224"/>
+        <location filename="../../src/translation/Translator.cpp" line="346"/>
         <source>RESET_BLUE_LIGHT</source>
         <translation>Resetovat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="228"/>
-        <location filename="../../src/translation/Translator.cpp" line="234"/>
+        <location filename="../../src/translation/Translator.cpp" line="350"/>
+        <location filename="../../src/translation/Translator.cpp" line="356"/>
         <source>ADVANCED_BRIGHTNESS</source>
         <translation>Jas</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="229"/>
-        <location filename="../../src/translation/Translator.cpp" line="235"/>
+        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="357"/>
         <source>DAY_BRIGHTNESS</source>
         <translation>Jas ve dne</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="230"/>
-        <location filename="../../src/translation/Translator.cpp" line="236"/>
+        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="358"/>
         <source>NIGHT_BRIGHTNESS</source>
         <translation>Jas v noci</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="232"/>
-        <location filename="../../src/translation/Translator.cpp" line="238"/>
+        <location filename="../../src/translation/Translator.cpp" line="354"/>
+        <location filename="../../src/translation/Translator.cpp" line="360"/>
         <source>MANUAL_BRIGHTNESS</source>
         <translation>Jas ručně</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="240"/>
+        <location filename="../../src/translation/Translator.cpp" line="362"/>
         <source>ADVANCED_COLOR_SCHEME</source>
         <translation>Barevné schéma</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="241"/>
+        <location filename="../../src/translation/Translator.cpp" line="363"/>
         <source>IRIS</source>
         <translation>Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="242"/>
+        <location filename="../../src/translation/Translator.cpp" line="364"/>
         <source>MAGMUS</source>
         <translation>Magmus</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="243"/>
+        <location filename="../../src/translation/Translator.cpp" line="365"/>
         <source>OLAF</source>
         <translation>Olaf</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="244"/>
+        <location filename="../../src/translation/Translator.cpp" line="366"/>
         <source>GROOT</source>
         <translation>Groot</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="245"/>
+        <location filename="../../src/translation/Translator.cpp" line="367"/>
         <source>LEADING_COLOR</source>
         <translation>Převažující barva</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="250"/>
+        <location filename="../../src/translation/Translator.cpp" line="372"/>
         <source>ADVANCED_LOCATION</source>
         <translation>Zeměpisná poloha</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="251"/>
+        <location filename="../../src/translation/Translator.cpp" line="373"/>
         <source>MANUAL_LOCATION</source>
         <translation>Ruční určení zeměpisné polohy</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="252"/>
+        <location filename="../../src/translation/Translator.cpp" line="374"/>
         <source>LATITUDE</source>
         <translation>Zeměpisná šířka:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="253"/>
+        <location filename="../../src/translation/Translator.cpp" line="375"/>
         <source>LONGITUDE</source>
         <translation>Zeměpisná délka:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="254"/>
+        <location filename="../../src/translation/Translator.cpp" line="376"/>
         <source>MANUAL_NIGHT_DURATION</source>
         <translation>Ruční určení kdy je noc</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="255"/>
+        <location filename="../../src/translation/Translator.cpp" line="377"/>
         <source>NIGHT_START_TIME</source>
         <translation>Noc začíná v:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="256"/>
+        <location filename="../../src/translation/Translator.cpp" line="378"/>
         <source>NIGHT_END_TIME</source>
         <translation>Noc končí v:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="258"/>
+        <location filename="../../src/translation/Translator.cpp" line="380"/>
         <source>ADVANCED_TRANSITION</source>
         <translation>Přechod</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="259"/>
+        <location filename="../../src/translation/Translator.cpp" line="381"/>
         <source>DAY_TRANSITION</source>
         <translation>Denní přechod:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="260"/>
+        <location filename="../../src/translation/Translator.cpp" line="382"/>
         <source>NIGHT_TRANSITION</source>
         <translation>Noční přechod:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="261"/>
+        <location filename="../../src/translation/Translator.cpp" line="383"/>
         <source>SLEEP_TRANSITION</source>
         <translation>Přechod do spánku:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="262"/>
+        <location filename="../../src/translation/Translator.cpp" line="384"/>
         <source>PAUSE_TRANSITION</source>
         <translation>Pozastavení přechodu:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="263"/>
-        <location filename="../../src/translation/Translator.cpp" line="268"/>
+        <location filename="../../src/translation/Translator.cpp" line="385"/>
+        <location filename="../../src/translation/Translator.cpp" line="390"/>
         <source>TRANSITION_TIMES</source>
         <translation>Přechodové časy</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="265"/>
+        <location filename="../../src/translation/Translator.cpp" line="387"/>
         <source>ADVANCED_MOON</source>
         <translation>Měsíc</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="266"/>
+        <location filename="../../src/translation/Translator.cpp" line="388"/>
         <source>FULL_MOON_OFFSET</source>
         <translation>Úplný měsíční ofset:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="267"/>
+        <location filename="../../src/translation/Translator.cpp" line="389"/>
         <source>NEW_MOON_OFFSET</source>
         <translation>Nový měsíční ofset:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="270"/>
+        <location filename="../../src/translation/Translator.cpp" line="392"/>
         <source>ADVANCED_LIGHTNESS</source>
         <translation>Lehkost</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="271"/>
+        <location filename="../../src/translation/Translator.cpp" line="393"/>
         <source>RADIUS</source>
         <translation>Poloměr</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="273"/>
+        <location filename="../../src/translation/Translator.cpp" line="395"/>
         <source>X_POSITION</source>
         <translation>X</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="274"/>
+        <location filename="../../src/translation/Translator.cpp" line="396"/>
         <source>Y_POSITION</source>
         <translation>Y</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="278"/>
+        <location filename="../../src/translation/Translator.cpp" line="400"/>
         <source>ADVANCED_SLEEP</source>
         <translation>Spát</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="279"/>
+        <location filename="../../src/translation/Translator.cpp" line="401"/>
         <source>SLEEP_LIGHT</source>
         <translation>Světlo spánku</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="280"/>
+        <location filename="../../src/translation/Translator.cpp" line="402"/>
         <source>SLEEP_BRIGHTNESS</source>
         <translation>Jas spánku</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="281"/>
+        <location filename="../../src/translation/Translator.cpp" line="403"/>
         <source>BEDTIME</source>
         <translation>Doba pohotovosti:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="282"/>
+        <location filename="../../src/translation/Translator.cpp" line="404"/>
         <source>WAKE_TIME</source>
         <translation>Doba probuzení:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="284"/>
+        <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>ADVANCED_REST_SCREEN</source>
         <translation>Obrazovka odpočinku</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="285"/>
+        <location filename="../../src/translation/Translator.cpp" line="407"/>
         <source>TYPE</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="286"/>
+        <location filename="../../src/translation/Translator.cpp" line="408"/>
         <source>LITE</source>
         <translation>Lite</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="287"/>
+        <location filename="../../src/translation/Translator.cpp" line="409"/>
         <source>SIMPLE</source>
         <translation>Jednoduchý</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="288"/>
+        <location filename="../../src/translation/Translator.cpp" line="410"/>
         <source>STANDARD</source>
         <translation>Standard</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="290"/>
+        <location filename="../../src/translation/Translator.cpp" line="412"/>
         <source>ADVANCED_MANAGE_MONITORS</source>
         <translation>Spravovat zobrazovací zařízení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="291"/>
+        <location filename="../../src/translation/Translator.cpp" line="413"/>
         <source>MONITOR_1</source>
         <translation>Zobrazovač 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="292"/>
+        <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>MONITOR_2</source>
         <translation>Zobrazovač 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="293"/>
+        <location filename="../../src/translation/Translator.cpp" line="415"/>
         <source>MONITOR_3</source>
         <translation>Zobrazovač 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="294"/>
+        <location filename="../../src/translation/Translator.cpp" line="416"/>
         <source>MONITOR_4</source>
         <translation>Zobrazovač 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="296"/>
+        <location filename="../../src/translation/Translator.cpp" line="418"/>
         <source>ADVANCED_SCREEN_EFFECTS</source>
         <translation>Efekty obrazovky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="297"/>
+        <location filename="../../src/translation/Translator.cpp" line="419"/>
         <source>SCREEN_EFFECT</source>
         <oldsource>COLOR_EFFECT</oldsource>
         <translation>Efekty obrazovky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="298"/>
+        <location filename="../../src/translation/Translator.cpp" line="420"/>
         <source>SIMPLE_INVERSION</source>
         <translation>Jednoduché převrácení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="299"/>
+        <location filename="../../src/translation/Translator.cpp" line="421"/>
         <source>GRAYSCALE_1</source>
         <translation>Stupně šedé 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="300"/>
+        <location filename="../../src/translation/Translator.cpp" line="422"/>
         <source>GRAYSCALE_2</source>
         <translation>Stupně šedé 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="301"/>
+        <location filename="../../src/translation/Translator.cpp" line="423"/>
         <source>GRAYSCALE_3</source>
         <translation>Stupně šedé 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="302"/>
+        <location filename="../../src/translation/Translator.cpp" line="424"/>
         <source>NEGATIVE_GRAYSCALE</source>
         <translation>Převrácené stupně šedé</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="303"/>
+        <location filename="../../src/translation/Translator.cpp" line="425"/>
         <source>WASHOUT_1</source>
         <translation>Vybledlé 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="304"/>
+        <location filename="../../src/translation/Translator.cpp" line="426"/>
         <source>WASHOUT_2</source>
         <translation>Vybledlé 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="305"/>
+        <location filename="../../src/translation/Translator.cpp" line="427"/>
         <source>WASHOUT_3</source>
         <translation>Vybledlé 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="306"/>
+        <location filename="../../src/translation/Translator.cpp" line="428"/>
         <source>SMART_INVERSION_1</source>
         <translation>Přizpůsobivá inverze 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="307"/>
+        <location filename="../../src/translation/Translator.cpp" line="429"/>
         <source>SMART_INVERSION_2</source>
         <translation>Přizpůsobivá inverze 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="308"/>
+        <location filename="../../src/translation/Translator.cpp" line="430"/>
         <source>SMART_INVERSION_3</source>
         <translation>Přizpůsobivá inverze 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="309"/>
+        <location filename="../../src/translation/Translator.cpp" line="431"/>
         <source>SMART_INVERSION_4</source>
         <translation>Přizpůsobivá inverze 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="310"/>
+        <location filename="../../src/translation/Translator.cpp" line="432"/>
         <source>SMART_INVERSION_5</source>
         <translation>Přizpůsobivá inverze 5</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="311"/>
+        <location filename="../../src/translation/Translator.cpp" line="433"/>
         <source>SEPIA</source>
         <translation>Zažloutlé</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="312"/>
+        <location filename="../../src/translation/Translator.cpp" line="434"/>
         <source>NEGATIVE_SEPIA</source>
         <translation>Převrácené zažloutlé</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="313"/>
+        <location filename="../../src/translation/Translator.cpp" line="435"/>
         <source>GRAYSCALE_RED</source>
         <translation>Červené šedé brýle</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="314"/>
+        <location filename="../../src/translation/Translator.cpp" line="436"/>
         <source>NEGATIVE_GRAYSCALE_RED</source>
         <translation>Převrácené červené šedé brýle</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="315"/>
+        <location filename="../../src/translation/Translator.cpp" line="437"/>
         <source>PROTANOPIA</source>
         <translation>Protanopie (nevnímá červenou)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="316"/>
+        <location filename="../../src/translation/Translator.cpp" line="438"/>
         <source>PROTANOMALY</source>
         <translation>protanomalie (částečně nevnímá červenou)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="317"/>
+        <location filename="../../src/translation/Translator.cpp" line="439"/>
         <source>DEUTERANOPIA</source>
         <translation>Deuteranopie (nevnímá zelenou)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="318"/>
+        <location filename="../../src/translation/Translator.cpp" line="440"/>
         <source>DEUTERANOMALY</source>
         <translation>Deuteranomalie (částečně nevnímá zelenou)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="319"/>
+        <location filename="../../src/translation/Translator.cpp" line="441"/>
         <source>TRITANOPIA</source>
         <translation>Tritanopie (nevnímá modrou)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="320"/>
+        <location filename="../../src/translation/Translator.cpp" line="442"/>
         <source>TRITANOMALY</source>
         <translation>Tritanomalie (částečně nevnímá modrou)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="321"/>
+        <location filename="../../src/translation/Translator.cpp" line="443"/>
         <source>ACHROMATOPSIA</source>
         <translation>Daltonismus (barvoslepost)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="322"/>
+        <location filename="../../src/translation/Translator.cpp" line="444"/>
         <source>ACHROMATOMALY</source>
         <translation>Částečná barvoslepost</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="323"/>
+        <location filename="../../src/translation/Translator.cpp" line="445"/>
         <source>COLOR_EFFECTS</source>
         <translation>Barevné efekty</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="325"/>
+        <location filename="../../src/translation/Translator.cpp" line="447"/>
         <source>ADVANCED_FONTS</source>
         <translation>Písma</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="326"/>
+        <location filename="../../src/translation/Translator.cpp" line="448"/>
         <source>FONTS_TYPE</source>
         <translation>Typ vyhlazování hran písem</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="327"/>
+        <location filename="../../src/translation/Translator.cpp" line="449"/>
         <source>SIMPLE_FONTS</source>
         <translation>Bez vyhlazování</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="328"/>
+        <location filename="../../src/translation/Translator.cpp" line="450"/>
         <source>ANTI_ALIASING_FONTS</source>
         <translation>Stupni šedi (Anti-aliasing)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="329"/>
+        <location filename="../../src/translation/Translator.cpp" line="451"/>
         <source>CLEAR_TYPE_FONTS</source>
         <translation>Barev. dílčími částmi obraz. bodu (ClearType)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="330"/>
+        <location filename="../../src/translation/Translator.cpp" line="452"/>
         <source>GDIPP</source>
         <translation>GDIPP (jako Mac OS)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="331"/>
+        <location filename="../../src/translation/Translator.cpp" line="453"/>
         <source>FONT_SMOOTHING_LIGHT</source>
         <translation>Vyhlazení písma Light</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="332"/>
+        <location filename="../../src/translation/Translator.cpp" line="454"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
         <translation>Vyhlazení písma Medium</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="333"/>
+        <location filename="../../src/translation/Translator.cpp" line="455"/>
         <source>FONT_SMOOTHING_HIGH</source>
         <translation>Font Vyhlazování High</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="457"/>
         <source>ADVANCED_MAGNIFICATION</source>
         <translation>Zvětšení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="336"/>
+        <location filename="../../src/translation/Translator.cpp" line="458"/>
         <source>ZOOM_IN</source>
         <translation>Přiblížit</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="337"/>
+        <location filename="../../src/translation/Translator.cpp" line="459"/>
         <source>ZOOM_OUT</source>
         <translation>Oddálit</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="461"/>
         <source>ADVANCED_PWM_CONTROL</source>
         <translation>Řízení napájecích pulzů</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="341"/>
+        <location filename="../../src/translation/Translator.cpp" line="463"/>
         <source>ADVANCED_TIMER</source>
         <translation>Časovač</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="342"/>
+        <location filename="../../src/translation/Translator.cpp" line="464"/>
         <source>POSTPONE_DURATION</source>
         <translation>Odložit trvání</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="343"/>
+        <location filename="../../src/translation/Translator.cpp" line="465"/>
         <source>TIMER_TYPE</source>
         <translation>Typ časovače</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="466"/>
         <source>BREAK_EVERY</source>
         <translation>Přestávka každých</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="345"/>
+        <location filename="../../src/translation/Translator.cpp" line="467"/>
         <source>HAVE_A_REST_NOW</source>
         <translation>Odpočívat nyní</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="346"/>
+        <location filename="../../src/translation/Translator.cpp" line="468"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
         <translation>Automaticky ukončovat odpočinkovou obrazovku</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="347"/>
+        <location filename="../../src/translation/Translator.cpp" line="469"/>
         <source>USE_SOUNDS</source>
         <translation>Vydávat zvuky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="349"/>
+        <location filename="../../src/translation/Translator.cpp" line="471"/>
         <source>ADVANCED_SYSTEM</source>
         <translation>Systémové</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="350"/>
+        <location filename="../../src/translation/Translator.cpp" line="472"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
         <translation>Při zavření okna skrýt ikonu v liště úloh</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="473"/>
         <source>USE_MOUSE_INACTIVITY</source>
         <translation>Zastavovat časovač pracovní aktivity na základě neaktivity kurzoru (myši)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="474"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>V nesmlouvavém režimu blokovat klávesnici</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <location filename="../../src/translation/Translator.cpp" line="475"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>Nevykreslovat kurzor prostředky grafického adaptéru (řeší chyby v jeho zobrazení)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="355"/>
+        <location filename="../../src/translation/Translator.cpp" line="477"/>
         <source>ADVANCED_IRIS</source>
         <translation>Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="356"/>
+        <location filename="../../src/translation/Translator.cpp" line="478"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>Změny v nastavení automaticky ukládat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="357"/>
+        <location filename="../../src/translation/Translator.cpp" line="479"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>Používat klávesové zkratky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="358"/>
+        <location filename="../../src/translation/Translator.cpp" line="480"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>Při ukončení odstranit uživatelské rozhraní Iris z obrazovky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="359"/>
+        <location filename="../../src/translation/Translator.cpp" line="481"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>Řídit barvy prostřednictvím nízkoúrovňového aplikační programového rozhraní</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="360"/>
+        <location filename="../../src/translation/Translator.cpp" line="482"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>Spouštět Iris při přihlášení do systému</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="362"/>
+        <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>RESET_COLORS</source>
         <translation>Vrátit barvy do normálu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="369"/>
+        <location filename="../../src/translation/Translator.cpp" line="491"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>Zastavte myš</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="370"/>
+        <location filename="../../src/translation/Translator.cpp" line="492"/>
         <source>FULLSCREEN_APPS</source>
         <translation>Fullscreen aplikace</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="387"/>
+        <location filename="../../src/translation/Translator.cpp" line="509"/>
         <source>DAY_OPACITY</source>
         <translation>Den Neprůhlednost</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="388"/>
+        <location filename="../../src/translation/Translator.cpp" line="510"/>
         <source>NIGHT_OPACITY</source>
         <translation>Noční Neprůhlednost</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="390"/>
+        <location filename="../../src/translation/Translator.cpp" line="512"/>
         <source>DAY_DIM</source>
         <translation>Den Dim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="391"/>
+        <location filename="../../src/translation/Translator.cpp" line="513"/>
         <source>NIGHT_DIM</source>
         <translation>Noční Dim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="400"/>
+        <location filename="../../src/translation/Translator.cpp" line="522"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>Smart jas</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="401"/>
+        <location filename="../../src/translation/Translator.cpp" line="523"/>
         <source>USE_SMART_INVERSION</source>
         <translation>Smart inverze</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="402"/>
+        <location filename="../../src/translation/Translator.cpp" line="524"/>
         <source>ENABLE_CAMERA</source>
         <translation>Aktivovat fotoaparát</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="403"/>
+        <location filename="../../src/translation/Translator.cpp" line="525"/>
         <source>DISABLE_CAMERA</source>
         <translation>Vypnout fotoaparátu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="437"/>
+        <location filename="../../src/translation/Translator.cpp" line="559"/>
         <source>CZECH</source>
         <translation>Čeština</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="438"/>
+        <location filename="../../src/translation/Translator.cpp" line="560"/>
         <source>UKRAINIAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="440"/>
+        <location filename="../../src/translation/Translator.cpp" line="562"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Skryté funkce</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="441"/>
+        <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Zadejte své kouzlo:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="442"/>
+        <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ACTIVATE</source>
         <translation>Aktivovat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="451"/>
+        <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>SKIP_REST</source>
         <translation>Přeskočit odpočinek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="452"/>
+        <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>NORMAL</source>
         <translation>Obyčejný</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="453"/>
+        <location filename="../../src/translation/Translator.cpp" line="575"/>
         <source>STRICT</source>
         <translation>Nesmlouvavý</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="454"/>
+        <location filename="../../src/translation/Translator.cpp" line="576"/>
         <source>CONTINUE</source>
         <translation>Pokračovat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="455"/>
+        <location filename="../../src/translation/Translator.cpp" line="577"/>
         <source>REST_MODE</source>
         <translation>Odpočinkový režim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="456"/>
+        <location filename="../../src/translation/Translator.cpp" line="578"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Nyní je aktivní odpočinkový režim. Parametry časovače je možné změnit v panelu nastavení.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="457"/>
+        <location filename="../../src/translation/Translator.cpp" line="579"/>
         <source>TIME_IS</source>
         <translation>Čas je</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="460"/>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>START_WORKING</source>
         <translation>Vrátit se k práci</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="461"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>HAVE_A_BREAK</source>
         <translation>Udělat si přestávku</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="464"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>ADD</source>
         <translation>Přidat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="465"/>
+        <location filename="../../src/translation/Translator.cpp" line="587"/>
         <source>REMOVE</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="361"/>
+        <location filename="../../src/translation/Translator.cpp" line="483"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>Vrátit nastavení na výchozí hodnoty</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="364"/>
+        <location filename="../../src/translation/Translator.cpp" line="486"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>Zařízení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="365"/>
+        <location filename="../../src/translation/Translator.cpp" line="487"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>Zvuky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="367"/>
+        <location filename="../../src/translation/Translator.cpp" line="489"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>Pozastavení změn barev</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="368"/>
+        <location filename="../../src/translation/Translator.cpp" line="490"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>Pozastavení časovače</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="372"/>
+        <location filename="../../src/translation/Translator.cpp" line="494"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>Částečný překryv obrazovky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="373"/>
+        <location filename="../../src/translation/Translator.cpp" line="495"/>
         <source>OVERLAY_COLOR</source>
         <translation>Barva částečného překryvu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="247"/>
-        <location filename="../../src/translation/Translator.cpp" line="374"/>
+        <location filename="../../src/translation/Translator.cpp" line="369"/>
+        <location filename="../../src/translation/Translator.cpp" line="496"/>
         <source>GREEN</source>
         <translation>Zelená</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="375"/>
+        <location filename="../../src/translation/Translator.cpp" line="497"/>
         <source>TURQUOISE</source>
         <translation>Tyrkysová</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="248"/>
-        <location filename="../../src/translation/Translator.cpp" line="376"/>
+        <location filename="../../src/translation/Translator.cpp" line="370"/>
+        <location filename="../../src/translation/Translator.cpp" line="498"/>
         <source>BLUE</source>
         <translation>Modrá</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="377"/>
+        <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>INDIGO</source>
         <translation>Tmavě modrá</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="378"/>
+        <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>VIOLET</source>
         <translation>Fialová</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="379"/>
+        <location filename="../../src/translation/Translator.cpp" line="501"/>
         <source>PURPLE</source>
         <translation>Nachová</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="380"/>
+        <location filename="../../src/translation/Translator.cpp" line="502"/>
         <source>MAGENTA</source>
         <translation>Purpurová</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="381"/>
+        <location filename="../../src/translation/Translator.cpp" line="503"/>
         <source>SCARLET</source>
         <translation>Šarlatová</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="246"/>
-        <location filename="../../src/translation/Translator.cpp" line="382"/>
+        <location filename="../../src/translation/Translator.cpp" line="368"/>
+        <location filename="../../src/translation/Translator.cpp" line="504"/>
         <source>RED</source>
         <translation>Červená</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="383"/>
+        <location filename="../../src/translation/Translator.cpp" line="505"/>
         <source>ORANGE</source>
         <translation>Oranžová</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="384"/>
+        <location filename="../../src/translation/Translator.cpp" line="506"/>
         <source>YELLOW</source>
         <translation>Žlutá</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="385"/>
+        <location filename="../../src/translation/Translator.cpp" line="507"/>
         <source>LEMON</source>
         <translation>Citronová</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="272"/>
-        <location filename="../../src/translation/Translator.cpp" line="386"/>
+        <location filename="../../src/translation/Translator.cpp" line="394"/>
+        <location filename="../../src/translation/Translator.cpp" line="508"/>
         <source>OPACITY</source>
         <translation>Průhlednost</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="389"/>
+        <location filename="../../src/translation/Translator.cpp" line="511"/>
         <source>SCREEN_DIM</source>
         <translation>Ztlumování svitu obrazovky</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="275"/>
-        <location filename="../../src/translation/Translator.cpp" line="392"/>
+        <location filename="../../src/translation/Translator.cpp" line="397"/>
+        <location filename="../../src/translation/Translator.cpp" line="514"/>
         <source>DISABLE</source>
         <translation>Vypnout</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="393"/>
+        <location filename="../../src/translation/Translator.cpp" line="515"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>Vyberte oblast obrazu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="394"/>
+        <location filename="../../src/translation/Translator.cpp" line="516"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>Zrušit výběr oblasti obrazu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="276"/>
-        <location filename="../../src/translation/Translator.cpp" line="395"/>
+        <location filename="../../src/translation/Translator.cpp" line="398"/>
+        <location filename="../../src/translation/Translator.cpp" line="517"/>
         <source>ENABLE</source>
         <translation>Zapnout</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="397"/>
+        <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>Umělá inteligence (AI)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="398"/>
+        <location filename="../../src/translation/Translator.cpp" line="520"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>Automatická úroveň jasu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="399"/>
+        <location filename="../../src/translation/Translator.cpp" line="521"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>Zjišťovat mrkání</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="404"/>
+        <location filename="../../src/translation/Translator.cpp" line="526"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>Nutit k mrkání</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="405"/>
+        <location filename="../../src/translation/Translator.cpp" line="527"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>Nenutit k mrkání</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="407"/>
+        <location filename="../../src/translation/Translator.cpp" line="529"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>Cvičení</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="408"/>
+        <location filename="../../src/translation/Translator.cpp" line="530"/>
         <source>START_EYE_EXERCISES</source>
         <translation>Procvičit oči</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="409"/>
+        <location filename="../../src/translation/Translator.cpp" line="531"/>
         <source>START_NECK_EXERCISES</source>
         <translation>Procvičit krk</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="410"/>
+        <location filename="../../src/translation/Translator.cpp" line="532"/>
         <source>START_BACK_EXERCISES</source>
         <translation>Procvičit záda</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="412"/>
+        <location filename="../../src/translation/Translator.cpp" line="534"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>Varianta Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="413"/>
+        <location filename="../../src/translation/Translator.cpp" line="535"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>Prepnout na Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="414"/>
+        <location filename="../../src/translation/Translator.cpp" line="536"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>Přepnout na Iris lite</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="416"/>
+        <location filename="../../src/translation/Translator.cpp" line="538"/>
         <source>ADVANCED_LICENSE</source>
         <translation>License</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="417"/>
+        <location filename="../../src/translation/Translator.cpp" line="539"/>
         <source>GET_IRIS_PRO</source>
         <translation>Získat Iris se všemi funkcemi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="420"/>
+        <location filename="../../src/translation/Translator.cpp" line="542"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>Jazyk</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="421"/>
+        <location filename="../../src/translation/Translator.cpp" line="543"/>
         <source>LANGUAGE</source>
         <translation>Jazyk</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="422"/>
+        <location filename="../../src/translation/Translator.cpp" line="544"/>
         <source>ENGLISH</source>
         <translation>English (angličtina)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="423"/>
+        <location filename="../../src/translation/Translator.cpp" line="545"/>
         <source>RUSSIAN</source>
         <translation>ру́сский язы́к (ruština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="424"/>
+        <location filename="../../src/translation/Translator.cpp" line="546"/>
         <source>SPANISH</source>
         <translation>Español (španělština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="425"/>
+        <location filename="../../src/translation/Translator.cpp" line="547"/>
         <source>CHINESE</source>
         <translation>中文 (čínština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="426"/>
+        <location filename="../../src/translation/Translator.cpp" line="548"/>
         <source>INDIAN</source>
         <translation>हिन्दी (hindština – Indie)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="427"/>
+        <location filename="../../src/translation/Translator.cpp" line="549"/>
         <source>JAPANESE</source>
         <translation>日本語 (japonština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="428"/>
+        <location filename="../../src/translation/Translator.cpp" line="550"/>
         <source>ARABIC</source>
         <translation>عَرَبِيّ (arabština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="429"/>
+        <location filename="../../src/translation/Translator.cpp" line="551"/>
         <source>TURKISH</source>
         <translation>Türkçe (turečtina)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="430"/>
+        <location filename="../../src/translation/Translator.cpp" line="552"/>
         <source>PORTUGUESE</source>
         <translation>Português (portugalština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="431"/>
+        <location filename="../../src/translation/Translator.cpp" line="553"/>
         <source>FRENCH</source>
         <translation>Français (francouzština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="432"/>
+        <location filename="../../src/translation/Translator.cpp" line="554"/>
         <source>GERMAN</source>
         <translation>Deutsch (němčina)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="433"/>
+        <location filename="../../src/translation/Translator.cpp" line="555"/>
         <source>KOREAN</source>
         <translation>한국어 (korejština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="434"/>
+        <location filename="../../src/translation/Translator.cpp" line="556"/>
         <source>ITALIAN</source>
         <translation>Italiano (italština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="435"/>
+        <location filename="../../src/translation/Translator.cpp" line="557"/>
         <source>BULGARIAN</source>
         <translation>български (bulharština)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="436"/>
+        <location filename="../../src/translation/Translator.cpp" line="558"/>
         <source>GREEK</source>
         <translation>Ελληνικά (řečtina)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="444"/>
+        <location filename="../../src/translation/Translator.cpp" line="566"/>
         <source>ADVANCED_ABOUT</source>
         <translation>O aplikaci</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="445"/>
+        <location filename="../../src/translation/Translator.cpp" line="567"/>
         <source>NAME</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="446"/>
+        <location filename="../../src/translation/Translator.cpp" line="568"/>
         <source>VERSION</source>
         <translation>Verze</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="447"/>
+        <location filename="../../src/translation/Translator.cpp" line="569"/>
         <source>PUBLISHER</source>
         <translation>Vydavatel</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="448"/>
+        <location filename="../../src/translation/Translator.cpp" line="570"/>
         <source>WEBSITE</source>
         <translation>Webové stránky</translation>
     </message>

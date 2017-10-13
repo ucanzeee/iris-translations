@@ -1051,1190 +1051,1190 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>Translator</name>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="174"/>
+        <location filename="../../src/translation/Translator.cpp" line="296"/>
         <source>IRIS_MODE</source>
         <translation>الوضع</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="175"/>
+        <location filename="../../src/translation/Translator.cpp" line="297"/>
         <source>AUTOMATIC_MODE</source>
         <translation>أوتوماتيكي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="176"/>
+        <location filename="../../src/translation/Translator.cpp" line="298"/>
         <source>MANUAL_MODE</source>
         <translation>كتيب</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="177"/>
+        <location filename="../../src/translation/Translator.cpp" line="299"/>
         <source>PAUSED_MODE</source>
         <translation>تم الإيقاف مؤقتا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="179"/>
+        <location filename="../../src/translation/Translator.cpp" line="301"/>
         <source>IRIS_TYPE</source>
         <translation>اكتب</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="180"/>
+        <location filename="../../src/translation/Translator.cpp" line="302"/>
         <source>HEALTH_MODE</source>
         <translation>الصحة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="181"/>
+        <location filename="../../src/translation/Translator.cpp" line="303"/>
         <source>SLEEP_MODE</source>
         <translation>ينام</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="182"/>
+        <location filename="../../src/translation/Translator.cpp" line="304"/>
         <source>READING_MODE</source>
         <translation>قراءة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="183"/>
+        <location filename="../../src/translation/Translator.cpp" line="305"/>
         <source>PROGRAMMING_MODE</source>
         <translation>برمجة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="184"/>
+        <location filename="../../src/translation/Translator.cpp" line="306"/>
         <source>BIOHACKER_MODE</source>
         <translation>بيوهاكر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="185"/>
+        <location filename="../../src/translation/Translator.cpp" line="307"/>
         <source>SUNGLASSES_MODE</source>
         <translation>Güneş gözlüğü</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="186"/>
+        <location filename="../../src/translation/Translator.cpp" line="308"/>
         <source>DARK_MODE</source>
         <translation>داكن</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="187"/>
+        <location filename="../../src/translation/Translator.cpp" line="309"/>
         <source>MOVIE_MODE</source>
         <translation>فيلم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="188"/>
+        <location filename="../../src/translation/Translator.cpp" line="310"/>
         <source>OVERLAY_MODE</source>
         <translation>غطاء</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="190"/>
+        <location filename="../../src/translation/Translator.cpp" line="312"/>
         <source>IRIS_LICENSE</source>
         <translation>رخصة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="191"/>
-        <location filename="../../src/translation/Translator.cpp" line="418"/>
+        <location filename="../../src/translation/Translator.cpp" line="313"/>
+        <location filename="../../src/translation/Translator.cpp" line="540"/>
         <source>ACTIVATE_CODE</source>
         <translation>تفعيل القانون</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="193"/>
+        <location filename="../../src/translation/Translator.cpp" line="315"/>
         <source>IRIS_TIMER</source>
         <translation>الموقت</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="194"/>
+        <location filename="../../src/translation/Translator.cpp" line="316"/>
         <source>TIMER_OFF</source>
         <translation>إيقاف</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="195"/>
+        <location filename="../../src/translation/Translator.cpp" line="317"/>
         <source>TIMER_NORMAL</source>
         <translation>عادي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="196"/>
+        <location filename="../../src/translation/Translator.cpp" line="318"/>
         <source>TIMER_STRICT</source>
         <translation>صارم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="197"/>
+        <location filename="../../src/translation/Translator.cpp" line="319"/>
         <source>TIMER_PRODUCTIVE</source>
         <translation>إنتاجي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="198"/>
+        <location filename="../../src/translation/Translator.cpp" line="320"/>
         <source>TIMER_TASKBAR</source>
         <translation>شريط المهام</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="199"/>
+        <location filename="../../src/translation/Translator.cpp" line="321"/>
         <source>TIMER_EXERCISE</source>
         <translation>ممارسه الرياضه</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="200"/>
+        <location filename="../../src/translation/Translator.cpp" line="322"/>
         <source>TIMER_NOTIFICATION</source>
         <translation>الإخطار</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="201"/>
+        <location filename="../../src/translation/Translator.cpp" line="323"/>
         <source>TIMER_SOUND</source>
         <translation>صوت</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="203"/>
+        <location filename="../../src/translation/Translator.cpp" line="325"/>
         <source>IRIS_LOCATION</source>
         <translation>موقعك</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="204"/>
+        <location filename="../../src/translation/Translator.cpp" line="326"/>
         <source>SAVE_AND_CLOSE</source>
         <translation>حفظ وإغلاق</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="205"/>
+        <location filename="../../src/translation/Translator.cpp" line="327"/>
         <source>USE_ADVANCED_SETTINGS</source>
         <translation>استخدام الإعدادات المتقدمة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="208"/>
+        <location filename="../../src/translation/Translator.cpp" line="330"/>
         <source>ADVANCED_SETTINGS_TITLE</source>
         <translation>إعدادات متقدمة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="210"/>
+        <location filename="../../src/translation/Translator.cpp" line="332"/>
         <source>ADVANCED_COLOR_TEMPERATURE</source>
         <translation>درجة حرارة اللون</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="211"/>
+        <location filename="../../src/translation/Translator.cpp" line="333"/>
         <source>DAY_TEMPERATURE</source>
         <translation>يوم درجة الحرارة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="212"/>
+        <location filename="../../src/translation/Translator.cpp" line="334"/>
         <source>NIGHT_TEMPERATURE</source>
         <translation>ليلة درجة الحرارة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="213"/>
-        <location filename="../../src/translation/Translator.cpp" line="222"/>
-        <location filename="../../src/translation/Translator.cpp" line="231"/>
-        <location filename="../../src/translation/Translator.cpp" line="237"/>
+        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <location filename="../../src/translation/Translator.cpp" line="359"/>
         <source>EXTENDED_VALUES</source>
         <translation>القيم الموسعة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="214"/>
+        <location filename="../../src/translation/Translator.cpp" line="336"/>
         <source>MANUAL_COLOR_SETTINGS</source>
         <translation>إعدادات الألوان اليدوية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="215"/>
+        <location filename="../../src/translation/Translator.cpp" line="337"/>
         <source>RESET_TEMPERATURE</source>
         <translation>إعادة تعيين درجة الحرارة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="216"/>
-        <location filename="../../src/translation/Translator.cpp" line="225"/>
+        <location filename="../../src/translation/Translator.cpp" line="338"/>
+        <location filename="../../src/translation/Translator.cpp" line="347"/>
         <source>INVERT_COLORS</source>
         <translation>عكس الألوان</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="217"/>
-        <location filename="../../src/translation/Translator.cpp" line="226"/>
+        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="348"/>
         <source>REVERT_COLORS</source>
         <translation>عودة الألوان</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="219"/>
+        <location filename="../../src/translation/Translator.cpp" line="341"/>
         <source>ADVANCED_BLUE_LIGHT</source>
         <translation>ضوء أزرق</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="220"/>
+        <location filename="../../src/translation/Translator.cpp" line="342"/>
         <source>DAY_BLUE_LIGHT</source>
         <translation>ضوء النهار</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="221"/>
+        <location filename="../../src/translation/Translator.cpp" line="343"/>
         <source>NIGHT_BLUE_LIGHT</source>
         <translation type="unfinished">ضوء الليل</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="223"/>
+        <location filename="../../src/translation/Translator.cpp" line="345"/>
         <source>MANUAL_BLUE_LIGHT</source>
         <translation>ضوء يدوي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="224"/>
+        <location filename="../../src/translation/Translator.cpp" line="346"/>
         <source>RESET_BLUE_LIGHT</source>
         <translation>إعادة تعيين</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="228"/>
-        <location filename="../../src/translation/Translator.cpp" line="234"/>
+        <location filename="../../src/translation/Translator.cpp" line="350"/>
+        <location filename="../../src/translation/Translator.cpp" line="356"/>
         <source>ADVANCED_BRIGHTNESS</source>
         <translation>سطوع</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="229"/>
-        <location filename="../../src/translation/Translator.cpp" line="235"/>
+        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="357"/>
         <source>DAY_BRIGHTNESS</source>
         <translation>يوم السطوع</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="230"/>
-        <location filename="../../src/translation/Translator.cpp" line="236"/>
+        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="358"/>
         <source>NIGHT_BRIGHTNESS</source>
         <translation>ليلة السطوع</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="232"/>
-        <location filename="../../src/translation/Translator.cpp" line="238"/>
+        <location filename="../../src/translation/Translator.cpp" line="354"/>
+        <location filename="../../src/translation/Translator.cpp" line="360"/>
         <source>MANUAL_BRIGHTNESS</source>
         <translation>سطوع يدوي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="240"/>
+        <location filename="../../src/translation/Translator.cpp" line="362"/>
         <source>ADVANCED_COLOR_SCHEME</source>
         <translation>نظام الألوان</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="241"/>
+        <location filename="../../src/translation/Translator.cpp" line="363"/>
         <source>IRIS</source>
         <translation>قزحية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="242"/>
+        <location filename="../../src/translation/Translator.cpp" line="364"/>
         <source>MAGMUS</source>
         <translation>ماغموس</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="243"/>
+        <location filename="../../src/translation/Translator.cpp" line="365"/>
         <source>OLAF</source>
         <translation>أولاف</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="244"/>
+        <location filename="../../src/translation/Translator.cpp" line="366"/>
         <source>GROOT</source>
         <translation>غروت</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="245"/>
+        <location filename="../../src/translation/Translator.cpp" line="367"/>
         <source>LEADING_COLOR</source>
         <translation>اللون الرائدة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="250"/>
+        <location filename="../../src/translation/Translator.cpp" line="372"/>
         <source>ADVANCED_LOCATION</source>
         <translation>موقعك</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="251"/>
+        <location filename="../../src/translation/Translator.cpp" line="373"/>
         <source>MANUAL_LOCATION</source>
         <translation>الموقع اليدوي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="252"/>
+        <location filename="../../src/translation/Translator.cpp" line="374"/>
         <source>LATITUDE</source>
         <translation>خط العرض</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="253"/>
+        <location filename="../../src/translation/Translator.cpp" line="375"/>
         <source>LONGITUDE</source>
         <translation>خط الطول</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="254"/>
+        <location filename="../../src/translation/Translator.cpp" line="376"/>
         <source>MANUAL_NIGHT_DURATION</source>
         <translation>دليل مدة الليل</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="255"/>
+        <location filename="../../src/translation/Translator.cpp" line="377"/>
         <source>NIGHT_START_TIME</source>
         <translation>ليلة تبدأ في</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="256"/>
+        <location filename="../../src/translation/Translator.cpp" line="378"/>
         <source>NIGHT_END_TIME</source>
         <translation>ينتهي الليل في</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="258"/>
+        <location filename="../../src/translation/Translator.cpp" line="380"/>
         <source>ADVANCED_TRANSITION</source>
         <translation>انتقال</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="259"/>
+        <location filename="../../src/translation/Translator.cpp" line="381"/>
         <source>DAY_TRANSITION</source>
         <translation>انتقال اليوم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="260"/>
+        <location filename="../../src/translation/Translator.cpp" line="382"/>
         <source>NIGHT_TRANSITION</source>
         <translation>الانتقال الليلي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="261"/>
+        <location filename="../../src/translation/Translator.cpp" line="383"/>
         <source>SLEEP_TRANSITION</source>
         <translation>انتقال النوم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="262"/>
+        <location filename="../../src/translation/Translator.cpp" line="384"/>
         <source>PAUSE_TRANSITION</source>
         <translation>إيقاف مؤقت</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="263"/>
-        <location filename="../../src/translation/Translator.cpp" line="268"/>
+        <location filename="../../src/translation/Translator.cpp" line="385"/>
+        <location filename="../../src/translation/Translator.cpp" line="390"/>
         <source>TRANSITION_TIMES</source>
         <translation>أوقات الانتقال</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="265"/>
+        <location filename="../../src/translation/Translator.cpp" line="387"/>
         <source>ADVANCED_MOON</source>
         <translation>القمر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="266"/>
+        <location filename="../../src/translation/Translator.cpp" line="388"/>
         <source>FULL_MOON_OFFSET</source>
         <translation>إزاحة القمر الكامل</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="267"/>
+        <location filename="../../src/translation/Translator.cpp" line="389"/>
         <source>NEW_MOON_OFFSET</source>
         <translation>تعديل القمر الجديد</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="270"/>
+        <location filename="../../src/translation/Translator.cpp" line="392"/>
         <source>ADVANCED_LIGHTNESS</source>
         <translation>خفة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="271"/>
+        <location filename="../../src/translation/Translator.cpp" line="393"/>
         <source>RADIUS</source>
         <translation>نصف القطر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="273"/>
+        <location filename="../../src/translation/Translator.cpp" line="395"/>
         <source>X_POSITION</source>
         <translation>X</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="274"/>
+        <location filename="../../src/translation/Translator.cpp" line="396"/>
         <source>Y_POSITION</source>
         <translation>Y</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="278"/>
+        <location filename="../../src/translation/Translator.cpp" line="400"/>
         <source>ADVANCED_SLEEP</source>
         <translation>ينام</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="279"/>
+        <location filename="../../src/translation/Translator.cpp" line="401"/>
         <source>SLEEP_LIGHT</source>
         <translation>ضوء النوم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="280"/>
+        <location filename="../../src/translation/Translator.cpp" line="402"/>
         <source>SLEEP_BRIGHTNESS</source>
         <translation>سطوع النوم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="281"/>
+        <location filename="../../src/translation/Translator.cpp" line="403"/>
         <source>BEDTIME</source>
         <translation>وقت النوم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="282"/>
+        <location filename="../../src/translation/Translator.cpp" line="404"/>
         <source>WAKE_TIME</source>
         <translation>وقت الاستيقاظ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="284"/>
+        <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>ADVANCED_REST_SCREEN</source>
         <translation>بقية الشاشة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="285"/>
+        <location filename="../../src/translation/Translator.cpp" line="407"/>
         <source>TYPE</source>
         <translation>اكتب</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="286"/>
+        <location filename="../../src/translation/Translator.cpp" line="408"/>
         <source>LITE</source>
         <translation>قليل الدسم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="287"/>
+        <location filename="../../src/translation/Translator.cpp" line="409"/>
         <source>SIMPLE</source>
         <translation>بسيط</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="288"/>
+        <location filename="../../src/translation/Translator.cpp" line="410"/>
         <source>STANDARD</source>
         <translation>اساسي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="290"/>
+        <location filename="../../src/translation/Translator.cpp" line="412"/>
         <source>ADVANCED_MANAGE_MONITORS</source>
         <translation>إدارة المراقبين</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="291"/>
+        <location filename="../../src/translation/Translator.cpp" line="413"/>
         <source>MONITOR_1</source>
         <translation>مونيتور 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="292"/>
+        <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>MONITOR_2</source>
         <translation>مونيتور 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="293"/>
+        <location filename="../../src/translation/Translator.cpp" line="415"/>
         <source>MONITOR_3</source>
         <translation>مونيتور 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="294"/>
+        <location filename="../../src/translation/Translator.cpp" line="416"/>
         <source>MONITOR_4</source>
         <translation>مونيتور 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="296"/>
+        <location filename="../../src/translation/Translator.cpp" line="418"/>
         <source>ADVANCED_SCREEN_EFFECTS</source>
         <translation>تأثيرات الشاشة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="297"/>
+        <location filename="../../src/translation/Translator.cpp" line="419"/>
         <source>SCREEN_EFFECT</source>
         <oldsource>COLOR_EFFECT</oldsource>
         <translation>تأثير الشاشة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="298"/>
+        <location filename="../../src/translation/Translator.cpp" line="420"/>
         <source>SIMPLE_INVERSION</source>
         <translation>انقلاب بسيط</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="299"/>
+        <location filename="../../src/translation/Translator.cpp" line="421"/>
         <source>GRAYSCALE_1</source>
         <translation>تدرج الرمادي 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="300"/>
+        <location filename="../../src/translation/Translator.cpp" line="422"/>
         <source>GRAYSCALE_2</source>
         <translation>غرايسكيل 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="301"/>
+        <location filename="../../src/translation/Translator.cpp" line="423"/>
         <source>GRAYSCALE_3</source>
         <translation>تدرج الرمادي 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="302"/>
+        <location filename="../../src/translation/Translator.cpp" line="424"/>
         <source>NEGATIVE_GRAYSCALE</source>
         <translation>الرمادي السلبي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="303"/>
+        <location filename="../../src/translation/Translator.cpp" line="425"/>
         <source>WASHOUT_1</source>
         <translation>غسل 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="304"/>
+        <location filename="../../src/translation/Translator.cpp" line="426"/>
         <source>WASHOUT_2</source>
         <translation>غسل 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="305"/>
+        <location filename="../../src/translation/Translator.cpp" line="427"/>
         <source>WASHOUT_3</source>
         <translation>غسل 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="306"/>
+        <location filename="../../src/translation/Translator.cpp" line="428"/>
         <source>SMART_INVERSION_1</source>
         <translation>عكس الذكية 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="307"/>
+        <location filename="../../src/translation/Translator.cpp" line="429"/>
         <source>SMART_INVERSION_2</source>
         <translation>عكس الذكية 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="308"/>
+        <location filename="../../src/translation/Translator.cpp" line="430"/>
         <source>SMART_INVERSION_3</source>
         <translation>عكس الذكية 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="309"/>
+        <location filename="../../src/translation/Translator.cpp" line="431"/>
         <source>SMART_INVERSION_4</source>
         <translation>عكس الذكية 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="310"/>
+        <location filename="../../src/translation/Translator.cpp" line="432"/>
         <source>SMART_INVERSION_5</source>
         <translation>عكس الذكية 5</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="311"/>
+        <location filename="../../src/translation/Translator.cpp" line="433"/>
         <source>SEPIA</source>
         <translation>سيفيا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="312"/>
+        <location filename="../../src/translation/Translator.cpp" line="434"/>
         <source>NEGATIVE_SEPIA</source>
         <translation>البني الداكن السالب</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="313"/>
+        <location filename="../../src/translation/Translator.cpp" line="435"/>
         <source>GRAYSCALE_RED</source>
         <translation>غرايكلاس الأحمر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="314"/>
+        <location filename="../../src/translation/Translator.cpp" line="436"/>
         <source>NEGATIVE_GRAYSCALE_RED</source>
         <translation>سلبي رمادي رمادي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="315"/>
+        <location filename="../../src/translation/Translator.cpp" line="437"/>
         <source>PROTANOPIA</source>
         <translation>بروتانوبيا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="316"/>
+        <location filename="../../src/translation/Translator.cpp" line="438"/>
         <source>PROTANOMALY</source>
         <translation>بروتانومالي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="317"/>
+        <location filename="../../src/translation/Translator.cpp" line="439"/>
         <source>DEUTERANOPIA</source>
         <translation>ديوتيرانوبيا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="318"/>
+        <location filename="../../src/translation/Translator.cpp" line="440"/>
         <source>DEUTERANOMALY</source>
         <translation>ديوتيرانومالي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="319"/>
+        <location filename="../../src/translation/Translator.cpp" line="441"/>
         <source>TRITANOPIA</source>
         <translation>تريتانوبيا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="320"/>
+        <location filename="../../src/translation/Translator.cpp" line="442"/>
         <source>TRITANOMALY</source>
         <translation>تريتانومالي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="321"/>
+        <location filename="../../src/translation/Translator.cpp" line="443"/>
         <source>ACHROMATOPSIA</source>
         <translation>أكروماتوبسيا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="322"/>
+        <location filename="../../src/translation/Translator.cpp" line="444"/>
         <source>ACHROMATOMALY</source>
         <translation>أكروماتومالي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="323"/>
+        <location filename="../../src/translation/Translator.cpp" line="445"/>
         <source>COLOR_EFFECTS</source>
         <translation>تأثيرات الألوان</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="325"/>
+        <location filename="../../src/translation/Translator.cpp" line="447"/>
         <source>ADVANCED_FONTS</source>
         <translation>الخطوط</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="326"/>
+        <location filename="../../src/translation/Translator.cpp" line="448"/>
         <source>FONTS_TYPE</source>
         <translation>نوع الخطوط</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="327"/>
+        <location filename="../../src/translation/Translator.cpp" line="449"/>
         <source>SIMPLE_FONTS</source>
         <translation>خطوط بسيطة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="328"/>
+        <location filename="../../src/translation/Translator.cpp" line="450"/>
         <source>ANTI_ALIASING_FONTS</source>
         <translation>خطوط التنعيم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="329"/>
+        <location filename="../../src/translation/Translator.cpp" line="451"/>
         <source>CLEAR_TYPE_FONTS</source>
         <translation>خطوط كليرتيب</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="330"/>
+        <location filename="../../src/translation/Translator.cpp" line="452"/>
         <source>GDIPP</source>
         <translation>غديب</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="331"/>
+        <location filename="../../src/translation/Translator.cpp" line="453"/>
         <source>FONT_SMOOTHING_LIGHT</source>
         <translation>الخط تمهيد الضوء</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="332"/>
+        <location filename="../../src/translation/Translator.cpp" line="454"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
         <translation>خط التمهيد المتوسطة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="333"/>
+        <location filename="../../src/translation/Translator.cpp" line="455"/>
         <source>FONT_SMOOTHING_HIGH</source>
         <translation>الخط التمويه عالية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="335"/>
+        <location filename="../../src/translation/Translator.cpp" line="457"/>
         <source>ADVANCED_MAGNIFICATION</source>
         <translation>التكبير</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="336"/>
+        <location filename="../../src/translation/Translator.cpp" line="458"/>
         <source>ZOOM_IN</source>
         <translation>تكبير</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="337"/>
+        <location filename="../../src/translation/Translator.cpp" line="459"/>
         <source>ZOOM_OUT</source>
         <translation>تصغير</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="339"/>
+        <location filename="../../src/translation/Translator.cpp" line="461"/>
         <source>ADVANCED_PWM_CONTROL</source>
         <translation>مراقبة بوم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="341"/>
+        <location filename="../../src/translation/Translator.cpp" line="463"/>
         <source>ADVANCED_TIMER</source>
         <translation>الموقت</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="342"/>
+        <location filename="../../src/translation/Translator.cpp" line="464"/>
         <source>POSTPONE_DURATION</source>
         <translation>تأجيل المدة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="343"/>
+        <location filename="../../src/translation/Translator.cpp" line="465"/>
         <source>TIMER_TYPE</source>
         <translation>نوع الموقت</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="344"/>
+        <location filename="../../src/translation/Translator.cpp" line="466"/>
         <source>BREAK_EVERY</source>
         <translation>كسر كل</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="345"/>
+        <location filename="../../src/translation/Translator.cpp" line="467"/>
         <source>HAVE_A_REST_NOW</source>
         <translation>لديك راحة الآن</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="346"/>
+        <location filename="../../src/translation/Translator.cpp" line="468"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
         <translation>السيارات بقية بقية الشاشة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="347"/>
+        <location filename="../../src/translation/Translator.cpp" line="469"/>
         <source>USE_SOUNDS</source>
         <translation>استخدام الأصوات</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="349"/>
+        <location filename="../../src/translation/Translator.cpp" line="471"/>
         <source>ADVANCED_SYSTEM</source>
         <translation>النظام</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="350"/>
+        <location filename="../../src/translation/Translator.cpp" line="472"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
         <translation>إخفاء رمز شريط المهام عند الإغلاق</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="351"/>
+        <location filename="../../src/translation/Translator.cpp" line="473"/>
         <source>USE_MOUSE_INACTIVITY</source>
         <translation>استخدام عدم نشاط الماوس لإيقاف مؤقت العمل مؤقتا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="352"/>
+        <location filename="../../src/translation/Translator.cpp" line="474"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>حظر لوحة المفاتيح على وضع صارم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="353"/>
+        <location filename="../../src/translation/Translator.cpp" line="475"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>استخدام مؤشر الماوس البرمجيات</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="355"/>
+        <location filename="../../src/translation/Translator.cpp" line="477"/>
         <source>ADVANCED_IRIS</source>
         <translation>قزحية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="356"/>
+        <location filename="../../src/translation/Translator.cpp" line="478"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>تغييرات إعدادات الحفظ التلقائي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="357"/>
+        <location filename="../../src/translation/Translator.cpp" line="479"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>استخدم اختصارات لوحة المفاتيح</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="358"/>
+        <location filename="../../src/translation/Translator.cpp" line="480"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>تدمير إيريس واجهة المستخدم على وثيقة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="359"/>
+        <location filename="../../src/translation/Translator.cpp" line="481"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>استخدام واجهة برمجة تطبيقات الألوان منخفضة المستوى</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="360"/>
+        <location filename="../../src/translation/Translator.cpp" line="482"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>بدء ايريس على بدء التشغيل</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="362"/>
+        <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>RESET_COLORS</source>
         <translation>إعادة تعيين الألوان</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="369"/>
+        <location filename="../../src/translation/Translator.cpp" line="491"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>الماوس الماوس</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="370"/>
+        <location filename="../../src/translation/Translator.cpp" line="492"/>
         <source>FULLSCREEN_APPS</source>
         <translation>تطبيقات ملء الشاشة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="387"/>
+        <location filename="../../src/translation/Translator.cpp" line="509"/>
         <source>DAY_OPACITY</source>
         <translation>يوم التعتيم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="388"/>
+        <location filename="../../src/translation/Translator.cpp" line="510"/>
         <source>NIGHT_OPACITY</source>
         <translation>ليلة التعتيم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="390"/>
+        <location filename="../../src/translation/Translator.cpp" line="512"/>
         <source>DAY_DIM</source>
         <translation>يوم خافت</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="391"/>
+        <location filename="../../src/translation/Translator.cpp" line="513"/>
         <source>NIGHT_DIM</source>
         <translation>ليلة ديم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="400"/>
+        <location filename="../../src/translation/Translator.cpp" line="522"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>سطوع الذكية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="401"/>
+        <location filename="../../src/translation/Translator.cpp" line="523"/>
         <source>USE_SMART_INVERSION</source>
         <translation>الانقلاب الذكي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="402"/>
+        <location filename="../../src/translation/Translator.cpp" line="524"/>
         <source>ENABLE_CAMERA</source>
         <translation>تمكين الكاميرا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="403"/>
+        <location filename="../../src/translation/Translator.cpp" line="525"/>
         <source>DISABLE_CAMERA</source>
         <translation>تعطيل الكاميرا</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="437"/>
+        <location filename="../../src/translation/Translator.cpp" line="559"/>
         <source>CZECH</source>
         <translation>التشيكية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="438"/>
+        <location filename="../../src/translation/Translator.cpp" line="560"/>
         <source>UKRAINIAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="440"/>
+        <location filename="../../src/translation/Translator.cpp" line="562"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>الميزات المخفية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="441"/>
+        <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>أدخل توضيحك</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="442"/>
+        <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ACTIVATE</source>
         <translation>تفعيل</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="451"/>
+        <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>SKIP_REST</source>
         <translation>تخطي الراحة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="452"/>
+        <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>NORMAL</source>
         <translation>عادي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="453"/>
+        <location filename="../../src/translation/Translator.cpp" line="575"/>
         <source>STRICT</source>
         <translation>صارم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="454"/>
+        <location filename="../../src/translation/Translator.cpp" line="576"/>
         <source>CONTINUE</source>
         <translation>استمر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="455"/>
+        <location filename="../../src/translation/Translator.cpp" line="577"/>
         <source>REST_MODE</source>
         <translation>وضع الراحة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="456"/>
+        <location filename="../../src/translation/Translator.cpp" line="578"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>كنت في وضع الراحة الآن. تحرير الموقت في لوحة الإعدادات.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="457"/>
+        <location filename="../../src/translation/Translator.cpp" line="579"/>
         <source>TIME_IS</source>
         <translation>الوقت هو</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="460"/>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>START_WORKING</source>
         <translation>بدء العمل</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="461"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>HAVE_A_BREAK</source>
         <translation>لديك استراحة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="464"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>ADD</source>
         <translation>إضافة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="465"/>
+        <location filename="../../src/translation/Translator.cpp" line="587"/>
         <source>REMOVE</source>
         <translation>إزالة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="361"/>
+        <location filename="../../src/translation/Translator.cpp" line="483"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>إعادة تعيين الإعدادات إلى الإعداد الافتراضي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="364"/>
+        <location filename="../../src/translation/Translator.cpp" line="486"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>المعدات</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="365"/>
+        <location filename="../../src/translation/Translator.cpp" line="487"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>اصوات</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="367"/>
+        <location filename="../../src/translation/Translator.cpp" line="489"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>اللون الأمازون</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="368"/>
+        <location filename="../../src/translation/Translator.cpp" line="490"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>مؤقت الموقتات</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="372"/>
+        <location filename="../../src/translation/Translator.cpp" line="494"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>تراكب الشاشة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="373"/>
+        <location filename="../../src/translation/Translator.cpp" line="495"/>
         <source>OVERLAY_COLOR</source>
         <translation>تراكب اللون</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="247"/>
-        <location filename="../../src/translation/Translator.cpp" line="374"/>
+        <location filename="../../src/translation/Translator.cpp" line="369"/>
+        <location filename="../../src/translation/Translator.cpp" line="496"/>
         <source>GREEN</source>
         <translation>أخضر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="375"/>
+        <location filename="../../src/translation/Translator.cpp" line="497"/>
         <source>TURQUOISE</source>
         <translation>الفيروز</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="248"/>
-        <location filename="../../src/translation/Translator.cpp" line="376"/>
+        <location filename="../../src/translation/Translator.cpp" line="370"/>
+        <location filename="../../src/translation/Translator.cpp" line="498"/>
         <source>BLUE</source>
         <translation>أزرق</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="377"/>
+        <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>INDIGO</source>
         <translation>نيلي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="378"/>
+        <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>VIOLET</source>
         <translation>البنفسجي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="379"/>
+        <location filename="../../src/translation/Translator.cpp" line="501"/>
         <source>PURPLE</source>
         <translation>أرجواني</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="380"/>
+        <location filename="../../src/translation/Translator.cpp" line="502"/>
         <source>MAGENTA</source>
         <translation>أرجواني</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="381"/>
+        <location filename="../../src/translation/Translator.cpp" line="503"/>
         <source>SCARLET</source>
         <translation>اللون القرمزي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="246"/>
-        <location filename="../../src/translation/Translator.cpp" line="382"/>
+        <location filename="../../src/translation/Translator.cpp" line="368"/>
+        <location filename="../../src/translation/Translator.cpp" line="504"/>
         <source>RED</source>
         <translation>أحمر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="383"/>
+        <location filename="../../src/translation/Translator.cpp" line="505"/>
         <source>ORANGE</source>
         <translation>البرتقالي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="384"/>
+        <location filename="../../src/translation/Translator.cpp" line="506"/>
         <source>YELLOW</source>
         <translation>الأصفر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="385"/>
+        <location filename="../../src/translation/Translator.cpp" line="507"/>
         <source>LEMON</source>
         <translation>ليمون</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="272"/>
-        <location filename="../../src/translation/Translator.cpp" line="386"/>
+        <location filename="../../src/translation/Translator.cpp" line="394"/>
+        <location filename="../../src/translation/Translator.cpp" line="508"/>
         <source>OPACITY</source>
         <translation>التعتيم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="389"/>
+        <location filename="../../src/translation/Translator.cpp" line="511"/>
         <source>SCREEN_DIM</source>
         <translation>شاشة خافتة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="275"/>
-        <location filename="../../src/translation/Translator.cpp" line="392"/>
+        <location filename="../../src/translation/Translator.cpp" line="397"/>
+        <location filename="../../src/translation/Translator.cpp" line="514"/>
         <source>DISABLE</source>
         <translation>تعطيل</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="393"/>
+        <location filename="../../src/translation/Translator.cpp" line="515"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>حدد منطقة الشاشة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="394"/>
+        <location filename="../../src/translation/Translator.cpp" line="516"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>إعادة تعيين المنطقة المحددة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="276"/>
-        <location filename="../../src/translation/Translator.cpp" line="395"/>
+        <location filename="../../src/translation/Translator.cpp" line="398"/>
+        <location filename="../../src/translation/Translator.cpp" line="517"/>
         <source>ENABLE</source>
         <translation>تمكين</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="397"/>
+        <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>الذكاء الاصطناعي </translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="398"/>
+        <location filename="../../src/translation/Translator.cpp" line="520"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>سطوع تلقائي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="399"/>
+        <location filename="../../src/translation/Translator.cpp" line="521"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>كشف الطرفة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="404"/>
+        <location filename="../../src/translation/Translator.cpp" line="526"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>عرض شاشة وميض</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="405"/>
+        <location filename="../../src/translation/Translator.cpp" line="527"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>إخفاء شاشة الطرفة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="407"/>
+        <location filename="../../src/translation/Translator.cpp" line="529"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>تمارين</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="408"/>
+        <location filename="../../src/translation/Translator.cpp" line="530"/>
         <source>START_EYE_EXERCISES</source>
         <translation>بدء تمارين العين</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="409"/>
+        <location filename="../../src/translation/Translator.cpp" line="531"/>
         <source>START_NECK_EXERCISES</source>
         <translation>بدء تمارين الرقبة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="410"/>
+        <location filename="../../src/translation/Translator.cpp" line="532"/>
         <source>START_BACK_EXERCISES</source>
         <translation>بدء التدريبات مرة أخرى</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="412"/>
+        <location filename="../../src/translation/Translator.cpp" line="534"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>نموذج القزحية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="413"/>
+        <location filename="../../src/translation/Translator.cpp" line="535"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>التبديل إلى إيريس</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="414"/>
+        <location filename="../../src/translation/Translator.cpp" line="536"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>التبديل إلى إيريس لايت</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="416"/>
+        <location filename="../../src/translation/Translator.cpp" line="538"/>
         <source>ADVANCED_LICENSE</source>
         <translation>رخصة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="417"/>
+        <location filename="../../src/translation/Translator.cpp" line="539"/>
         <source>GET_IRIS_PRO</source>
         <translation>الحصول على القزحية برو</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="420"/>
+        <location filename="../../src/translation/Translator.cpp" line="542"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>لغة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="421"/>
+        <location filename="../../src/translation/Translator.cpp" line="543"/>
         <source>LANGUAGE</source>
         <translation>لغة</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="422"/>
+        <location filename="../../src/translation/Translator.cpp" line="544"/>
         <source>ENGLISH</source>
         <translation>الإنجليزية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="423"/>
+        <location filename="../../src/translation/Translator.cpp" line="545"/>
         <source>RUSSIAN</source>
         <translation>الروسية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="424"/>
+        <location filename="../../src/translation/Translator.cpp" line="546"/>
         <source>SPANISH</source>
         <translation>الأسبانية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="425"/>
+        <location filename="../../src/translation/Translator.cpp" line="547"/>
         <source>CHINESE</source>
         <translation>صينى</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="426"/>
+        <location filename="../../src/translation/Translator.cpp" line="548"/>
         <source>INDIAN</source>
         <translation>الهندي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="427"/>
+        <location filename="../../src/translation/Translator.cpp" line="549"/>
         <source>JAPANESE</source>
         <translation>اليابانية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="428"/>
+        <location filename="../../src/translation/Translator.cpp" line="550"/>
         <source>ARABIC</source>
         <translation>عربى</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="429"/>
+        <location filename="../../src/translation/Translator.cpp" line="551"/>
         <source>TURKISH</source>
         <translation>اللغة التركية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="430"/>
+        <location filename="../../src/translation/Translator.cpp" line="552"/>
         <source>PORTUGUESE</source>
         <translation>البرتغالية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="431"/>
+        <location filename="../../src/translation/Translator.cpp" line="553"/>
         <source>FRENCH</source>
         <translation>الفرنسية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="432"/>
+        <location filename="../../src/translation/Translator.cpp" line="554"/>
         <source>GERMAN</source>
         <translation>ألمانية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="433"/>
+        <location filename="../../src/translation/Translator.cpp" line="555"/>
         <source>KOREAN</source>
         <translation>الكورية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="434"/>
+        <location filename="../../src/translation/Translator.cpp" line="556"/>
         <source>ITALIAN</source>
         <translation>الإيطالية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="435"/>
+        <location filename="../../src/translation/Translator.cpp" line="557"/>
         <source>BULGARIAN</source>
         <translation>البلغارية</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="436"/>
+        <location filename="../../src/translation/Translator.cpp" line="558"/>
         <source>GREEK</source>
         <translation>الإغريقي</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="444"/>
+        <location filename="../../src/translation/Translator.cpp" line="566"/>
         <source>ADVANCED_ABOUT</source>
         <translation>حول</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="445"/>
+        <location filename="../../src/translation/Translator.cpp" line="567"/>
         <source>NAME</source>
         <translation>اسم</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="446"/>
+        <location filename="../../src/translation/Translator.cpp" line="568"/>
         <source>VERSION</source>
         <translation>الإصدار</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="447"/>
+        <location filename="../../src/translation/Translator.cpp" line="569"/>
         <source>PUBLISHER</source>
         <translation>الناشر</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="448"/>
+        <location filename="../../src/translation/Translator.cpp" line="570"/>
         <source>WEBSITE</source>
         <translation>موقع الكتروني</translation>
     </message>
