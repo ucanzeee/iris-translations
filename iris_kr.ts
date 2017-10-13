@@ -1047,1191 +1047,1191 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>Translator</name>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="296"/>
+        <location filename="../../src/translation/Translator.cpp" line="398"/>
         <source>IRIS_MODE</source>
         <translation>방법</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="297"/>
+        <location filename="../../src/translation/Translator.cpp" line="399"/>
         <source>AUTOMATIC_MODE</source>
         <translation>오토매틱</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="298"/>
+        <location filename="../../src/translation/Translator.cpp" line="400"/>
         <source>MANUAL_MODE</source>
         <translation>조작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="299"/>
+        <location filename="../../src/translation/Translator.cpp" line="401"/>
         <source>PAUSED_MODE</source>
         <translation>일시 중지됨</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="301"/>
+        <location filename="../../src/translation/Translator.cpp" line="403"/>
         <source>IRIS_TYPE</source>
         <translation>유형</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="302"/>
+        <location filename="../../src/translation/Translator.cpp" line="404"/>
         <source>HEALTH_MODE</source>
         <translation>건강</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="303"/>
+        <location filename="../../src/translation/Translator.cpp" line="405"/>
         <source>SLEEP_MODE</source>
         <translation>자다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="304"/>
+        <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>READING_MODE</source>
         <translation>독서</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="305"/>
+        <location filename="../../src/translation/Translator.cpp" line="407"/>
         <source>PROGRAMMING_MODE</source>
         <translation>프로그램 작성</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="306"/>
+        <location filename="../../src/translation/Translator.cpp" line="408"/>
         <source>BIOHACKER_MODE</source>
         <translation>바이오 해커</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="307"/>
+        <location filename="../../src/translation/Translator.cpp" line="409"/>
         <source>SUNGLASSES_MODE</source>
         <translation>색안경</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="308"/>
+        <location filename="../../src/translation/Translator.cpp" line="410"/>
         <source>DARK_MODE</source>
         <translation>어두운</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="309"/>
+        <location filename="../../src/translation/Translator.cpp" line="411"/>
         <source>MOVIE_MODE</source>
         <translation>영화</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="310"/>
+        <location filename="../../src/translation/Translator.cpp" line="412"/>
         <source>OVERLAY_MODE</source>
         <translation>위에 까는 것</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="312"/>
+        <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>IRIS_LICENSE</source>
         <translation>특허</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="313"/>
-        <location filename="../../src/translation/Translator.cpp" line="540"/>
+        <location filename="../../src/translation/Translator.cpp" line="415"/>
+        <location filename="../../src/translation/Translator.cpp" line="642"/>
         <source>ACTIVATE_CODE</source>
         <translation>코드 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="315"/>
+        <location filename="../../src/translation/Translator.cpp" line="417"/>
         <source>IRIS_TIMER</source>
         <translation>시간제 노동자</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="316"/>
+        <location filename="../../src/translation/Translator.cpp" line="418"/>
         <source>TIMER_OFF</source>
         <translation>떨어져서</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="317"/>
+        <location filename="../../src/translation/Translator.cpp" line="419"/>
         <source>TIMER_NORMAL</source>
         <translation>표준</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="318"/>
+        <location filename="../../src/translation/Translator.cpp" line="420"/>
         <source>TIMER_STRICT</source>
         <translation>엄격한</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="319"/>
+        <location filename="../../src/translation/Translator.cpp" line="421"/>
         <source>TIMER_PRODUCTIVE</source>
         <translation>생산적인</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="320"/>
+        <location filename="../../src/translation/Translator.cpp" line="422"/>
         <source>TIMER_TASKBAR</source>
         <translation>작업 표시 줄</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="321"/>
+        <location filename="../../src/translation/Translator.cpp" line="423"/>
         <source>TIMER_EXERCISE</source>
         <translation>운동</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="322"/>
+        <location filename="../../src/translation/Translator.cpp" line="424"/>
         <source>TIMER_NOTIFICATION</source>
         <translation>공고</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="323"/>
+        <location filename="../../src/translation/Translator.cpp" line="425"/>
         <source>TIMER_SOUND</source>
         <translation>소리</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="325"/>
+        <location filename="../../src/translation/Translator.cpp" line="427"/>
         <source>IRIS_LOCATION</source>
         <translation>위치</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="326"/>
+        <location filename="../../src/translation/Translator.cpp" line="428"/>
         <source>SAVE_AND_CLOSE</source>
         <translation>저장 후 닫기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="327"/>
+        <location filename="../../src/translation/Translator.cpp" line="429"/>
         <source>USE_ADVANCED_SETTINGS</source>
         <translation>고급 설정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="330"/>
+        <location filename="../../src/translation/Translator.cpp" line="432"/>
         <source>ADVANCED_SETTINGS_TITLE</source>
         <translation>고급 설정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="332"/>
+        <location filename="../../src/translation/Translator.cpp" line="434"/>
         <source>ADVANCED_COLOR_TEMPERATURE</source>
         <translation>색온도</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="333"/>
+        <location filename="../../src/translation/Translator.cpp" line="435"/>
         <source>DAY_TEMPERATURE</source>
         <translation>낮 기온</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="334"/>
+        <location filename="../../src/translation/Translator.cpp" line="436"/>
         <source>NIGHT_TEMPERATURE</source>
         <translation>야간 온도</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="335"/>
-        <location filename="../../src/translation/Translator.cpp" line="344"/>
-        <location filename="../../src/translation/Translator.cpp" line="353"/>
-        <location filename="../../src/translation/Translator.cpp" line="359"/>
+        <location filename="../../src/translation/Translator.cpp" line="437"/>
+        <location filename="../../src/translation/Translator.cpp" line="446"/>
+        <location filename="../../src/translation/Translator.cpp" line="455"/>
+        <location filename="../../src/translation/Translator.cpp" line="461"/>
         <source>EXTENDED_VALUES</source>
         <translation>확장 된 값</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="336"/>
+        <location filename="../../src/translation/Translator.cpp" line="438"/>
         <source>MANUAL_COLOR_SETTINGS</source>
         <translation>수동 색상 설정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="337"/>
+        <location filename="../../src/translation/Translator.cpp" line="439"/>
         <source>RESET_TEMPERATURE</source>
         <translation>온도 재설정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="338"/>
-        <location filename="../../src/translation/Translator.cpp" line="347"/>
+        <location filename="../../src/translation/Translator.cpp" line="440"/>
+        <location filename="../../src/translation/Translator.cpp" line="449"/>
         <source>INVERT_COLORS</source>
         <translation>색상 반전</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="339"/>
-        <location filename="../../src/translation/Translator.cpp" line="348"/>
+        <location filename="../../src/translation/Translator.cpp" line="441"/>
+        <location filename="../../src/translation/Translator.cpp" line="450"/>
         <source>REVERT_COLORS</source>
         <translation>색상 되돌리기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="341"/>
+        <location filename="../../src/translation/Translator.cpp" line="443"/>
         <source>ADVANCED_BLUE_LIGHT</source>
         <translation>푸른 빛</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="342"/>
+        <location filename="../../src/translation/Translator.cpp" line="444"/>
         <source>DAY_BLUE_LIGHT</source>
         <translation>주간 등</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="343"/>
+        <location filename="../../src/translation/Translator.cpp" line="445"/>
         <source>NIGHT_BLUE_LIGHT</source>
         <translation>야간 조명</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="345"/>
+        <location filename="../../src/translation/Translator.cpp" line="447"/>
         <source>MANUAL_BLUE_LIGHT</source>
         <translation>수동 라이트</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="346"/>
+        <location filename="../../src/translation/Translator.cpp" line="448"/>
         <source>RESET_BLUE_LIGHT</source>
         <translation>다시 놓기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="350"/>
-        <location filename="../../src/translation/Translator.cpp" line="356"/>
+        <location filename="../../src/translation/Translator.cpp" line="452"/>
+        <location filename="../../src/translation/Translator.cpp" line="458"/>
         <source>ADVANCED_BRIGHTNESS</source>
         <translation>명도</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="351"/>
-        <location filename="../../src/translation/Translator.cpp" line="357"/>
+        <location filename="../../src/translation/Translator.cpp" line="453"/>
+        <location filename="../../src/translation/Translator.cpp" line="459"/>
         <source>DAY_BRIGHTNESS</source>
         <translation>낮의 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="352"/>
-        <location filename="../../src/translation/Translator.cpp" line="358"/>
+        <location filename="../../src/translation/Translator.cpp" line="454"/>
+        <location filename="../../src/translation/Translator.cpp" line="460"/>
         <source>NIGHT_BRIGHTNESS</source>
         <translation>야간 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="354"/>
-        <location filename="../../src/translation/Translator.cpp" line="360"/>
+        <location filename="../../src/translation/Translator.cpp" line="456"/>
+        <location filename="../../src/translation/Translator.cpp" line="462"/>
         <source>MANUAL_BRIGHTNESS</source>
         <translation>수동 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="362"/>
+        <location filename="../../src/translation/Translator.cpp" line="464"/>
         <source>ADVANCED_COLOR_SCHEME</source>
         <translation>색 구성표</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="363"/>
+        <location filename="../../src/translation/Translator.cpp" line="465"/>
         <source>IRIS</source>
         <translation>아이리스</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="364"/>
+        <location filename="../../src/translation/Translator.cpp" line="466"/>
         <source>MAGMUS</source>
         <translation>마그마 스</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="365"/>
+        <location filename="../../src/translation/Translator.cpp" line="467"/>
         <source>OLAF</source>
         <translation>올라프</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="366"/>
+        <location filename="../../src/translation/Translator.cpp" line="468"/>
         <source>GROOT</source>
         <translation>그루트</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="367"/>
+        <location filename="../../src/translation/Translator.cpp" line="469"/>
         <source>LEADING_COLOR</source>
         <translation>주요 색상</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="372"/>
+        <location filename="../../src/translation/Translator.cpp" line="474"/>
         <source>ADVANCED_LOCATION</source>
         <translation>위치</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="373"/>
+        <location filename="../../src/translation/Translator.cpp" line="475"/>
         <source>MANUAL_LOCATION</source>
         <translation>수동 위치</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="374"/>
+        <location filename="../../src/translation/Translator.cpp" line="476"/>
         <source>LATITUDE</source>
         <translation>위도:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="375"/>
+        <location filename="../../src/translation/Translator.cpp" line="477"/>
         <source>LONGITUDE</source>
         <translation>경도:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="376"/>
+        <location filename="../../src/translation/Translator.cpp" line="478"/>
         <source>MANUAL_NIGHT_DURATION</source>
         <translation>수동 야간 기간</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="377"/>
+        <location filename="../../src/translation/Translator.cpp" line="479"/>
         <source>NIGHT_START_TIME</source>
         <translation>밤은 다음에서 시작됩니다 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="378"/>
+        <location filename="../../src/translation/Translator.cpp" line="480"/>
         <source>NIGHT_END_TIME</source>
         <translation>밤 끝나는 위치 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="380"/>
+        <location filename="../../src/translation/Translator.cpp" line="482"/>
         <source>ADVANCED_TRANSITION</source>
         <translation>전이</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="381"/>
+        <location filename="../../src/translation/Translator.cpp" line="483"/>
         <source>DAY_TRANSITION</source>
         <translation>주간 전환 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="382"/>
+        <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>NIGHT_TRANSITION</source>
         <translation>야간 전환 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="383"/>
+        <location filename="../../src/translation/Translator.cpp" line="485"/>
         <source>SLEEP_TRANSITION</source>
         <translation>수면 전환 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="384"/>
+        <location filename="../../src/translation/Translator.cpp" line="486"/>
         <source>PAUSE_TRANSITION</source>
         <translation>전환 일시 중지 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="385"/>
-        <location filename="../../src/translation/Translator.cpp" line="390"/>
+        <location filename="../../src/translation/Translator.cpp" line="487"/>
+        <location filename="../../src/translation/Translator.cpp" line="492"/>
         <source>TRANSITION_TIMES</source>
         <translation>전환 시간</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="387"/>
+        <location filename="../../src/translation/Translator.cpp" line="489"/>
         <source>ADVANCED_MOON</source>
         <translation>달
 </translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="388"/>
+        <location filename="../../src/translation/Translator.cpp" line="490"/>
         <source>FULL_MOON_OFFSET</source>
         <translation>보름달 오프셋 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="389"/>
+        <location filename="../../src/translation/Translator.cpp" line="491"/>
         <source>NEW_MOON_OFFSET</source>
         <translation>뉴문 오프셋 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="392"/>
+        <location filename="../../src/translation/Translator.cpp" line="494"/>
         <source>ADVANCED_LIGHTNESS</source>
         <translation>가벼움</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="393"/>
+        <location filename="../../src/translation/Translator.cpp" line="495"/>
         <source>RADIUS</source>
         <translation>반지름</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="395"/>
+        <location filename="../../src/translation/Translator.cpp" line="497"/>
         <source>X_POSITION</source>
         <translation>X</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="396"/>
+        <location filename="../../src/translation/Translator.cpp" line="498"/>
         <source>Y_POSITION</source>
         <translation>Y</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="400"/>
+        <location filename="../../src/translation/Translator.cpp" line="502"/>
         <source>ADVANCED_SLEEP</source>
         <translation>자다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="401"/>
+        <location filename="../../src/translation/Translator.cpp" line="503"/>
         <source>SLEEP_LIGHT</source>
         <translation>수면 등</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="402"/>
+        <location filename="../../src/translation/Translator.cpp" line="504"/>
         <source>SLEEP_BRIGHTNESS</source>
         <translation>수면 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="403"/>
+        <location filename="../../src/translation/Translator.cpp" line="505"/>
         <source>BEDTIME</source>
         <translation>취침 시간 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="404"/>
+        <location filename="../../src/translation/Translator.cpp" line="506"/>
         <source>WAKE_TIME</source>
         <translation>깨우기 시간 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="406"/>
+        <location filename="../../src/translation/Translator.cpp" line="508"/>
         <source>ADVANCED_REST_SCREEN</source>
         <translation>휴식 화면</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="407"/>
+        <location filename="../../src/translation/Translator.cpp" line="509"/>
         <source>TYPE</source>
         <translation>유형</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="408"/>
+        <location filename="../../src/translation/Translator.cpp" line="510"/>
         <source>LITE</source>
         <translation>라이트</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="409"/>
+        <location filename="../../src/translation/Translator.cpp" line="511"/>
         <source>SIMPLE</source>
         <translation>단순한</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="410"/>
+        <location filename="../../src/translation/Translator.cpp" line="512"/>
         <source>STANDARD</source>
         <translation>표준</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="412"/>
+        <location filename="../../src/translation/Translator.cpp" line="514"/>
         <source>ADVANCED_MANAGE_MONITORS</source>
         <translation>모니터 관리</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="413"/>
+        <location filename="../../src/translation/Translator.cpp" line="515"/>
         <source>MONITOR_1</source>
         <translation>모니터 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="414"/>
+        <location filename="../../src/translation/Translator.cpp" line="516"/>
         <source>MONITOR_2</source>
         <translation>모니터 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="415"/>
+        <location filename="../../src/translation/Translator.cpp" line="517"/>
         <source>MONITOR_3</source>
         <translation>모니터 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="416"/>
+        <location filename="../../src/translation/Translator.cpp" line="518"/>
         <source>MONITOR_4</source>
         <translation>모니터 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="418"/>
+        <location filename="../../src/translation/Translator.cpp" line="520"/>
         <source>ADVANCED_SCREEN_EFFECTS</source>
         <translation>스크린 효과</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="419"/>
+        <location filename="../../src/translation/Translator.cpp" line="521"/>
         <source>SCREEN_EFFECT</source>
         <oldsource>COLOR_EFFECT</oldsource>
         <translation>화면 효과</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="420"/>
+        <location filename="../../src/translation/Translator.cpp" line="522"/>
         <source>SIMPLE_INVERSION</source>
         <translation>단순 반전</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="421"/>
+        <location filename="../../src/translation/Translator.cpp" line="523"/>
         <source>GRAYSCALE_1</source>
         <translation>그레이 스케일 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="422"/>
+        <location filename="../../src/translation/Translator.cpp" line="524"/>
         <source>GRAYSCALE_2</source>
         <translation>그레이 스케일 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="423"/>
+        <location filename="../../src/translation/Translator.cpp" line="525"/>
         <source>GRAYSCALE_3</source>
         <translation>그레이 스케일 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="424"/>
+        <location filename="../../src/translation/Translator.cpp" line="526"/>
         <source>NEGATIVE_GRAYSCALE</source>
         <translation>네거티브 그레이 스케일</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="425"/>
+        <location filename="../../src/translation/Translator.cpp" line="527"/>
         <source>WASHOUT_1</source>
         <translation>씻기 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="426"/>
+        <location filename="../../src/translation/Translator.cpp" line="528"/>
         <source>WASHOUT_2</source>
         <translation>씻기 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="427"/>
+        <location filename="../../src/translation/Translator.cpp" line="529"/>
         <source>WASHOUT_3</source>
         <translation>씻기 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="428"/>
+        <location filename="../../src/translation/Translator.cpp" line="530"/>
         <source>SMART_INVERSION_1</source>
         <translation>스마트 반전 1</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="429"/>
+        <location filename="../../src/translation/Translator.cpp" line="531"/>
         <source>SMART_INVERSION_2</source>
         <translation>스마트 반전 2</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="430"/>
+        <location filename="../../src/translation/Translator.cpp" line="532"/>
         <source>SMART_INVERSION_3</source>
         <translation>스마트 반전 3</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="431"/>
+        <location filename="../../src/translation/Translator.cpp" line="533"/>
         <source>SMART_INVERSION_4</source>
         <translation>스마트 반전 4</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="432"/>
+        <location filename="../../src/translation/Translator.cpp" line="534"/>
         <source>SMART_INVERSION_5</source>
         <translation>스마트 반전 5</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="433"/>
+        <location filename="../../src/translation/Translator.cpp" line="535"/>
         <source>SEPIA</source>
         <translation>세피아</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="434"/>
+        <location filename="../../src/translation/Translator.cpp" line="536"/>
         <source>NEGATIVE_SEPIA</source>
         <translation>부정적인 세피아</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="435"/>
+        <location filename="../../src/translation/Translator.cpp" line="537"/>
         <source>GRAYSCALE_RED</source>
         <translation>그레이 스케일 레드</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="436"/>
+        <location filename="../../src/translation/Translator.cpp" line="538"/>
         <source>NEGATIVE_GRAYSCALE_RED</source>
         <translation>네거티브 그레이 스케일 레드</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="437"/>
+        <location filename="../../src/translation/Translator.cpp" line="539"/>
         <source>PROTANOPIA</source>
         <translation>프로 타노피아</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="438"/>
+        <location filename="../../src/translation/Translator.cpp" line="540"/>
         <source>PROTANOMALY</source>
         <translation>프로 타노피아</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="439"/>
+        <location filename="../../src/translation/Translator.cpp" line="541"/>
         <source>DEUTERANOPIA</source>
         <translation>신테라 피아</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="440"/>
+        <location filename="../../src/translation/Translator.cpp" line="542"/>
         <source>DEUTERANOMALY</source>
         <translation>신명기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="441"/>
+        <location filename="../../src/translation/Translator.cpp" line="543"/>
         <source>TRITANOPIA</source>
         <translation>트리 타 노피아</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="442"/>
+        <location filename="../../src/translation/Translator.cpp" line="544"/>
         <source>TRITANOMALY</source>
         <translation>트리 타 노피아</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="443"/>
+        <location filename="../../src/translation/Translator.cpp" line="545"/>
         <source>ACHROMATOPSIA</source>
         <translation>아크로뱃증</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="444"/>
+        <location filename="../../src/translation/Translator.cpp" line="546"/>
         <source>ACHROMATOMALY</source>
         <translation>아크로뱃 증</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="445"/>
+        <location filename="../../src/translation/Translator.cpp" line="547"/>
         <source>COLOR_EFFECTS</source>
         <translation>색상 효과</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="447"/>
+        <location filename="../../src/translation/Translator.cpp" line="549"/>
         <source>ADVANCED_FONTS</source>
         <translation>글꼴</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="448"/>
+        <location filename="../../src/translation/Translator.cpp" line="550"/>
         <source>FONTS_TYPE</source>
         <translation>글꼴 유형</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="449"/>
+        <location filename="../../src/translation/Translator.cpp" line="551"/>
         <source>SIMPLE_FONTS</source>
         <translation>간단한 글꼴</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="450"/>
+        <location filename="../../src/translation/Translator.cpp" line="552"/>
         <source>ANTI_ALIASING_FONTS</source>
         <translation>앤티 앨리어싱 글꼴</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="451"/>
+        <location filename="../../src/translation/Translator.cpp" line="553"/>
         <source>CLEAR_TYPE_FONTS</source>
         <translation>지우기 유형 글꼴</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="452"/>
+        <location filename="../../src/translation/Translator.cpp" line="554"/>
         <source>GDIPP</source>
         <translation>부드러운</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="453"/>
+        <location filename="../../src/translation/Translator.cpp" line="555"/>
         <source>FONT_SMOOTHING_LIGHT</source>
         <translation>글꼴 번쩍이는 빛</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="454"/>
+        <location filename="../../src/translation/Translator.cpp" line="556"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
         <translation>글꼴 매끄러운 매체</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="455"/>
+        <location filename="../../src/translation/Translator.cpp" line="557"/>
         <source>FONT_SMOOTHING_HIGH</source>
         <translation>글꼴 매끄럽게하기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="457"/>
+        <location filename="../../src/translation/Translator.cpp" line="559"/>
         <source>ADVANCED_MAGNIFICATION</source>
         <translation>확대</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="458"/>
+        <location filename="../../src/translation/Translator.cpp" line="560"/>
         <source>ZOOM_IN</source>
         <translation>확대</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="459"/>
+        <location filename="../../src/translation/Translator.cpp" line="561"/>
         <source>ZOOM_OUT</source>
         <translation>축소</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="461"/>
+        <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>ADVANCED_PWM_CONTROL</source>
         <translation>백라이트 제어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="463"/>
+        <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ADVANCED_TIMER</source>
         <translation>시간제 노동자</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="464"/>
+        <location filename="../../src/translation/Translator.cpp" line="566"/>
         <source>POSTPONE_DURATION</source>
         <translation>연기 기간</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="465"/>
+        <location filename="../../src/translation/Translator.cpp" line="567"/>
         <source>TIMER_TYPE</source>
         <translation>타이머 유형</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="466"/>
+        <location filename="../../src/translation/Translator.cpp" line="568"/>
         <source>BREAK_EVERY</source>
         <translation>매 휴식</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="467"/>
+        <location filename="../../src/translation/Translator.cpp" line="569"/>
         <source>HAVE_A_REST_NOW</source>
         <translation>지금 휴식을 취하십시오</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="468"/>
+        <location filename="../../src/translation/Translator.cpp" line="570"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
         <translation>자동 닫기 휴식 화면</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="469"/>
+        <location filename="../../src/translation/Translator.cpp" line="571"/>
         <source>USE_SOUNDS</source>
         <translation>소리 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="471"/>
+        <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>ADVANCED_SYSTEM</source>
         <translation>체계</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="472"/>
+        <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
         <translation>닫을 때 작업 표시 줄 아이콘 숨기기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="473"/>
+        <location filename="../../src/translation/Translator.cpp" line="575"/>
         <source>USE_MOUSE_INACTIVITY</source>
         <translation>작업 타이머를 일시 중지 할 때 마우스를 사용하지 않음</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="474"/>
+        <location filename="../../src/translation/Translator.cpp" line="576"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>엄격 모드에서 키보드 차단</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="475"/>
+        <location filename="../../src/translation/Translator.cpp" line="577"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>소프트웨어 마우스 커서 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="477"/>
+        <location filename="../../src/translation/Translator.cpp" line="579"/>
         <source>ADVANCED_IRIS</source>
         <translation>아이리스</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="478"/>
+        <location filename="../../src/translation/Translator.cpp" line="580"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>자동 저장 설정 변경</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="479"/>
+        <location filename="../../src/translation/Translator.cpp" line="581"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>키보드 단축키 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="480"/>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>아이리스 UI 닫기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="481"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>낮은 수준의 색상 코드 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="482"/>
+        <location filename="../../src/translation/Translator.cpp" line="584"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>시작시 아이리스 시작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="484"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>RESET_COLORS</source>
         <translation>색상 재설정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="491"/>
+        <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>마우스 멈춤 장치</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="492"/>
+        <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FULLSCREEN_APPS</source>
         <translation>전체 화면 앱</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="509"/>
+        <location filename="../../src/translation/Translator.cpp" line="611"/>
         <source>DAY_OPACITY</source>
         <translation>일 불투명도</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="510"/>
+        <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>NIGHT_OPACITY</source>
         <translation>밤의 불투명도</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="512"/>
+        <location filename="../../src/translation/Translator.cpp" line="614"/>
         <source>DAY_DIM</source>
         <translation>낮의 흐림</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="513"/>
+        <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>NIGHT_DIM</source>
         <translation>야간 흐림</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="522"/>
+        <location filename="../../src/translation/Translator.cpp" line="624"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>스마트 한 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="523"/>
+        <location filename="../../src/translation/Translator.cpp" line="625"/>
         <source>USE_SMART_INVERSION</source>
         <translation>스마트 반전</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="524"/>
+        <location filename="../../src/translation/Translator.cpp" line="626"/>
         <source>ENABLE_CAMERA</source>
         <translation>카메라 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="525"/>
+        <location filename="../../src/translation/Translator.cpp" line="627"/>
         <source>DISABLE_CAMERA</source>
         <translation>카메라 사용 안 함</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="559"/>
+        <location filename="../../src/translation/Translator.cpp" line="661"/>
         <source>CZECH</source>
         <translation>체코 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="560"/>
+        <location filename="../../src/translation/Translator.cpp" line="662"/>
         <source>UKRAINIAN</source>
         <translation>우크라이나 말</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="562"/>
+        <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>숨겨진 기능</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="563"/>
+        <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>당신의 주문 입력 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="564"/>
+        <location filename="../../src/translation/Translator.cpp" line="666"/>
         <source>ACTIVATE</source>
         <translation>활성화</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="573"/>
+        <location filename="../../src/translation/Translator.cpp" line="675"/>
         <source>SKIP_REST</source>
         <translation>스킵 레스트</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="574"/>
+        <location filename="../../src/translation/Translator.cpp" line="676"/>
         <source>NORMAL</source>
         <translation>표준</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="575"/>
+        <location filename="../../src/translation/Translator.cpp" line="677"/>
         <source>STRICT</source>
         <translation>엄격한</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="576"/>
+        <location filename="../../src/translation/Translator.cpp" line="678"/>
         <source>CONTINUE</source>
         <translation>잇다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="577"/>
+        <location filename="../../src/translation/Translator.cpp" line="679"/>
         <source>REST_MODE</source>
         <translation>휴식 모드</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="578"/>
+        <location filename="../../src/translation/Translator.cpp" line="680"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>당신은 이제 휴식 모드에 있습니다. 설정 패널에서 타이머를 편집하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="579"/>
+        <location filename="../../src/translation/Translator.cpp" line="681"/>
         <source>TIME_IS</source>
         <translation>시간은</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="582"/>
+        <location filename="../../src/translation/Translator.cpp" line="684"/>
         <source>START_WORKING</source>
         <translation>일을 시작하다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="583"/>
+        <location filename="../../src/translation/Translator.cpp" line="685"/>
         <source>HAVE_A_BREAK</source>
         <translation>휴식을 가지다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="586"/>
+        <location filename="../../src/translation/Translator.cpp" line="688"/>
         <source>ADD</source>
         <translation>더하다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="587"/>
+        <location filename="../../src/translation/Translator.cpp" line="689"/>
         <source>REMOVE</source>
         <translation>풀다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="483"/>
+        <location filename="../../src/translation/Translator.cpp" line="585"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>설정을 기본값으로 재설정하십시오</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="486"/>
+        <location filename="../../src/translation/Translator.cpp" line="588"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>하드웨어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="487"/>
+        <location filename="../../src/translation/Translator.cpp" line="589"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>소리</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="489"/>
+        <location filename="../../src/translation/Translator.cpp" line="591"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>색상 일시 중지 기능</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="490"/>
+        <location filename="../../src/translation/Translator.cpp" line="592"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>타이머 일시 정지</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="494"/>
+        <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>화면 오버레이</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="495"/>
+        <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>OVERLAY_COLOR</source>
         <translation>오버레이 색상</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="369"/>
-        <location filename="../../src/translation/Translator.cpp" line="496"/>
+        <location filename="../../src/translation/Translator.cpp" line="471"/>
+        <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>GREEN</source>
         <translation>녹색</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="497"/>
+        <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>TURQUOISE</source>
         <translation>터키 옥</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="370"/>
-        <location filename="../../src/translation/Translator.cpp" line="498"/>
+        <location filename="../../src/translation/Translator.cpp" line="472"/>
+        <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>BLUE</source>
         <translation>푸른</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="499"/>
+        <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>INDIGO</source>
         <translation>남빛</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="500"/>
+        <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>VIOLET</source>
         <translation>제비꽃</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="501"/>
+        <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>PURPLE</source>
         <translation>자</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="502"/>
+        <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>MAGENTA</source>
         <translation>마젠타</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="503"/>
+        <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>SCARLET</source>
         <translation>주홍</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="368"/>
-        <location filename="../../src/translation/Translator.cpp" line="504"/>
+        <location filename="../../src/translation/Translator.cpp" line="470"/>
+        <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>RED</source>
         <translation>빨간</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="505"/>
+        <location filename="../../src/translation/Translator.cpp" line="607"/>
         <source>ORANGE</source>
         <translation>주황색</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="506"/>
+        <location filename="../../src/translation/Translator.cpp" line="608"/>
         <source>YELLOW</source>
         <translation>노랑</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="507"/>
+        <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>LEMON</source>
         <translation>레몬</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="394"/>
-        <location filename="../../src/translation/Translator.cpp" line="508"/>
+        <location filename="../../src/translation/Translator.cpp" line="496"/>
+        <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>OPACITY</source>
         <translation>불투명</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="511"/>
+        <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>SCREEN_DIM</source>
         <translation>스크린 희미한</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="397"/>
-        <location filename="../../src/translation/Translator.cpp" line="514"/>
+        <location filename="../../src/translation/Translator.cpp" line="499"/>
+        <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>DISABLE</source>
         <translation>사용 안함</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="515"/>
+        <location filename="../../src/translation/Translator.cpp" line="617"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>화면 영역 선택</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="516"/>
+        <location filename="../../src/translation/Translator.cpp" line="618"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>선택한 영역 재설정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="398"/>
-        <location filename="../../src/translation/Translator.cpp" line="517"/>
+        <location filename="../../src/translation/Translator.cpp" line="500"/>
+        <location filename="../../src/translation/Translator.cpp" line="619"/>
         <source>ENABLE</source>
         <translation>사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="519"/>
+        <location filename="../../src/translation/Translator.cpp" line="621"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>인공 지능</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="520"/>
+        <location filename="../../src/translation/Translator.cpp" line="622"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>자동 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="521"/>
+        <location filename="../../src/translation/Translator.cpp" line="623"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>눈 깜박임 감지</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="526"/>
+        <location filename="../../src/translation/Translator.cpp" line="628"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>깜박임 화면 표시</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="527"/>
+        <location filename="../../src/translation/Translator.cpp" line="629"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>깜박임 화면 숨기기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="529"/>
+        <location filename="../../src/translation/Translator.cpp" line="631"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>수업 과정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="530"/>
+        <location filename="../../src/translation/Translator.cpp" line="632"/>
         <source>START_EYE_EXERCISES</source>
         <translation>눈 운동 시작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="531"/>
+        <location filename="../../src/translation/Translator.cpp" line="633"/>
         <source>START_NECK_EXERCISES</source>
         <translation>목 운동 시작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="532"/>
+        <location filename="../../src/translation/Translator.cpp" line="634"/>
         <source>START_BACK_EXERCISES</source>
         <translation>다시 시작 연습</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="534"/>
+        <location filename="../../src/translation/Translator.cpp" line="636"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>홍채 모형</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="535"/>
+        <location filename="../../src/translation/Translator.cpp" line="637"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>아이리스로 전환</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="536"/>
+        <location filename="../../src/translation/Translator.cpp" line="638"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>아이리스 라이트로 전환</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="538"/>
+        <location filename="../../src/translation/Translator.cpp" line="640"/>
         <source>ADVANCED_LICENSE</source>
         <translation>특허</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="539"/>
+        <location filename="../../src/translation/Translator.cpp" line="641"/>
         <source>GET_IRIS_PRO</source>
         <translation>아이리스 프로 구하기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="542"/>
+        <location filename="../../src/translation/Translator.cpp" line="644"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="543"/>
+        <location filename="../../src/translation/Translator.cpp" line="645"/>
         <source>LANGUAGE</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="544"/>
+        <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>ENGLISH</source>
         <translation>영어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="545"/>
+        <location filename="../../src/translation/Translator.cpp" line="647"/>
         <source>RUSSIAN</source>
         <translation>러시아인</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="546"/>
+        <location filename="../../src/translation/Translator.cpp" line="648"/>
         <source>SPANISH</source>
         <translation>스페인 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="547"/>
+        <location filename="../../src/translation/Translator.cpp" line="649"/>
         <source>CHINESE</source>
         <translation>중국말</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="548"/>
+        <location filename="../../src/translation/Translator.cpp" line="650"/>
         <source>INDIAN</source>
         <translation>옥수수</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="549"/>
+        <location filename="../../src/translation/Translator.cpp" line="651"/>
         <source>JAPANESE</source>
         <translation>일본어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="550"/>
+        <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ARABIC</source>
         <translation>아라비아 말</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="551"/>
+        <location filename="../../src/translation/Translator.cpp" line="653"/>
         <source>TURKISH</source>
         <translation>터키어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="552"/>
+        <location filename="../../src/translation/Translator.cpp" line="654"/>
         <source>PORTUGUESE</source>
         <translation>포르투갈 인</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="553"/>
+        <location filename="../../src/translation/Translator.cpp" line="655"/>
         <source>FRENCH</source>
         <translation>프랑스 국민</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="554"/>
+        <location filename="../../src/translation/Translator.cpp" line="656"/>
         <source>GERMAN</source>
         <translation>독일 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="555"/>
+        <location filename="../../src/translation/Translator.cpp" line="657"/>
         <source>KOREAN</source>
         <translation>한국어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="556"/>
+        <location filename="../../src/translation/Translator.cpp" line="658"/>
         <source>ITALIAN</source>
         <translation>이탈리아 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="557"/>
+        <location filename="../../src/translation/Translator.cpp" line="659"/>
         <source>BULGARIAN</source>
         <translation>불가리아어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="558"/>
+        <location filename="../../src/translation/Translator.cpp" line="660"/>
         <source>GREEK</source>
         <translation>그리스 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="566"/>
+        <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>ADVANCED_ABOUT</source>
         <translation>약</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="567"/>
+        <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>NAME</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="568"/>
+        <location filename="../../src/translation/Translator.cpp" line="670"/>
         <source>VERSION</source>
         <translation>번역</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="569"/>
+        <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>PUBLISHER</source>
         <translation>발행자</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="570"/>
+        <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>WEBSITE</source>
         <translation>웹 사이트</translation>
     </message>
