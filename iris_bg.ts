@@ -299,7 +299,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="583"/>
         <source>Reset settings</source>
-        <translation>Ресет на настройките</translation>
+        <translation>Изчистване на настройките</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="584"/>
@@ -1917,7 +1917,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="249"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
-        <translation>Ресет на настройките</translation>
+        <translation>Изчистване на настройките</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="252"/>
