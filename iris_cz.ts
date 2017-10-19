@@ -54,6 +54,7 @@
         <location filename="../batman/ClockPosition.cpp" line="280"/>
         <location filename="../batman/ClockPosition.cpp" line="419"/>
         <location filename="../batman/ClockPosition.cpp" line="434"/>
+        <location filename="../batman/ClockPosition.cpp" line="438"/>
         <source>sec</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1129,6 +1130,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="508"/>
         <location filename="../batman/SolarPosition.cpp" line="647"/>
         <location filename="../batman/SolarPosition.cpp" line="700"/>
+        <location filename="../batman/SolarPosition.cpp" line="704"/>
         <source>sec</source>
         <translation type="unfinished"></translation>
     </message>
