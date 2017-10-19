@@ -32,6 +32,33 @@
     </message>
 </context>
 <context>
+    <name>ClockPosition</name>
+    <message>
+        <location filename="../batman/ClockPosition.cpp" line="193"/>
+        <location filename="../batman/ClockPosition.cpp" line="278"/>
+        <location filename="../batman/ClockPosition.cpp" line="417"/>
+        <location filename="../batman/ClockPosition.cpp" line="432"/>
+        <source>hour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../batman/ClockPosition.cpp" line="194"/>
+        <location filename="../batman/ClockPosition.cpp" line="279"/>
+        <location filename="../batman/ClockPosition.cpp" line="418"/>
+        <location filename="../batman/ClockPosition.cpp" line="433"/>
+        <source>min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../batman/ClockPosition.cpp" line="195"/>
+        <location filename="../batman/ClockPosition.cpp" line="280"/>
+        <location filename="../batman/ClockPosition.cpp" line="419"/>
+        <location filename="../batman/ClockPosition.cpp" line="434"/>
+        <source>sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Cyclops</name>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="158"/>
@@ -1026,9 +1053,88 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation>छोड़ें</translation>
     </message>
     <message>
+        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
+        <source>Rest screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
         <source>Continue</source>
         <translation>जारी रहना</translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="134"/>
+        <source>Remaining</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>RestTimer</name>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
+        <source>hour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
+        <source>min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="374"/>
+        <source>sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
+        <source>reminds you that a big rest will occur in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
+        <source>minutes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="431"/>
+        <source>reminds you that a big rest will occur in 30 seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SolarPosition</name>
+    <message>
+        <location filename="../batman/SolarPosition.cpp" line="405"/>
+        <location filename="../batman/SolarPosition.cpp" line="506"/>
+        <location filename="../batman/SolarPosition.cpp" line="645"/>
+        <location filename="../batman/SolarPosition.cpp" line="698"/>
+        <location filename="../batman/SolarPosition.cpp" line="716"/>
+        <source>hour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../batman/SolarPosition.cpp" line="406"/>
+        <location filename="../batman/SolarPosition.cpp" line="507"/>
+        <location filename="../batman/SolarPosition.cpp" line="646"/>
+        <location filename="../batman/SolarPosition.cpp" line="699"/>
+        <source>min</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../batman/SolarPosition.cpp" line="407"/>
+        <location filename="../batman/SolarPosition.cpp" line="508"/>
+        <location filename="../batman/SolarPosition.cpp" line="647"/>
+        <location filename="../batman/SolarPosition.cpp" line="700"/>
+        <source>sec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../batman/SolarPosition.cpp" line="720"/>
+        <source>hours</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2238,122 +2344,122 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="68"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="605"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="69"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="625"/>
         <source>Settings</source>
         <translation>सेटिंग्स</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="77"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="609"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="78"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="629"/>
         <source>&amp;Automatic</source>
         <translation>स्वचालित</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="81"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="610"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="82"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="630"/>
         <source>&amp;Manual</source>
         <translation>मैनुअल</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="85"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="611"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="86"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="631"/>
         <source>&amp;Paused</source>
         <translation>रोके गए</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="89"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="607"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="90"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="627"/>
         <source>&amp;Change mode</source>
         <translation>मोड बदलें</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="105"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="613"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="106"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="633"/>
         <source>&amp;Health</source>
         <translation>स्वास्थ्य</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="109"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="614"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="110"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="634"/>
         <source>&amp;Sleep</source>
         <translation>सो जाओ</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="113"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="615"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="114"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="635"/>
         <source>&amp;Reading</source>
         <translation>पढ़ना</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="117"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="616"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="118"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="636"/>
         <source>&amp;Programming</source>
         <translation>प्रोग्रामिंग</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="121"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="617"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="122"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="637"/>
         <source>&amp;Biohacker</source>
         <translation>बायोहाकर</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="125"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="618"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="126"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="638"/>
         <source>&amp;Sunglasses</source>
         <translation>धूप का चश्मा</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="129"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="619"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="130"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="639"/>
         <source>&amp;Dark</source>
         <translation>अंधेरा</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="133"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="620"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="134"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="640"/>
         <source>&amp;Movie</source>
         <translation>चलचित्र</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="137"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="621"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="138"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="641"/>
         <source>&amp;Overlay</source>
         <translation>ओवरले</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="197"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="628"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="198"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="648"/>
         <source>Exit</source>
         <translation>बाहर जाएं</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="199"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="630"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="200"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="650"/>
         <source>Quit</source>
         <translation>छोड़ना</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="245"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="608"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="254"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="628"/>
         <source>Mode</source>
         <translation>मोड</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="254"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="623"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="263"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="643"/>
         <source>Color pausers</source>
         <translation>रंग विराम</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="255"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="624"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="264"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="644"/>
         <source>Timer pausers</source>
         <translation>टाइमर विराम</translation>
     </message>
     <message>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="256"/>
-        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="625"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="265"/>
+        <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="645"/>
         <source>Mouse pausers</source>
         <translation>माउस विराम दें</translation>
     </message>
