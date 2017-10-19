@@ -1229,7 +1229,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="415"/>
-        <location filename="../../src/translation/Translator.cpp" line="642"/>
+        <location filename="../../src/translation/Translator.cpp" line="643"/>
         <source>ACTIVATE_CODE</source>
         <translation>Activar código</translation>
     </message>
@@ -1826,518 +1826,523 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="569"/>
+        <source>FOR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="570"/>
         <source>HAVE_A_REST_NOW</source>
         <translation>Descansa ahora</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="570"/>
+        <location filename="../../src/translation/Translator.cpp" line="571"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
         <translation>Cerrar pantalla resto de auto</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="571"/>
+        <location filename="../../src/translation/Translator.cpp" line="572"/>
         <source>USE_SOUNDS</source>
         <translation>Utilizar sonidos</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="573"/>
+        <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>ADVANCED_SYSTEM</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="574"/>
+        <location filename="../../src/translation/Translator.cpp" line="575"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
         <translation>Ocultar icono de la barra de tareas al cerrar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="575"/>
+        <location filename="../../src/translation/Translator.cpp" line="576"/>
         <source>USE_MOUSE_INACTIVITY</source>
         <translation>Utilice la inactividad del ratón para detener el temporizador de trabajo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="576"/>
+        <location filename="../../src/translation/Translator.cpp" line="577"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>Bloquear el teclado en modo estricto</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="577"/>
+        <location filename="../../src/translation/Translator.cpp" line="578"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>Utilice el cursor del ratón del software</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="579"/>
+        <location filename="../../src/translation/Translator.cpp" line="580"/>
         <source>ADVANCED_IRIS</source>
         <translation>Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="580"/>
+        <location filename="../../src/translation/Translator.cpp" line="581"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>Autosave cambios de configuración</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="581"/>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>Usar atajos de teclado</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="582"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>Destruir Iris UI en cerrar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="583"/>
+        <location filename="../../src/translation/Translator.cpp" line="584"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>Utilizar API de color de bajo nivel</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="584"/>
+        <location filename="../../src/translation/Translator.cpp" line="585"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>Inicie Iris en el inicio</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="586"/>
+        <location filename="../../src/translation/Translator.cpp" line="587"/>
         <source>RESET_COLORS</source>
         <translation>Restaurar colores</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="593"/>
+        <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>Pausas de ratón</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="594"/>
+        <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>FULLSCREEN_APPS</source>
         <translation>Aplicaciones de pantalla completa</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="611"/>
+        <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>DAY_OPACITY</source>
         <translation>Opacidad diaria</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="612"/>
+        <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>NIGHT_OPACITY</source>
         <translation>Opacidad nocturna</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="614"/>
+        <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>DAY_DIM</source>
         <translation>Día Dim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="615"/>
+        <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>NIGHT_DIM</source>
         <translation>Noche oscura</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="624"/>
+        <location filename="../../src/translation/Translator.cpp" line="625"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>Brillo inteligente</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="625"/>
+        <location filename="../../src/translation/Translator.cpp" line="626"/>
         <source>USE_SMART_INVERSION</source>
         <translation>Inversión inteligente</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="626"/>
+        <location filename="../../src/translation/Translator.cpp" line="627"/>
         <source>ENABLE_CAMERA</source>
         <translation>Habilitar cámara</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="627"/>
+        <location filename="../../src/translation/Translator.cpp" line="628"/>
         <source>DISABLE_CAMERA</source>
         <translation>Desactivar la cámara</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="661"/>
+        <location filename="../../src/translation/Translator.cpp" line="662"/>
         <source>CZECH</source>
         <translation>Checo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="662"/>
+        <location filename="../../src/translation/Translator.cpp" line="663"/>
         <source>UKRAINIAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="664"/>
+        <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Funciones ocultas</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="665"/>
+        <location filename="../../src/translation/Translator.cpp" line="666"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Escribe tu hechizo:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="666"/>
+        <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ACTIVATE</source>
         <translation>Activar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="675"/>
+        <location filename="../../src/translation/Translator.cpp" line="676"/>
         <source>SKIP_REST</source>
         <translation>Skip Rest</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="676"/>
+        <location filename="../../src/translation/Translator.cpp" line="677"/>
         <source>NORMAL</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="677"/>
+        <location filename="../../src/translation/Translator.cpp" line="678"/>
         <source>STRICT</source>
         <translation>Estricto</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="678"/>
+        <location filename="../../src/translation/Translator.cpp" line="679"/>
         <source>CONTINUE</source>
         <translation>Continuar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="679"/>
+        <location filename="../../src/translation/Translator.cpp" line="680"/>
         <source>REST_MODE</source>
         <translation>Modo descanso</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="680"/>
+        <location filename="../../src/translation/Translator.cpp" line="681"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Ahora estás en modo de reposo. Edite el temporizador en el panel de configuración.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="681"/>
+        <location filename="../../src/translation/Translator.cpp" line="682"/>
         <source>TIME_IS</source>
         <translation>La hora es</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="684"/>
+        <location filename="../../src/translation/Translator.cpp" line="685"/>
         <source>START_WORKING</source>
         <translation>Empezar a trabajar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="685"/>
+        <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>HAVE_A_BREAK</source>
         <translation>Tener un descanso</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="688"/>
+        <location filename="../../src/translation/Translator.cpp" line="689"/>
         <source>ADD</source>
         <translation>Añadir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="689"/>
+        <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>REMOVE</source>
         <translation>Retirar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="585"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>Reiniciar ajustes</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="588"/>
+        <location filename="../../src/translation/Translator.cpp" line="589"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>Hardware</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="589"/>
+        <location filename="../../src/translation/Translator.cpp" line="590"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>Sonidos</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="591"/>
+        <location filename="../../src/translation/Translator.cpp" line="592"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>Pausores de color</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="592"/>
+        <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>Pausers temporizador</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="596"/>
+        <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>Superposición de pantalla</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="597"/>
+        <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>OVERLAY_COLOR</source>
         <translation>Color de superposición</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="471"/>
-        <location filename="../../src/translation/Translator.cpp" line="598"/>
+        <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>GREEN</source>
         <translation>Verde</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="599"/>
+        <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>TURQUOISE</source>
         <translation>Turquesa</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="472"/>
-        <location filename="../../src/translation/Translator.cpp" line="600"/>
+        <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>BLUE</source>
         <translation>Azul</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="601"/>
+        <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>INDIGO</source>
         <translation>Índigo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="602"/>
+        <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>VIOLET</source>
         <translation>Violeta</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="603"/>
+        <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>PURPLE</source>
         <translation>Púrpura</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="604"/>
+        <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>MAGENTA</source>
         <translation>Magenta</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="605"/>
+        <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>SCARLET</source>
         <translation>Escarlata</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="470"/>
-        <location filename="../../src/translation/Translator.cpp" line="606"/>
+        <location filename="../../src/translation/Translator.cpp" line="607"/>
         <source>RED</source>
         <translation>Rojo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="607"/>
+        <location filename="../../src/translation/Translator.cpp" line="608"/>
         <source>ORANGE</source>
         <translation>Naranja</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="608"/>
+        <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>YELLOW</source>
         <translation>Amarillo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="609"/>
+        <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>LEMON</source>
         <translation>Limón</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="496"/>
-        <location filename="../../src/translation/Translator.cpp" line="610"/>
+        <location filename="../../src/translation/Translator.cpp" line="611"/>
         <source>OPACITY</source>
         <translation>Opacidad</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="613"/>
+        <location filename="../../src/translation/Translator.cpp" line="614"/>
         <source>SCREEN_DIM</source>
         <translation>Pantalla oscura</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
-        <location filename="../../src/translation/Translator.cpp" line="616"/>
+        <location filename="../../src/translation/Translator.cpp" line="617"/>
         <source>DISABLE</source>
         <translation>Inhabilitar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="617"/>
+        <location filename="../../src/translation/Translator.cpp" line="618"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>Seleccione Área de pantalla</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="618"/>
+        <location filename="../../src/translation/Translator.cpp" line="619"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>Restablecer el área seleccionada</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
-        <location filename="../../src/translation/Translator.cpp" line="619"/>
+        <location filename="../../src/translation/Translator.cpp" line="620"/>
         <source>ENABLE</source>
         <translation>Habilitar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="621"/>
+        <location filename="../../src/translation/Translator.cpp" line="622"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>Inteligencia Artificial (AI)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="622"/>
+        <location filename="../../src/translation/Translator.cpp" line="623"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>Brillo automático</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="623"/>
+        <location filename="../../src/translation/Translator.cpp" line="624"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>Detección de parpadeo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="628"/>
+        <location filename="../../src/translation/Translator.cpp" line="629"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>Mostrar pantalla intermitente</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="629"/>
+        <location filename="../../src/translation/Translator.cpp" line="630"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>Ocultar pantalla parpadeante</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="631"/>
+        <location filename="../../src/translation/Translator.cpp" line="632"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>Ceremonias</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="632"/>
+        <location filename="../../src/translation/Translator.cpp" line="633"/>
         <source>START_EYE_EXERCISES</source>
         <translation>Iniciar ejercicios oculares</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="633"/>
+        <location filename="../../src/translation/Translator.cpp" line="634"/>
         <source>START_NECK_EXERCISES</source>
         <translation>Comienza los ejercicios del cuello</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="634"/>
+        <location filename="../../src/translation/Translator.cpp" line="635"/>
         <source>START_BACK_EXERCISES</source>
         <translation>Ejercicios de inicio</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="636"/>
+        <location filename="../../src/translation/Translator.cpp" line="637"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>Modelo Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="637"/>
+        <location filename="../../src/translation/Translator.cpp" line="638"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>Cambiar a Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="638"/>
+        <location filename="../../src/translation/Translator.cpp" line="639"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>Cambiar a Iris lite</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="640"/>
+        <location filename="../../src/translation/Translator.cpp" line="641"/>
         <source>ADVANCED_LICENSE</source>
         <translation>Licencia</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="641"/>
+        <location filename="../../src/translation/Translator.cpp" line="642"/>
         <source>GET_IRIS_PRO</source>
         <translation>Obtener Iris Pro</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="644"/>
+        <location filename="../../src/translation/Translator.cpp" line="645"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>Idioma</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="645"/>
+        <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>LANGUAGE</source>
         <translation>Idioma</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="646"/>
+        <location filename="../../src/translation/Translator.cpp" line="647"/>
         <source>ENGLISH</source>
         <translation>Inglés</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="647"/>
+        <location filename="../../src/translation/Translator.cpp" line="648"/>
         <source>RUSSIAN</source>
         <translation>Ruso</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="648"/>
+        <location filename="../../src/translation/Translator.cpp" line="649"/>
         <source>SPANISH</source>
         <translation>Español</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="649"/>
+        <location filename="../../src/translation/Translator.cpp" line="650"/>
         <source>CHINESE</source>
         <translation>Chino</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="650"/>
+        <location filename="../../src/translation/Translator.cpp" line="651"/>
         <source>INDIAN</source>
         <translation>Indio</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="651"/>
+        <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>JAPANESE</source>
         <translation>Japonés</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="652"/>
+        <location filename="../../src/translation/Translator.cpp" line="653"/>
         <source>ARABIC</source>
         <translation>Arábica</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="653"/>
+        <location filename="../../src/translation/Translator.cpp" line="654"/>
         <source>TURKISH</source>
         <translation>Turco</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="654"/>
+        <location filename="../../src/translation/Translator.cpp" line="655"/>
         <source>PORTUGUESE</source>
         <translation>Portugués</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="655"/>
+        <location filename="../../src/translation/Translator.cpp" line="656"/>
         <source>FRENCH</source>
         <translation>Francés</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="656"/>
+        <location filename="../../src/translation/Translator.cpp" line="657"/>
         <source>GERMAN</source>
         <translation>Alemán</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="657"/>
+        <location filename="../../src/translation/Translator.cpp" line="658"/>
         <source>KOREAN</source>
         <translation>Coreano</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="658"/>
+        <location filename="../../src/translation/Translator.cpp" line="659"/>
         <source>ITALIAN</source>
         <translation>Italiano</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="659"/>
+        <location filename="../../src/translation/Translator.cpp" line="660"/>
         <source>BULGARIAN</source>
         <translation>Búlgaro</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="660"/>
+        <location filename="../../src/translation/Translator.cpp" line="661"/>
         <source>GREEK</source>
         <translation>Griego</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="668"/>
+        <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>ADVANCED_ABOUT</source>
         <translation>Acerca de</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="669"/>
+        <location filename="../../src/translation/Translator.cpp" line="670"/>
         <source>NAME</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="670"/>
+        <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>VERSION</source>
         <translation>Versión</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="671"/>
+        <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>PUBLISHER</source>
         <translation>Editor
 </translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="672"/>
+        <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>WEBSITE</source>
         <translation>Sitio web</translation>
     </message>

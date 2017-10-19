@@ -1233,7 +1233,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="415"/>
-        <location filename="../../src/translation/Translator.cpp" line="642"/>
+        <location filename="../../src/translation/Translator.cpp" line="643"/>
         <source>ACTIVATE_CODE</source>
         <translation>激活码</translation>
     </message>
@@ -1830,517 +1830,522 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="569"/>
+        <source>FOR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="570"/>
         <source>HAVE_A_REST_NOW</source>
         <translation>现在休息</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="570"/>
+        <location filename="../../src/translation/Translator.cpp" line="571"/>
         <source>AUTO_CLOSE_REST_SCREEN</source>
         <translation>自动关闭休息屏幕</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="571"/>
+        <location filename="../../src/translation/Translator.cpp" line="572"/>
         <source>USE_SOUNDS</source>
         <translation>开启声音</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="573"/>
+        <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>ADVANCED_SYSTEM</source>
         <translation>系统</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="574"/>
+        <location filename="../../src/translation/Translator.cpp" line="575"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
         <translation>最小化到系统托盘而不是任务栏</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="575"/>
+        <location filename="../../src/translation/Translator.cpp" line="576"/>
         <source>USE_MOUSE_INACTIVITY</source>
         <translation>使用鼠标静止来暂停工作定时器</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="576"/>
+        <location filename="../../src/translation/Translator.cpp" line="577"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>在严格模式下阻止键盘</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="577"/>
+        <location filename="../../src/translation/Translator.cpp" line="578"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>使用软件鼠标光标</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="579"/>
+        <location filename="../../src/translation/Translator.cpp" line="580"/>
         <source>ADVANCED_IRIS</source>
         <translation>高级IRIS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="580"/>
+        <location filename="../../src/translation/Translator.cpp" line="581"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>自动保存设置更改</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="581"/>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>使用键盘快捷键</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="582"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>关闭Iris UI</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="583"/>
+        <location filename="../../src/translation/Translator.cpp" line="584"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>使用低级的色彩API</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="584"/>
+        <location filename="../../src/translation/Translator.cpp" line="585"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>启动时启动IRIS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="586"/>
+        <location filename="../../src/translation/Translator.cpp" line="587"/>
         <source>RESET_COLORS</source>
         <translation>重置颜色</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="593"/>
+        <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>鼠标暂停</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="594"/>
+        <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>FULLSCREEN_APPS</source>
         <translation>全屏应用</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="611"/>
+        <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>DAY_OPACITY</source>
         <translation>白天不透明度</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="612"/>
+        <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>NIGHT_OPACITY</source>
         <translation>夜间不透明度</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="614"/>
+        <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>DAY_DIM</source>
         <translation>白天昏暗</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="615"/>
+        <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>NIGHT_DIM</source>
         <translation>夜间昏暗</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="624"/>
+        <location filename="../../src/translation/Translator.cpp" line="625"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>智能亮度</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="625"/>
+        <location filename="../../src/translation/Translator.cpp" line="626"/>
         <source>USE_SMART_INVERSION</source>
         <translation>智能反转</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="626"/>
+        <location filename="../../src/translation/Translator.cpp" line="627"/>
         <source>ENABLE_CAMERA</source>
         <translation>启用相机</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="627"/>
+        <location filename="../../src/translation/Translator.cpp" line="628"/>
         <source>DISABLE_CAMERA</source>
         <translation>禁用相机</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="661"/>
+        <location filename="../../src/translation/Translator.cpp" line="662"/>
         <source>CZECH</source>
         <translation>捷克语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="662"/>
+        <location filename="../../src/translation/Translator.cpp" line="663"/>
         <source>UKRAINIAN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="664"/>
+        <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>隐藏的功能</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="665"/>
+        <location filename="../../src/translation/Translator.cpp" line="666"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>请输入口令：</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="666"/>
+        <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ACTIVATE</source>
         <translation>启用</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="675"/>
+        <location filename="../../src/translation/Translator.cpp" line="676"/>
         <source>SKIP_REST</source>
         <translation>跳过休息</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="676"/>
+        <location filename="../../src/translation/Translator.cpp" line="677"/>
         <source>NORMAL</source>
         <translation>正常</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="677"/>
+        <location filename="../../src/translation/Translator.cpp" line="678"/>
         <source>STRICT</source>
         <translation>严格</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="678"/>
+        <location filename="../../src/translation/Translator.cpp" line="679"/>
         <source>CONTINUE</source>
         <translation>继续</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="679"/>
+        <location filename="../../src/translation/Translator.cpp" line="680"/>
         <source>REST_MODE</source>
         <translation>休息模式</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="680"/>
+        <location filename="../../src/translation/Translator.cpp" line="681"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>你现在处于休息模式。 在设置面板中编辑计时器。</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="681"/>
+        <location filename="../../src/translation/Translator.cpp" line="682"/>
         <source>TIME_IS</source>
         <translation>现在的时间是</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="684"/>
+        <location filename="../../src/translation/Translator.cpp" line="685"/>
         <source>START_WORKING</source>
         <translation>开始工作</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="685"/>
+        <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>HAVE_A_BREAK</source>
         <translation>休息一下</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="688"/>
+        <location filename="../../src/translation/Translator.cpp" line="689"/>
         <source>ADD</source>
         <translation>加</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="689"/>
+        <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>REMOVE</source>
         <translation>去掉</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="585"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>将设置重置为默认值</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="588"/>
+        <location filename="../../src/translation/Translator.cpp" line="589"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>硬件</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="589"/>
+        <location filename="../../src/translation/Translator.cpp" line="590"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>声音</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="591"/>
+        <location filename="../../src/translation/Translator.cpp" line="592"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>颜色暂停</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="592"/>
+        <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>定时器暂停</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="596"/>
+        <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>屏幕叠加</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="597"/>
+        <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>OVERLAY_COLOR</source>
         <translation>叠加颜色</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="471"/>
-        <location filename="../../src/translation/Translator.cpp" line="598"/>
+        <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>GREEN</source>
         <translation>绿色</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="599"/>
+        <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>TURQUOISE</source>
         <translation>青绿</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="472"/>
-        <location filename="../../src/translation/Translator.cpp" line="600"/>
+        <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>BLUE</source>
         <translation>蓝色</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="601"/>
+        <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>INDIGO</source>
         <translation>靛蓝</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="602"/>
+        <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>VIOLET</source>
         <translation>雪青</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="603"/>
+        <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>PURPLE</source>
         <translation>紫色</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="604"/>
+        <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>MAGENTA</source>
         <translation>品红</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="605"/>
+        <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>SCARLET</source>
         <translation>猩红</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="470"/>
-        <location filename="../../src/translation/Translator.cpp" line="606"/>
+        <location filename="../../src/translation/Translator.cpp" line="607"/>
         <source>RED</source>
         <translation>红色</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="607"/>
+        <location filename="../../src/translation/Translator.cpp" line="608"/>
         <source>ORANGE</source>
         <translation>橙色</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="608"/>
+        <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>YELLOW</source>
         <translation>黄色</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="609"/>
+        <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>LEMON</source>
         <translation>柠檬</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="496"/>
-        <location filename="../../src/translation/Translator.cpp" line="610"/>
+        <location filename="../../src/translation/Translator.cpp" line="611"/>
         <source>OPACITY</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="613"/>
+        <location filename="../../src/translation/Translator.cpp" line="614"/>
         <source>SCREEN_DIM</source>
         <translation>屏幕昏暗</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
-        <location filename="../../src/translation/Translator.cpp" line="616"/>
+        <location filename="../../src/translation/Translator.cpp" line="617"/>
         <source>DISABLE</source>
         <translation>禁用</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="617"/>
+        <location filename="../../src/translation/Translator.cpp" line="618"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>选择屏幕区域</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="618"/>
+        <location filename="../../src/translation/Translator.cpp" line="619"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>重置所选区域</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
-        <location filename="../../src/translation/Translator.cpp" line="619"/>
+        <location filename="../../src/translation/Translator.cpp" line="620"/>
         <source>ENABLE</source>
         <translation>启用</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="621"/>
+        <location filename="../../src/translation/Translator.cpp" line="622"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>人工智能（AI）</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="622"/>
+        <location filename="../../src/translation/Translator.cpp" line="623"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>自动调节亮度</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="623"/>
+        <location filename="../../src/translation/Translator.cpp" line="624"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>闪烁检测</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="628"/>
+        <location filename="../../src/translation/Translator.cpp" line="629"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>屏幕闪烁</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="629"/>
+        <location filename="../../src/translation/Translator.cpp" line="630"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>隐藏屏幕闪烁</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="631"/>
+        <location filename="../../src/translation/Translator.cpp" line="632"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>练习</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="632"/>
+        <location filename="../../src/translation/Translator.cpp" line="633"/>
         <source>START_EYE_EXERCISES</source>
         <translation>开始眼睛练习</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="633"/>
+        <location filename="../../src/translation/Translator.cpp" line="634"/>
         <source>START_NECK_EXERCISES</source>
         <translation>开始脖子练习</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="634"/>
+        <location filename="../../src/translation/Translator.cpp" line="635"/>
         <source>START_BACK_EXERCISES</source>
         <translation>开始锻炼</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="636"/>
+        <location filename="../../src/translation/Translator.cpp" line="637"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>高级IRIS模式</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="637"/>
+        <location filename="../../src/translation/Translator.cpp" line="638"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>切换到Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="638"/>
+        <location filename="../../src/translation/Translator.cpp" line="639"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>切换到Iris Lite</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="640"/>
+        <location filename="../../src/translation/Translator.cpp" line="641"/>
         <source>ADVANCED_LICENSE</source>
         <translation>许可证</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="641"/>
+        <location filename="../../src/translation/Translator.cpp" line="642"/>
         <source>GET_IRIS_PRO</source>
         <translation>获取Iris Pro</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="644"/>
+        <location filename="../../src/translation/Translator.cpp" line="645"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>高级语言</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="645"/>
+        <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>LANGUAGE</source>
         <translation>语言</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="646"/>
+        <location filename="../../src/translation/Translator.cpp" line="647"/>
         <source>ENGLISH</source>
         <translation>英语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="647"/>
+        <location filename="../../src/translation/Translator.cpp" line="648"/>
         <source>RUSSIAN</source>
         <translation>俄语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="648"/>
+        <location filename="../../src/translation/Translator.cpp" line="649"/>
         <source>SPANISH</source>
         <translation>西班牙语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="649"/>
+        <location filename="../../src/translation/Translator.cpp" line="650"/>
         <source>CHINESE</source>
         <translation>中文</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="650"/>
+        <location filename="../../src/translation/Translator.cpp" line="651"/>
         <source>INDIAN</source>
         <translation>印度语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="651"/>
+        <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>JAPANESE</source>
         <translation>日本</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="652"/>
+        <location filename="../../src/translation/Translator.cpp" line="653"/>
         <source>ARABIC</source>
         <translation>阿拉伯</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="653"/>
+        <location filename="../../src/translation/Translator.cpp" line="654"/>
         <source>TURKISH</source>
         <translation>土耳其</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="654"/>
+        <location filename="../../src/translation/Translator.cpp" line="655"/>
         <source>PORTUGUESE</source>
         <translation>葡萄牙语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="655"/>
+        <location filename="../../src/translation/Translator.cpp" line="656"/>
         <source>FRENCH</source>
         <translation>法语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="656"/>
+        <location filename="../../src/translation/Translator.cpp" line="657"/>
         <source>GERMAN</source>
         <translation>德语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="657"/>
+        <location filename="../../src/translation/Translator.cpp" line="658"/>
         <source>KOREAN</source>
         <translation>韩语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="658"/>
+        <location filename="../../src/translation/Translator.cpp" line="659"/>
         <source>ITALIAN</source>
         <translation>意大利语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="659"/>
+        <location filename="../../src/translation/Translator.cpp" line="660"/>
         <source>BULGARIAN</source>
         <translation>保加利亚语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="660"/>
+        <location filename="../../src/translation/Translator.cpp" line="661"/>
         <source>GREEK</source>
         <translation>希腊语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="668"/>
+        <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>ADVANCED_ABOUT</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="669"/>
+        <location filename="../../src/translation/Translator.cpp" line="670"/>
         <source>NAME</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="670"/>
+        <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>VERSION</source>
         <translation>版本</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="671"/>
+        <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>PUBLISHER</source>
         <translation>厂商</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="672"/>
+        <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>WEBSITE</source>
         <translation>网站</translation>
     </message>
