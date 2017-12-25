@@ -548,7 +548,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="132"/>
         <source>Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>Благодаря Ви, че подкрепихте Iris! :) Вижте новите настройки в Още настройки.</translation>
+        <translation>Благодаря Ви, че подкрепихте Iris! :)\nВижте новите настройки в Още настройки.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="145"/>
