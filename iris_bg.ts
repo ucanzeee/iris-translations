@@ -548,7 +548,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="132"/>
         <source>Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>Благодаря Ви, че подкрепихте Iris! :)\nВижте новите настройки в Още настройки.</translation>
+        <translation>Благодаря Ви, че подкрепихте Iris! :)
+Вижте новите настройки в Още настройки.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="145"/>
@@ -620,7 +621,8 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>Активация на колективен лиценз. Благодаря Ви, че подкрепяте Iris! :)\nВижте новите си настройки в Още настройки.</translation>
+        <translation>Активация на колективен лиценз. Благодаря Ви, че подкрепяте Iris! :)
+Вижте новите си настройки в Още настройки.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="224"/>
