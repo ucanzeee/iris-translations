@@ -39,7 +39,7 @@
         <location filename="../batman/ClockPosition.cpp" line="417"/>
         <location filename="../batman/ClockPosition.cpp" line="432"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="194"/>
@@ -47,7 +47,7 @@
         <location filename="../batman/ClockPosition.cpp" line="418"/>
         <location filename="../batman/ClockPosition.cpp" line="433"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="195"/>
@@ -56,7 +56,7 @@
         <location filename="../batman/ClockPosition.cpp" line="434"/>
         <location filename="../batman/ClockPosition.cpp" line="438"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -940,14 +940,14 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3545"/>
         <source>WARNING!!!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3546"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1060,7 +1060,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
         <source>Rest screen</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
@@ -1070,7 +1070,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="134"/>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1078,35 +1078,35 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="374"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
         <source>reminds you that a big rest will occur in</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="431"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1118,7 +1118,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="704"/>
         <location filename="../batman/SolarPosition.cpp" line="722"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="406"/>
@@ -1126,7 +1126,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="646"/>
         <location filename="../batman/SolarPosition.cpp" line="705"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="407"/>
@@ -1135,12 +1135,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="706"/>
         <location filename="../batman/SolarPosition.cpp" line="710"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="726"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1834,7 +1834,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="569"/>
         <source>FOR</source>
-        <translation type="unfinished"></translation>
+        <translation>for</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="570"/>
@@ -2044,12 +2044,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="692"/>
         <source>BUY</source>
-        <translation type="unfinished"></translation>
+        <translation>Buy</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="693"/>
         <source>BUY_NOW</source>
-        <translation type="unfinished"></translation>
+        <translation>Buy now</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="586"/>

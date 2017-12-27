@@ -2045,12 +2045,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="692"/>
         <source>BUY</source>
-        <translation type="unfinished"></translation>
+        <translation>Купи</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="693"/>
         <source>BUY_NOW</source>
-        <translation type="unfinished"></translation>
+        <translation>Купи сега</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="586"/>
