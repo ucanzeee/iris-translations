@@ -535,139 +535,139 @@ Note that Iris will work fine now, but with limited color changes.</source>
 <context>
     <name>License</name>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="128"/>
-        <location filename="../../src/licensing/License.cpp" line="208"/>
+        <location filename="../../src/licensing/License.cpp" line="130"/>
+        <location filename="../../src/licensing/License.cpp" line="210"/>
         <source>Your Iris is now Pro</source>
         <translation>Iris σας είναι τώρα Pro</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="130"/>
         <location filename="../../src/licensing/License.cpp" line="132"/>
+        <location filename="../../src/licensing/License.cpp" line="134"/>
         <source>Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
         <translation>Σας ευχαριστώ πολύ για την υποστήριξη Iris! :)
 Δείτε τις νέες επιλογές σας στην προηγμένη προβολή.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="145"/>
+        <location filename="../../src/licensing/License.cpp" line="147"/>
         <source>License Expired</source>
         <translation>Η άδεια λήγει</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="146"/>
+        <location filename="../../src/licensing/License.cpp" line="148"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
         <translation>Η άδειά σας Iris Pro έχει λήξει. Μπορείτε να αγοράσετε νέο κωδικό ενεργοποίησης από το</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="158"/>
+        <location filename="../../src/licensing/License.cpp" line="160"/>
         <source>Already used</source>
         <translation>ήδη χρησιμοποιείται</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="159"/>
+        <location filename="../../src/licensing/License.cpp" line="161"/>
         <source>You have already used this code on another machine</source>
         <translation>Έχετε ήδη χρησιμοποιήσει αυτόν τον κώδικα σε ένα άλλο μηχάνημα</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="168"/>
+        <location filename="../../src/licensing/License.cpp" line="170"/>
         <source>Other version</source>
         <translation>Άλλες έκδοση</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="169"/>
+        <location filename="../../src/licensing/License.cpp" line="171"/>
         <source>You have already used this code with other version of Iris. Download and use the old version again or buy new activation code.</source>
         <translation>Έχετε ήδη χρησιμοποιήσει αυτόν τον κωδικό με άλλη εκδοχή της Iris. Κατεβάσετε και να χρησιμοποιήσετε ξανά την παλιά έκδοση ή να αγοράσουν νέο κωδικό ενεργοποίησης.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="178"/>
+        <location filename="../../src/licensing/License.cpp" line="180"/>
         <source>No such code</source>
         <translation>Δεν υπάρχει τέτοιο κώδικα</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="179"/>
+        <location filename="../../src/licensing/License.cpp" line="181"/>
         <source>There is no such activation code</source>
         <translation>Δεν υπάρχει τέτοιο κωδικό ενεργοποίησης</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="188"/>
+        <location filename="../../src/licensing/License.cpp" line="190"/>
         <source>No giveaway</source>
         <translation>Δεν δίνουν μακριά</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="189"/>
+        <location filename="../../src/licensing/License.cpp" line="191"/>
         <source>There is no active giveaway right now</source>
         <translation>Δεν υπάρχει ενεργή giveaway τώρα</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="198"/>
+        <location filename="../../src/licensing/License.cpp" line="200"/>
         <source>This code is for Iris mini</source>
         <translation>Αυτός ο κωδικός είναι για Iris μίνι</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="199"/>
+        <location filename="../../src/licensing/License.cpp" line="201"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
         <translation>Αυτό είναι Ίρις και τον κωδικό ενεργοποίησης είναι για Iris μίνι. Κατεβάστε Iris μίνι από
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="210"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
+        <location filename="../../src/licensing/License.cpp" line="214"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
         <translation>ενεργοποίηση Team άδεια. Σας ευχαριστώ πολύ για την υποστήριξη Iris! :)
 Δείτε τις νέες επιλογές σας στην προηγμένη προβολή.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="224"/>
+        <location filename="../../src/licensing/License.cpp" line="226"/>
         <source>Team license code for Iris mini</source>
         <translation>Κωδικός άδειας ομάδας για Iris μίνι</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="225"/>
+        <location filename="../../src/licensing/License.cpp" line="227"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
         <translation>Αυτό είναι Ίρις και απομένει κωδικούς άδειας ομάδας είναι για Iris μίνι. Κατεβάστε Iris μίνι από
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="234"/>
+        <location filename="../../src/licensing/License.cpp" line="236"/>
         <source>No more Team activations</source>
         <translation>Δεν περισσότερες ενεργοποιήσεις Team</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="235"/>
+        <location filename="../../src/licensing/License.cpp" line="237"/>
         <source>You have used all your Team license activations.</source>
         <translation>Έχετε χρησιμοποιήσει όλες τις ενεργοποιήσεις άδειας ομάδας σας.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="244"/>
+        <location filename="../../src/licensing/License.cpp" line="246"/>
         <source>No such Team license</source>
         <translation>Δεν υπάρχει τέτοια άδεια Team</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="245"/>
+        <location filename="../../src/licensing/License.cpp" line="247"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
         <translation>Δεν υπάρχει καμία τέτοια άδεια της ομάδας για Iris ή Iris μίνι.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="254"/>
+        <location filename="../../src/licensing/License.cpp" line="256"/>
         <source>Iris offline activation</source>
         <translation>Iris σύνδεση ενεργοποίησης</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="256"/>
         <location filename="../../src/licensing/License.cpp" line="258"/>
+        <location filename="../../src/licensing/License.cpp" line="260"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
         <translation>Iris είναι τώρα Pro. Δείτε τις νέες επιλογές σας στην προηγμένη προβολή.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="270"/>
+        <location filename="../../src/licensing/License.cpp" line="272"/>
         <source>Invalid response</source>
         <translation>Μη έγκυρη απόκριση</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="273"/>
+        <location filename="../../src/licensing/License.cpp" line="275"/>
         <source>. Maybe you are not connected to the internet?</source>
         <translation>. Ίσως δεν είστε συνδεδεμένοι στο διαδίκτυο;</translation>
     </message>
@@ -705,241 +705,241 @@ http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="699"/>
+        <location filename="../../src/MainWindow.cpp" line="704"/>
         <source>until</source>
         <translation>μέχρι</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="711"/>
+        <location filename="../../src/MainWindow.cpp" line="716"/>
         <source>rest</source>
         <translation>υπόλοιπο</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="733"/>
+        <location filename="../../src/MainWindow.cpp" line="738"/>
         <source>work</source>
         <translation>δουλειά</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="818"/>
+        <location filename="../../src/MainWindow.cpp" line="823"/>
         <source>Paused</source>
         <translation>Παύση</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="941"/>
-        <location filename="../../src/MainWindow.cpp" line="1051"/>
+        <location filename="../../src/MainWindow.cpp" line="978"/>
+        <location filename="../../src/MainWindow.cpp" line="1088"/>
         <source>Day start time</source>
         <translation>Ημέρα έναρξης ημέρας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="943"/>
-        <location filename="../../src/MainWindow.cpp" line="1053"/>
+        <location filename="../../src/MainWindow.cpp" line="980"/>
+        <location filename="../../src/MainWindow.cpp" line="1090"/>
         <source>Day transition start time</source>
         <translation>Ημέρα έναρξης μετάβασης ημέρας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="945"/>
-        <location filename="../../src/MainWindow.cpp" line="1055"/>
+        <location filename="../../src/MainWindow.cpp" line="982"/>
+        <location filename="../../src/MainWindow.cpp" line="1092"/>
         <source>Day transition end time</source>
         <translation>Ημέρα λήξης μετάβασης ημέρας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="947"/>
-        <location filename="../../src/MainWindow.cpp" line="1057"/>
+        <location filename="../../src/MainWindow.cpp" line="984"/>
+        <location filename="../../src/MainWindow.cpp" line="1094"/>
         <source>Day end time</source>
         <translation>Ημέρα λήξης ημέρας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="952"/>
-        <location filename="../../src/MainWindow.cpp" line="1062"/>
+        <location filename="../../src/MainWindow.cpp" line="989"/>
+        <location filename="../../src/MainWindow.cpp" line="1099"/>
         <source>Night start time</source>
         <translation>Ώρα έναρξης νύχτας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="954"/>
-        <location filename="../../src/MainWindow.cpp" line="1064"/>
+        <location filename="../../src/MainWindow.cpp" line="991"/>
+        <location filename="../../src/MainWindow.cpp" line="1101"/>
         <source>Night transition start time</source>
         <translation>Η ώρα έναρξης της μετάβασης νύχτας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="956"/>
-        <location filename="../../src/MainWindow.cpp" line="1066"/>
+        <location filename="../../src/MainWindow.cpp" line="993"/>
+        <location filename="../../src/MainWindow.cpp" line="1103"/>
         <source>Night transition end time</source>
         <translation>Ώρα λήξης της νύχτας μετάβασης</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="958"/>
-        <location filename="../../src/MainWindow.cpp" line="1068"/>
+        <location filename="../../src/MainWindow.cpp" line="995"/>
+        <location filename="../../src/MainWindow.cpp" line="1105"/>
         <source>Night end time</source>
         <translation>Η ώρα λήξης της νύχτας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="963"/>
-        <location filename="../../src/MainWindow.cpp" line="1073"/>
+        <location filename="../../src/MainWindow.cpp" line="1000"/>
+        <location filename="../../src/MainWindow.cpp" line="1110"/>
         <source>Bedtime</source>
         <translation>Ωρα ύπνου</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="965"/>
-        <location filename="../../src/MainWindow.cpp" line="1075"/>
+        <location filename="../../src/MainWindow.cpp" line="1002"/>
+        <location filename="../../src/MainWindow.cpp" line="1112"/>
         <source>Bedtime transition start time</source>
         <translation>Χρόνος έναρξης μετάβασης κατά τη διάρκεια του δωματίου</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="967"/>
-        <location filename="../../src/MainWindow.cpp" line="1077"/>
+        <location filename="../../src/MainWindow.cpp" line="1004"/>
+        <location filename="../../src/MainWindow.cpp" line="1114"/>
         <source>Bedtime transition end time</source>
         <translation>Η ώρα λήξης της μετάβασης από την ώρα</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="969"/>
-        <location filename="../../src/MainWindow.cpp" line="1079"/>
+        <location filename="../../src/MainWindow.cpp" line="1006"/>
+        <location filename="../../src/MainWindow.cpp" line="1116"/>
         <source>Bedtime end time</source>
         <translation>Χρόνος λήξης της νύχτας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="974"/>
-        <location filename="../../src/MainWindow.cpp" line="1084"/>
+        <location filename="../../src/MainWindow.cpp" line="1011"/>
+        <location filename="../../src/MainWindow.cpp" line="1121"/>
         <source>Wake time</source>
         <translation>Ξυπνήστε</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="976"/>
-        <location filename="../../src/MainWindow.cpp" line="1086"/>
+        <location filename="../../src/MainWindow.cpp" line="1013"/>
+        <location filename="../../src/MainWindow.cpp" line="1123"/>
         <source>Wake time transition start time</source>
         <translation>Ξυπνήστε με την ώρα έναρξης της μετάβασης</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="978"/>
-        <location filename="../../src/MainWindow.cpp" line="1088"/>
+        <location filename="../../src/MainWindow.cpp" line="1015"/>
+        <location filename="../../src/MainWindow.cpp" line="1125"/>
         <source>Wake time transition end time</source>
         <translation>Ξυπνήστε με το χρόνο λήξης της μετάβασης</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="980"/>
-        <location filename="../../src/MainWindow.cpp" line="1090"/>
+        <location filename="../../src/MainWindow.cpp" line="1017"/>
+        <location filename="../../src/MainWindow.cpp" line="1127"/>
         <source>Wake time end time</source>
         <translation>Χρόνος λήξης χρόνου λήξης</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="985"/>
-        <location filename="../../src/MainWindow.cpp" line="1095"/>
+        <location filename="../../src/MainWindow.cpp" line="1022"/>
+        <location filename="../../src/MainWindow.cpp" line="1132"/>
         <source>Day duration</source>
         <translation>Διάρκεια ημέρας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="987"/>
-        <location filename="../../src/MainWindow.cpp" line="1097"/>
+        <location filename="../../src/MainWindow.cpp" line="1024"/>
+        <location filename="../../src/MainWindow.cpp" line="1134"/>
         <source>Day transition duration</source>
         <translation>Διάρκεια μετάβασης ημέρας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="989"/>
-        <location filename="../../src/MainWindow.cpp" line="1099"/>
+        <location filename="../../src/MainWindow.cpp" line="1026"/>
+        <location filename="../../src/MainWindow.cpp" line="1136"/>
         <source>Night duration</source>
         <translation>Νυχτερινή διάρκεια</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="991"/>
-        <location filename="../../src/MainWindow.cpp" line="1101"/>
+        <location filename="../../src/MainWindow.cpp" line="1028"/>
+        <location filename="../../src/MainWindow.cpp" line="1138"/>
         <source>Night transition duration</source>
         <translation>Διάρκεια νυκτερινής μετάβασης</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="993"/>
-        <location filename="../../src/MainWindow.cpp" line="1103"/>
+        <location filename="../../src/MainWindow.cpp" line="1030"/>
+        <location filename="../../src/MainWindow.cpp" line="1140"/>
         <source>Sleep duration</source>
         <translation>Διάρκεια ύπνου</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="995"/>
-        <location filename="../../src/MainWindow.cpp" line="1105"/>
+        <location filename="../../src/MainWindow.cpp" line="1032"/>
+        <location filename="../../src/MainWindow.cpp" line="1142"/>
         <source>Sleep transition duration</source>
         <translation>Διάρκεια μετάβασης στο ύπνο</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1001"/>
+        <location filename="../../src/MainWindow.cpp" line="1038"/>
         <source>Time zone</source>
         <translation>Ζώνη ώρας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1003"/>
+        <location filename="../../src/MainWindow.cpp" line="1040"/>
         <source>Custom Time zone offset</source>
         <translation>Προσαρμοσμένη ζώνη ώρας</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1008"/>
+        <location filename="../../src/MainWindow.cpp" line="1045"/>
         <source>Sunrise time</source>
         <translation>Ήλιος χρόνος</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1010"/>
+        <location filename="../../src/MainWindow.cpp" line="1047"/>
         <source>Sunset time</source>
         <translation>Ηλιοβασίλεμα</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1015"/>
+        <location filename="../../src/MainWindow.cpp" line="1052"/>
         <source>New moon offset</source>
         <translation>Νέο φεγγάρι</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1017"/>
+        <location filename="../../src/MainWindow.cpp" line="1054"/>
         <source>Full moon offset</source>
         <translation>Πλήρης μετατόπιση φεγγαριού</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1019"/>
+        <location filename="../../src/MainWindow.cpp" line="1056"/>
         <source>Current moon offset</source>
         <translation>Τρέχουσα μετατόπιση φεγγαριού</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1595"/>
+        <location filename="../../src/MainWindow.cpp" line="1642"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro απαιτείται</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1596"/>
+        <location filename="../../src/MainWindow.cpp" line="1643"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>Θα πρέπει Iris Pro για να αποκτήσετε πρόσβαση σε αυτό το τμήμα.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2173"/>
+        <location filename="../../src/MainWindow.cpp" line="2228"/>
         <source>Relaunch Iris</source>
         <translation>Επανεκκίνηση Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2174"/>
+        <location filename="../../src/MainWindow.cpp" line="2229"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>Θα πρέπει να δοθεί νέα ώθηση Iris για να ισχύσουν οι αλλαγές.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2176"/>
+        <location filename="../../src/MainWindow.cpp" line="2231"/>
         <source>Relaunch now</source>
         <translation>Επανεκκίνηση τώρα</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2177"/>
+        <location filename="../../src/MainWindow.cpp" line="2232"/>
         <source>Later</source>
         <translation>Αργότερα</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2193"/>
-        <location filename="../../src/MainWindow.cpp" line="2258"/>
+        <location filename="../../src/MainWindow.cpp" line="2248"/>
+        <location filename="../../src/MainWindow.cpp" line="2313"/>
         <source>Restart is needed</source>
         <translation>Επανεκκίνηση χρειάζεται</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2194"/>
-        <location filename="../../src/MainWindow.cpp" line="2258"/>
+        <location filename="../../src/MainWindow.cpp" line="2249"/>
+        <location filename="../../src/MainWindow.cpp" line="2313"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris κάνει κάποιες αλλαγές στο σύστημά σας και επανεκκίνηση είναι απαραίτητη για να ισχύσουν οι αλλαγές.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3435"/>
+        <location filename="../../src/MainWindow.cpp" line="3545"/>
         <source>WARNING!!!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3436"/>
+        <location filename="../../src/MainWindow.cpp" line="3546"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1111,8 +1111,8 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="405"/>
         <location filename="../batman/SolarPosition.cpp" line="506"/>
         <location filename="../batman/SolarPosition.cpp" line="645"/>
-        <location filename="../batman/SolarPosition.cpp" line="698"/>
-        <location filename="../batman/SolarPosition.cpp" line="716"/>
+        <location filename="../batman/SolarPosition.cpp" line="704"/>
+        <location filename="../batman/SolarPosition.cpp" line="722"/>
         <source>hour</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1120,7 +1120,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="406"/>
         <location filename="../batman/SolarPosition.cpp" line="507"/>
         <location filename="../batman/SolarPosition.cpp" line="646"/>
-        <location filename="../batman/SolarPosition.cpp" line="699"/>
+        <location filename="../batman/SolarPosition.cpp" line="705"/>
         <source>min</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1128,13 +1128,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="407"/>
         <location filename="../batman/SolarPosition.cpp" line="508"/>
         <location filename="../batman/SolarPosition.cpp" line="647"/>
-        <location filename="../batman/SolarPosition.cpp" line="700"/>
-        <location filename="../batman/SolarPosition.cpp" line="704"/>
+        <location filename="../batman/SolarPosition.cpp" line="706"/>
+        <location filename="../batman/SolarPosition.cpp" line="710"/>
         <source>sec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../batman/SolarPosition.cpp" line="720"/>
+        <location filename="../batman/SolarPosition.cpp" line="726"/>
         <source>hours</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1232,6 +1232,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="415"/>
         <location filename="../../src/translation/Translator.cpp" line="643"/>
+        <location filename="../../src/translation/Translator.cpp" line="691"/>
         <source>ACTIVATE_CODE</source>
         <translation>Ενεργοποίηση κωδικού</translation>
     </message>
@@ -2035,6 +2036,16 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>REMOVE</source>
         <translation>Αφαιρώ</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="692"/>
+        <source>BUY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="693"/>
+        <source>BUY_NOW</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="586"/>

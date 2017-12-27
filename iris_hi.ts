@@ -535,139 +535,139 @@ Note that Iris will work fine now, but with limited color changes.</source>
 <context>
     <name>License</name>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="128"/>
-        <location filename="../../src/licensing/License.cpp" line="208"/>
+        <location filename="../../src/licensing/License.cpp" line="130"/>
+        <location filename="../../src/licensing/License.cpp" line="210"/>
         <source>Your Iris is now Pro</source>
         <translation>आपका आईरिस अब प्रो है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="130"/>
         <location filename="../../src/licensing/License.cpp" line="132"/>
+        <location filename="../../src/licensing/License.cpp" line="134"/>
         <source>Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
         <translation>आईरिस के समर्थन के लिए बहुत बहुत धन्यवाद! :)
 उन्नत दृश्य में अपने नए विकल्प देखें</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="145"/>
+        <location filename="../../src/licensing/License.cpp" line="147"/>
         <source>License Expired</source>
         <translation type="unfinished">लायसेंस की समय सीमा समाप्त</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="146"/>
+        <location filename="../../src/licensing/License.cpp" line="148"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
         <translation>आपका आईरिस प्रो लाइसेंस समाप्त हो गया है। आप से नया सक्रियण कोड खरीद सकते हैं</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="158"/>
+        <location filename="../../src/licensing/License.cpp" line="160"/>
         <source>Already used</source>
         <translation>पहले से ही इस्तेमाल किया हुआ</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="159"/>
+        <location filename="../../src/licensing/License.cpp" line="161"/>
         <source>You have already used this code on another machine</source>
         <translation>आपने इस कोड को दूसरी मशीन पर पहले ही उपयोग किया है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="168"/>
+        <location filename="../../src/licensing/License.cpp" line="170"/>
         <source>Other version</source>
         <translation>अन्य संस्करण</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="169"/>
+        <location filename="../../src/licensing/License.cpp" line="171"/>
         <source>You have already used this code with other version of Iris. Download and use the old version again or buy new activation code.</source>
         <translation>आपने पहले से ही इस कोड को आईरिस के दूसरे संस्करण के साथ प्रयोग किया है। पुराने संस्करण को फिर से डाउनलोड और उपयोग करें या नया सक्रियण कोड खरीदें।</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="178"/>
+        <location filename="../../src/licensing/License.cpp" line="180"/>
         <source>No such code</source>
         <translation>ऐसा कोई कोड नहीं है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="179"/>
+        <location filename="../../src/licensing/License.cpp" line="181"/>
         <source>There is no such activation code</source>
         <translation>ऐसा कोई सक्रियण कोड नहीं है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="188"/>
+        <location filename="../../src/licensing/License.cpp" line="190"/>
         <source>No giveaway</source>
         <translation>कोई सस्ता नहीं</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="189"/>
+        <location filename="../../src/licensing/License.cpp" line="191"/>
         <source>There is no active giveaway right now</source>
         <translation>अभी कोई सक्रिय सस्ता नहीं है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="198"/>
+        <location filename="../../src/licensing/License.cpp" line="200"/>
         <source>This code is for Iris mini</source>
         <translation>यह कोड आईरिस मिनी के लिए है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="199"/>
+        <location filename="../../src/licensing/License.cpp" line="201"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
         <translation>यह आईरिस है और आपका सक्रियण कोड आईरिस मिनी के लिए है। से आईरिस मिनी डाउनलोड करें
 Http://iristech.co/iris-mini</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="210"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
+        <location filename="../../src/licensing/License.cpp" line="214"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
         <translation>टीम लाइसेंस सक्रियण आईरिस के समर्थन के लिए बहुत बहुत धन्यवाद! :)
 उन्नत दृश्य में अपने नए विकल्प देखें</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="224"/>
+        <location filename="../../src/licensing/License.cpp" line="226"/>
         <source>Team license code for Iris mini</source>
         <translation>आईरिस मिनी के लिए टीम लाइसेंस कोड</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="225"/>
+        <location filename="../../src/licensing/License.cpp" line="227"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
         <translation>यह आईरिस है और शेष टीम लाइसेंस कोड आईरिस मिनी के लिए हैं से आईरिस मिनी डाउनलोड करें
 Http://iristech.co/iris-mini</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="234"/>
+        <location filename="../../src/licensing/License.cpp" line="236"/>
         <source>No more Team activations</source>
         <translation>कोई और टीम सक्रियण नहीं</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="235"/>
+        <location filename="../../src/licensing/License.cpp" line="237"/>
         <source>You have used all your Team license activations.</source>
         <translation>आपने अपने सभी टीम लाइसेंस सक्रियणों का उपयोग किया है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="244"/>
+        <location filename="../../src/licensing/License.cpp" line="246"/>
         <source>No such Team license</source>
         <translation>ऐसी कोई टीम लाइसेंस नहीं है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="245"/>
+        <location filename="../../src/licensing/License.cpp" line="247"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
         <translation>आईरिस या आईरिस मिनी के लिए ऐसा कोई भी टीम लाइसेंस नहीं है</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="254"/>
+        <location filename="../../src/licensing/License.cpp" line="256"/>
         <source>Iris offline activation</source>
         <translation>आईरिस ऑफ़लाइन सक्रियण</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="256"/>
         <location filename="../../src/licensing/License.cpp" line="258"/>
+        <location filename="../../src/licensing/License.cpp" line="260"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
         <translation>आपका आईरिस अब प्रो है उन्नत दृश्य में अपने नए विकल्प देखें</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="270"/>
+        <location filename="../../src/licensing/License.cpp" line="272"/>
         <source>Invalid response</source>
         <translation>अवैध प्रतिक्रिया</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="273"/>
+        <location filename="../../src/licensing/License.cpp" line="275"/>
         <source>. Maybe you are not connected to the internet?</source>
         <translation> शायद आप इंटरनेट से जुड़े नहीं हैं?</translation>
     </message>
@@ -705,241 +705,241 @@ Http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="699"/>
+        <location filename="../../src/MainWindow.cpp" line="704"/>
         <source>until</source>
         <translation>जब तक</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="711"/>
+        <location filename="../../src/MainWindow.cpp" line="716"/>
         <source>rest</source>
         <translation>आराम</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="733"/>
+        <location filename="../../src/MainWindow.cpp" line="738"/>
         <source>work</source>
         <translation>काम</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="818"/>
+        <location filename="../../src/MainWindow.cpp" line="823"/>
         <source>Paused</source>
         <translation>रोके गए</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="941"/>
-        <location filename="../../src/MainWindow.cpp" line="1051"/>
+        <location filename="../../src/MainWindow.cpp" line="978"/>
+        <location filename="../../src/MainWindow.cpp" line="1088"/>
         <source>Day start time</source>
         <translation>दिन की शुरुआत का समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="943"/>
-        <location filename="../../src/MainWindow.cpp" line="1053"/>
+        <location filename="../../src/MainWindow.cpp" line="980"/>
+        <location filename="../../src/MainWindow.cpp" line="1090"/>
         <source>Day transition start time</source>
         <translation>दिन का संक्रमण प्रारंभ समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="945"/>
-        <location filename="../../src/MainWindow.cpp" line="1055"/>
+        <location filename="../../src/MainWindow.cpp" line="982"/>
+        <location filename="../../src/MainWindow.cpp" line="1092"/>
         <source>Day transition end time</source>
         <translation>दिन का संक्रमण समाप्ति समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="947"/>
-        <location filename="../../src/MainWindow.cpp" line="1057"/>
+        <location filename="../../src/MainWindow.cpp" line="984"/>
+        <location filename="../../src/MainWindow.cpp" line="1094"/>
         <source>Day end time</source>
         <translation>दिन के अंत का समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="952"/>
-        <location filename="../../src/MainWindow.cpp" line="1062"/>
+        <location filename="../../src/MainWindow.cpp" line="989"/>
+        <location filename="../../src/MainWindow.cpp" line="1099"/>
         <source>Night start time</source>
         <translation>रात की शुरुआत का समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="954"/>
-        <location filename="../../src/MainWindow.cpp" line="1064"/>
+        <location filename="../../src/MainWindow.cpp" line="991"/>
+        <location filename="../../src/MainWindow.cpp" line="1101"/>
         <source>Night transition start time</source>
         <translation>रात संक्रमण प्रारंभ समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="956"/>
-        <location filename="../../src/MainWindow.cpp" line="1066"/>
+        <location filename="../../src/MainWindow.cpp" line="993"/>
+        <location filename="../../src/MainWindow.cpp" line="1103"/>
         <source>Night transition end time</source>
         <translation>रात संक्रमण अंत समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="958"/>
-        <location filename="../../src/MainWindow.cpp" line="1068"/>
+        <location filename="../../src/MainWindow.cpp" line="995"/>
+        <location filename="../../src/MainWindow.cpp" line="1105"/>
         <source>Night end time</source>
         <translation>रात के अंत का समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="963"/>
-        <location filename="../../src/MainWindow.cpp" line="1073"/>
+        <location filename="../../src/MainWindow.cpp" line="1000"/>
+        <location filename="../../src/MainWindow.cpp" line="1110"/>
         <source>Bedtime</source>
         <translation>सोने का समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="965"/>
-        <location filename="../../src/MainWindow.cpp" line="1075"/>
+        <location filename="../../src/MainWindow.cpp" line="1002"/>
+        <location filename="../../src/MainWindow.cpp" line="1112"/>
         <source>Bedtime transition start time</source>
         <translation>सोने का समय संक्रमण आरंभ समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="967"/>
-        <location filename="../../src/MainWindow.cpp" line="1077"/>
+        <location filename="../../src/MainWindow.cpp" line="1004"/>
+        <location filename="../../src/MainWindow.cpp" line="1114"/>
         <source>Bedtime transition end time</source>
         <translation>सोने का समय संक्रमण अंत समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="969"/>
-        <location filename="../../src/MainWindow.cpp" line="1079"/>
+        <location filename="../../src/MainWindow.cpp" line="1006"/>
+        <location filename="../../src/MainWindow.cpp" line="1116"/>
         <source>Bedtime end time</source>
         <translation>सोने का समय समाप्ति समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="974"/>
-        <location filename="../../src/MainWindow.cpp" line="1084"/>
+        <location filename="../../src/MainWindow.cpp" line="1011"/>
+        <location filename="../../src/MainWindow.cpp" line="1121"/>
         <source>Wake time</source>
         <translation>जागो समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="976"/>
-        <location filename="../../src/MainWindow.cpp" line="1086"/>
+        <location filename="../../src/MainWindow.cpp" line="1013"/>
+        <location filename="../../src/MainWindow.cpp" line="1123"/>
         <source>Wake time transition start time</source>
         <translation>समय संक्रमण समय शुरू करने के लिए जागो</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="978"/>
-        <location filename="../../src/MainWindow.cpp" line="1088"/>
+        <location filename="../../src/MainWindow.cpp" line="1015"/>
+        <location filename="../../src/MainWindow.cpp" line="1125"/>
         <source>Wake time transition end time</source>
         <translation>समय के अंत में संक्रमण के समय का जायजा लें</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="980"/>
-        <location filename="../../src/MainWindow.cpp" line="1090"/>
+        <location filename="../../src/MainWindow.cpp" line="1017"/>
+        <location filename="../../src/MainWindow.cpp" line="1127"/>
         <source>Wake time end time</source>
         <translation>वेक टाइम एंड टाइम</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="985"/>
-        <location filename="../../src/MainWindow.cpp" line="1095"/>
+        <location filename="../../src/MainWindow.cpp" line="1022"/>
+        <location filename="../../src/MainWindow.cpp" line="1132"/>
         <source>Day duration</source>
         <translation>दिन की अवधि</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="987"/>
-        <location filename="../../src/MainWindow.cpp" line="1097"/>
+        <location filename="../../src/MainWindow.cpp" line="1024"/>
+        <location filename="../../src/MainWindow.cpp" line="1134"/>
         <source>Day transition duration</source>
         <translation>दिन संक्रमण अवधि</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="989"/>
-        <location filename="../../src/MainWindow.cpp" line="1099"/>
+        <location filename="../../src/MainWindow.cpp" line="1026"/>
+        <location filename="../../src/MainWindow.cpp" line="1136"/>
         <source>Night duration</source>
         <translation>रात की अवधि</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="991"/>
-        <location filename="../../src/MainWindow.cpp" line="1101"/>
+        <location filename="../../src/MainWindow.cpp" line="1028"/>
+        <location filename="../../src/MainWindow.cpp" line="1138"/>
         <source>Night transition duration</source>
         <translation>रात संक्रमण की अवधि</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="993"/>
-        <location filename="../../src/MainWindow.cpp" line="1103"/>
+        <location filename="../../src/MainWindow.cpp" line="1030"/>
+        <location filename="../../src/MainWindow.cpp" line="1140"/>
         <source>Sleep duration</source>
         <translation>नींद की अवधि</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="995"/>
-        <location filename="../../src/MainWindow.cpp" line="1105"/>
+        <location filename="../../src/MainWindow.cpp" line="1032"/>
+        <location filename="../../src/MainWindow.cpp" line="1142"/>
         <source>Sleep transition duration</source>
         <translation>नींद संक्रमण की अवधि</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1001"/>
+        <location filename="../../src/MainWindow.cpp" line="1038"/>
         <source>Time zone</source>
         <translation>समय क्षेत्र</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1003"/>
+        <location filename="../../src/MainWindow.cpp" line="1040"/>
         <source>Custom Time zone offset</source>
         <translation>कस्टम समय क्षेत्र ऑफसेट</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1008"/>
+        <location filename="../../src/MainWindow.cpp" line="1045"/>
         <source>Sunrise time</source>
         <translation>सूर्योदय का समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1010"/>
+        <location filename="../../src/MainWindow.cpp" line="1047"/>
         <source>Sunset time</source>
         <translation>सूर्यास्त का समय</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1015"/>
+        <location filename="../../src/MainWindow.cpp" line="1052"/>
         <source>New moon offset</source>
         <translation>नया चाँद ऑफसेट</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1017"/>
+        <location filename="../../src/MainWindow.cpp" line="1054"/>
         <source>Full moon offset</source>
         <translation>पूर्ण चंद्रमा ऑफसेट</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1019"/>
+        <location filename="../../src/MainWindow.cpp" line="1056"/>
         <source>Current moon offset</source>
         <translation>वर्तमान चंद्रमा ऑफसेट</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1595"/>
+        <location filename="../../src/MainWindow.cpp" line="1642"/>
         <source>Iris Pro needed</source>
         <translation>आईरिस प्रो की जरूरत है</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1596"/>
+        <location filename="../../src/MainWindow.cpp" line="1643"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>इस खंड का उपयोग करने के लिए आपको आईरिस प्रो की आवश्यकता है</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2173"/>
+        <location filename="../../src/MainWindow.cpp" line="2228"/>
         <source>Relaunch Iris</source>
         <translation>रीलाँच आईरिस</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2174"/>
+        <location filename="../../src/MainWindow.cpp" line="2229"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>परिवर्तनों को प्रभावी बनाने के लिए आपको आईरिस को फिर से लॉन्च करना होगा</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2176"/>
+        <location filename="../../src/MainWindow.cpp" line="2231"/>
         <source>Relaunch now</source>
         <translation>अब पुनः प्रक्षेपण</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2177"/>
+        <location filename="../../src/MainWindow.cpp" line="2232"/>
         <source>Later</source>
         <translation>बाद में</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2193"/>
-        <location filename="../../src/MainWindow.cpp" line="2258"/>
+        <location filename="../../src/MainWindow.cpp" line="2248"/>
+        <location filename="../../src/MainWindow.cpp" line="2313"/>
         <source>Restart is needed</source>
         <translation>पुनरारंभ आवश्यक है</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2194"/>
-        <location filename="../../src/MainWindow.cpp" line="2258"/>
+        <location filename="../../src/MainWindow.cpp" line="2249"/>
+        <location filename="../../src/MainWindow.cpp" line="2313"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>आईरिस ने आपके सिस्टम में कुछ बदलाव किए और परिवर्तनों को प्रभावी बनाने के लिए पुनरारंभ आवश्यक है</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3435"/>
+        <location filename="../../src/MainWindow.cpp" line="3545"/>
         <source>WARNING!!!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3436"/>
+        <location filename="../../src/MainWindow.cpp" line="3546"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1111,8 +1111,8 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="405"/>
         <location filename="../batman/SolarPosition.cpp" line="506"/>
         <location filename="../batman/SolarPosition.cpp" line="645"/>
-        <location filename="../batman/SolarPosition.cpp" line="698"/>
-        <location filename="../batman/SolarPosition.cpp" line="716"/>
+        <location filename="../batman/SolarPosition.cpp" line="704"/>
+        <location filename="../batman/SolarPosition.cpp" line="722"/>
         <source>hour</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1120,7 +1120,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="406"/>
         <location filename="../batman/SolarPosition.cpp" line="507"/>
         <location filename="../batman/SolarPosition.cpp" line="646"/>
-        <location filename="../batman/SolarPosition.cpp" line="699"/>
+        <location filename="../batman/SolarPosition.cpp" line="705"/>
         <source>min</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1128,13 +1128,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="407"/>
         <location filename="../batman/SolarPosition.cpp" line="508"/>
         <location filename="../batman/SolarPosition.cpp" line="647"/>
-        <location filename="../batman/SolarPosition.cpp" line="700"/>
-        <location filename="../batman/SolarPosition.cpp" line="704"/>
+        <location filename="../batman/SolarPosition.cpp" line="706"/>
+        <location filename="../batman/SolarPosition.cpp" line="710"/>
         <source>sec</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../batman/SolarPosition.cpp" line="720"/>
+        <location filename="../batman/SolarPosition.cpp" line="726"/>
         <source>hours</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1232,6 +1232,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="415"/>
         <location filename="../../src/translation/Translator.cpp" line="643"/>
+        <location filename="../../src/translation/Translator.cpp" line="691"/>
         <source>ACTIVATE_CODE</source>
         <translation>कोड एक्टिवेट करें</translation>
     </message>
@@ -2035,6 +2036,16 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>REMOVE</source>
         <translation>हटाना</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="692"/>
+        <source>BUY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="693"/>
+        <source>BUY_NOW</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="586"/>
