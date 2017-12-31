@@ -1308,7 +1308,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="429"/>
         <source>USE_ADVANCED_SETTINGS</source>
-        <translation>詳細設定を表示</translation>
+        <translation>詳細設定を使用</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="432"/>
