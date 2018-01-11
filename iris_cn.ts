@@ -399,7 +399,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="675"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation>Iris mini将会使用使用您设置好的定位，请在“隐藏功能”中设置您所在地理位置的经度数和纬度数</translation>
+        <translation>Iris mini将会使用您设置好的定位，请在“隐藏功能”中设置您所在地理位置的经度数和纬度数</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="680"/>
@@ -732,25 +732,25 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="978"/>
         <location filename="../../src/MainWindow.cpp" line="1088"/>
         <source>Day start time</source>
-        <translation>开始时间</translation>
+        <translation>白天开始时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="980"/>
         <location filename="../../src/MainWindow.cpp" line="1090"/>
         <source>Day transition start time</source>
-        <translation>日过渡开始时间</translation>
+        <translation>白天过渡开始时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="982"/>
         <location filename="../../src/MainWindow.cpp" line="1092"/>
         <source>Day transition end time</source>
-        <translation>日过渡结束时间</translation>
+        <translation>白天过渡结束时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="984"/>
         <location filename="../../src/MainWindow.cpp" line="1094"/>
         <source>Day end time</source>
-        <translation>日结束时间</translation>
+        <translation>白天结束时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="989"/>
@@ -762,19 +762,19 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="991"/>
         <location filename="../../src/MainWindow.cpp" line="1101"/>
         <source>Night transition start time</source>
-        <translation>夜间转换开始时间</translation>
+        <translation>夜间过渡开始时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="993"/>
         <location filename="../../src/MainWindow.cpp" line="1103"/>
         <source>Night transition end time</source>
-        <translation>夜班结束时间</translation>
+        <translation>夜间过渡结束时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="995"/>
         <location filename="../../src/MainWindow.cpp" line="1105"/>
         <source>Night end time</source>
-        <translation>夜晚结束</translation>
+        <translation>夜晚结束时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1000"/>
@@ -786,19 +786,19 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="1002"/>
         <location filename="../../src/MainWindow.cpp" line="1112"/>
         <source>Bedtime transition start time</source>
-        <translation>睡前转换开始时间</translation>
+        <translation>就寝过渡开始时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1004"/>
         <location filename="../../src/MainWindow.cpp" line="1114"/>
         <source>Bedtime transition end time</source>
-        <translation>睡前过渡结束时间</translation>
+        <translation>就寝过渡结束时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1006"/>
         <location filename="../../src/MainWindow.cpp" line="1116"/>
         <source>Bedtime end time</source>
-        <translation>睡前结束时间</translation>
+        <translation>就寝结束时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1011"/>
@@ -810,31 +810,31 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="1013"/>
         <location filename="../../src/MainWindow.cpp" line="1123"/>
         <source>Wake time transition start time</source>
-        <translation>唤醒时间转换开始时间</translation>
+        <translation>唤醒过渡开始时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1015"/>
         <location filename="../../src/MainWindow.cpp" line="1125"/>
         <source>Wake time transition end time</source>
-        <translation>唤醒时间过渡结束时间</translation>
+        <translation>唤醒过渡结束时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1017"/>
         <location filename="../../src/MainWindow.cpp" line="1127"/>
         <source>Wake time end time</source>
-        <translation>唤醒时间结束时间</translation>
+        <translation>唤醒结束时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1022"/>
         <location filename="../../src/MainWindow.cpp" line="1132"/>
         <source>Day duration</source>
-        <translation>日期</translation>
+        <translation>白天时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1024"/>
         <location filename="../../src/MainWindow.cpp" line="1134"/>
         <source>Day transition duration</source>
-        <translation>日过渡期</translation>
+        <translation>白天过渡时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1026"/>
@@ -878,7 +878,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1047"/>
         <source>Sunset time</source>
-        <translation>落日时光</translation>
+        <translation>日落时间</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1052"/>
@@ -1331,7 +1331,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="438"/>
         <source>MANUAL_COLOR_SETTINGS</source>
-        <translation>手动色彩设置</translation>
+        <translation>手动色温调节</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="439"/>
@@ -1379,7 +1379,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="452"/>
         <location filename="../../src/translation/Translator.cpp" line="458"/>
         <source>ADVANCED_BRIGHTNESS</source>
-        <translation type="unfinished">明亮</translation>
+        <translation>明亮</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="453"/>
@@ -1391,7 +1391,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="454"/>
         <location filename="../../src/translation/Translator.cpp" line="460"/>
         <source>NIGHT_BRIGHTNESS</source>
-        <translation>夜晚亮度</translation>
+        <translation>夜间亮度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="456"/>
@@ -1407,7 +1407,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="465"/>
         <source>IRIS</source>
-        <translation>IRIS</translation>
+        <translation>Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="466"/>
@@ -1427,7 +1427,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="469"/>
         <source>LEADING_COLOR</source>
-        <translation>领先颜色</translation>
+        <translation>主要颜色</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="474"/>
@@ -1548,7 +1548,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="505"/>
         <source>BEDTIME</source>
-        <translation>睡前：</translation>
+        <translation>就寝时间：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="506"/>
@@ -1859,7 +1859,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="575"/>
         <source>HIDE_TASKBAR_ICON_ON_CLOSE</source>
-        <translation>最小化到系统托盘而不是任务栏</translation>
+        <translation>关闭时隐藏任务栏图标</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="576"/>
@@ -1879,7 +1879,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="580"/>
         <source>ADVANCED_IRIS</source>
-        <translation>高级IRIS</translation>
+        <translation>高级Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="581"/>
@@ -1904,7 +1904,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="585"/>
         <source>START_IRIS_ON_STARTUP</source>
-        <translation>启动时启动IRIS</translation>
+        <translation>启动时启动Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="587"/>
@@ -1969,7 +1969,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="663"/>
         <source>UKRAINIAN</source>
-        <translation type="unfinished"></translation>
+        <translation>乌克兰语</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
@@ -2185,7 +2185,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="622"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
-        <translation>人工智能（AI）</translation>
+        <translation>人工智能(AI)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2230,7 +2230,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="637"/>
         <source>ADVANCED_IRIS_MODEL</source>
-        <translation>高级IRIS模式</translation>
+        <translation>高级Iris模式</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="638"/>
