@@ -2711,52 +2711,52 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="217"/>
+        <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="232"/>
+        <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="234"/>
+        <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="236"/>
-        <source>Invite Friends or Buy lifelong license for $15</source>
+        <location filename="../../src/licensing/Trial.cpp" line="195"/>
+        <source>Invite Friends or Buy lifelong license</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="243"/>
+        <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
         <translation type="unfinished">تستخدم بالفعل</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="244"/>
+        <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="247"/>
+        <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="249"/>
+        <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="257"/>
+        <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/licensing/Trial.cpp" line="258"/>
+        <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2784,7 +2784,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/licensing/ViralComponent.cpp" line="33"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="42"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="53"/>
-        <source>Invite Friends or Buy lifelong license for 10$</source>
+        <source>Invite Friends or Buy lifelong license</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
