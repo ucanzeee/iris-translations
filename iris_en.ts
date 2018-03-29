@@ -39,7 +39,7 @@
         <location filename="../batman/ClockPosition.cpp" line="419"/>
         <location filename="../batman/ClockPosition.cpp" line="434"/>
         <source>hour</source>
-        <translation></translation>
+        <translation>hour</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="196"/>
@@ -47,7 +47,7 @@
         <location filename="../batman/ClockPosition.cpp" line="420"/>
         <location filename="../batman/ClockPosition.cpp" line="435"/>
         <source>min</source>
-        <translation></translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="197"/>
@@ -56,7 +56,7 @@
         <location filename="../batman/ClockPosition.cpp" line="436"/>
         <location filename="../batman/ClockPosition.cpp" line="440"/>
         <source>sec</source>
-        <translation></translation>
+        <translation>sec</translation>
     </message>
 </context>
 <context>
@@ -945,14 +945,16 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3691"/>
         <source>WARNING!!!</source>
-        <translation></translation>
+        <translation>WARNING!!!</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3692"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation></translation>
+        <translation>WARNING!!!
+
+Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</translation>
     </message>
 </context>
 <context>
@@ -1083,30 +1085,30 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <source>hour</source>
-        <translation></translation>
+        <translation>hour</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
         <source>min</source>
-        <translation></translation>
+        <translation>min</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="374"/>
         <source>sec</source>
-        <translation></translation>
+        <translation>sec</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
         <source>reminds you that a big rest will occur in</source>
-        <translation></translation>
+        <translation>reminds you that a big rest will occur in</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
         <source>minutes</source>
-        <translation></translation>
+        <translation>minutes</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="431"/>
@@ -1991,7 +1993,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation>Manual/Automatic Toogle</translation>
+        <translation>Manual/Automatic Toggle</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>

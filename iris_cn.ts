@@ -39,7 +39,7 @@
         <location filename="../batman/ClockPosition.cpp" line="419"/>
         <location filename="../batman/ClockPosition.cpp" line="434"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="196"/>
@@ -47,7 +47,7 @@
         <location filename="../batman/ClockPosition.cpp" line="420"/>
         <location filename="../batman/ClockPosition.cpp" line="435"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>分</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="197"/>
@@ -56,7 +56,7 @@
         <location filename="../batman/ClockPosition.cpp" line="436"/>
         <location filename="../batman/ClockPosition.cpp" line="440"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
 </context>
 <context>
@@ -726,7 +726,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="854"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>过期</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="858"/>
@@ -945,14 +945,16 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3691"/>
         <source>WARNING!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>警告！</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3692"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished"></translation>
+        <translation>警告！
+
+OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 仅在性能不重要时才使用它！</translation>
     </message>
 </context>
 <context>
@@ -1065,7 +1067,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
         <source>Rest screen</source>
-        <translation type="unfinished"></translation>
+        <translation>休息屏幕</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
@@ -1075,7 +1077,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="134"/>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>剩余</translation>
     </message>
 </context>
 <context>
@@ -1083,35 +1085,35 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>分</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="374"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
         <source>reminds you that a big rest will occur in</source>
-        <translation type="unfinished"></translation>
+        <translation>提醒大家休息时间会很大</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>分钟</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="431"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>提醒你，30秒内会发生很大的休息</translation>
     </message>
 </context>
 <context>
@@ -1123,7 +1125,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="725"/>
         <location filename="../batman/SolarPosition.cpp" line="743"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="427"/>
@@ -1131,7 +1133,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="667"/>
         <location filename="../batman/SolarPosition.cpp" line="726"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>分</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="428"/>
@@ -1140,12 +1142,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="727"/>
         <location filename="../batman/SolarPosition.cpp" line="731"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="747"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>小时</translation>
     </message>
 </context>
 <context>
@@ -1613,7 +1615,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>USE_PER_MONITOR_SETTINGS</source>
-        <translation type="unfinished"></translation>
+        <translation>每个监视器设置</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="521"/>
@@ -1821,17 +1823,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘快捷键</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation>放大：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation>缩小：</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -1861,7 +1863,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished"></translation>
+        <translation>对于</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -1941,102 +1943,102 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished"></translation>
+        <translation>特征</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation>提高温度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation>降低温度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>增加亮度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>降低亮度</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation>启动覆盖屏幕</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation>结束重叠屏幕</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished"></translation>
+        <translation>使用颜色效果</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation>暂停/恢复虹膜</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished"></translation>
+        <translation>手动/自动切换</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished"></translation>
+        <translation>开始休息</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished"></translation>
+        <translation>暂停/恢复定时器</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation>退出虹膜</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished"></translation>
+        <translation>捷径</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>中央处理器</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished"></translation>
+        <translation>优化UI创建</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>显卡</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished"></translation>
+        <translation>使用伽马固定器</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2091,27 +2093,27 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="661"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation>特征</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="662"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>功能 - 开/关</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请朋友</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请朋友</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="666"/>
         <source>SYNC</source>
-        <translation type="unfinished"></translation>
+        <translation>同步</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="698"/>
@@ -2141,12 +2143,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="705"/>
         <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished"></translation>
+        <translation>调试</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished"></translation>
+        <translation>调试信息</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="715"/>
@@ -2206,32 +2208,32 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="731"/>
         <source>BUY</source>
-        <translation type="unfinished"></translation>
+        <translation>购买</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="732"/>
         <source>BUY_NOW</source>
-        <translation type="unfinished"></translation>
+        <translation>立即购买</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>分</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="735"/>
         <source>ON</source>
-        <translation type="unfinished"></translation>
+        <translation>上</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="736"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
@@ -2673,92 +2675,92 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="131"/>
         <source>Expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>过期日期在</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="139"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>天</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation>天</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>分钟</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation>分钟</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>过期</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>试用期满</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished"></translation>
+        <translation>您的Iris Pro试用版已过期</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你喜欢这个程序，并想更多地使用它，你可以</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请朋友或购买终身许可</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation type="unfinished">已使用</translation>
+        <translation>已使用</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished"></translation>
+        <translation>虹膜临试验已经使用。</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>看起来你已经在这台机器上使用过免费试用版。</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您的试用期没有过期，虹膜会尝试再次激活。</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>免费试用已禁用</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>虹膜免费试用版目前已停用</translation>
     </message>
 </context>
 <context>
@@ -2766,41 +2768,41 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished"></translation>
+        <translation>试用期即将到期</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris Pro试用版今天到期</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="40"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="51"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你喜欢这个程序，并想更多地使用它，你可以</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="33"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="42"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="53"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请朋友或购买终身许可</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris Pro试用版将于明天到期</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris Pro试用版到期</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>天</translation>
     </message>
 </context>
 <context>
@@ -2877,22 +2879,22 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation>警告</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
         <source>Invite Friends</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请朋友</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation>购买</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation>阅读更多...</translation>
     </message>
 </context>
 <context>
