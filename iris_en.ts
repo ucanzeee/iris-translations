@@ -62,28 +62,32 @@
 <context>
     <name>Cyclops</name>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="198"/>
-        <location filename="../cyclops/Cyclops.cpp" line="211"/>
+        <location filename="../cyclops/Cyclops.cpp" line="269"/>
+        <location filename="../cyclops/Cyclops.cpp" line="283"/>
         <source>Restart your PC</source>
         <translation>Restart your PC</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="199"/>
         <source>Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</source>
-        <translation>Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</translation>
+        <translation type="vanished">Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="201"/>
+        <location filename="../cyclops/Cyclops.cpp" line="271"/>
+        <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../cyclops/Cyclops.cpp" line="273"/>
         <source>Restart needed</source>
         <translation>Restart needed</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="202"/>
+        <location filename="../cyclops/Cyclops.cpp" line="274"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
         <translation>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="212"/>
+        <location filename="../cyclops/Cyclops.cpp" line="284"/>
         <source>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
         <translation>Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</translation>
     </message>
@@ -92,12 +96,12 @@
         <translation type="obsolete">Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="265"/>
+        <location filename="../cyclops/Cyclops.cpp" line="337"/>
         <source>Restart is needed</source>
         <translation>Restart is needed</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="266"/>
+        <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
         <translation>Iris made some changes on your system and restart is needed to unlock full functionality.
@@ -120,419 +124,485 @@ Note that Iris will work fine now, but with limited color changes.</translation>
     </message>
 </context>
 <context>
+    <name>ExportSettings</name>
+    <message>
+        <location filename="../wonder-woman/ExportSettings.cpp" line="36"/>
+        <source>Save File...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
+        <source>Iris Settings File (*.iris_settings *.iris)</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>HiddenFeatures</name>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="299"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="328"/>
         <source>Invalid spell</source>
         <translation>Invalid spell</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="300"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="329"/>
         <source>The spell</source>
         <translation>The spell</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="302"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="331"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
         <translation> seems wrong. Check the syntax or try with some other hidden feature.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="303"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="332"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
         <translation>Use &quot;help&quot; to see the list of all hidden features :)</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="326"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="349"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="355"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="378"/>
         <source>Invalid temperature</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="329"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="352"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="358"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="381"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="336"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="359"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="365"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="388"/>
         <source>Temperature changed</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="337"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="360"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="366"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="389"/>
         <source>Color temperature changed to</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="372"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="395"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="401"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="424"/>
         <source>Invalid brightness</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="375"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="398"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="404"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="427"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="382"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="405"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="411"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="434"/>
         <source>Brightness changed</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="383"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="406"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="412"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="435"/>
         <source>Brightness changed to</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="435"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="464"/>
         <source>Gamma fixer disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="436"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="465"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="441"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="470"/>
         <source>Gamma fixer enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="442"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="471"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="472"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="501"/>
         <source>Start at startup enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="473"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>Iris mini will start when you turn ON your computer</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="478"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="507"/>
         <source>Start at startup disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="508"/>
         <source>Iris mini will not start when you turn ON your computer</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="508"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="537"/>
         <source>Tray icon rotation is enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="538"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="514"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="543"/>
         <source>Tray icon rotation is disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="515"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="544"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="526"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
         <source>Manual temperature enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="527"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
         <source>You are now using Iris Mixed mode</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="532"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
         <source>Manual temperature disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="562"/>
         <source>Iris will use your selected mode for temperature again</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="544"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="573"/>
         <source>Manual brightness enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="545"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="574"/>
         <source>You are now using Iris mini Mixed mode</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="550"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="579"/>
         <source>Manual brightness disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="551"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="580"/>
         <source>Iris mini will use your selected mode for brightness again</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="563"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="571"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="600"/>
         <source>Monitor</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="564"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="593"/>
         <source> disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="565"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="594"/>
         <source>Iris will not apply color changes to Monitor</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="572"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="601"/>
         <source> enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="573"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="602"/>
         <source>Iris will apply color changes to Monitor</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="584"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="613"/>
         <source>Reset colors</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="614"/>
         <source>Screen colors are reset to default values</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="594"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Reset settings</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="595"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="624"/>
         <source>Iris settings are reset to default values</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="605"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="634"/>
         <source>Invert</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="606"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="635"/>
         <source>Colors are inverted</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="616"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="645"/>
         <source>Zero blue light</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="617"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="646"/>
         <source>All blue light is removed from the screen</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="657"/>
         <source>Gamma preservation enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="634"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="663"/>
         <source>Gamma preservation disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="635"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="645"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="674"/>
         <source>Notifications enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="646"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="675"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="651"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="680"/>
         <source>Notifications disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="652"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="681"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="685"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
         <source>Manual location enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="686"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="691"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="720"/>
         <source>Manual location disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="692"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="704"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="733"/>
         <source>Manual night duration enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="705"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="710"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="739"/>
         <source>Manual night duration disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="711"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="740"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="751"/>
         <source>Invalid Night start time</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="725"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="754"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="732"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="761"/>
         <source>Night start time changed</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="733"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="762"/>
         <source>Manual night start time changed to</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="774"/>
         <source>Invalid Night end time</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="748"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="777"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="755"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="784"/>
         <source>Night end time changed</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Manual night end time changed to</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>Latitude changed</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
         <source>Latitude changed to</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="778"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="807"/>
         <source>Longitude changed</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="808"/>
         <source>Longitude changed to</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="788"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="817"/>
         <source>Software cursor enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="789"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="818"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="826"/>
         <source>Hardware cursor enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="798"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="827"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="811"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="840"/>
         <source>Conflicting applications enabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="812"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="841"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="817"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="846"/>
         <source>Conflicting applications disabled</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="818"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="847"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="875"/>
+        <source>Keyboard Hook enabled</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
+        <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="881"/>
+        <source>Keyboard Hook disabled</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="882"/>
+        <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="894"/>
+        <source>Trial Notification enabled</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="895"/>
+        <source>Iris will remind you when your trial expires</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="900"/>
+        <source>Trial Notification disabled</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="901"/>
+        <source>Iris will no logner remind you when your trial expires</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>ImportSettings</name>
+    <message>
+        <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
+        <source>Open File...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
+        <source>Iris Settings File (*.iris_settings *.iris)</source>
         <translation></translation>
     </message>
 </context>
@@ -709,246 +779,246 @@ http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="706"/>
+        <location filename="../../src/MainWindow.cpp" line="710"/>
         <source>until</source>
         <translation>until</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="718"/>
+        <location filename="../../src/MainWindow.cpp" line="722"/>
         <source>rest</source>
         <translation>rest</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="740"/>
+        <location filename="../../src/MainWindow.cpp" line="744"/>
         <source>work</source>
         <translation>work</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="854"/>
+        <location filename="../../src/MainWindow.cpp" line="858"/>
         <source>Expired</source>
         <translation>Expired</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="858"/>
+        <location filename="../../src/MainWindow.cpp" line="862"/>
         <source>Paused</source>
         <translation>Paused</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1046"/>
-        <location filename="../../src/MainWindow.cpp" line="1156"/>
+        <location filename="../../src/MainWindow.cpp" line="1050"/>
+        <location filename="../../src/MainWindow.cpp" line="1160"/>
         <source>Day start time</source>
         <translation>Day start time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1048"/>
-        <location filename="../../src/MainWindow.cpp" line="1158"/>
+        <location filename="../../src/MainWindow.cpp" line="1052"/>
+        <location filename="../../src/MainWindow.cpp" line="1162"/>
         <source>Day transition start time</source>
         <translation>Day transition start time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1050"/>
-        <location filename="../../src/MainWindow.cpp" line="1160"/>
+        <location filename="../../src/MainWindow.cpp" line="1054"/>
+        <location filename="../../src/MainWindow.cpp" line="1164"/>
         <source>Day transition end time</source>
         <translation>Day transition end time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1052"/>
-        <location filename="../../src/MainWindow.cpp" line="1162"/>
+        <location filename="../../src/MainWindow.cpp" line="1056"/>
+        <location filename="../../src/MainWindow.cpp" line="1166"/>
         <source>Day end time</source>
         <translation>Day end time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1057"/>
-        <location filename="../../src/MainWindow.cpp" line="1167"/>
+        <location filename="../../src/MainWindow.cpp" line="1061"/>
+        <location filename="../../src/MainWindow.cpp" line="1171"/>
         <source>Night start time</source>
         <translation>Night start time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1059"/>
-        <location filename="../../src/MainWindow.cpp" line="1169"/>
+        <location filename="../../src/MainWindow.cpp" line="1063"/>
+        <location filename="../../src/MainWindow.cpp" line="1173"/>
         <source>Night transition start time</source>
         <translation>Night transition start time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1061"/>
-        <location filename="../../src/MainWindow.cpp" line="1171"/>
+        <location filename="../../src/MainWindow.cpp" line="1065"/>
+        <location filename="../../src/MainWindow.cpp" line="1175"/>
         <source>Night transition end time</source>
         <translation>Night transition end time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1063"/>
-        <location filename="../../src/MainWindow.cpp" line="1173"/>
+        <location filename="../../src/MainWindow.cpp" line="1067"/>
+        <location filename="../../src/MainWindow.cpp" line="1177"/>
         <source>Night end time</source>
         <translation>Night end time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1068"/>
-        <location filename="../../src/MainWindow.cpp" line="1178"/>
+        <location filename="../../src/MainWindow.cpp" line="1072"/>
+        <location filename="../../src/MainWindow.cpp" line="1182"/>
         <source>Bedtime</source>
         <translation>Bedtime</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1070"/>
-        <location filename="../../src/MainWindow.cpp" line="1180"/>
+        <location filename="../../src/MainWindow.cpp" line="1074"/>
+        <location filename="../../src/MainWindow.cpp" line="1184"/>
         <source>Bedtime transition start time</source>
         <translation>Bedtime transition start time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1072"/>
-        <location filename="../../src/MainWindow.cpp" line="1182"/>
+        <location filename="../../src/MainWindow.cpp" line="1076"/>
+        <location filename="../../src/MainWindow.cpp" line="1186"/>
         <source>Bedtime transition end time</source>
         <translation>Bedtime transition end time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1074"/>
-        <location filename="../../src/MainWindow.cpp" line="1184"/>
+        <location filename="../../src/MainWindow.cpp" line="1078"/>
+        <location filename="../../src/MainWindow.cpp" line="1188"/>
         <source>Bedtime end time</source>
         <translation>Bedtime end time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1079"/>
-        <location filename="../../src/MainWindow.cpp" line="1189"/>
+        <location filename="../../src/MainWindow.cpp" line="1083"/>
+        <location filename="../../src/MainWindow.cpp" line="1193"/>
         <source>Wake time</source>
         <translation>Wake time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1081"/>
-        <location filename="../../src/MainWindow.cpp" line="1191"/>
+        <location filename="../../src/MainWindow.cpp" line="1085"/>
+        <location filename="../../src/MainWindow.cpp" line="1195"/>
         <source>Wake time transition start time</source>
         <translation>Wake time transition start time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1083"/>
-        <location filename="../../src/MainWindow.cpp" line="1193"/>
+        <location filename="../../src/MainWindow.cpp" line="1087"/>
+        <location filename="../../src/MainWindow.cpp" line="1197"/>
         <source>Wake time transition end time</source>
         <translation>Wake time transition end time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1085"/>
-        <location filename="../../src/MainWindow.cpp" line="1195"/>
+        <location filename="../../src/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/MainWindow.cpp" line="1199"/>
         <source>Wake time end time</source>
         <translation>Wake time end time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1090"/>
-        <location filename="../../src/MainWindow.cpp" line="1200"/>
+        <location filename="../../src/MainWindow.cpp" line="1094"/>
+        <location filename="../../src/MainWindow.cpp" line="1204"/>
         <source>Day duration</source>
         <translation>Day duration</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1092"/>
-        <location filename="../../src/MainWindow.cpp" line="1202"/>
+        <location filename="../../src/MainWindow.cpp" line="1096"/>
+        <location filename="../../src/MainWindow.cpp" line="1206"/>
         <source>Day transition duration</source>
         <translation>Day transition duration</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1094"/>
-        <location filename="../../src/MainWindow.cpp" line="1204"/>
+        <location filename="../../src/MainWindow.cpp" line="1098"/>
+        <location filename="../../src/MainWindow.cpp" line="1208"/>
         <source>Night duration</source>
         <translation>Night duration</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1096"/>
-        <location filename="../../src/MainWindow.cpp" line="1206"/>
+        <location filename="../../src/MainWindow.cpp" line="1100"/>
+        <location filename="../../src/MainWindow.cpp" line="1210"/>
         <source>Night transition duration</source>
         <translation>Night transition duration</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1098"/>
-        <location filename="../../src/MainWindow.cpp" line="1208"/>
+        <location filename="../../src/MainWindow.cpp" line="1102"/>
+        <location filename="../../src/MainWindow.cpp" line="1212"/>
         <source>Sleep duration</source>
         <translation>Sleep duration</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1100"/>
-        <location filename="../../src/MainWindow.cpp" line="1210"/>
+        <location filename="../../src/MainWindow.cpp" line="1104"/>
+        <location filename="../../src/MainWindow.cpp" line="1214"/>
         <source>Sleep transition duration</source>
         <translation>Sleep transition duration</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1106"/>
+        <location filename="../../src/MainWindow.cpp" line="1110"/>
         <source>Time zone</source>
         <translation>Time zone</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1108"/>
+        <location filename="../../src/MainWindow.cpp" line="1112"/>
         <source>Custom Time zone offset</source>
         <translation>Custom Time zone offset</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1113"/>
+        <location filename="../../src/MainWindow.cpp" line="1117"/>
         <source>Sunrise time</source>
         <translation>Sunrise time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1115"/>
+        <location filename="../../src/MainWindow.cpp" line="1119"/>
         <source>Sunset time</source>
         <translation>Sunset time</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1120"/>
+        <location filename="../../src/MainWindow.cpp" line="1124"/>
         <source>New moon offset</source>
         <translation>New moon offset</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1122"/>
+        <location filename="../../src/MainWindow.cpp" line="1126"/>
         <source>Full moon offset</source>
         <translation>Full moon offset</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1124"/>
+        <location filename="../../src/MainWindow.cpp" line="1128"/>
         <source>Current moon offset</source>
         <translation>Current moon offset</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1710"/>
+        <location filename="../../src/MainWindow.cpp" line="1714"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro needed</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1711"/>
+        <location filename="../../src/MainWindow.cpp" line="1715"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>You need Iris Pro to access this section.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2240"/>
+        <location filename="../../src/MainWindow.cpp" line="2244"/>
         <source>Relaunch Iris</source>
         <translation>Relaunch Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2241"/>
+        <location filename="../../src/MainWindow.cpp" line="2245"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>You need to relaunch Iris for changes to take effect.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2243"/>
+        <location filename="../../src/MainWindow.cpp" line="2247"/>
         <source>Relaunch now</source>
         <translation>Relaunch now</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2244"/>
+        <location filename="../../src/MainWindow.cpp" line="2248"/>
         <source>Later</source>
         <translation>Later</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2260"/>
-        <location filename="../../src/MainWindow.cpp" line="2325"/>
+        <location filename="../../src/MainWindow.cpp" line="2264"/>
+        <location filename="../../src/MainWindow.cpp" line="2329"/>
         <source>Restart is needed</source>
         <translation>Restart is needed</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2261"/>
-        <location filename="../../src/MainWindow.cpp" line="2325"/>
+        <location filename="../../src/MainWindow.cpp" line="2265"/>
+        <location filename="../../src/MainWindow.cpp" line="2329"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris made some changes on your system and restart is needed for changes to take effect.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3691"/>
+        <location filename="../../src/MainWindow.cpp" line="3707"/>
         <source>WARNING!!!</source>
         <translation>WARNING!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3692"/>
+        <location filename="../../src/MainWindow.cpp" line="3708"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1083,35 +1153,35 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>RestTimer</name>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <source>hour</source>
         <translation>hour</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <source>min</source>
         <translation>min</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="366"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="370"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="374"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="375"/>
         <source>sec</source>
         <translation>sec</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>reminds you that a big rest will occur in</source>
         <translation>reminds you that a big rest will occur in</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="426"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>minutes</source>
         <translation>minutes</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="431"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
         <translation></translation>
     </message>
@@ -1242,8 +1312,8 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="415"/>
-        <location filename="../../src/translation/Translator.cpp" line="679"/>
-        <location filename="../../src/translation/Translator.cpp" line="730"/>
+        <location filename="../../src/translation/Translator.cpp" line="680"/>
+        <location filename="../../src/translation/Translator.cpp" line="731"/>
         <source>ACTIVATE_CODE</source>
         <translation>Activate code</translation>
     </message>
@@ -2116,122 +2186,127 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation>Sync</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="698"/>
+        <location filename="../../src/translation/Translator.cpp" line="667"/>
+        <source>RE_CHECK_INVITE</source>
+        <translation>Re-check Invite</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="699"/>
         <source>CZECH</source>
         <translation>Czech</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="699"/>
+        <location filename="../../src/translation/Translator.cpp" line="700"/>
         <source>UKRAINIAN</source>
         <translation>Ukrainian</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="701"/>
+        <location filename="../../src/translation/Translator.cpp" line="702"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Hidden features</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="702"/>
+        <location filename="../../src/translation/Translator.cpp" line="703"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Enter your spell:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="703"/>
+        <location filename="../../src/translation/Translator.cpp" line="704"/>
         <source>ACTIVATE</source>
         <translation>Activate</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="705"/>
+        <location filename="../../src/translation/Translator.cpp" line="706"/>
         <source>ADVANCED_DEBUG</source>
         <translation>Debug</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="706"/>
+        <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>DEBUG_INFORMATION</source>
         <translation>Debug Information</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="715"/>
+        <location filename="../../src/translation/Translator.cpp" line="716"/>
         <source>SKIP_REST</source>
         <translation>Skip Rest</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>NORMAL</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>STRICT</source>
         <translation>Strict</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>CONTINUE</source>
         <translation>Continue</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>REST_MODE</source>
         <translation>Rest mode</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>You are in rest mode now. Edit the timer in the settings panel.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="721"/>
+        <location filename="../../src/translation/Translator.cpp" line="722"/>
         <source>TIME_IS</source>
         <translation>The time is</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>START_WORKING</source>
         <translation>Start working</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>HAVE_A_BREAK</source>
         <translation>Have a break</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>ADD</source>
         <translation>Add</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>REMOVE</source>
         <translation>Remove</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="731"/>
+        <location filename="../../src/translation/Translator.cpp" line="732"/>
         <source>BUY</source>
         <translation>Buy</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>BUY_NOW</source>
         <translation>Buy now</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>min</source>
         <translation>min</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="734"/>
+        <location filename="../../src/translation/Translator.cpp" line="735"/>
         <source>sec</source>
         <translation>sec</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="735"/>
+        <location filename="../../src/translation/Translator.cpp" line="736"/>
         <source>ON</source>
         <translation>ON</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>OFF</source>
         <translation>OFF</translation>
     </message>
@@ -2392,157 +2467,157 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation>Hide blink screen</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="668"/>
+        <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>Exercises</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="669"/>
+        <location filename="../../src/translation/Translator.cpp" line="670"/>
         <source>START_EYE_EXERCISES</source>
         <translation>Start eye exercises</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="670"/>
+        <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>START_NECK_EXERCISES</source>
         <translation>Start neck exercises</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="671"/>
+        <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>START_BACK_EXERCISES</source>
         <translation>Start back exercises</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="673"/>
+        <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>Iris model</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="674"/>
+        <location filename="../../src/translation/Translator.cpp" line="675"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>Switch to Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="675"/>
+        <location filename="../../src/translation/Translator.cpp" line="676"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>Switch to Iris lite</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="677"/>
+        <location filename="../../src/translation/Translator.cpp" line="678"/>
         <source>ADVANCED_LICENSE</source>
         <translation>License</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="678"/>
+        <location filename="../../src/translation/Translator.cpp" line="679"/>
         <source>GET_IRIS_PRO</source>
         <translation>Get Iris Pro</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="681"/>
+        <location filename="../../src/translation/Translator.cpp" line="682"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>Language</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="682"/>
+        <location filename="../../src/translation/Translator.cpp" line="683"/>
         <source>LANGUAGE</source>
         <translation>Language</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="683"/>
+        <location filename="../../src/translation/Translator.cpp" line="684"/>
         <source>ENGLISH</source>
         <translation>English</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="684"/>
+        <location filename="../../src/translation/Translator.cpp" line="685"/>
         <source>RUSSIAN</source>
         <translation>Russian</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="685"/>
+        <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>SPANISH</source>
         <translation>Spanish</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="686"/>
+        <location filename="../../src/translation/Translator.cpp" line="687"/>
         <source>CHINESE</source>
         <translation>Chinese</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="687"/>
+        <location filename="../../src/translation/Translator.cpp" line="688"/>
         <source>INDIAN</source>
         <translation>Indian</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="688"/>
+        <location filename="../../src/translation/Translator.cpp" line="689"/>
         <source>JAPANESE</source>
         <translation>Japanese</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="689"/>
+        <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>ARABIC</source>
         <translation>Arabic</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="690"/>
+        <location filename="../../src/translation/Translator.cpp" line="691"/>
         <source>TURKISH</source>
         <translation>Turkish</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="691"/>
+        <location filename="../../src/translation/Translator.cpp" line="692"/>
         <source>PORTUGUESE</source>
         <translation>Portuguese</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="692"/>
+        <location filename="../../src/translation/Translator.cpp" line="693"/>
         <source>FRENCH</source>
         <translation>French</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="693"/>
+        <location filename="../../src/translation/Translator.cpp" line="694"/>
         <source>GERMAN</source>
         <translation>German</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="694"/>
+        <location filename="../../src/translation/Translator.cpp" line="695"/>
         <source>KOREAN</source>
         <translation>Korean</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="695"/>
+        <location filename="../../src/translation/Translator.cpp" line="696"/>
         <source>ITALIAN</source>
         <translation>Italian</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="696"/>
+        <location filename="../../src/translation/Translator.cpp" line="697"/>
         <source>BULGARIAN</source>
         <translation>Bulgarian</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="697"/>
+        <location filename="../../src/translation/Translator.cpp" line="698"/>
         <source>GREEK</source>
         <translation>Greek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <location filename="../../src/translation/Translator.cpp" line="709"/>
         <source>ADVANCED_ABOUT</source>
         <translation>About</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>NAME</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>VERSION</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>PUBLISHER</source>
         <translation>Publisher</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="712"/>
+        <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>WEBSITE</source>
         <translation>Website</translation>
     </message>
