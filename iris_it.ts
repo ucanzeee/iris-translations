@@ -606,138 +606,141 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <name>License</name>
     <message>
         <location filename="../../src/licensing/License.cpp" line="135"/>
-        <location filename="../../src/licensing/License.cpp" line="215"/>
+        <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
         <translation>Il tuo Iris è ora Pro</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="137"/>
-        <location filename="../../src/licensing/License.cpp" line="139"/>
         <source>Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>La ringrazio molto per il sostegno Iris! :)
+        <translation type="vanished">La ringrazio molto per il sostegno Iris! :)
 Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="152"/>
+        <location filename="../../src/licensing/License.cpp" line="137"/>
+        <source>Thank you very much for supporting Iris! :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/licensing/License.cpp" line="149"/>
         <source>License Expired</source>
         <translation>Licenza scaduta</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="153"/>
+        <location filename="../../src/licensing/License.cpp" line="150"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
         <translation>La tua licenza Iris Pro è scaduta. Puoi acquistare un nuovo codice di attivazione da</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="165"/>
+        <location filename="../../src/licensing/License.cpp" line="162"/>
         <source>Already used</source>
         <translation>Già usato</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="166"/>
+        <location filename="../../src/licensing/License.cpp" line="163"/>
         <source>You have already used this code on another machine</source>
         <translation>Hai già utilizzato questo codice su un&apos;altra macchina</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="175"/>
+        <location filename="../../src/licensing/License.cpp" line="172"/>
         <source>Other version</source>
         <translation>Altre versioni</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="176"/>
+        <location filename="../../src/licensing/License.cpp" line="173"/>
         <source>You have already used this code with other version of Iris. Download and use the old version again or buy new activation code.</source>
         <translation>Hai già utilizzato questo codice con altra versione di Iris. Scaricare e usare ancora la vecchia versione o comprare nuovo codice di attivazione.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="185"/>
+        <location filename="../../src/licensing/License.cpp" line="182"/>
         <source>No such code</source>
         <translation>No tale codice</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="186"/>
+        <location filename="../../src/licensing/License.cpp" line="183"/>
         <source>There is no such activation code</source>
         <translation>Non esiste codice di attivazione</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="195"/>
+        <location filename="../../src/licensing/License.cpp" line="192"/>
         <source>No giveaway</source>
         <translation>No giveaway</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="196"/>
+        <location filename="../../src/licensing/License.cpp" line="193"/>
         <source>There is no active giveaway right now</source>
         <translation>Non v&apos;è alcun giveaway attiva in questo momento</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="205"/>
+        <location filename="../../src/licensing/License.cpp" line="202"/>
         <source>This code is for Iris mini</source>
         <translation>Questo codice è per Iris mini</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="206"/>
+        <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
         <translation>Si tratta di Iris e il tuo codice di attivazione è per Iris mini. Scarica Iris mini da
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="217"/>
-        <location filename="../../src/licensing/License.cpp" line="219"/>
+        <location filename="../../src/licensing/License.cpp" line="214"/>
+        <location filename="../../src/licensing/License.cpp" line="216"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
         <translation>attivazione della licenza squadra. La ringrazio molto per il sostegno Iris! :)
 Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="231"/>
+        <location filename="../../src/licensing/License.cpp" line="228"/>
         <source>Team license code for Iris mini</source>
         <translation>codice di licenza della squadra per Iris mini</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="232"/>
+        <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
         <translation>Si tratta di Iris e codici di licenza squadra rimanenti sono per Iris mini. Scarica Iris mini da
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="241"/>
+        <location filename="../../src/licensing/License.cpp" line="238"/>
         <source>No more Team activations</source>
         <translation>Nessun altro attivazioni team</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="242"/>
+        <location filename="../../src/licensing/License.cpp" line="239"/>
         <source>You have used all your Team license activations.</source>
         <translation>Hai utilizzato tutti i attivazioni di licenza Team.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="251"/>
+        <location filename="../../src/licensing/License.cpp" line="248"/>
         <source>No such Team license</source>
         <translation>Nessun tale licenza squadra</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="252"/>
+        <location filename="../../src/licensing/License.cpp" line="249"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
         <translation>Non esiste una licenza della squadra per Iris Iris o mini.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="261"/>
+        <location filename="../../src/licensing/License.cpp" line="258"/>
         <source>Iris offline activation</source>
         <translation>Attivazione non in linea Iris</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="263"/>
-        <location filename="../../src/licensing/License.cpp" line="265"/>
+        <location filename="../../src/licensing/License.cpp" line="260"/>
+        <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
         <translation>Il tuo Iris è ora Pro. Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="277"/>
+        <location filename="../../src/licensing/License.cpp" line="274"/>
         <source>Invalid response</source>
         <translation>Risposta non valida</translation>
     </message>
     <message>
-        <location filename="../../src/licensing/License.cpp" line="280"/>
+        <location filename="../../src/licensing/License.cpp" line="277"/>
         <source>. Maybe you are not connected to the internet?</source>
         <translation>. Forse non si è connessi a Internet?</translation>
     </message>
@@ -775,246 +778,246 @@ http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="710"/>
+        <location filename="../../src/MainWindow.cpp" line="721"/>
         <source>until</source>
         <translation>fino a</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="722"/>
+        <location filename="../../src/MainWindow.cpp" line="733"/>
         <source>rest</source>
         <translation>riposo</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="744"/>
+        <location filename="../../src/MainWindow.cpp" line="755"/>
         <source>work</source>
         <translation>lavoro</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="858"/>
+        <location filename="../../src/MainWindow.cpp" line="869"/>
         <source>Expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="862"/>
+        <location filename="../../src/MainWindow.cpp" line="873"/>
         <source>Paused</source>
         <translation>In pausa</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1050"/>
-        <location filename="../../src/MainWindow.cpp" line="1160"/>
+        <location filename="../../src/MainWindow.cpp" line="1061"/>
+        <location filename="../../src/MainWindow.cpp" line="1171"/>
         <source>Day start time</source>
         <translation>Giorno di inizio del giorno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1052"/>
-        <location filename="../../src/MainWindow.cpp" line="1162"/>
+        <location filename="../../src/MainWindow.cpp" line="1063"/>
+        <location filename="../../src/MainWindow.cpp" line="1173"/>
         <source>Day transition start time</source>
         <translation>Ora di inizio della transizione giornaliera</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1054"/>
-        <location filename="../../src/MainWindow.cpp" line="1164"/>
+        <location filename="../../src/MainWindow.cpp" line="1065"/>
+        <location filename="../../src/MainWindow.cpp" line="1175"/>
         <source>Day transition end time</source>
         <translation>Termine di transizione giornaliero</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1056"/>
-        <location filename="../../src/MainWindow.cpp" line="1166"/>
+        <location filename="../../src/MainWindow.cpp" line="1067"/>
+        <location filename="../../src/MainWindow.cpp" line="1177"/>
         <source>Day end time</source>
         <translation>L&apos;ora di fine giornata</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1061"/>
-        <location filename="../../src/MainWindow.cpp" line="1171"/>
+        <location filename="../../src/MainWindow.cpp" line="1072"/>
+        <location filename="../../src/MainWindow.cpp" line="1182"/>
         <source>Night start time</source>
         <translation>Ora di inizio notturno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1063"/>
-        <location filename="../../src/MainWindow.cpp" line="1173"/>
+        <location filename="../../src/MainWindow.cpp" line="1074"/>
+        <location filename="../../src/MainWindow.cpp" line="1184"/>
         <source>Night transition start time</source>
         <translation>Ora di inizio della transizione notturna</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1065"/>
-        <location filename="../../src/MainWindow.cpp" line="1175"/>
+        <location filename="../../src/MainWindow.cpp" line="1076"/>
+        <location filename="../../src/MainWindow.cpp" line="1186"/>
         <source>Night transition end time</source>
         <translation>Termine di transizione della notte</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1067"/>
-        <location filename="../../src/MainWindow.cpp" line="1177"/>
+        <location filename="../../src/MainWindow.cpp" line="1078"/>
+        <location filename="../../src/MainWindow.cpp" line="1188"/>
         <source>Night end time</source>
         <translation>Tempo di fine notte</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1072"/>
-        <location filename="../../src/MainWindow.cpp" line="1182"/>
+        <location filename="../../src/MainWindow.cpp" line="1083"/>
+        <location filename="../../src/MainWindow.cpp" line="1193"/>
         <source>Bedtime</source>
         <translation>Bedtime</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1074"/>
-        <location filename="../../src/MainWindow.cpp" line="1184"/>
+        <location filename="../../src/MainWindow.cpp" line="1085"/>
+        <location filename="../../src/MainWindow.cpp" line="1195"/>
         <source>Bedtime transition start time</source>
         <translation>Ora di inizio della transizione di base</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1076"/>
-        <location filename="../../src/MainWindow.cpp" line="1186"/>
+        <location filename="../../src/MainWindow.cpp" line="1087"/>
+        <location filename="../../src/MainWindow.cpp" line="1197"/>
         <source>Bedtime transition end time</source>
         <translation>Tempo di fine transizione di base</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1078"/>
-        <location filename="../../src/MainWindow.cpp" line="1188"/>
+        <location filename="../../src/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/MainWindow.cpp" line="1199"/>
         <source>Bedtime end time</source>
         <translation>Orario di fine soggiorno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1083"/>
-        <location filename="../../src/MainWindow.cpp" line="1193"/>
+        <location filename="../../src/MainWindow.cpp" line="1094"/>
+        <location filename="../../src/MainWindow.cpp" line="1204"/>
         <source>Wake time</source>
         <translation>Tempo di risveglio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1085"/>
-        <location filename="../../src/MainWindow.cpp" line="1195"/>
+        <location filename="../../src/MainWindow.cpp" line="1096"/>
+        <location filename="../../src/MainWindow.cpp" line="1206"/>
         <source>Wake time transition start time</source>
         <translation>Ora di inizio della transizione del tempo di risveglio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1087"/>
-        <location filename="../../src/MainWindow.cpp" line="1197"/>
+        <location filename="../../src/MainWindow.cpp" line="1098"/>
+        <location filename="../../src/MainWindow.cpp" line="1208"/>
         <source>Wake time transition end time</source>
         <translation>Termine di transizione del tempo di risveglio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1089"/>
-        <location filename="../../src/MainWindow.cpp" line="1199"/>
+        <location filename="../../src/MainWindow.cpp" line="1100"/>
+        <location filename="../../src/MainWindow.cpp" line="1210"/>
         <source>Wake time end time</source>
         <translation>Termine di sveglia</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1094"/>
-        <location filename="../../src/MainWindow.cpp" line="1204"/>
+        <location filename="../../src/MainWindow.cpp" line="1105"/>
+        <location filename="../../src/MainWindow.cpp" line="1215"/>
         <source>Day duration</source>
         <translation>Durata giornaliera</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1096"/>
-        <location filename="../../src/MainWindow.cpp" line="1206"/>
+        <location filename="../../src/MainWindow.cpp" line="1107"/>
+        <location filename="../../src/MainWindow.cpp" line="1217"/>
         <source>Day transition duration</source>
         <translation>Durata della transizione giornaliera</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1098"/>
-        <location filename="../../src/MainWindow.cpp" line="1208"/>
+        <location filename="../../src/MainWindow.cpp" line="1109"/>
+        <location filename="../../src/MainWindow.cpp" line="1219"/>
         <source>Night duration</source>
         <translation>Durata notturna</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1100"/>
-        <location filename="../../src/MainWindow.cpp" line="1210"/>
+        <location filename="../../src/MainWindow.cpp" line="1111"/>
+        <location filename="../../src/MainWindow.cpp" line="1221"/>
         <source>Night transition duration</source>
         <translation>Durata della transizione notturna</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1102"/>
-        <location filename="../../src/MainWindow.cpp" line="1212"/>
+        <location filename="../../src/MainWindow.cpp" line="1113"/>
+        <location filename="../../src/MainWindow.cpp" line="1223"/>
         <source>Sleep duration</source>
         <translation>Durata del sonno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1104"/>
-        <location filename="../../src/MainWindow.cpp" line="1214"/>
+        <location filename="../../src/MainWindow.cpp" line="1115"/>
+        <location filename="../../src/MainWindow.cpp" line="1225"/>
         <source>Sleep transition duration</source>
         <translation>Durata della transizione sonno</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1110"/>
+        <location filename="../../src/MainWindow.cpp" line="1121"/>
         <source>Time zone</source>
         <translation>Fuso orario</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1112"/>
+        <location filename="../../src/MainWindow.cpp" line="1123"/>
         <source>Custom Time zone offset</source>
         <translation>Offset del fuso orario personalizzato</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1117"/>
+        <location filename="../../src/MainWindow.cpp" line="1128"/>
         <source>Sunrise time</source>
         <translation>Tempo di alba</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1119"/>
+        <location filename="../../src/MainWindow.cpp" line="1130"/>
         <source>Sunset time</source>
         <translation>Tempo di tramonto</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1124"/>
+        <location filename="../../src/MainWindow.cpp" line="1135"/>
         <source>New moon offset</source>
         <translation>Nuova luna offset</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1126"/>
+        <location filename="../../src/MainWindow.cpp" line="1137"/>
         <source>Full moon offset</source>
         <translation>Offset di luna piena</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1128"/>
+        <location filename="../../src/MainWindow.cpp" line="1139"/>
         <source>Current moon offset</source>
         <translation>Correzione della luna corrente</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1714"/>
+        <location filename="../../src/MainWindow.cpp" line="1725"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro necessaria</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1715"/>
+        <location filename="../../src/MainWindow.cpp" line="1726"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>È necessario Iris Pro per accedere a questa sezione.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2244"/>
+        <location filename="../../src/MainWindow.cpp" line="2255"/>
         <source>Relaunch Iris</source>
         <translation>Rilanciare Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2245"/>
+        <location filename="../../src/MainWindow.cpp" line="2256"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>È necessario rilanciare Iris per le modifiche abbiano effetto.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2247"/>
+        <location filename="../../src/MainWindow.cpp" line="2258"/>
         <source>Relaunch now</source>
         <translation>Rilanciare ora</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2248"/>
+        <location filename="../../src/MainWindow.cpp" line="2259"/>
         <source>Later</source>
         <translation>Dopo</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2264"/>
-        <location filename="../../src/MainWindow.cpp" line="2329"/>
+        <location filename="../../src/MainWindow.cpp" line="2275"/>
+        <location filename="../../src/MainWindow.cpp" line="2340"/>
         <source>Restart is needed</source>
         <translation>è necessario riavvio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2265"/>
-        <location filename="../../src/MainWindow.cpp" line="2329"/>
+        <location filename="../../src/MainWindow.cpp" line="2276"/>
+        <location filename="../../src/MainWindow.cpp" line="2340"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris ha apportato alcune modifiche nel sistema e riavviare è necessario per rendere effettive le modifiche.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3707"/>
+        <location filename="../../src/MainWindow.cpp" line="3679"/>
         <source>WARNING!!!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3708"/>
+        <location filename="../../src/MainWindow.cpp" line="3680"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
