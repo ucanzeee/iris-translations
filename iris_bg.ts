@@ -138,456 +138,456 @@ Note that Iris will work fine now, but with limited color changes.</source>
 <context>
     <name>HiddenFeatures</name>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="328"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="333"/>
         <source>Invalid spell</source>
         <translation>Невалидно заклинание</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="329"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="334"/>
         <source>The spell</source>
         <translation>Заклинанието</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="331"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="336"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
         <translation> изглежда грешно. Проверете синтаксиса или опитайте с някоя друга скрита функционалност.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="332"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="337"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
         <translation>Използвайте &quot;help&quot;, за да видите списък от всички скрити функционалности :)</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="355"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="378"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="360"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="383"/>
         <source>Invalid temperature</source>
         <translation>Невалидна температура</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="358"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="381"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="363"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="386"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
         <translation>е невалидна стойност за цветна температура. Използвайте числа между 0 и 10 000.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="365"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="388"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="370"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="393"/>
         <source>Temperature changed</source>
         <translation>Температурата е променена</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="366"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="389"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="371"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="394"/>
         <source>Color temperature changed to</source>
         <translation>Цветната температура е променена на</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="401"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="424"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="406"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="429"/>
         <source>Invalid brightness</source>
         <translation>Невалидна яркост</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="404"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="427"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="409"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="432"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
         <translation>е невалидна стойност за яркост. Използвайте числа между 10 и 100</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="411"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="434"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="416"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="439"/>
         <source>Brightness changed</source>
         <translation>Яркостта е променена</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="412"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="435"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="417"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="440"/>
         <source>Brightness changed to</source>
         <translation>Яркостта е променена на</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="464"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="469"/>
         <source>Gamma fixer disabled</source>
         <translation>Гама фиксаторът е изключен</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="465"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="470"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
         <translation>Гама фиксаторът е изключен. Ако екранът Ви изведнъж стане много ярък, включете го отново или натиснете иконата на Iris mini няколко пъти за промяна на цветовете на екрана.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="470"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="475"/>
         <source>Gamma fixer enabled</source>
         <translation>Гама фиксаторът е включен</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="471"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
         <translation>Гама фиксаторът е включен. Ако забележите чести промени на цветовете, изключете го. Гама фиксаторът се използва, защото Windows игнорира отвреме-навреме промените, направени от Iris mini.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="501"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="506"/>
         <source>Start at startup enabled</source>
         <translation>Разрешено стартиране при зареждане на ОС</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="507"/>
         <source>Iris mini will start when you turn ON your computer</source>
         <translation>Iris mini ще се стартира при включване на компютъра</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="507"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="512"/>
         <source>Start at startup disabled</source>
         <translation>Забранено стартиране при зареждане на ОС</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="508"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="513"/>
         <source>Iris mini will not start when you turn ON your computer</source>
         <translation>Iris mini няма да стартира при включване на компютъра</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="537"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="542"/>
         <source>Tray icon rotation is enabled</source>
         <translation>Разрешена анимация на иконата</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="538"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="543"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation>Иконата в полето до часовника ще се върти, когато Iris променя цветовете на екрана. Това се използва, когато Iris mini променя цветовете и екранът не е калибриран</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="543"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
         <source>Tray icon rotation is disabled</source>
         <translation>Забранена анимация на иконата</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="544"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="549"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation>Иконата в полето до часовника няма да се върти, когато Iris променя цветовете на екрана. Това се използва, когато Iris mini променя цветовете и екранът не е калибриран</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="560"/>
         <source>Manual temperature enabled</source>
         <translation>Разрешена ръчна настройка на температурата</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
         <source>You are now using Iris Mixed mode</source>
         <translation>Сега използвате режим Iris Mixed</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="566"/>
         <source>Manual temperature disabled</source>
         <translation>Забранена ръчна настройка на температурата</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="562"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="567"/>
         <source>Iris will use your selected mode for temperature again</source>
         <translation>Iris ще използва отново избраната от Вас температура</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="573"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="578"/>
         <source>Manual brightness enabled</source>
         <translation>Разрешена ръчна настройка на яркостта</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="574"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="579"/>
         <source>You are now using Iris mini Mixed mode</source>
         <translation>Сега използвате режим Iris mini Mixed</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="579"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="584"/>
         <source>Manual brightness disabled</source>
         <translation>Забранена ръчна настройка на яркостта</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="580"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
         <source>Iris mini will use your selected mode for brightness again</source>
         <translation>Iris ще използва отново избрания от Вас режим на яркост</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="600"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="597"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="605"/>
         <source>Monitor</source>
         <translation>Монитор</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="593"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="598"/>
         <source> disabled</source>
         <translation> забранен</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="594"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="599"/>
         <source>Iris will not apply color changes to Monitor</source>
         <translation>Iris няма да приложи цветовите промени за монитор</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="601"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="606"/>
         <source> enabled</source>
         <translation> разрешен</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="602"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="607"/>
         <source>Iris will apply color changes to Monitor</source>
         <translation>Iris ще приложи цветовите промени за монитор</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="613"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="618"/>
         <source>Reset colors</source>
         <translation>Изчистване на цветовете</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="614"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="619"/>
         <source>Screen colors are reset to default values</source>
         <translation>Екранните цветове са върнати към стойностите по подразбиране</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
         <source>Reset settings</source>
         <translation>Изчистване на настройките</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="624"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris settings are reset to default values</source>
         <translation>Настройките на Iris са върнати към стойностите по подразбиране</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="634"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="639"/>
         <source>Invert</source>
         <translation>Инверсия</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="635"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="640"/>
         <source>Colors are inverted</source>
         <translation>Цветовете са инвертирани</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="645"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="650"/>
         <source>Zero blue light</source>
         <translation>Нулиране на синята светлина</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="646"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="651"/>
         <source>All blue light is removed from the screen</source>
         <translation>Всички сини оттенъци са премахнати от екрана</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="657"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="662"/>
         <source>Gamma preservation enabled</source>
         <translation>Разрешено запазване на гама-настройките</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="663"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
         <translation>Iris ще запази Вашата калибровка на цветовете. Спрете и стартирайте Iris mini и програмата ще запази цветовете Ви през целия ден.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="663"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="668"/>
         <source>Gamma preservation disabled</source>
         <translation>Забранено запазване на гама-настройките</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="669"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
         <translation>Iris няма да запази Вашата калибровка на цветовете. Програмата ще използва настройките на монитора по подразбиране</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="674"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="679"/>
         <source>Notifications enabled</source>
         <translation>Разрешени известия</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="675"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="680"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
         <translation>Известията за скритите функционалности са разрешени. Ще ги виждате, така че да знаете, че заклинанието Ви е прието</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="680"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="685"/>
         <source>Notifications disabled</source>
         <translation>Забранени известия</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="681"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="686"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
         <translation>Известията за скритите функционалности са забранени. Това е последното известие, което ще видите</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="719"/>
         <source>Manual location enabled</source>
         <translation>Разрешена ръчна локация</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="720"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
         <translation>Iris mini ще използва локация, която въведете. Задайте географска ширина и дължина чрез скритите функционалности</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="720"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="725"/>
         <source>Manual location disabled</source>
         <translation>Забранена ръчна локация</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="726"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris mini ще използва автоматична локация за изчисляване на положението на слънцето и продължителността на нощта</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="733"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="738"/>
         <source>Manual night duration enabled</source>
         <translation>Разрешено ръчно задаване продължителност на нощта</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="739"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
         <translation>Iris mini ще използва продължителност на нощта, която въведете. Задайте начало и край чрез скритите функционалности</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="739"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="744"/>
         <source>Manual night duration disabled</source>
         <translation>Забранено ръчно задаване продължителност на нощта</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="740"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris mini ще използва автоматична продължителност на нощта, базирана на локацията</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="751"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
         <source>Invalid Night start time</source>
         <translation>Невалидно време за начало на нощта</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="754"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="759"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
         <translation>е невалидно време за начало на нощта. Използвайте числа от 0 до 24.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="761"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="766"/>
         <source>Night start time changed</source>
         <translation>Началото на нощта е променено</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="762"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
         <source>Manual night start time changed to</source>
         <translation>Началото на нощта е променено на</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="774"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
         <source>Invalid Night end time</source>
         <translation>Невалидно време за край на нощта</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="777"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="782"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
         <translation>е невалидно време за край на нощта. Използвайте числа от 0 до 24.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="784"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="789"/>
         <source>Night end time changed</source>
         <translation>Краят на нощта е променен</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="790"/>
         <source>Manual night end time changed to</source>
         <translation>Краят на нощта е променен на</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="801"/>
         <source>Latitude changed</source>
         <translation>Географската ширина е променена</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
         <source>Latitude changed to</source>
         <translation>Географската ширина е променена на</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="807"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="812"/>
         <source>Longitude changed</source>
         <translation>Географската дължина е променена</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="808"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="813"/>
         <source>Longitude changed to</source>
         <translation>Географската дължина е променена на</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="817"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="822"/>
         <source>Software cursor enabled</source>
         <translation>Софтуерният курсор е разрешен</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="818"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="823"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
         <translation>На курсора ще се прилагат цветовите промени. Ако започне да изчезва, забранете софтуерния курсор, за да го виждате отново.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="826"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="831"/>
         <source>Hardware cursor enabled</source>
         <translation>Хардуерният курсор е разрешен</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="827"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="832"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
         <translation>На курсора няма да се прилагат цветовите промени. Ако не Ви харесва ярък син курсор през нощта, разрешете софтуерния курсор, за да се приложат цветовите промени към него.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="840"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="845"/>
         <source>Conflicting applications enabled</source>
         <translation>Разрешени са несъвместими приложения</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="841"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="846"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
         <translation>Разрешени са несъвместими приложения и може да използвате и други програми, които променят екранните цветове.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="846"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="851"/>
         <source>Conflicting applications disabled</source>
         <translation>Забранени са несъвместими приложения</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="847"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="852"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
         <translation>Забранени са несъвместими приложения за да не се предизвиква трептене на екрана.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="875"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="880"/>
         <source>Keyboard Hook enabled</source>
         <translation>Клавиатурна кука разрешена</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="881"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
         <translation>Клавиатурната кука е разрешена. Можете да използвате глобабни клавишни комбинации</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="881"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="886"/>
         <source>Keyboard Hook disabled</source>
         <translation>Клавиатурна кука забранена</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="882"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="887"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
         <translation>Клавиатурната кука е забранена. Някои бързи клавиши може да не работят както трябва</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="894"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
         <source>Trial Notification enabled</source>
         <translation>Напомняния за пробния период включени</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="895"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="900"/>
         <source>Iris will remind you when your trial expires</source>
         <translation>Iris ще ви напомня, когато пробният ви период изтича</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="900"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="905"/>
         <source>Trial Notification disabled</source>
         <translation>Напомняния за пробния период изключени</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="901"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
         <source>Iris will no logner remind you when your trial expires</source>
         <translation>Iris няма да ви напомня повече, че пробният ви период изтича</translation>
     </message>
@@ -783,246 +783,246 @@ http://iristech.co/iris-mini</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="721"/>
+        <location filename="../../src/MainWindow.cpp" line="751"/>
         <source>until</source>
         <translation>до</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="733"/>
+        <location filename="../../src/MainWindow.cpp" line="763"/>
         <source>rest</source>
         <translation>почивка</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="755"/>
+        <location filename="../../src/MainWindow.cpp" line="785"/>
         <source>work</source>
         <translation>работа</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="869"/>
+        <location filename="../../src/MainWindow.cpp" line="899"/>
         <source>Expired</source>
         <translation>Изтекъл</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="873"/>
+        <location filename="../../src/MainWindow.cpp" line="903"/>
         <source>Paused</source>
         <translation>Спрян</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1061"/>
-        <location filename="../../src/MainWindow.cpp" line="1171"/>
+        <location filename="../../src/MainWindow.cpp" line="1091"/>
+        <location filename="../../src/MainWindow.cpp" line="1201"/>
         <source>Day start time</source>
         <translation>Начало на деня</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1063"/>
-        <location filename="../../src/MainWindow.cpp" line="1173"/>
+        <location filename="../../src/MainWindow.cpp" line="1093"/>
+        <location filename="../../src/MainWindow.cpp" line="1203"/>
         <source>Day transition start time</source>
         <translation>Начало на дневната промяна</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1065"/>
-        <location filename="../../src/MainWindow.cpp" line="1175"/>
+        <location filename="../../src/MainWindow.cpp" line="1095"/>
+        <location filename="../../src/MainWindow.cpp" line="1205"/>
         <source>Day transition end time</source>
         <translation>Край на дневната промяна</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1067"/>
-        <location filename="../../src/MainWindow.cpp" line="1177"/>
+        <location filename="../../src/MainWindow.cpp" line="1097"/>
+        <location filename="../../src/MainWindow.cpp" line="1207"/>
         <source>Day end time</source>
         <translation>Край на деня</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1072"/>
-        <location filename="../../src/MainWindow.cpp" line="1182"/>
+        <location filename="../../src/MainWindow.cpp" line="1102"/>
+        <location filename="../../src/MainWindow.cpp" line="1212"/>
         <source>Night start time</source>
         <translation>Начало на нощта</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1074"/>
-        <location filename="../../src/MainWindow.cpp" line="1184"/>
+        <location filename="../../src/MainWindow.cpp" line="1104"/>
+        <location filename="../../src/MainWindow.cpp" line="1214"/>
         <source>Night transition start time</source>
         <translation>Начало на нощната промяна</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1076"/>
-        <location filename="../../src/MainWindow.cpp" line="1186"/>
+        <location filename="../../src/MainWindow.cpp" line="1106"/>
+        <location filename="../../src/MainWindow.cpp" line="1216"/>
         <source>Night transition end time</source>
         <translation>Край на нощната промяна</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1078"/>
-        <location filename="../../src/MainWindow.cpp" line="1188"/>
+        <location filename="../../src/MainWindow.cpp" line="1108"/>
+        <location filename="../../src/MainWindow.cpp" line="1218"/>
         <source>Night end time</source>
         <translation>Край на нощта</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1083"/>
-        <location filename="../../src/MainWindow.cpp" line="1193"/>
+        <location filename="../../src/MainWindow.cpp" line="1113"/>
+        <location filename="../../src/MainWindow.cpp" line="1223"/>
         <source>Bedtime</source>
         <translation>Време за сън</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1085"/>
-        <location filename="../../src/MainWindow.cpp" line="1195"/>
+        <location filename="../../src/MainWindow.cpp" line="1115"/>
+        <location filename="../../src/MainWindow.cpp" line="1225"/>
         <source>Bedtime transition start time</source>
         <translation>Начало на промяната на времето за сън</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1087"/>
-        <location filename="../../src/MainWindow.cpp" line="1197"/>
+        <location filename="../../src/MainWindow.cpp" line="1117"/>
+        <location filename="../../src/MainWindow.cpp" line="1227"/>
         <source>Bedtime transition end time</source>
         <translation>Край на промяната на времето за сън</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1089"/>
-        <location filename="../../src/MainWindow.cpp" line="1199"/>
+        <location filename="../../src/MainWindow.cpp" line="1119"/>
+        <location filename="../../src/MainWindow.cpp" line="1229"/>
         <source>Bedtime end time</source>
         <translation>Край на времето за сън</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1094"/>
-        <location filename="../../src/MainWindow.cpp" line="1204"/>
+        <location filename="../../src/MainWindow.cpp" line="1124"/>
+        <location filename="../../src/MainWindow.cpp" line="1234"/>
         <source>Wake time</source>
         <translation>Време за събуждане</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1096"/>
-        <location filename="../../src/MainWindow.cpp" line="1206"/>
+        <location filename="../../src/MainWindow.cpp" line="1126"/>
+        <location filename="../../src/MainWindow.cpp" line="1236"/>
         <source>Wake time transition start time</source>
         <translation>Начало на промяната на времето за събуждане</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1098"/>
-        <location filename="../../src/MainWindow.cpp" line="1208"/>
+        <location filename="../../src/MainWindow.cpp" line="1128"/>
+        <location filename="../../src/MainWindow.cpp" line="1238"/>
         <source>Wake time transition end time</source>
         <translation>Край на промяната на времето за събуждане</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1100"/>
-        <location filename="../../src/MainWindow.cpp" line="1210"/>
+        <location filename="../../src/MainWindow.cpp" line="1130"/>
+        <location filename="../../src/MainWindow.cpp" line="1240"/>
         <source>Wake time end time</source>
         <translation>Край на времето за събуждане</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1105"/>
-        <location filename="../../src/MainWindow.cpp" line="1215"/>
+        <location filename="../../src/MainWindow.cpp" line="1135"/>
+        <location filename="../../src/MainWindow.cpp" line="1245"/>
         <source>Day duration</source>
         <translation>Продължителност на деня</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1107"/>
-        <location filename="../../src/MainWindow.cpp" line="1217"/>
+        <location filename="../../src/MainWindow.cpp" line="1137"/>
+        <location filename="../../src/MainWindow.cpp" line="1247"/>
         <source>Day transition duration</source>
         <translation>Продължителност на дневната промяна</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1109"/>
-        <location filename="../../src/MainWindow.cpp" line="1219"/>
+        <location filename="../../src/MainWindow.cpp" line="1139"/>
+        <location filename="../../src/MainWindow.cpp" line="1249"/>
         <source>Night duration</source>
         <translation>Продължителност на нощта</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1111"/>
-        <location filename="../../src/MainWindow.cpp" line="1221"/>
+        <location filename="../../src/MainWindow.cpp" line="1141"/>
+        <location filename="../../src/MainWindow.cpp" line="1251"/>
         <source>Night transition duration</source>
         <translation>Продължителност на нощната промяна</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1113"/>
-        <location filename="../../src/MainWindow.cpp" line="1223"/>
+        <location filename="../../src/MainWindow.cpp" line="1143"/>
+        <location filename="../../src/MainWindow.cpp" line="1253"/>
         <source>Sleep duration</source>
         <translation>Продължителност на съня</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1115"/>
-        <location filename="../../src/MainWindow.cpp" line="1225"/>
+        <location filename="../../src/MainWindow.cpp" line="1145"/>
+        <location filename="../../src/MainWindow.cpp" line="1255"/>
         <source>Sleep transition duration</source>
         <translation>Продължителност на сънната промяна</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1121"/>
+        <location filename="../../src/MainWindow.cpp" line="1151"/>
         <source>Time zone</source>
         <translation>Часова зона</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1123"/>
+        <location filename="../../src/MainWindow.cpp" line="1153"/>
         <source>Custom Time zone offset</source>
         <translation>Отместване на часовата зона</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1128"/>
+        <location filename="../../src/MainWindow.cpp" line="1158"/>
         <source>Sunrise time</source>
         <translation>Изгрев</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1130"/>
+        <location filename="../../src/MainWindow.cpp" line="1160"/>
         <source>Sunset time</source>
         <translation>Залез</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1135"/>
+        <location filename="../../src/MainWindow.cpp" line="1165"/>
         <source>New moon offset</source>
         <translation>Отместване при новолуние</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1137"/>
+        <location filename="../../src/MainWindow.cpp" line="1167"/>
         <source>Full moon offset</source>
         <translation>Отместване при пълнолуние</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1139"/>
+        <location filename="../../src/MainWindow.cpp" line="1169"/>
         <source>Current moon offset</source>
         <translation>Лунно отместване</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1725"/>
+        <location filename="../../src/MainWindow.cpp" line="1759"/>
         <source>Iris Pro needed</source>
         <translation>Нужен е Iris Pro</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1726"/>
+        <location filename="../../src/MainWindow.cpp" line="1760"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>За тази секция Ви трябва Iris Pro.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2255"/>
+        <location filename="../../src/MainWindow.cpp" line="2303"/>
         <source>Relaunch Iris</source>
         <translation>Рестартирайте Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2256"/>
+        <location filename="../../src/MainWindow.cpp" line="2304"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>Трябва да рестартирате Iris, за да се отразят промените.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2258"/>
+        <location filename="../../src/MainWindow.cpp" line="2306"/>
         <source>Relaunch now</source>
         <translation>Рестартирайте сега</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2259"/>
+        <location filename="../../src/MainWindow.cpp" line="2307"/>
         <source>Later</source>
         <translation>По-късно</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2275"/>
-        <location filename="../../src/MainWindow.cpp" line="2340"/>
+        <location filename="../../src/MainWindow.cpp" line="2323"/>
+        <location filename="../../src/MainWindow.cpp" line="2388"/>
         <source>Restart is needed</source>
         <translation>Нужен е рестарт</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2276"/>
-        <location filename="../../src/MainWindow.cpp" line="2340"/>
+        <location filename="../../src/MainWindow.cpp" line="2324"/>
+        <location filename="../../src/MainWindow.cpp" line="2388"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris направи някои промени и е нужен рестарт, за да се отразят промените.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3679"/>
+        <location filename="../../src/MainWindow.cpp" line="3827"/>
         <source>WARNING!!!</source>
         <translation>ВНИМАНИЕ!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3680"/>
+        <location filename="../../src/MainWindow.cpp" line="3828"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1314,8 +1314,8 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="415"/>
-        <location filename="../../src/translation/Translator.cpp" line="680"/>
-        <location filename="../../src/translation/Translator.cpp" line="731"/>
+        <location filename="../../src/translation/Translator.cpp" line="681"/>
+        <location filename="../../src/translation/Translator.cpp" line="732"/>
         <source>ACTIVATE_CODE</source>
         <translation>Активиране на код</translation>
     </message>
@@ -2119,196 +2119,201 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="624"/>
+        <source>ADVANCED_COLOR_TRIGGERS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="625"/>
         <source>FULLSCREEN_APPS</source>
         <translation>Приложения на цял екран</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="641"/>
+        <location filename="../../src/translation/Translator.cpp" line="642"/>
         <source>DAY_OPACITY</source>
         <translation>Дневна прозрачност</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="642"/>
+        <location filename="../../src/translation/Translator.cpp" line="643"/>
         <source>NIGHT_OPACITY</source>
         <translation>Нощна прозрачност</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="644"/>
+        <location filename="../../src/translation/Translator.cpp" line="645"/>
         <source>DAY_DIM</source>
         <translation>Дневно затъмняване</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="645"/>
+        <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>NIGHT_DIM</source>
         <translation>Нощно затъмняване</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="654"/>
+        <location filename="../../src/translation/Translator.cpp" line="655"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>Умна яркост</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="655"/>
+        <location filename="../../src/translation/Translator.cpp" line="656"/>
         <source>USE_SMART_INVERSION</source>
         <translation>Умна инверсия</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="656"/>
+        <location filename="../../src/translation/Translator.cpp" line="657"/>
         <source>ENABLE_CAMERA</source>
         <translation>Включване на камерата</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="657"/>
+        <location filename="../../src/translation/Translator.cpp" line="658"/>
         <source>DISABLE_CAMERA</source>
         <translation>Изключване на камерата</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="661"/>
+        <location filename="../../src/translation/Translator.cpp" line="662"/>
         <source>ADVANCED_FEATURES</source>
         <translation>Функции</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="662"/>
+        <location filename="../../src/translation/Translator.cpp" line="663"/>
         <source>FEATURE_ON_OFF</source>
         <translation>Функция Вкл/Изкл</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="664"/>
+        <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
         <translation>Покани приятели</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="665"/>
+        <location filename="../../src/translation/Translator.cpp" line="666"/>
         <source>INVITE_FRIENDS</source>
         <translation>Покани приятели</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="666"/>
+        <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>SYNC</source>
         <translation>Синхронизирай</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="667"/>
+        <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>RE_CHECK_INVITE</source>
         <translation>Провери поканата отново</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="699"/>
+        <location filename="../../src/translation/Translator.cpp" line="700"/>
         <source>CZECH</source>
         <translation>Чешки</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="700"/>
+        <location filename="../../src/translation/Translator.cpp" line="701"/>
         <source>UKRAINIAN</source>
         <translation>Украински</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="702"/>
+        <location filename="../../src/translation/Translator.cpp" line="703"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Скрити функционалности</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="703"/>
+        <location filename="../../src/translation/Translator.cpp" line="704"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Въведете Вашето заклинание:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="704"/>
+        <location filename="../../src/translation/Translator.cpp" line="705"/>
         <source>ACTIVATE</source>
         <translation>Активиране</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="706"/>
+        <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>ADVANCED_DEBUG</source>
         <translation>Дебъг</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="707"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
         <source>DEBUG_INFORMATION</source>
         <translation>Дебъг информация</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>SKIP_REST</source>
         <translation>Пропускане</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>NORMAL</source>
         <translation>Нормален</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>STRICT</source>
         <translation>Стриктен</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>CONTINUE</source>
         <translation>Продължи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>REST_MODE</source>
         <translation>Режим</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="721"/>
+        <location filename="../../src/translation/Translator.cpp" line="722"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Вие сте в режим на почивка. Може да редактирате таймера от настройките.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="722"/>
+        <location filename="../../src/translation/Translator.cpp" line="723"/>
         <source>TIME_IS</source>
         <translation>Часът е</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>START_WORKING</source>
         <translation>Работа</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>HAVE_A_BREAK</source>
         <translation>Почивка</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>ADD</source>
         <translation>Добавяне</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="730"/>
+        <location filename="../../src/translation/Translator.cpp" line="731"/>
         <source>REMOVE</source>
         <translation>Премахване</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>BUY</source>
         <translation>Купи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>BUY_NOW</source>
         <translation>Купи сега</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="734"/>
+        <location filename="../../src/translation/Translator.cpp" line="735"/>
         <source>min</source>
         <translation>минути</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="735"/>
+        <location filename="../../src/translation/Translator.cpp" line="736"/>
         <source>sec</source>
         <translation>секунди</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>ON</source>
         <translation>ДА</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>OFF</source>
         <translation>НЕ</translation>
     </message>
@@ -2338,288 +2343,288 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation>Таймер-паузи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="626"/>
+        <location filename="../../src/translation/Translator.cpp" line="627"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>Наслагване на дисплея</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="627"/>
+        <location filename="../../src/translation/Translator.cpp" line="628"/>
         <source>OVERLAY_COLOR</source>
         <translation>Цвят на слоя</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="471"/>
-        <location filename="../../src/translation/Translator.cpp" line="628"/>
+        <location filename="../../src/translation/Translator.cpp" line="629"/>
         <source>GREEN</source>
         <translation>Зелен</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="629"/>
+        <location filename="../../src/translation/Translator.cpp" line="630"/>
         <source>TURQUOISE</source>
         <translation>Тюркоаз</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="472"/>
-        <location filename="../../src/translation/Translator.cpp" line="630"/>
+        <location filename="../../src/translation/Translator.cpp" line="631"/>
         <source>BLUE</source>
         <translation>Син</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="631"/>
+        <location filename="../../src/translation/Translator.cpp" line="632"/>
         <source>INDIGO</source>
         <translation>Индиго</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="632"/>
+        <location filename="../../src/translation/Translator.cpp" line="633"/>
         <source>VIOLET</source>
         <translation>Виолетов</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="633"/>
+        <location filename="../../src/translation/Translator.cpp" line="634"/>
         <source>PURPLE</source>
         <translation>Лилав</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="634"/>
+        <location filename="../../src/translation/Translator.cpp" line="635"/>
         <source>MAGENTA</source>
         <translation>Пурпурен</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="635"/>
+        <location filename="../../src/translation/Translator.cpp" line="636"/>
         <source>SCARLET</source>
         <translation>Ален</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="470"/>
-        <location filename="../../src/translation/Translator.cpp" line="636"/>
+        <location filename="../../src/translation/Translator.cpp" line="637"/>
         <source>RED</source>
         <translation>Червен</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="637"/>
+        <location filename="../../src/translation/Translator.cpp" line="638"/>
         <source>ORANGE</source>
         <translation>Оранжев</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="638"/>
+        <location filename="../../src/translation/Translator.cpp" line="639"/>
         <source>YELLOW</source>
         <translation>Жълт</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="639"/>
+        <location filename="../../src/translation/Translator.cpp" line="640"/>
         <source>LEMON</source>
         <translation>Лимонен</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="496"/>
-        <location filename="../../src/translation/Translator.cpp" line="640"/>
+        <location filename="../../src/translation/Translator.cpp" line="641"/>
         <source>OPACITY</source>
         <translation>Прозрачност</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="643"/>
+        <location filename="../../src/translation/Translator.cpp" line="644"/>
         <source>SCREEN_DIM</source>
         <translation>Затъмняване</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
-        <location filename="../../src/translation/Translator.cpp" line="646"/>
+        <location filename="../../src/translation/Translator.cpp" line="647"/>
         <source>DISABLE</source>
         <translation>Изключване</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="647"/>
+        <location filename="../../src/translation/Translator.cpp" line="648"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>Избор на област</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="648"/>
+        <location filename="../../src/translation/Translator.cpp" line="649"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>Изчистване на избраната област</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
-        <location filename="../../src/translation/Translator.cpp" line="649"/>
+        <location filename="../../src/translation/Translator.cpp" line="650"/>
         <source>ENABLE</source>
         <translation>Включване</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="651"/>
+        <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>Изкуствен интелект (AI)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="652"/>
+        <location filename="../../src/translation/Translator.cpp" line="653"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>Автоматична яркост</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="653"/>
+        <location filename="../../src/translation/Translator.cpp" line="654"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>Засичане на миганията</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="658"/>
+        <location filename="../../src/translation/Translator.cpp" line="659"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>Показване на екран за мигания</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="659"/>
+        <location filename="../../src/translation/Translator.cpp" line="660"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>Скриване на екрана за мигания</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="669"/>
+        <location filename="../../src/translation/Translator.cpp" line="670"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>Упражнения</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="670"/>
+        <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>START_EYE_EXERCISES</source>
         <translation>Упражнения за очи</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="671"/>
+        <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>START_NECK_EXERCISES</source>
         <translation>Упражнения за врат</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="672"/>
+        <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>START_BACK_EXERCISES</source>
         <translation>Упражнения за гръб</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="674"/>
+        <location filename="../../src/translation/Translator.cpp" line="675"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>Модел на Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="675"/>
+        <location filename="../../src/translation/Translator.cpp" line="676"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>Към Iris</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="676"/>
+        <location filename="../../src/translation/Translator.cpp" line="677"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>Към Iris lite</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="678"/>
+        <location filename="../../src/translation/Translator.cpp" line="679"/>
         <source>ADVANCED_LICENSE</source>
         <translation>Лиценз</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="679"/>
+        <location filename="../../src/translation/Translator.cpp" line="680"/>
         <source>GET_IRIS_PRO</source>
         <translation>Купете Iris Pro</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="682"/>
+        <location filename="../../src/translation/Translator.cpp" line="683"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>Език</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="683"/>
+        <location filename="../../src/translation/Translator.cpp" line="684"/>
         <source>LANGUAGE</source>
         <translation>Език</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="684"/>
+        <location filename="../../src/translation/Translator.cpp" line="685"/>
         <source>ENGLISH</source>
         <translation>Английски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="685"/>
+        <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>RUSSIAN</source>
         <translation>Руски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="686"/>
+        <location filename="../../src/translation/Translator.cpp" line="687"/>
         <source>SPANISH</source>
         <translation>Испански</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="687"/>
+        <location filename="../../src/translation/Translator.cpp" line="688"/>
         <source>CHINESE</source>
         <translation>Китайски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="688"/>
+        <location filename="../../src/translation/Translator.cpp" line="689"/>
         <source>INDIAN</source>
         <translation>Индийски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="689"/>
+        <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>JAPANESE</source>
         <translation>Японски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="690"/>
+        <location filename="../../src/translation/Translator.cpp" line="691"/>
         <source>ARABIC</source>
         <translation>Арабски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="691"/>
+        <location filename="../../src/translation/Translator.cpp" line="692"/>
         <source>TURKISH</source>
         <translation>Турски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="692"/>
+        <location filename="../../src/translation/Translator.cpp" line="693"/>
         <source>PORTUGUESE</source>
         <translation>Португалски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="693"/>
+        <location filename="../../src/translation/Translator.cpp" line="694"/>
         <source>FRENCH</source>
         <translation>Френски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="694"/>
+        <location filename="../../src/translation/Translator.cpp" line="695"/>
         <source>GERMAN</source>
         <translation>Немски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="695"/>
+        <location filename="../../src/translation/Translator.cpp" line="696"/>
         <source>KOREAN</source>
         <translation>Корейски</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="696"/>
+        <location filename="../../src/translation/Translator.cpp" line="697"/>
         <source>ITALIAN</source>
         <translation>Италиански</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="697"/>
+        <location filename="../../src/translation/Translator.cpp" line="698"/>
         <source>BULGARIAN</source>
         <translation>Български</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="698"/>
+        <location filename="../../src/translation/Translator.cpp" line="699"/>
         <source>GREEK</source>
         <translation>Гръцки</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ADVANCED_ABOUT</source>
         <translation>За нас</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>NAME</source>
         <translation>Име</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>VERSION</source>
         <translation>Версия</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="712"/>
+        <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>PUBLISHER</source>
         <translation>Издател</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
+        <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>WEBSITE</source>
         <translation>Уебсайт</translation>
     </message>
