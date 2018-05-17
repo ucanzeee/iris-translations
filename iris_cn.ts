@@ -623,7 +623,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>非常感谢您支持Iris！ :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
