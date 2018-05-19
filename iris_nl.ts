@@ -92,12 +92,6 @@
         <translation type="unfinished">Sommige functies zijn beperkt, omdat u uw pc opnieuw moet opstarten. U gebruikt nu Color API op hoog niveau.</translation>
     </message>
     <message>
-        <location filename="../cyclops/Cyclops.cpp" line="338"/>
-        <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
-Note that Iris will work fine now, but with limited color changes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Some functionallity is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
         <translation type="obsolete">Some functionality is limited, because you need to Restart your PC. You are using High-level Color API right now.</translation>
     </message>
@@ -107,8 +101,9 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <translation type="unfinished">Het is nodig om opnieuw op te starten</translation>
     </message>
     <message>
+        <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity. Note that Iris will work fine now, but with limited color changes.</source>
-        <translation type="vanished">Iris heeft enkele wijzigingen aangebracht in uw systeem en opnieuw opstarten is nodig om de volledige funktionaliteit te ontgrendelen. Merk op dat Iris nu goed werkt, maar met beperkte kleurveranderingen.</translation>
+        <translation>Iris heeft enkele wijzigingen aangebracht in uw systeem en opnieuw opstarten is nodig om de volledige funktionaliteit te ontgrendelen. Merk op dat Iris nu goed werkt, maar met beperkte kleurveranderingen.</translation>
     </message>
 </context>
 <context>
@@ -142,468 +137,456 @@ Note that Iris will work fine now, but with limited color changes.</source>
 <context>
     <name>HiddenFeatures</name>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="333"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="328"/>
         <source>Invalid spell</source>
         <translation type="unfinished">Ongeldig wachtwoord</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="334"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="329"/>
         <source>The spell</source>
         <translation type="unfinished">Het wachtwoord</translation>
     </message>
     <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="331"/>
         <source>seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation type="vanished">lijkt verkeerd. Controleer de syntaxis of probeer met een andere verborgen functie.</translation>
+        <translation>lijkt verkeerd. Controleer de syntaxis of probeer met een andere verborgen functie.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="337"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="332"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
         <translation type="unfinished">Gebruik &quot;Help&quot; om de lijst met alle verborgen functies te bekijken :)</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="360"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="383"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="355"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="378"/>
         <source>Invalid temperature</source>
         <translation>Ongeldige temperatuur</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="363"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="386"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="358"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="381"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
         <translation type="unfinished">is een ongeldige waarde voor Kleurtemperatuur. Kies een nummer tussen 0 en 10000.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="370"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="393"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="365"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="388"/>
         <source>Temperature changed</source>
         <translation type="unfinished">De Temperatuur is gewijzigd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="371"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="394"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="366"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="389"/>
         <source>Color temperature changed to</source>
         <translation type="unfinished">De Kleurtemperatuur is gewijzigd in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="406"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="429"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="401"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="424"/>
         <source>Invalid brightness</source>
         <translation type="unfinished">Ongeldige Helderheid</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="409"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="432"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="404"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="427"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
         <translation type="unfinished">is een ongeldige waarde voor Helderheid. Kies een nummer tussen 10 en 100.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="416"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="439"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="411"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="434"/>
         <source>Brightness changed</source>
         <translation type="unfinished">De Helderheid is gewijzigd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="417"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="440"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="412"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="435"/>
         <source>Brightness changed to</source>
         <translation type="unfinished">De Helderheid is gewijzigd in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="469"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="464"/>
         <source>Gamma fixer disabled</source>
         <translation type="unfinished">De Gamma-fixer is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="470"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="465"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
         <translation type="unfinished">De Gamma-fixer is uitgeschakeld. Als uw scherm plotseling helder wordt, schakelt u het opnieuw in of klikt u meerdere keren op het Iris mini-pictogram. Beide zouden er toe moeten leiden dat Iris de schermkleuren verandert.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="475"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="470"/>
         <source>Gamma fixer enabled</source>
         <translation type="unfinished">De Gamma fixer ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="471"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
         <translation type="unfinished">De Gamma-fixer is ingeschakeld. Als er elke seconde een lichte kleurverandering optreedt, schakel dan de Gamma-fixer opnieuw uit. De Gamma-fixer wordt gebruikt, omdat Windows beslist om wijzigingen van Iris mini van tijd tot tijd te negeren.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="506"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="501"/>
         <source>Start at startup enabled</source>
         <translation>Starten bij opstarten is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="507"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>Iris mini will start when you turn ON your computer</source>
         <translation type="unfinished">Iris mini zal opstarten als u uw computer AAN zet</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="512"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="507"/>
         <source>Start at startup disabled</source>
         <translation>Starten bij opstarten is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="513"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="508"/>
         <source>Iris mini will not start when you turn ON your computer</source>
         <translation type="unfinished">Iris mini zal niet opstarten als u uw computer AAN zet</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="542"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="537"/>
         <source>Tray icon rotation is enabled</source>
         <translation type="unfinished">Het draaien van het tray ikoontje is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="543"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="538"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation type="unfinished">Het tray ikoontje gaat draaien als Iris de schermkleuren verandert. Dit wordt gebruikt om aan te geven wanneer Iris mini bezig is de kleuren te veranderen en uw scherm niet gekalibreerd is</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="543"/>
         <source>Tray icon rotation is disabled</source>
         <translation type="unfinished">Het draaien van het tray ikoontje is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="549"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="544"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation type="unfinished">Het tray ikoontje gaat niet draaien als Iris de schermkleuren wijzigt. Deze functie wordt gebruikt om te laten zien wanneer Iris mini bezig is de kleuren te veranderen en uw scherm niet is gekalibreerd </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="560"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
         <source>Manual temperature enabled</source>
         <translation type="unfinished">De handmatige temperatuur is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
         <source>You are now using Iris Mixed mode</source>
         <translation>U gebruikt nu de Iris Gemengde modus</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="566"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
         <source>Manual temperature disabled</source>
         <translation type="unfinished">De handmatige temperatuur is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="567"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="562"/>
         <source>Iris will use your selected mode for temperature again</source>
         <translation type="unfinished">Iris wil de door u gekozen modus voor de temperatuur opnieuw gebruiken</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="578"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="573"/>
         <source>Manual brightness enabled</source>
         <translation type="unfinished">De handmatige helderheid is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="579"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="574"/>
         <source>You are now using Iris mini Mixed mode</source>
         <translation type="unfinished">U gebruikt nu de Gemengde modus van Iris Mini</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="584"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="579"/>
         <source>Manual brightness disabled</source>
         <translation type="unfinished">De handmatige helderheid is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="580"/>
         <source>Iris mini will use your selected mode for brightness again</source>
         <translation type="unfinished">Iris wil de door u gekozen modus voor de helderheid opnieuw gebruiken</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="597"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="605"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="600"/>
         <source>Monitor</source>
         <translation>Monitor</translation>
     </message>
     <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="593"/>
         <source>disabled</source>
-        <translation type="vanished">uitgeschakeld</translation>
+        <translation>uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="599"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="594"/>
         <source>Iris will not apply color changes to Monitor</source>
         <translation type="unfinished">Iris zal geen kleurwijzigingen toepassen op de Monitor</translation>
     </message>
     <message>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="601"/>
         <source>enabled</source>
-        <translation type="vanished">ingeschakeld</translation>
+        <translation>ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="336"/>
-        <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="598"/>
-        <source> disabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="606"/>
-        <source> enabled</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="607"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="602"/>
         <source>Iris will apply color changes to Monitor</source>
         <translation type="unfinished">Iris zal kleurwijzigingen toepassen op de Monitor</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="618"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="613"/>
         <source>Reset colors</source>
         <translation type="unfinished">Stel de kleuren opnieuw in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="619"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="614"/>
         <source>Screen colors are reset to default values</source>
         <translation type="unfinished">De schermkleuren zijn teruggezet naar de standaardwaarden</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Reset settings</source>
         <translation type="unfinished">Zet de instellingen terug</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="624"/>
         <source>Iris settings are reset to default values</source>
         <translation>De instellingen van Iris zijn teruggezet naar de standaardwaarden</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="639"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="634"/>
         <source>Invert</source>
         <translation type="unfinished">Omkeren</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="640"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="635"/>
         <source>Colors are inverted</source>
         <translation type="unfinished">De kleuren worden omgekeerd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="650"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="645"/>
         <source>Zero blue light</source>
         <translation>Geen blauw licht</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="651"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="646"/>
         <source>All blue light is removed from the screen</source>
         <translation type="unfinished">Al het blauwe licht is van het scherm verdwenen</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="662"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="657"/>
         <source>Gamma preservation enabled</source>
         <translation type="unfinished">De Gamma-bewaring is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="663"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
         <translation type="unfinished">Iris zal voortaan uw kleurkalibratie respecteren. Sluit en start Iris Mini opnieuw en het zal uw kleuren gedurende de dag behouden</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="668"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="663"/>
         <source>Gamma preservation disabled</source>
         <translation type="unfinished">De Gamma-bewaring is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="669"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
         <translation>Iris zal voortaan uw kleurkalibratie niet respecteren. Het zal in plaats daarvan de standaard monitorinstellingen gebruiken</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="679"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="674"/>
         <source>Notifications enabled</source>
         <translation type="unfinished">De meldingen zijn ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="680"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="675"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
         <translation type="unfinished">De meldingen van Verborgen Funkties zijn ingeschakeld. Ze worden getoond om het u te laten weten als uw wachtwoord goedgekeurd is</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="685"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="680"/>
         <source>Notifications disabled</source>
         <translation type="unfinished">De meldingen zijn uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="686"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="681"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
         <translation type="unfinished">De meldingen van Verborgen Funkties zijn uitgeschakeld. Dit is de laatste melding die u ziet</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="719"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
         <source>Manual location enabled</source>
         <translation type="unfinished">De handmatige plaatsbepaling is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="720"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
         <translation type="unfinished">Iris Mini zal uw manuele plaatsbepaling gebruiken. Stel de breedtegraad en de lengtegraad in met de Verborgen Funkties </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="725"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="720"/>
         <source>Manual location disabled</source>
         <translation type="unfinished">De handmatige plaatsbepaling is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="726"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
         <translation type="unfinished">Iris mini zal de automatische plaatsbepaling gebruiken. De plaatsbepaling wordt gebruikt voor het berekenen van de positie van de zon en de dag- en nachtduur</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="738"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="733"/>
         <source>Manual night duration enabled</source>
         <translation type="unfinished">De handmatige nachtduur is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="739"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
         <translation type="unfinished">Iris mini zal de handmatige nachtduur gebruiken. Stel de begin- en eindtijd in met de Verborgen Funkties</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="744"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="739"/>
         <source>Manual night duration disabled</source>
         <translation type="unfinished">De handmatige nachtduur is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="740"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
         <translation type="unfinished">Iris mini zal de automatische nachtduur gebruiken op basis van uw locatie. De locatie wordt gebruikt voor het berekenen van de positie van de zon en de dag- en nachtduur</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="751"/>
         <source>Invalid Night start time</source>
         <translation type="unfinished">Ongeldige Nacht starttijd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="759"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="754"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
         <translation type="unfinished">is een ongeldige waarde voor de Nacht starttijd. Kies een nummer tussen 0 en 24.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="766"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="761"/>
         <source>Night start time changed</source>
         <translation type="unfinished">De nacht starttijd is gewijzigd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="762"/>
         <source>Manual night start time changed to</source>
         <translation type="unfinished">De handmatige nacht starttijd is gewijzigd in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="774"/>
         <source>Invalid Night end time</source>
         <translation type="unfinished">Ongeldige Nacht eindtijd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="782"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="777"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
         <translation type="unfinished">is een ongeldige waarde voor de Nacht eindtijd. Kies een nummer tussen 0 en 24.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="789"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="784"/>
         <source>Night end time changed</source>
         <translation type="unfinished">De nacht eindtijd is gewijzigd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="790"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Manual night end time changed to</source>
         <translation type="unfinished">De handmatige nacht eindtijd is gewijzigd in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="801"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>Latitude changed</source>
         <translation type="unfinished">De breedtegraad is gewijzigd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
         <source>Latitude changed to</source>
         <translation type="unfinished">De breedtegraad is gewijzigd in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="812"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="807"/>
         <source>Longitude changed</source>
         <translation type="unfinished">De lengtegraad is gewijzigd</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="813"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="808"/>
         <source>Longitude changed to</source>
         <translation type="unfinished">De lengtegraad is gewijzigd in</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="822"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="817"/>
         <source>Software cursor enabled</source>
         <translation type="unfinished">De software cursor is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="823"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="818"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
         <translation type="unfinished">De kleurwijzigingen zijn ook van toepassing op de cursor. Als ze beginnen te verdwijnen, schakel dan de softwarecursor uit om ze weer helder te maken.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="831"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="826"/>
         <source>Hardware cursor enabled</source>
         <translation type="unfinished">De hardware cursor is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="832"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="827"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
         <translation type="unfinished">De kleurwijzigingen zijn niet van toepassing op de cursor. Als je &apos;s nachts liever geen helder blauwe cursor hebt, schakel dan de softwarecursor in om kleurwijzigingen toe te passen op de cursor.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="845"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="840"/>
         <source>Conflicting applications enabled</source>
         <translation type="unfinished">Er zijn conflicterende toepassingen ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="846"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="841"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
         <translation type="unfinished">Er zijn conflicterende toepassingen ingeschakeld. U kunt nu het beste andere software gebruiken om de kleuren van het beeldscherm te wijzigen.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="851"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="846"/>
         <source>Conflicting applications disabled</source>
         <translation type="unfinished">De conflicterende toepassingen zijn uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="852"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="847"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
         <translation type="unfinished">Conflicterende toepassingen zijn uitgeschakeld. Om geen flikkeren te veroorzaken zijn er conflicterende toepassingen uitgeschakeld.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="880"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="875"/>
         <source>Keyboard Hook enabled</source>
         <translation type="unfinished">De toetsenbordhaak is ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="881"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
         <translation type="unfinished">De toetsenbordhaak is ingeschakeld. U kunt nu over het hele systeem sneltoetsen gebruiken.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="886"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="881"/>
         <source>Keyboard Hook disabled</source>
         <translation type="unfinished">De toetsenbordhaak is uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="887"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="882"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
         <translation type="unfinished">De toetsenbordhaak is uitgeschakeld. Sommige snelkoppelingen en funkties werken mogelijk niet zoals bedoeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="894"/>
         <source>Trial Notification enabled</source>
         <translation type="unfinished">De meldingen van de Proefversie zijn ingeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="900"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="895"/>
         <source>Iris will remind you when your trial expires</source>
         <translation type="unfinished">Iris zal u er aan herinneren als uw proefversie verloopt</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="905"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="900"/>
         <source>Trial Notification disabled</source>
         <translation type="unfinished">De meldingen van de Proefversie zijn uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="901"/>
         <source>Iris will no logner remind you when your trial expires</source>
         <translation type="unfinished">Iris zal u er niet meer aan herinneren als uw Proefversie verloopt</translation>
     </message>
@@ -695,30 +678,14 @@ Note that Iris will work fine now, but with limited color changes.</source>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="203"/>
-        <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
-http://iristech.co/iris-mini</source>
-        <translation type="unfinished"></translation>
+        <source>This is Iris and your activation code is for Iris mini. Download Iris mini from http://iristech.co/iris-mini</source>
+        <translation type="unfinished">Dit is Iris en uw activatiecode is voor Iris Mini. Download Iris mini van http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="214"/>
         <location filename="../../src/licensing/License.cpp" line="216"/>
-        <source>Team license activation. Thank you very much for supporting Iris! :)
-See your new options in the advanced view.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/licensing/License.cpp" line="229"/>
-        <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
-http://iristech.co/iris-mini</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is Iris and your activation code is for Iris mini. Download Iris mini from http://iristech.co/iris-mini</source>
-        <translation type="obsolete">Dit is Iris en uw activatiecode is voor Iris Mini. Download Iris mini van http://iristech.co/iris-mini</translation>
-    </message>
-    <message>
         <source>Team license activation. Thank you very much for supporting Iris! :) See your new options in the advanced view.</source>
-        <translation type="obsolete">Teamlicentie-aktivering. Hartelijk dank voor uw steun aan Iris! :) Bekijk uw nieuwe opties in de geavanceerde weergave.</translation>
+        <translation type="unfinished">Teamlicentie-aktivering. Hartelijk dank voor uw steun aan Iris! :) Bekijk uw nieuwe opties in de geavanceerde weergave.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="228"/>
@@ -726,8 +693,9 @@ http://iristech.co/iris-mini</source>
         <translation type="unfinished">Team licentiecode voor Iris Mini</translation>
     </message>
     <message>
+        <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from http://iristech.co/iris-mini</source>
-        <translation type="obsolete">Dit is Iris en de overige teamlicentiecodes zijn voor Iris Mini. Download Iris mini van http://iristech.co/iris-mini</translation>
+        <translation type="unfinished">Dit is Iris en de overige teamlicentiecodes zijn voor Iris Mini. Download Iris mini van http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
@@ -804,254 +772,248 @@ http://iristech.co/iris-mini</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="751"/>
+        <location filename="../../src/MainWindow.cpp" line="721"/>
         <source>until</source>
         <translation>tot</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="763"/>
+        <location filename="../../src/MainWindow.cpp" line="733"/>
         <source>rest</source>
         <translation>rust</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="785"/>
+        <location filename="../../src/MainWindow.cpp" line="755"/>
         <source>work</source>
         <translation>werk</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="899"/>
+        <location filename="../../src/MainWindow.cpp" line="869"/>
         <source>Expired</source>
         <translation>Verlopen</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="903"/>
+        <location filename="../../src/MainWindow.cpp" line="873"/>
         <source>Paused</source>
         <translation>Gepauzeerd</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1091"/>
-        <location filename="../../src/MainWindow.cpp" line="1201"/>
+        <location filename="../../src/MainWindow.cpp" line="1061"/>
+        <location filename="../../src/MainWindow.cpp" line="1171"/>
         <source>Day start time</source>
         <translation>Begintijd van de dag</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1093"/>
-        <location filename="../../src/MainWindow.cpp" line="1203"/>
+        <location filename="../../src/MainWindow.cpp" line="1063"/>
+        <location filename="../../src/MainWindow.cpp" line="1173"/>
         <source>Day transition start time</source>
         <translation>Begintijd van de overgang naar de dag</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1095"/>
-        <location filename="../../src/MainWindow.cpp" line="1205"/>
+        <location filename="../../src/MainWindow.cpp" line="1065"/>
+        <location filename="../../src/MainWindow.cpp" line="1175"/>
         <source>Day transition end time</source>
         <translation>Eindtijd van de overgang naar de dag</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1097"/>
-        <location filename="../../src/MainWindow.cpp" line="1207"/>
+        <location filename="../../src/MainWindow.cpp" line="1067"/>
+        <location filename="../../src/MainWindow.cpp" line="1177"/>
         <source>Day end time</source>
         <translation>Eindtijd van de dag</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1102"/>
-        <location filename="../../src/MainWindow.cpp" line="1212"/>
+        <location filename="../../src/MainWindow.cpp" line="1072"/>
+        <location filename="../../src/MainWindow.cpp" line="1182"/>
         <source>Night start time</source>
         <translation>Begintijd van de nacht</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1104"/>
-        <location filename="../../src/MainWindow.cpp" line="1214"/>
+        <location filename="../../src/MainWindow.cpp" line="1074"/>
+        <location filename="../../src/MainWindow.cpp" line="1184"/>
         <source>Night transition start time</source>
         <translation>Begintijd van de overgang naar de nacht</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1106"/>
-        <location filename="../../src/MainWindow.cpp" line="1216"/>
+        <location filename="../../src/MainWindow.cpp" line="1076"/>
+        <location filename="../../src/MainWindow.cpp" line="1186"/>
         <source>Night transition end time</source>
         <translation>Eindtijd van de overgang naar de nacht</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1108"/>
-        <location filename="../../src/MainWindow.cpp" line="1218"/>
+        <location filename="../../src/MainWindow.cpp" line="1078"/>
+        <location filename="../../src/MainWindow.cpp" line="1188"/>
         <source>Night end time</source>
         <translation>Eindtijd van de nacht</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1113"/>
-        <location filename="../../src/MainWindow.cpp" line="1223"/>
+        <location filename="../../src/MainWindow.cpp" line="1083"/>
+        <location filename="../../src/MainWindow.cpp" line="1193"/>
         <source>Bedtime</source>
         <translation>Bedtijd</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1115"/>
-        <location filename="../../src/MainWindow.cpp" line="1225"/>
+        <location filename="../../src/MainWindow.cpp" line="1085"/>
+        <location filename="../../src/MainWindow.cpp" line="1195"/>
         <source>Bedtime transition start time</source>
         <translation>Begintijd van de overgang naar de bedtijd</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1117"/>
-        <location filename="../../src/MainWindow.cpp" line="1227"/>
+        <location filename="../../src/MainWindow.cpp" line="1087"/>
+        <location filename="../../src/MainWindow.cpp" line="1197"/>
         <source>Bedtime transition end time</source>
         <translation>Eindtijd van de overgang naar de bedtijd</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1119"/>
-        <location filename="../../src/MainWindow.cpp" line="1229"/>
+        <location filename="../../src/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/MainWindow.cpp" line="1199"/>
         <source>Bedtime end time</source>
         <translation>Eindtijd van de bedtijd</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1124"/>
-        <location filename="../../src/MainWindow.cpp" line="1234"/>
+        <location filename="../../src/MainWindow.cpp" line="1094"/>
+        <location filename="../../src/MainWindow.cpp" line="1204"/>
         <source>Wake time</source>
         <translation>Tijd om te ontwaken</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1126"/>
-        <location filename="../../src/MainWindow.cpp" line="1236"/>
+        <location filename="../../src/MainWindow.cpp" line="1096"/>
+        <location filename="../../src/MainWindow.cpp" line="1206"/>
         <source>Wake time transition start time</source>
         <translation>Begintijd van de overgang naar het ontwaken</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1128"/>
-        <location filename="../../src/MainWindow.cpp" line="1238"/>
+        <location filename="../../src/MainWindow.cpp" line="1098"/>
+        <location filename="../../src/MainWindow.cpp" line="1208"/>
         <source>Wake time transition end time</source>
         <translation>Eindtijd van de overgang naar het ontwaken</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1130"/>
-        <location filename="../../src/MainWindow.cpp" line="1240"/>
+        <location filename="../../src/MainWindow.cpp" line="1100"/>
+        <location filename="../../src/MainWindow.cpp" line="1210"/>
         <source>Wake time end time</source>
         <translation>Eindtijd van de tijd om te ontwaken</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1135"/>
-        <location filename="../../src/MainWindow.cpp" line="1245"/>
+        <location filename="../../src/MainWindow.cpp" line="1105"/>
+        <location filename="../../src/MainWindow.cpp" line="1215"/>
         <source>Day duration</source>
         <translation>Duur van de dag</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1137"/>
-        <location filename="../../src/MainWindow.cpp" line="1247"/>
+        <location filename="../../src/MainWindow.cpp" line="1107"/>
+        <location filename="../../src/MainWindow.cpp" line="1217"/>
         <source>Day transition duration</source>
         <translation>Overgangsduur van de dag</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1139"/>
-        <location filename="../../src/MainWindow.cpp" line="1249"/>
+        <location filename="../../src/MainWindow.cpp" line="1109"/>
+        <location filename="../../src/MainWindow.cpp" line="1219"/>
         <source>Night duration</source>
         <translation>Duur van de nacht</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1141"/>
-        <location filename="../../src/MainWindow.cpp" line="1251"/>
+        <location filename="../../src/MainWindow.cpp" line="1111"/>
+        <location filename="../../src/MainWindow.cpp" line="1221"/>
         <source>Night transition duration</source>
         <translation>Overgangsduur van de nacht</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1143"/>
-        <location filename="../../src/MainWindow.cpp" line="1253"/>
+        <location filename="../../src/MainWindow.cpp" line="1113"/>
+        <location filename="../../src/MainWindow.cpp" line="1223"/>
         <source>Sleep duration</source>
         <translation>Duur van het slapen</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1145"/>
-        <location filename="../../src/MainWindow.cpp" line="1255"/>
+        <location filename="../../src/MainWindow.cpp" line="1115"/>
+        <location filename="../../src/MainWindow.cpp" line="1225"/>
         <source>Sleep transition duration</source>
         <translation>Overgangsduur van het slapen</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1151"/>
+        <location filename="../../src/MainWindow.cpp" line="1121"/>
         <source>Time zone</source>
         <translation>Tijdzone</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1153"/>
+        <location filename="../../src/MainWindow.cpp" line="1123"/>
         <source>Custom Time zone offset</source>
         <translation>Compensatie van aangepaste tijdzone</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1158"/>
+        <location filename="../../src/MainWindow.cpp" line="1128"/>
         <source>Sunrise time</source>
         <translation>Zonsopgang</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1160"/>
+        <location filename="../../src/MainWindow.cpp" line="1130"/>
         <source>Sunset time</source>
         <translation>Zonsondergang</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1165"/>
+        <location filename="../../src/MainWindow.cpp" line="1135"/>
         <source>New moon offset</source>
         <translation>Compensatie van nieuwe maan</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1167"/>
+        <location filename="../../src/MainWindow.cpp" line="1137"/>
         <source>Full moon offset</source>
         <translation>Compensatie van volle maan</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1169"/>
+        <location filename="../../src/MainWindow.cpp" line="1139"/>
         <source>Current moon offset</source>
         <translation>Compensatie van huidige maan</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1759"/>
+        <location filename="../../src/MainWindow.cpp" line="1725"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro vereist</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1760"/>
+        <location filename="../../src/MainWindow.cpp" line="1726"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>U heeft Iris Pro nodig om toegang te krijgen tot dit gedeelte.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2303"/>
+        <location filename="../../src/MainWindow.cpp" line="2255"/>
         <source>Relaunch Iris</source>
         <translation>Start Iris opnieuw op</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2304"/>
+        <location filename="../../src/MainWindow.cpp" line="2256"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>U moet Iris opnieuw opstarten om wijzigingen door te voeren.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2306"/>
+        <location filename="../../src/MainWindow.cpp" line="2258"/>
         <source>Relaunch now</source>
         <translation>Nu opnieuw starten</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2307"/>
+        <location filename="../../src/MainWindow.cpp" line="2259"/>
         <source>Later</source>
         <translation>Later</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2323"/>
-        <location filename="../../src/MainWindow.cpp" line="2388"/>
+        <location filename="../../src/MainWindow.cpp" line="2275"/>
+        <location filename="../../src/MainWindow.cpp" line="2340"/>
         <source>Restart is needed</source>
         <translation>Opnieuw opstarten is nodig</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2324"/>
-        <location filename="../../src/MainWindow.cpp" line="2388"/>
+        <location filename="../../src/MainWindow.cpp" line="2276"/>
+        <location filename="../../src/MainWindow.cpp" line="2340"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris heeft enkele wijzigingen aangebracht in uw systeem en opnieuw opstarten is nodig om de wijzigingen door te voeren..</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3827"/>
+        <location filename="../../src/MainWindow.cpp" line="3679"/>
         <source>WARNING!!!</source>
         <translation>WAARSCHUWING!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3828"/>
-        <source>WARNING!!!
-
-Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
+        <location filename="../../src/MainWindow.cpp" line="3680"/>
         <source>WARNING!!!  Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="vanished">WAARSCHUWING!!! Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen. Gebruik het alleen als prestaties niet belangrijk zijn!</translation>
+        <translation>WAARSCHUWING!!! Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen. Gebruik het alleen als prestaties niet belangrijk zijn!</translation>
     </message>
 </context>
 <context>
@@ -1250,22 +1212,14 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
 <context>
     <name>TaskbarButton</name>
     <message>
-        <source>until rest</source>
-        <translation type="vanished">tot de rust</translation>
-    </message>
-    <message>
-        <source>until work</source>
-        <translation type="vanished">tot het werk</translation>
-    </message>
-    <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="192"/>
-        <source> until rest</source>
-        <translation type="unfinished"></translation>
+        <source>until rest</source>
+        <translation>tot de rust</translation>
     </message>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="206"/>
-        <source> until work</source>
-        <translation type="unfinished"></translation>
+        <source>until work</source>
+        <translation>tot het werk</translation>
     </message>
 </context>
 <context>
@@ -1347,8 +1301,8 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="415"/>
-        <location filename="../../src/translation/Translator.cpp" line="681"/>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="680"/>
+        <location filename="../../src/translation/Translator.cpp" line="731"/>
         <source>ACTIVATE_CODE</source>
         <translation type="unfinished">AKTIVATIECODE</translation>
     </message>
@@ -2154,202 +2108,197 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="624"/>
-        <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="625"/>
         <source>FULLSCREEN_APPS</source>
         <translation type="unfinished">TOEPASSINGEN_OP_VOLLEDIG_SCHERM</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="642"/>
+        <location filename="../../src/translation/Translator.cpp" line="641"/>
         <source>DAY_OPACITY</source>
         <translation type="unfinished">VERDUISTERING_OVERDAG</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="643"/>
+        <location filename="../../src/translation/Translator.cpp" line="642"/>
         <source>NIGHT_OPACITY</source>
         <translation type="unfinished">VERDUISTERING_&apos;S_NACHTS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="645"/>
+        <location filename="../../src/translation/Translator.cpp" line="644"/>
         <source>DAY_DIM</source>
         <translation type="unfinished">SCHEMERING_OVERDAG</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="646"/>
+        <location filename="../../src/translation/Translator.cpp" line="645"/>
         <source>NIGHT_DIM</source>
         <translation type="unfinished">SCHEMERING_&apos;S_NACHTS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="655"/>
+        <location filename="../../src/translation/Translator.cpp" line="654"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation type="unfinished">SLIMME_HELDERHEID_GEBRUIKEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="656"/>
+        <location filename="../../src/translation/Translator.cpp" line="655"/>
         <source>USE_SMART_INVERSION</source>
         <translation type="unfinished">SLIMME_INVERSIE_GEBRUIKEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="657"/>
+        <location filename="../../src/translation/Translator.cpp" line="656"/>
         <source>ENABLE_CAMERA</source>
         <translation type="unfinished">CAMERA_INSCHAKELEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="658"/>
+        <location filename="../../src/translation/Translator.cpp" line="657"/>
         <source>DISABLE_CAMERA</source>
         <translation type="unfinished">CAMERA_UITSCHAKELEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="662"/>
+        <location filename="../../src/translation/Translator.cpp" line="661"/>
         <source>ADVANCED_FEATURES</source>
         <translation type="unfinished">GEAVANCEERD_FUNKTIES</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="663"/>
+        <location filename="../../src/translation/Translator.cpp" line="662"/>
         <source>FEATURE_ON_OFF</source>
         <translation type="unfinished">FUNKTIE_AAN_UIT</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="665"/>
+        <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
         <translation type="unfinished">GEAVANCEERD_VRIENDEN_UITNODIGEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="666"/>
+        <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>INVITE_FRIENDS</source>
         <translation type="unfinished">NODIG_VRIENDEN_UIT</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="667"/>
+        <location filename="../../src/translation/Translator.cpp" line="666"/>
         <source>SYNC</source>
         <translation type="unfinished">SYNCHRONISEREN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="668"/>
+        <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>RE_CHECK_INVITE</source>
         <translation type="unfinished">UITNODIGEN NOGMAALS CHECKEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="700"/>
+        <location filename="../../src/translation/Translator.cpp" line="699"/>
         <source>CZECH</source>
         <translation type="unfinished">TJECHISCH</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="701"/>
+        <location filename="../../src/translation/Translator.cpp" line="700"/>
         <source>UKRAINIAN</source>
         <translation type="unfinished">OEKRAÏENS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="703"/>
+        <location filename="../../src/translation/Translator.cpp" line="702"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation type="unfinished">GEAVANCEERD_VERBORGEN_FUNKTIES</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="704"/>
+        <location filename="../../src/translation/Translator.cpp" line="703"/>
         <source>ENTER_YOUR_SPELL</source>
         <translatorcomment>I need the context for a pure translation.</translatorcomment>
         <translation type="unfinished">VOER_UW_WACHTWOORD_IN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="705"/>
+        <location filename="../../src/translation/Translator.cpp" line="704"/>
         <source>ACTIVATE</source>
         <translation type="unfinished">AKTIVEREN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="707"/>
+        <location filename="../../src/translation/Translator.cpp" line="706"/>
         <source>ADVANCED_DEBUG</source>
         <translation type="unfinished">GEAVANCEERD_PROBLEEMOPLOSSING</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>DEBUG_INFORMATION</source>
         <translation type="unfinished">INFORMATIE_OVER_FOUTOPSPORING</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="716"/>
         <source>SKIP_REST</source>
         <translation type="unfinished">RUSTEN_OVERSLAAN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>NORMAL</source>
         <translation type="unfinished">NORMAAL</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>STRICT</source>
         <translation type="unfinished">STRIKT</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>CONTINUE</source>
         <translation type="unfinished">DOORGAAN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="721"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>REST_MODE</source>
         <translation type="unfinished">RUST_MODUS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="722"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>REST_MODE_MESSAGE</source>
         <translation type="unfinished">RUST_ MODUS_BERICHT</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="723"/>
+        <location filename="../../src/translation/Translator.cpp" line="722"/>
         <source>TIME_IS</source>
         <translation type="unfinished">DE_TIJD_IS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>START_WORKING</source>
         <translation type="unfinished">BEGINNEN_MET_WERKEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>HAVE_A_BREAK</source>
         <translation type="unfinished">ONDERBREKEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="730"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>ADD</source>
         <translation type="unfinished">TOEVOEGEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="731"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>REMOVE</source>
         <translation type="unfinished">VERWIJDEREN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="732"/>
         <source>BUY</source>
         <translation type="unfinished">KOPEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="734"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>BUY_NOW</source>
         <translation type="unfinished">KOOP NU</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="735"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>min</source>
         <translation>min</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="735"/>
         <source>sec</source>
         <translation>sec</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="736"/>
         <source>ON</source>
         <translation type="unfinished">AAN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>OFF</source>
         <translation type="unfinished">UIT</translation>
     </message>
@@ -2379,288 +2328,288 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation type="unfinished">GEAVANCEERD_TIMERPAUZERS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="627"/>
+        <location filename="../../src/translation/Translator.cpp" line="626"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation type="unfinished">GEAVANCEERD_OVERLAPSCHERM</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="628"/>
+        <location filename="../../src/translation/Translator.cpp" line="627"/>
         <source>OVERLAY_COLOR</source>
         <translation type="unfinished">OVERLAPPENDE_KLEUR</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="471"/>
-        <location filename="../../src/translation/Translator.cpp" line="629"/>
+        <location filename="../../src/translation/Translator.cpp" line="628"/>
         <source>GREEN</source>
         <translation type="unfinished">GROEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="630"/>
+        <location filename="../../src/translation/Translator.cpp" line="629"/>
         <source>TURQUOISE</source>
         <translation type="unfinished">TURKOOIS</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="472"/>
-        <location filename="../../src/translation/Translator.cpp" line="631"/>
+        <location filename="../../src/translation/Translator.cpp" line="630"/>
         <source>BLUE</source>
         <translation type="unfinished">BLAUW</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="632"/>
+        <location filename="../../src/translation/Translator.cpp" line="631"/>
         <source>INDIGO</source>
         <translation type="unfinished">INDIGO</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="633"/>
+        <location filename="../../src/translation/Translator.cpp" line="632"/>
         <source>VIOLET</source>
         <translation type="unfinished">PAARS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="634"/>
+        <location filename="../../src/translation/Translator.cpp" line="633"/>
         <source>PURPLE</source>
         <translation type="unfinished">PURPER</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="635"/>
+        <location filename="../../src/translation/Translator.cpp" line="634"/>
         <source>MAGENTA</source>
         <translation type="unfinished">MAGENTA</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="636"/>
+        <location filename="../../src/translation/Translator.cpp" line="635"/>
         <source>SCARLET</source>
         <translation type="unfinished">SCHARLAKEN</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="470"/>
-        <location filename="../../src/translation/Translator.cpp" line="637"/>
+        <location filename="../../src/translation/Translator.cpp" line="636"/>
         <source>RED</source>
         <translation type="unfinished">ROOD</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="638"/>
+        <location filename="../../src/translation/Translator.cpp" line="637"/>
         <source>ORANGE</source>
         <translation type="unfinished">ORANJE</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="639"/>
+        <location filename="../../src/translation/Translator.cpp" line="638"/>
         <source>YELLOW</source>
         <translation type="unfinished">GEEL</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="640"/>
+        <location filename="../../src/translation/Translator.cpp" line="639"/>
         <source>LEMON</source>
         <translation type="unfinished">CITROEN</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="496"/>
-        <location filename="../../src/translation/Translator.cpp" line="641"/>
+        <location filename="../../src/translation/Translator.cpp" line="640"/>
         <source>OPACITY</source>
         <translation type="unfinished">ONDOORZICHTIGHEID</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="644"/>
+        <location filename="../../src/translation/Translator.cpp" line="643"/>
         <source>SCREEN_DIM</source>
         <translation type="unfinished">HET_SCHERM_DIMMEN</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
-        <location filename="../../src/translation/Translator.cpp" line="647"/>
+        <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>DISABLE</source>
         <translation type="unfinished">UITSCHAKELEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="648"/>
+        <location filename="../../src/translation/Translator.cpp" line="647"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>SELEKTEER_EEN_GEBIED_OP_HET_SCHERM</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="649"/>
+        <location filename="../../src/translation/Translator.cpp" line="648"/>
         <source>RESET_SELECTED_AREA</source>
         <translation type="unfinished">STEL_HET_GESELEKTEERDE_GEBIED_OPNIEUW_IN</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
-        <location filename="../../src/translation/Translator.cpp" line="650"/>
+        <location filename="../../src/translation/Translator.cpp" line="649"/>
         <source>ENABLE</source>
         <translation type="unfinished">INSCHAKELEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="652"/>
+        <location filename="../../src/translation/Translator.cpp" line="651"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>GEAVANCEERD_KUNSTMATIGE_INTELLIGENTIE</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="653"/>
+        <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>AUTOMATISCH_HELDERHEID_GEBRUIKEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="654"/>
+        <location filename="../../src/translation/Translator.cpp" line="653"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>KNIPPER_DETECTIE_GEBRUIKEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="659"/>
+        <location filename="../../src/translation/Translator.cpp" line="658"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation type="unfinished">EEN_KNIPPEREND_SCHERM_TONEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="660"/>
+        <location filename="../../src/translation/Translator.cpp" line="659"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation type="unfinished">EEN_KNIPPEREND_SCHERM_VERBERGEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="670"/>
+        <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>ADVANCED_EXERCISES</source>
         <translation type="unfinished">GEAVANCEERD_OEFENINGEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="671"/>
+        <location filename="../../src/translation/Translator.cpp" line="670"/>
         <source>START_EYE_EXERCISES</source>
         <translation type="unfinished">MET_OOGOEFENINGEN_BEGINNEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="672"/>
+        <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>START_NECK_EXERCISES</source>
         <translation type="unfinished">MET_NEKOEFENINGEN_BEGINNEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="673"/>
+        <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>START_BACK_EXERCISES</source>
         <translation type="unfinished">MET_RUGOEFENINGEN_BEGINNEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="675"/>
+        <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation type="unfinished">GEAVANCEERD_IRIS_MODEL</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="676"/>
+        <location filename="../../src/translation/Translator.cpp" line="675"/>
         <source>SWITCH_TO_IRIS</source>
         <translation type="unfinished">NAAR_IRIS_OVERSCHAKELEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="677"/>
+        <location filename="../../src/translation/Translator.cpp" line="676"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation type="unfinished">NAAR_IRIS_LITE_OVERSCHAKELEN</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="679"/>
+        <location filename="../../src/translation/Translator.cpp" line="678"/>
         <source>ADVANCED_LICENSE</source>
         <translation type="unfinished">GEAVANCEERD_LICENTIE</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="680"/>
+        <location filename="../../src/translation/Translator.cpp" line="679"/>
         <source>GET_IRIS_PRO</source>
         <translation type="unfinished">KRIJG_IRIS_PRO</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="683"/>
+        <location filename="../../src/translation/Translator.cpp" line="682"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation type="unfinished">GEAVANCEERD_TAAL</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="684"/>
+        <location filename="../../src/translation/Translator.cpp" line="683"/>
         <source>LANGUAGE</source>
         <translation type="unfinished">TAAL</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="685"/>
+        <location filename="../../src/translation/Translator.cpp" line="684"/>
         <source>ENGLISH</source>
         <translation>ENGELS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="686"/>
+        <location filename="../../src/translation/Translator.cpp" line="685"/>
         <source>RUSSIAN</source>
         <translation type="unfinished">RUSSISCH</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="687"/>
+        <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>SPANISH</source>
         <translation>SPAANS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="688"/>
+        <location filename="../../src/translation/Translator.cpp" line="687"/>
         <source>CHINESE</source>
         <translation type="unfinished">CHINEES</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="689"/>
+        <location filename="../../src/translation/Translator.cpp" line="688"/>
         <source>INDIAN</source>
         <translation type="unfinished">INDISCH</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="690"/>
+        <location filename="../../src/translation/Translator.cpp" line="689"/>
         <source>JAPANESE</source>
         <translation>JAPANS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="691"/>
+        <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>ARABIC</source>
         <translation>ARABISCH</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="692"/>
+        <location filename="../../src/translation/Translator.cpp" line="691"/>
         <source>TURKISH</source>
         <translation>TURKS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="693"/>
+        <location filename="../../src/translation/Translator.cpp" line="692"/>
         <source>PORTUGUESE</source>
         <translation>PORTUGEES</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="694"/>
+        <location filename="../../src/translation/Translator.cpp" line="693"/>
         <source>FRENCH</source>
         <translation>FRANS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="695"/>
+        <location filename="../../src/translation/Translator.cpp" line="694"/>
         <source>GERMAN</source>
         <translation>DUITS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="696"/>
+        <location filename="../../src/translation/Translator.cpp" line="695"/>
         <source>KOREAN</source>
         <translation>KOREAANS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="697"/>
+        <location filename="../../src/translation/Translator.cpp" line="696"/>
         <source>ITALIAN</source>
         <translation>ITALIAANS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="698"/>
+        <location filename="../../src/translation/Translator.cpp" line="697"/>
         <source>BULGARIAN</source>
         <translation>BULGAARS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="699"/>
+        <location filename="../../src/translation/Translator.cpp" line="698"/>
         <source>GREEK</source>
         <translation>GRIEKS</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="709"/>
         <source>ADVANCED_ABOUT</source>
         <translation>GEAVANCEERD_OVER</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>NAME</source>
         <translation>NAAM</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="712"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>VERSION</source>
         <translation>VERSIE</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>PUBLISHER</source>
         <translation>UITGEVER</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="714"/>
+        <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>WEBSITE</source>
         <translation>WEBSITE</translation>
     </message>
