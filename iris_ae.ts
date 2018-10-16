@@ -209,97 +209,97 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
         <source>Gamma fixer disabled</source>
-        <translation></translation>
+        <translation>مثبط غاما تعطيل</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation></translation>
+        <translation>تم إصلاح مثبّت Gamma. إذا أصبحت الشاشة ساطعة فجأة ، فقم بتمكينها مرة أخرى أو انقر فوق أيقونة Iris mini عدة مرات. يجب أن يجبر كلاهما Iris لتغيير ألوان الشاشة.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
         <source>Gamma fixer enabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
         <source>Start at startup disabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
         <source>Tray icon rotation is enabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
         <source>Manual temperature enabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
         <source>You are now using Iris Mixed mode</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
         <source>Manual temperature disabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
         <source>Manual brightness enabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
         <source>Manual brightness disabled</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>

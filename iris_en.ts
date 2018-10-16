@@ -209,12 +209,12 @@ Note that Iris will work fine now, but with limited color changes.</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
         <source>Gamma fixer disabled</source>
-        <translation></translation>
+        <translation>Gamma fixer disabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation></translation>
+        <translation>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>

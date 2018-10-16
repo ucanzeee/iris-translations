@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris进行了一些小改动以实现更低的值。 您需要重新启动PC才能解锁全部功能</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -124,12 +124,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="36"/>
         <source>Save File...</source>
-        <translation type="unfinished"></translation>
+        <translation>保存存档...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris Settings File (*.iris_settings *.iris)</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1276,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>赌博</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1316,7 +1316,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>习惯</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1583,7 +1583,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>预览转换</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
@@ -1623,12 +1623,12 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation>饱和</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation>饱和</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -2142,7 +2142,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished"></translation>
+        <translation>颜色触发器</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2202,17 +2202,17 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation>设置</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished"></translation>
+        <translation>进口</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation>出口</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
@@ -2232,7 +2232,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished"></translation>
+        <translation>重新检查邀请</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
@@ -2702,7 +2702,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>习惯</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2720,7 +2720,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation>赌博</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
