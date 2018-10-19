@@ -219,378 +219,390 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
         <source>Gamma fixer enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تمكين برنامج غاما المثبت</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم تمكين مثبط غاما. إذا كان إشعار تغيير لون طفيف كل ثانية تعطيل المثبت غاما مرة أخرى. يتم استخدام مثبّت غاما ، لأن شبابيك يقرر تجاهل التغييرات الصغيرة قزحية من وقت لآخر.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>البدء عند تمكين بدء التشغيل</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation>سيبدأ قزحية مصغرة عند تشغيل جهاز الكمبيوتر الخاص بك</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
         <source>Start at startup disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>تبدأ عند بدء التشغيل المعوقين</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation>لن يبدأ قزحية مصغرة عند تشغيل جهاز الكمبيوتر الخاص بك</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
         <source>Tray icon rotation is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم تمكين تدوير رمز الدرج</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم تدوير أيقونة الدرج عندما تقوم قزحية بتغيير ألوان الشاشة. يستخدم هذا لإظهار عندما يقوم قزحية مصغرة بتغيير الألوان ولا يتم معايرة الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم تعطيل تدوير أيقونة الدرج</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>لن يتم تدوير رمز الدرج عندما يقوم قزحية بتغيير ألوان الشاشة. يتم استخدام هذه الميزة لإظهار عندما يقوم قزحية مصغرة بتغيير الألوان وعدم معايرة الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
         <source>Manual temperature enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تمكين درجة الحرارة اليدوية</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
         <source>You are now using Iris Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت الآن تستخدم وضع قزحية مختلطة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
         <source>Manual temperature disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تمكين درجة الحرارة اليدوية</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation type="unfinished"></translation>
+        <translation>سوف تستخدم قزحية الوضع الذي اخترته لدرجات الحرارة مرة أخرى</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
         <source>Manual brightness enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>سطوع يدوي ممكن</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation>أنت الآن تستخدم وضع القزحية المصغرة المختلط</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
         <source>Manual brightness disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>سطوع يدوي تعطيل</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation></translation>
+        <translation>ستستخدم قزحية مصغرة وضعك المختار للسطوع مرة أخرى</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Monitor</source>
-        <translation></translation>
+        <translation>مراقب</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
         <source> disabled</source>
-        <translation></translation>
+        <translation>معاق</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation></translation>
+        <translation>لن تطبق قزحية تغييرات اللون على مراقب
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source> enabled</source>
-        <translation></translation>
+        <translation>تمكين</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation></translation>
+        <translation>سوف القزحية تطبيق تغييرات اللون إلى مراقب</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Reset colors</source>
-        <translation></translation>
+        <translation>إعادة ضبط الألوان</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="735"/>
         <source>Screen colors are reset to default values</source>
-        <translation></translation>
+        <translation>يتم إعادة تعيين ألوان الشاشة إلى القيم الافتراضية</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
         <source>Reset settings</source>
-        <translation></translation>
+        <translation>اعادة الضبط</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
         <source>Iris settings are reset to default values</source>
-        <translation></translation>
+        <translation>يتم إعادة تعيين إعدادات قزحية إلى القيم الافتراضية</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
         <source>Invert</source>
-        <translation></translation>
+        <translation>عكس</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
         <source>Colors are inverted</source>
-        <translation></translation>
+        <translation>الألوان مقلوبة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
         <source>Zero blue light</source>
-        <translation></translation>
+        <translation>صفر ضوء أزرق</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
         <source>All blue light is removed from the screen</source>
-        <translation></translation>
+        <translation>تتم إزالة كل الضوء الأزرق من الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
         <source>Gamma preservation enabled</source>
-        <translation></translation>
+        <translation>حفظ غاما مكنت</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation></translation>
+        <translation>سوف تحترم قزحية معايرة الألوان من الآن فصاعدا. قم بإغلاق وبدء قزحية مصغرة مرة أخرى وسوف يحافظ على ألوانك أثناء النهار</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Gamma preservation disabled</source>
-        <translation></translation>
+        <translation>الحفاظ على غاما المعوقين</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation></translation>
+        <translation>لن تحترم قزحية معايرة الألوان من الآن فصاعدًا. سيستخدم إعدادات الشاشة الافتراضية بدلاً من ذلك</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>Notifications enabled</source>
-        <translation></translation>
+        <translation>تم تمكين الإشعارات</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
-        <translation></translation>
+        <translation>يتم تمكين إشعارات الميزات المخفية. فهي تظهر حتى تعرف متى تكون الإملاء ناجحة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
         <source>Notifications disabled</source>
-        <translation></translation>
+        <translation>الإشعارات معطلة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation></translation>
+        <translation>تم تعطيل إشعارات الميزات المخفية. هذا هو آخر إخطار سترونه</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
         <source>Manual location enabled</source>
-        <translation></translation>
+        <translation>تم تمكين الموقع اليدوي</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation></translation>
+        <translation>ستستخدم قزحية مصغرة موقعك اليدوي. تعيين خطوط الطول والعرض مع الميزات المخفية
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
         <source>Manual location disabled</source>
-        <translation></translation>
+        <translation>تعطيل الموقع اليدوي
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation></translation>
+        <translation>سيستخدم قزحية مصغرة الموقع التلقائي. يستخدم الموقع لحساب موقع الشمس ومدة اليوم والليل
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
         <source>Manual night duration enabled</source>
-        <translation></translation>
+        <translation>تم تمكين مدة الليل اليدوية
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation></translation>
+        <translation>ستستخدم قزحية مصغرة مدة الليل اليدوية. ضبط وقت البدء والانتهاء بالميزات المخفية</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
         <source>Manual night duration disabled</source>
-        <translation></translation>
+        <translation>الليل دليل تعطيل المعوقين</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation></translation>
+        <translation>سيستخدم قزحية مصغرة مدة الليل التلقائية حسب الموقع. يستخدم الموقع لحساب موقع الشمس ومدة اليوم والليل
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
         <source>Invalid Night start time</source>
-        <translation></translation>
+        <translation>وقت بدء الليل غير صالح</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
-        <translation></translation>
+        <translation>قيمة غير صالحة لوقت البدء الليلي. استخدم الرقم بين 0 و 24.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
         <source>Night start time changed</source>
-        <translation></translation>
+        <translation>وقت بدء الليل تغير</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
         <source>Manual night start time changed to</source>
-        <translation></translation>
+        <translation>تغير وقت بدء التشغيل اليدوي إلى</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="896"/>
         <source>Invalid Night end time</source>
-        <translation></translation>
+        <translation>وقت نهاية الليل غير صالح</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
-        <translation></translation>
+        <translation>قيمة غير صالحة لوقت نهاية الليل. استخدم الرقم بين 0 و 24.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
         <source>Night end time changed</source>
-        <translation></translation>
+        <translation>تغير وقت نهاية الليل</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="907"/>
         <source>Manual night end time changed to</source>
-        <translation></translation>
+        <translation>تغير وقت نهاية الليل اليدوي إلى</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="918"/>
         <source>Latitude changed</source>
-        <translation></translation>
+        <translation>تم تغيير خط العرض</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="919"/>
         <source>Latitude changed to</source>
+        <translatorcomment>تم تغيير خط العرض إلى</translatorcomment>
         <translation></translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="929"/>
         <source>Longitude changed</source>
-        <translation></translation>
+        <translation>خط الطول تغير</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="930"/>
         <source>Longitude changed to</source>
-        <translation></translation>
+        <translation>خط الطول تغير إلى</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="939"/>
         <source>Software cursor enabled</source>
-        <translation></translation>
+        <translation>تم تمكين مؤشر البرنامج</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation></translation>
+        <translation>سيتم تطبيق تغييرات اللون أيضًا على المؤشر. إذا بدأ الاختفاء ، فاستخدم مؤشر تعطيل البرامج لإضفاء اللمعة عليه مرة أخرى.
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
         <source>Hardware cursor enabled</source>
-        <translation></translation>
+        <translation>تم تمكين مؤشر الجهاز</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation></translation>
+        <translation>لن يتم تطبيق تغييرات اللون على المؤشر. إذا كنت لا تحب المؤشر الأزرق الساطع في الليل ، استخدم مؤشر برنامج تمكين تطبيق تغييرات اللون على المؤشر.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
         <source>Conflicting applications enabled</source>
-        <translation></translation>
+        <translation>تم تمكين التطبيقات المتعارضة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
-        <translation></translation>
+        <translation>يتم تمكين التطبيقات المتعارضة. يمكنك الآن استخدام برامج أخرى تعمل على تغيير ألوان الشاشة.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation></translation>
+        <translation>تعطيل التطبيقات المتعارضة
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation></translation>
+        <translation>يتم تعطيل التطبيقات المتعارضة. من أجل عدم تسبب وميض يتم تعطيل التطبيقات المتضاربة.
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Keyboard Hook enabled</source>
-        <translation></translation>
+        <translation>تم تمكين لوحة المفاتيح</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation></translation>
+        <translation>تم تمكين لوحة المفاتيح. يمكنك الآن استخدام الاختصارات على مستوى النظام.
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation></translation>
+        <translation>ربط لوحة المفاتيح معطلة
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation></translation>
+        <translation>ربط لوحة المفاتيح معطلة. قد لا تعمل بعض الاختصارات والميزات على النحو المنشود</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
         <source>Trial Notification enabled</source>
-        <translation></translation>
+        <translation>الإخطار التجريبي ممكن</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation></translation>
+        <translation>سوف تذكرك قزحية عندما تنتهي صلاحية الإصدار التجريبي</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
         <source>Trial Notification disabled</source>
-        <translation></translation>
+        <translation>الإخطار التجريبي معطّل</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation></translation>
+        <translation>لن تذكرك آيريس بعد انتهاء صلاحية النسخة التجريبية</translation>
     </message>
 </context>
 <context>
@@ -598,12 +610,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح الملف ...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished">Iris Settings File (*.iris_settings *.iris)</translation>
+        <translation>Iris Settings File (*.iris_settings *.iris)</translation>
     </message>
 </context>
 <context>
@@ -755,7 +767,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/lightness_screen.ui" line="14"/>
         <location filename="../../ui/webkit/lightness_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>بلينك تذكير الشاشة</translation>
     </message>
     <message>
         <location filename="../../ui/lightness_screen.ui" line="39"/>
@@ -770,7 +782,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -1036,7 +1048,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/new_version_screen.ui" line="14"/>
         <location filename="../../ui/webkit/new_version_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>الحوار</translation>
     </message>
     <message>
         <location filename="../../ui/new_version_screen.ui" line="39"/>
@@ -1051,7 +1063,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/notification_screen.ui" line="14"/>
         <location filename="../../ui/webkit/notification_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>الحوار</translation>
     </message>
     <message>
         <location filename="../../ui/notification_screen.ui" line="39"/>
@@ -1066,7 +1078,8 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/overlay_screen.ui" line="14"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>الحوار
+</translation>
     </message>
     <message>
         <location filename="../../ui/overlay_screen.ui" line="39"/>
@@ -1081,7 +1094,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/postpone_screen.ui" line="14"/>
         <location filename="../../ui/webkit/postpone_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>الحوار</translation>
     </message>
     <message>
         <location filename="../../ui/postpone_screen.ui" line="39"/>
@@ -1096,7 +1109,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/productive_screen.ui" line="14"/>
         <location filename="../../ui/webkit/productive_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>الحوار</translation>
     </message>
     <message>
         <location filename="../../ui/productive_screen.ui" line="33"/>
@@ -1125,12 +1138,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>بلينك تذكير الشاشة
+</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation>قزحية</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1158,35 +1172,36 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <source>hour</source>
-        <translation type="unfinished">ساعة</translation>
+        <translation>ساعة</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <source>min</source>
-        <translation type="unfinished">الدقائق</translation>
+        <translation>الدقائق</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="375"/>
         <source>sec</source>
-        <translation type="unfinished">ثواني</translation>
+        <translation>ثواني</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>reminds you that a big rest will occur in</source>
-        <translation type="unfinished"></translation>
+        <translation>يذكرك أن بقية كبيرة ستحدث في
+</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>الدقائق</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1198,7 +1213,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="734"/>
         <location filename="../batman/SolarPosition.cpp" line="752"/>
         <source>hour</source>
-        <translation type="unfinished">ساعة</translation>
+        <translation>ساعة</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="436"/>
@@ -1206,7 +1221,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="676"/>
         <location filename="../batman/SolarPosition.cpp" line="735"/>
         <source>min</source>
-        <translation type="unfinished">الدقائق</translation>
+        <translation>الدقائق</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="437"/>
@@ -1215,12 +1230,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="736"/>
         <location filename="../batman/SolarPosition.cpp" line="740"/>
         <source>sec</source>
-        <translation type="unfinished">ثواني</translation>
+        <translation>ثواني</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="756"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>ساعات</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1291,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>الألعاب</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1296,7 +1311,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="410"/>
         <source>SUNGLASSES_MODE</source>
-        <translation>Güneş gözlüğü</translation>
+        <translation>نظارات شمسيه</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="411"/>
@@ -1316,7 +1331,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation>العادة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1452,7 +1467,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="447"/>
         <source>NIGHT_BLUE_LIGHT</source>
-        <translation type="unfinished">ضوء الليل</translation>
+        <translation>ضوء الليل</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="449"/>
@@ -1583,7 +1598,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>معاينة التحولات</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
@@ -1623,12 +1638,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation>التشبع</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation>التشبع</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -1708,7 +1723,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>USE_PER_MONITOR_SETTINGS</source>
-        <translation type="unfinished"></translation>
+        <translation>لكل إعدادات مراقب</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="521"/>
@@ -1916,17 +1931,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation>اختصارات لوحة المفاتيح</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation>تكبير في:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation>تصغير:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -1956,7 +1971,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished"></translation>
+        <translation>إلى عن على</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -2036,102 +2051,107 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation>اختصارات</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished"></translation>
+        <translation>خاصية</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation>زيادة درجة الحرارة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation>انخفاض درجة الحرارة
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>زيادة السطوع</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation>تقليل السطوع
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء تراكب الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation>نهاية شاشة تراكب
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام تأثيرات اللون
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation>وقفة / استئناف السوسن</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished"></translation>
+        <translation>يدوي / تلقائي</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished"></translation>
+        <translation>ابدأ الراحة
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished"></translation>
+        <translation>وقفة / استئناف الموقت</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بإنهاء ايريس</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished"></translation>
+        <translation>الاختصار</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation>اختصارات</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة المعالجة المركزية</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished"></translation>
+        <translation>تحسين إنشاء واجهة المستخدم</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>وحدة معالجة الرسومات</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدام غاما المثبت</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2142,7 +2162,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished"></translation>
+        <translation>مشغلات اللون</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2192,47 +2212,49 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation>المميزات</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>ميزة - تشغيل / أطفئ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation>الإعدادات
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished"></translation>
+        <translation>استيراد</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation>تصدير</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation>ادعو أصدقاء
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation>ادعو أصدقاء</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished"></translation>
+        <translation>مزامنة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة التحقق من دعوة</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
@@ -2242,7 +2264,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>UKRAINIAN</source>
-        <translation type="unfinished"></translation>
+        <translation>الأوكراني</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="709"/>
@@ -2262,12 +2284,13 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished"></translation>
+        <translation>التصحيح</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished"></translation>
+        <translation>تصحيح المعلومات
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="723"/>
@@ -2327,32 +2350,32 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>BUY</source>
-        <translation type="unfinished"></translation>
+        <translation>يشترى</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>BUY_NOW</source>
-        <translation type="unfinished"></translation>
+        <translation>اشتري الآن</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>min</source>
-        <translation type="unfinished">الدقائق</translation>
+        <translation>الدقائق</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>sec</source>
-        <translation type="unfinished">ثواني</translation>
+        <translation>ثواني</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished"></translation>
+        <translation>تشغيل</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>أطفئ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
@@ -2702,7 +2725,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>العادة</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2720,7 +2743,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation>الألعاب</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2806,92 +2829,94 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="131"/>
         <source>Expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>تنتهي</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="139"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>أيام</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation>يوم</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>ساعات</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished">ساعة</translation>
+        <translation>ساعة</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>الدقائق</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation>اللحظة</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished">منتهية الصلاحية</translation>
+        <translation>منتهية الصلاحية</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت النسخة التجريبية</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished"></translation>
+        <translation>انتهت صلاحية اختبار قزحية طليعة التجريبي</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كنت تحب البرنامج وترغب في استخدامه أكثر ما تستطيع
+</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation>دعوة الأصدقاء أو شراء ترخيص مدى الحياة
+</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation type="unfinished">تستخدم بالفعل</translation>
+        <translation>تستخدم بالفعل</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished"></translation>
+        <translation>تجربة ايريس برو المستخدمة بالفعل.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished"></translation>
+        <translation>يبدو أنك استخدمت بالفعل الإصدار التجريبي المجاني على هذا الجهاز.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>ستحاول Iris تنشيطها مرة أخرى إذا لم تنتهِ صلاحية الإصدار التجريبي.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>تجربة مجانية معطل</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>تم تعطيل تجربة قزحية المجانية حاليًا</translation>
     </message>
 </context>
 <context>
@@ -2899,41 +2924,43 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished"></translation>
+        <translation>تنتهي صلاحية التجربة قريبًا</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation type="unfinished"></translation>
+        <translation>تنتهي تجربة قزحية طليعة اليوم
+</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="40"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="51"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation>إذا كنت تحب البرنامج وترغب في استخدامه أكثر ما تستطيع</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="33"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="42"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="53"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation>دعوة الأصدقاء أو شراء ترخيص مدى الحياة</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>تنتهي تجربة Iris طليعة غدًا
+</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>تنتهي محاكمة قزحية طليعة</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>أيام</translation>
     </message>
 </context>
 <context>
@@ -2942,7 +2969,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>بلينك تذكير الشاشة</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -2957,7 +2984,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation></translation>
+        <translation type="unfinished">kukla ekran efektleri</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -2969,7 +2996,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="52"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation type="unfinished">زر</translation>
     </message>
 </context>
 <context>
@@ -2977,7 +3004,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation></translation>
+        <translation>شكل</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
@@ -2987,7 +3014,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation>حسنا</translation>
+        <translation type="unfinished">حسنا</translation>
     </message>
 </context>
 <context>
@@ -3010,22 +3037,22 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">تحذير</translation>
+        <translation>تحذير</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
         <source>Invite Friends</source>
-        <translation type="unfinished"></translation>
+        <translation>ادعو أصدقاء</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation>يشترى</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation>قراءة المزيد...</translation>
     </message>
 </context>
 <context>
@@ -3034,7 +3061,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation></translation>
+        <translation type="unfinished">تكبير القطعة</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
@@ -3046,7 +3073,8 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/zoom_widget.ui" line="52"/>
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation>اضغط الزر
+</translation>
     </message>
 </context>
 </TS>

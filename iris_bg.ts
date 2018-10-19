@@ -132,7 +132,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation>Файл с настройки за IRIS (* .iris_settings * .iris)
+</translation>
     </message>
 </context>
 <context>
@@ -2888,7 +2889,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation>Покани приятели или Купи лиценз</translation>
+        <translation type="unfinished">Покани приятели или Купи лиценз</translation>
     </message>
     <message>
         <source>Invite Friends or Buy lifelong license for $15</source>

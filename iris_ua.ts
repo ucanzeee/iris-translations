@@ -39,7 +39,7 @@
         <location filename="../batman/ClockPosition.cpp" line="433"/>
         <location filename="../batman/ClockPosition.cpp" line="448"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>година</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="210"/>
@@ -47,7 +47,7 @@
         <location filename="../batman/ClockPosition.cpp" line="434"/>
         <location filename="../batman/ClockPosition.cpp" line="449"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>хвилин</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="211"/>
@@ -56,7 +56,7 @@
         <location filename="../batman/ClockPosition.cpp" line="450"/>
         <location filename="../batman/ClockPosition.cpp" line="454"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>сек</translation>
     </message>
 </context>
 <context>
@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис зробив невелику зміну, щоб зробити нижчі значення. Вам потрібно буде перезавантажити комп&apos;ютер один раз, щоб розблокувати повну функціональність</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -124,12 +124,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="36"/>
         <source>Save File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти файл...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Файл налаштувань Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -142,451 +142,455 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="450"/>
         <source>The spell</source>
-        <translation type="unfinished"></translation>
+        <translation>Заклинання</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>здається неправильним. Перевірте синтаксис або спробуйте з якоюсь іншою прихованою функцією.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовуйте &quot;довідку&quot;, щоб переглянути список усіх прихованих функцій :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="499"/>
         <source>Invalid temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Недійсна температура</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation type="unfinished"></translation>
+        <translation>є недійсним значення для колірної температури. Використовуйте цифри від 0 до 10 000.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
         <source>Temperature changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Температура змінилася
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
         <source>Color temperature changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>Температура кольору змінена на</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="545"/>
         <source>Invalid brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>Недійсна яскравість</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="525"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
-        <translation type="unfinished"></translation>
+        <translation>є недійсним значення для яскравості. Використовуйте число від 10 до 100.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="532"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
         <source>Brightness changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Яскравість змінилася</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
         <source>Brightness changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>Яскравість змінилася на</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
         <source>Gamma fixer disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Гамма-фіксера відключена</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Фіксатор датчика вимкнений. Якщо ваш екран раптово стає дуже яскравим, знову ввімкніть його або кілька разів натисніть значок mini Iris, щоб змінити кольори екрана.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
         <source>Gamma fixer enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Гамма-фіксатор включений</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Індикатор заблоковано. Якщо ви помічаєте часті зміни кольору, відключіть його. Гамма-замок використовується, оскільки Windows іноді ігнорує зміни, внесені Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Почати з запуску ввімкнено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис міні стартує, коли ви включаєте ваш комп&apos;ютер</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
         <source>Start at startup disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Заборонено запуск при завантаженні ОС</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис міні не запускається, коли ви вмикаєте свій комп&apos;ютер
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
         <source>Tray icon rotation is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволити анімацію піктограми</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Піктограма лотка буде повертатися, коли ірис змінює кольори екрана. Це використовується для показу, коли Iris mini змінює кольори, а екран не калібрується</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Заборонена анімація піктограми</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>Піктограма лотка не обертається, коли Ірис змінює кольори екрана. Ця функція використовується для показу, коли Iris mini змінює кольори, а екран не відкалібрований</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
         <source>Manual temperature enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволено ручне налаштування температури</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
         <source>You are now using Iris Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Тепер ви використовуєте змішаний режим Iris</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
         <source>Manual temperature disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Заборонена ручна настройка температури</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис знову використовуватиме ваш вибраний режим для температури</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
         <source>Manual brightness enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Дозволено налаштування яскравості вручну</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Тепер ви використовуєте Iris mini Mixed</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
         <source>Manual brightness disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Заборонена ручна настройка яскравості</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис міні буде використовувати ваш вибраний режим для яскравості знову</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>монітор</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
         <source> disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>вимкнено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис не застосує зміни кольору на моніторі</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source> enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>включений</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис застосує зміни кольору для монітора</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Reset colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Скидання кольорів</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="735"/>
         <source>Screen colors are reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Кольори екрана повертаються до значень за замовчуванням</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
         <source>Reset settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Скидання налаштувань</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
         <source>Iris settings are reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри ірису скидаються до значень за замовчуванням</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>Інвертувати</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
         <source>Colors are inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Кольори перевернуті</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
         <source>Zero blue light</source>
-        <translation type="unfinished"></translation>
+        <translation>Нульове синє світло</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
         <source>All blue light is removed from the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Всі сині відтінки видаляються з екрана</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
         <source>Gamma preservation enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Збереження гами дозволено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис продовжуватиме калібрувати кольори. Зупиніть і запустіть Iris mini, і програма буде зберігати ваші кольори протягом усього дня.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Gamma preservation disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Збереження гами відключено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис не буде зберігати вашу кольорову калібрування. Програма буде використовувати налаштування монітора за замовчуванням</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>Notifications enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Сповіщення ввімкнено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
-        <translation type="unfinished"></translation>
+        <translation>Сповіщення про приховані функції дозволяються. Ви побачите їх, щоб ви знали, що ваше заклинання прийнято</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
         <source>Notifications disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Сповіщення вимкнено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation type="unfinished"></translation>
+        <translation>Ніякі приховані функціональні сповіщення заборонені. Це останнє повідомлення, яке ви побачите</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
         <source>Manual location enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Ввімкнено ручне розташування</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation type="unfinished"></translation>
+        <translation>Мініатюра Iris буде використовувати місце, яке ви вводите. Вкажіть широту і довготу за допомогою прихованих функцій</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
         <source>Manual location disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручне розташування вимкнено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Мініатюра Іris використовуватиме автоматичне розташування для розрахунку положення сонця та тривалості ночі
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
         <source>Manual night duration enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручна тривалість ввімкнена</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис міні буде використовувати тривалість вночі. Встановіть початок і кінець, використовуючи приховані функції</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
         <source>Manual night duration disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручна нічна тривалість вимкнена</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис міні буде використовувати автоматичний нічний час залежно від місцезнаходження</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
         <source>Invalid Night start time</source>
-        <translation type="unfinished"></translation>
+        <translation>Невірний час початку ночі</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
-        <translation type="unfinished"></translation>
+        <translation>недійсний час початку ночі. Використовуйте цифри від 0 до 24.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
         <source>Night start time changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Час початку ночі змінився</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
         <source>Manual night start time changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>Початок ночі було змінено на</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="896"/>
         <source>Invalid Night end time</source>
-        <translation type="unfinished"></translation>
+        <translation>Недійсний час завершення вночі</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
-        <translation type="unfinished"></translation>
+        <translation>це недійсний час завершення ночі. Використовуйте цифри від 0 до 24.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
         <source>Night end time changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Час закінчення ночі змінився</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="907"/>
         <source>Manual night end time changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>Кінчик ночі був змінений на</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="918"/>
         <source>Latitude changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Широта змінилася</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="919"/>
         <source>Latitude changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>Широта змінилася на</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="929"/>
         <source>Longitude changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Довгота змінена</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="930"/>
         <source>Longitude changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>Довгота змінена на</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="939"/>
         <source>Software cursor enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Програмний курсор включений</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсор буде застосовувати зміни кольору. Якщо він починає зникати, відключіть програмний курсор, щоб побачити його знову.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
         <source>Hardware cursor enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Обладнаний курсор включений</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсор не застосовуватиме зміни кольору. Якщо вам не подобається яскравий синій курсор вночі, дозвольте програмному курсору застосувати до нього зміни кольору.
+Kursor ne zastosovuvatyme zminy kolʹoru. Yakshcho vam ne podobayetʹsya yaskravyy syniy kursor vnochi, dozvolʹte prohramnomu kursoru zastosuvaty do nʹoho zminy kolʹoru.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
         <source>Conflicting applications enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Включено конфліктне програмне забезпечення</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Допускаються несумісні програми, а також можна використовувати інші програми, які змінюють кольори екрана.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>заявки</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Несумісні додатки відключені, щоб запобігти мерехтінню на екрані.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Keyboard Hook enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка клавіатури увімкнена</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка клавіатури увімкнена</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Кнопка клавіатури відключена</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation type="unfinished"></translation>
+        <translation>Крюк клавіатури заборонено. Деякі швидкі клавіші можуть не працювати належним чином</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
         <source>Trial Notification enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Сповіщення про випробування увімкнено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис нагадуватиме вам, коли пробний період закінчиться</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
         <source>Trial Notification disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Повідомлення про випробування відключено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис більше не нагадає вам про те, що ваш пробний період закінчився</translation>
     </message>
 </context>
 <context>
@@ -594,12 +598,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -619,7 +623,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Велике спасибі за підтримку Iris! :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
@@ -795,7 +799,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="909"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Закінчився</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="913"/>
@@ -1014,14 +1018,16 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3982"/>
         <source>WARNING!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>УВАГА!!!</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3983"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished"></translation>
+        <translation>УВАГА!!!
+
+Інтелектуальна інверсія на OSX є інтенсивним процесором і може сповільнити роботу комп&apos;ютера. Використовуйте це, лише якщо продуктивність не важлива!</translation>
     </message>
 </context>
 <context>
@@ -1134,7 +1140,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
         <source>Rest screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Відпочинок екран</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
@@ -1144,7 +1150,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="134"/>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>Залишитися</translation>
     </message>
 </context>
 <context>
@@ -1152,35 +1158,35 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>година</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>хвилин</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="375"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>сек</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>reminds you that a big rest will occur in</source>
-        <translation type="unfinished"></translation>
+        <translation>нагадує вам, що у вас прекрасний відпочинок після</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>хвилин</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>нагадує вам, що у вас прекрасна перерва за 30 секунд</translation>
     </message>
 </context>
 <context>
@@ -1192,7 +1198,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="734"/>
         <location filename="../batman/SolarPosition.cpp" line="752"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>година</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="436"/>
@@ -1200,7 +1206,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="676"/>
         <location filename="../batman/SolarPosition.cpp" line="735"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>хвилин</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="437"/>
@@ -1209,12 +1215,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="736"/>
         <location filename="../batman/SolarPosition.cpp" line="740"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>сек</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="756"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>годин</translation>
     </message>
 </context>
 <context>
@@ -1270,7 +1276,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ігри</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1310,7 +1316,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Користувальницький</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1595,7 +1601,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередній перегляд</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
@@ -1653,12 +1659,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Насиченість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Насиченість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -1738,7 +1744,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>USE_PER_MONITOR_SETTINGS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Індивідуальні налаштування</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="521"/>
@@ -1945,17 +1951,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Гарячі клавіши</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Приближувати:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відстань:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -1985,7 +1991,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">за</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -2070,102 +2076,103 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ярлики</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">функція</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Збільшити температуру</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зменшити температуру</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Збільшити яскравість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зменшити яскравість</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Почніть накладати екран</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зупинити шару екрану</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Використовуйте кольорові ефекти</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
+        <translatorcomment>Пауза / Запуск Іриси</translatorcomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ручний / автоматичний перемикач</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Почніть відпочити</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Призупинити / відновити таймер</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вихід</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ярлик</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ярлики</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Процесор</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Оптимізація створення інтерфейсу користувача</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відеокарта</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Використовуйте гамма-замок</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="618"/>
@@ -2196,7 +2203,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Колір тригерів</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2341,47 +2348,47 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Особливості</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Функція - ON / OFF</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">налаштування</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імпортувати</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Трансфер</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запросити друзів</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запросити друзів</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Синхронізувати</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Перевірити запрошення</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="676"/>
@@ -2541,12 +2548,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Налагоджувати</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Деб&apos;г інформація</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="716"/>
@@ -2631,32 +2638,32 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>BUY</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Купити</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>BUY_NOW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Купити зараз</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">хвилина</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">секунд</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">включено</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ні</translation>
     </message>
 </context>
 <context>
@@ -2695,7 +2702,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Користувальницький</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2713,7 +2720,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ігри</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2799,92 +2806,92 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="131"/>
         <source>Expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>Закінчується після</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="139"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">дні</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">день</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">годин</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">час</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>хвилина</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">хвилина</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закінчився</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Судовий термін закінчився</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Термін дії вашого випробувального терміну для Iris Pro закінчився</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Якщо вам подобається програма і ви хочете використовувати її більше, ви можете</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запросіть друзів або купуйте ліцензію</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation type="unfinished">Вже використано</translation>
+        <translation>Вже використано</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IrisProTrial вже використовується.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ви вже використовували пробний період цієї машини.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ірис спробує активувати ще раз, якщо ваш пробний термін не минув.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Безкоштовна пробна версія вимкнена</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пробний період ірису призупинено</translation>
     </message>
 </context>
 <context>
@@ -2892,41 +2899,42 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished"></translation>
+        <translation>Судовий термін закінчується скоро</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation type="unfinished"></translation>
+        <translation>Тривалість випробувального періоду Iris Pro закінчується сьогодні
+Iris Pro Trial expires today</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="40"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="51"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation>Якщо вам подобається програма і ви хочете використовувати її більше, ви можете</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="33"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="42"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="53"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation>Запросіть друзів або Купуйте ліцензію</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Ірис Pro Trial закінчується завтра</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>Тривалість випробувального періоду Iris Pro закінчується після</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>дні</translation>
     </message>
 </context>
 <context>
@@ -2935,7 +2943,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation type="unfinished">Блимає, нагадуючи екран</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -2950,7 +2958,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation></translation>
+        <translation type="unfinished">манекенні ефекти екрану</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -2962,7 +2970,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="52"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation type="unfinished">Кнопка</translation>
     </message>
 </context>
 <context>
@@ -2970,17 +2978,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Форма</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation></translation>
+        <translation type="unfinished">Введіть магію:</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation></translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -2989,12 +2997,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation></translation>
+        <translation type="unfinished">Увага</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation></translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -3003,22 +3011,22 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Попередження</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
         <source>Invite Friends</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запросити друзів</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Купити</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Читати далі ...</translation>
     </message>
 </context>
 <context>
@@ -3027,7 +3035,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation></translation>
+        <translation type="unfinished">Віджет масштабування</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
@@ -3039,7 +3047,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/zoom_widget.ui" line="52"/>
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation type="unfinished">Натиснути кнопку</translation>
     </message>
 </context>
 </TS>

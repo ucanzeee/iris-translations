@@ -95,7 +95,8 @@
         <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris heeft enkele wijzigingen in uw systeem aangebracht en moet opnieuw worden opgestart om de volledige functionaliteit te ontgrendelen.
+Houd er rekening mee dat Iris nu goed werkt, maar werkt met beperkte kleurwijzigingen.</translation>
     </message>
     <message>
         <source>Some functionallity is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
@@ -330,17 +331,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>lijkt verkeerd. Controleer de syntaxis of probeer met een andere verborgen functie</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
         <source> disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>invalide</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source> enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>ingeschakeld</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
@@ -697,20 +698,23 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit is voor Iris en je activatiecode is Iris mini. Download de Iris mini van:
+Http: //İristech.co/İris-M de</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="214"/>
         <location filename="../../src/licensing/License.cpp" line="216"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teamlicentie-activering. Bedankt voor het ondersteunen van Iris! :)
+Bekijk uw nieuwe opties in geavanceerde weergave:)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit is voor Iris en de resterende Team-licentiecodes Iris mini. Download de Iris mini van:
+Http: //İristech.co/İris-M de</translation>
     </message>
     <message>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from http://iristech.co/iris-mini</source>
@@ -1047,7 +1051,9 @@ http://iristech.co/iris-mini</source>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished"></translation>
+        <translation>WAARSCHUWING!!!
+
+Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen. Gebruik het alleen als de prestaties niet belangrijk zijn!</translation>
     </message>
     <message>
         <source>WARNING!!!  Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1260,12 +1266,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="192"/>
         <source> until rest</source>
-        <translation type="unfinished"></translation>
+        <translation>tot rust</translation>
     </message>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="206"/>
         <source> until work</source>
-        <translation type="unfinished"></translation>
+        <translation>Tot het begin van het werk</translation>
     </message>
 </context>
 <context>
@@ -1308,7 +1314,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">gaming</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1348,7 +1354,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">gewoonte</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1615,7 +1621,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voorbeeld van overgangen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
@@ -1655,12 +1661,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verzadiging</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">verzadiging</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -2176,7 +2182,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kleurtriggers</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2236,17 +2242,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">instellingen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Importeren</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">afleiden</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
@@ -2737,7 +2743,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">gewoonte</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2755,7 +2761,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">spellen</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2975,7 +2981,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation>De Proefversie van Iris Pro verloopt vandaag</translation>
+        <translation type="unfinished">De Proefversie van Iris Pro verloopt vandaag</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
@@ -3119,7 +3125,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
         <translatorcomment>What is the context of this phrase? Is this a verb or a noun? If it is a noun the translation should be: Drukknop</translatorcomment>
-        <translation>Druk op de Knop</translation>
+        <translation type="unfinished"> Drukknop</translation>
     </message>
 </context>
 </TS>

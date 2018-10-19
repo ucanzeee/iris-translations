@@ -39,7 +39,7 @@
         <location filename="../batman/ClockPosition.cpp" line="433"/>
         <location filename="../batman/ClockPosition.cpp" line="448"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>घंटा</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="210"/>
@@ -47,7 +47,7 @@
         <location filename="../batman/ClockPosition.cpp" line="434"/>
         <location filename="../batman/ClockPosition.cpp" line="449"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>मिनट</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="211"/>
@@ -56,7 +56,7 @@
         <location filename="../batman/ClockPosition.cpp" line="450"/>
         <location filename="../batman/ClockPosition.cpp" line="454"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>सेकंड</translation>
     </message>
 </context>
 <context>
@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस ने कम मूल्यों को सक्षम करने के लिए एक छोटा सा परिवर्तन किया। पूर्ण कार्यक्षमता अनलॉक करने के लिए आपको एक बार अपने पीसी को पुनरारंभ करने की आवश्यकता है</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -124,12 +124,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="36"/>
         <source>Save File...</source>
-        <translation type="unfinished"></translation>
+        <translation>फाइल सुरक्षित करें...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आईरिस सेटिंग्स फ़ाइल (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -137,456 +137,460 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="449"/>
         <source>Invalid spell</source>
-        <translation type="unfinished"></translation>
+        <translation>अमान्य वर्तनी</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="450"/>
         <source>The spell</source>
-        <translation type="unfinished"></translation>
+        <translation>मंत्र</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>यह गलत लगता है। वाक्यविन्यास जांचें या किसी अन्य छिपे हुए फ़ंक्शन के साथ प्रयास करें।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation type="unfinished"></translation>
+        <translation>सभी छिपी हुई सुविधाओं की सूची देखने के लिए &quot;सहायता&quot; का उपयोग करें :)
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="499"/>
         <source>Invalid temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>अमान्य तापमान</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation type="unfinished"></translation>
+        <translation>रंग तापमान के लिए अमान्य मान है। 0 और 10000 के बीच संख्या का उपयोग करें।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
         <source>Temperature changed</source>
-        <translation type="unfinished"></translation>
+        <translation>तापमान बदल गया</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
         <source>Color temperature changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>रंग का तापमान बदल गया</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="545"/>
         <source>Invalid brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>अमान्य चमक</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="525"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
-        <translation type="unfinished"></translation>
+        <translation>चमक के लिए एक अवैध मूल्य है। 10 और 100 के बीच एक संख्या चुनें।
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="532"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
         <source>Brightness changed</source>
-        <translation type="unfinished"></translation>
+        <translation>चमक बदल गई है</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
         <source>Brightness changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>चमक बदल गई</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
         <source>Gamma fixer disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>गामा सुधार बंद</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>सूचक ताला निष्क्रिय है। अगर स्क्रीन अचानक बहुत उज्ज्वल हो जाती है, तो इसे फिर से चालू करें या स्क्रीन पर रंग बदलने के लिए कई बार आईरिस मिनी आइकन दबाएं।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
         <source>Gamma fixer enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>गामा सुधार सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
-        <translation type="unfinished"></translation>
+        <translation>गामा फिक्सर सक्षम है। यदि नोटिस थोड़ा सा रंग बदलता है तो दूसरी बार गामा फिक्सर को अक्षम कर दें। गामा फिक्सर का उपयोग किया जाता है, क्योंकि विंडोज समय-समय पर आईरिस मिनी परिवर्तनों को अनदेखा करने का फैसला करता है।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>अनुमत बूट लोडर स्टार्टअप</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation>जब आप अपने कंप्यूटर को चालू करते हैं तो आईरिस मिनी शुरू हो जाएगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
         <source>Start at startup disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>ओएस लोड करते समय निषिद्ध स्टार्टअप</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation>जब आप अपने कंप्यूटर को चालू करते हैं तो आईरिस मिनी शुरू नहीं होगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
         <source>Tray icon rotation is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>आइकन की एनीमेशन की अनुमति दें</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस स्क्रीन रंग बदल रहा है जब ट्रे आइकन घुमाएगा। यह दिखाने के लिए प्रयोग किया जाता है जब आईरिस मिनी रंग बदल रहा है और आपकी स्क्रीन कैलिब्रेटेड नहीं है</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>आइकन की निषिद्ध एनीमेशन</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस स्क्रीन रंग बदल रहा है जब ट्रे आइकन घुमाएगा नहीं। यह सुविधा यह दिखाने के लिए प्रयोग की जाती है कि आईरिस मिनी रंग बदल रहा है और आपकी स्क्रीन कैलिब्रेटेड नहीं है
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
         <source>Manual temperature enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>अनुमत मैनुअल तापमान सेटिंग</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
         <source>You are now using Iris Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation>अब आप आईरिस मिश्रित मोड का उपयोग कर रहे हैं</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
         <source>Manual temperature disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>निषिद्ध मैनुअल तापमान सेटिंग</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस फिर से तापमान के लिए आपके चयनित मोड का उपयोग करेगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
         <source>Manual brightness enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>अनुमत मैनुअल चमक समायोजन</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation>अब आप आईरिस मिनी मिश्रित मोड का उपयोग कर रहे हैं</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
         <source>Manual brightness disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>निषिद्ध मैनुअल चमक समायोजन</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस मिनी फिर से चमक के लिए आपके चुने हुए मोड का उपयोग करेगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>मॉनिटर</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
         <source> disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>विकलांग</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस मॉनिटर में रंग परिवर्तन लागू नहीं करेगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source> enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris wendet die Farbänderungen für einen Monitor an</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Reset colors</source>
-        <translation type="unfinished"></translation>
+        <translation>रंग रीसेट करें</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="735"/>
         <source>Screen colors are reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>स्क्रीन रंग डिफ़ॉल्ट मानों पर वापस आते हैं</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
         <source>Reset settings</source>
-        <translation type="unfinished"></translation>
+        <translation>सेटिंग्स को दुबारा करें</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
         <source>Iris settings are reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस सेटिंग्स डिफ़ॉल्ट मानों पर रीसेट कर रहे हैं</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>पलटना</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
         <source>Colors are inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>रंग उलटा हुआ है</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
         <source>Zero blue light</source>
-        <translation type="unfinished"></translation>
+        <translation>शून्य नीली रोशनी</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
         <source>All blue light is removed from the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>स्क्रीन से सभी नीले रंग के रंग हटा दिए जाते हैं</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
         <source>Gamma preservation enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>गामा संरक्षण सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस आपके रंग अंशांकन रखेगा। आईरिस मिनी को रोकें और चलाएं और कार्यक्रम पूरे दिन आपके रंग रखेगा।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Gamma preservation disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>गामा संरक्षण अक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस आपके रंग अंशांकन नहीं रखेगा। कार्यक्रम डिफ़ॉल्ट मॉनीटर सेटिंग्स का उपयोग करेगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>Notifications enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>अधिसूचना सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
-        <translation type="unfinished"></translation>
+        <translation>छिपी कार्यक्षमता की अधिसूचनाओं की अनुमति है। आप उन्हें देखेंगे ताकि आप जान सकें कि आपका जादू स्वीकार कर लिया गया है</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
         <source>Notifications disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>अधिसूचना अक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation type="unfinished"></translation>
+        <translation>कोई छुपी कार्यक्षमता अधिसूचना प्रतिबंधित नहीं है। यह अंतिम सूचना है जिसे आप देखेंगे</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
         <source>Manual location enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>मैन्युअल स्थान सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस मिनी आपके द्वारा दर्ज किए गए स्थान का उपयोग करेगा। छिपी हुई सुविधाओं का उपयोग करके अक्षांश और देशांतर निर्दिष्ट करें</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
         <source>Manual location disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>मैन्युअल स्थान अक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस मिनी सूर्य की स्थिति और रात की अवधि की गणना करने के लिए एक स्वचालित स्थान का उपयोग करेगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
         <source>Manual night duration enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>मैन्युअल रात की अवधि सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस मिनी आपके द्वारा दर्ज की गई रात की अवधि का उपयोग करेगा। छिपा कार्यों के साथ शुरू और अंत सेट करें</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
         <source>Manual night duration disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>मैन्युअल रात की अवधि अक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस मिनी स्थान के आधार पर स्वचालित रात का उपयोग करेगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
         <source>Invalid Night start time</source>
-        <translation type="unfinished"></translation>
+        <translation>अजीब रात शुरू समय</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
-        <translation type="unfinished"></translation>
+        <translation>रात के लिए एक अवैध प्रारंभ समय है। 0 से 24 तक संख्याओं का उपयोग करें।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
         <source>Night start time changed</source>
-        <translation type="unfinished"></translation>
+        <translation>रात की शुरुआत का समय बदल गया</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
         <source>Manual night start time changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>रात की शुरुआत बदल दी गई थी</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="896"/>
         <source>Invalid Night end time</source>
-        <translation type="unfinished"></translation>
+        <translation>अमान्य रात अंत समय</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
-        <translation type="unfinished"></translation>
+        <translation>रात का एक अवैध अंत समय है। 0 से 24 तक संख्याओं का उपयोग करें।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
         <source>Night end time changed</source>
-        <translation type="unfinished"></translation>
+        <translation>रात का अंत समय बदल गया</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="907"/>
         <source>Manual night end time changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>रात का अंत बदल गया था</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="918"/>
         <source>Latitude changed</source>
-        <translation type="unfinished"></translation>
+        <translation>अक्षांश बदल गया</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="919"/>
         <source>Latitude changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>अक्षांश बदल गया</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="929"/>
         <source>Longitude changed</source>
-        <translation type="unfinished"></translation>
+        <translation>देशांतर बदल गया</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="930"/>
         <source>Longitude changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>रेखांश बदल गया</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="939"/>
         <source>Software cursor enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>सॉफ्टवेयर कर्सर सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation type="unfinished"></translation>
+        <translation>कर्सर रंग परिवर्तन लागू करेगा। अगर यह गायब होना शुरू हो जाता है, तो इसे फिर से देखने के लिए सॉफ़्टवेयर कर्सर को अक्षम करें।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
         <source>Hardware cursor enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>हार्डवेयर कर्सर सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation type="unfinished"></translation>
+        <translation>कर्सर रंग परिवर्तन लागू नहीं करेगा। यदि आपको रात में एक उज्ज्वल नीले रंग का कर्सर पसंद नहीं है, तो सॉफ़्टवेयर कर्सर को इसमें रंग परिवर्तन लागू करने दें।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
         <source>Conflicting applications enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>विवादित अनुप्रयोग सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>असंगत ऐप्स की अनुमति है, और आप अन्य रंगों का भी उपयोग कर सकते हैं जो स्क्रीन रंग बदलते हैं।
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>अनुप्रयोगों</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>स्क्रीन पर झिलमिलाहट रोकने के लिए असंगत ऐप्स अक्षम हैं।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Keyboard Hook enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>कीबोर्ड हुक सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>कीबोर्ड हुक सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>कीबोर्ड हुक अक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation type="unfinished"></translation>
+        <translation>कीबोर्ड हुक वर्जित है। कुछ त्वरित कुंजी ठीक से काम नहीं कर सकती हैं</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
         <source>Trial Notification enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>परीक्षण अधिसूचना सक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation type="unfinished"></translation>
+        <translation>जब आपकी परीक्षण अवधि समाप्त हो जाती है तो आईरिस आपको याद दिलाएगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
         <source>Trial Notification disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>परीक्षण अधिसूचना अक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस आपको और याद दिलाएगा कि आपकी परीक्षण अवधि समाप्त हो गई है</translation>
     </message>
 </context>
 <context>
@@ -594,12 +598,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -619,12 +623,12 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस का समर्थन करने के लिए बहुत बहुत धन्यवाद! :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
         <source>License Expired</source>
-        <translation type="unfinished">लायसेंस की समय सीमा समाप्त</translation>
+        <translation>लायसेंस की समय सीमा समाप्त</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="150"/>
@@ -795,7 +799,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="909"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>समय सीमा समाप्त</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="913"/>
@@ -1014,14 +1018,16 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3982"/>
         <source>WARNING!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>चेतावनी !!!</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3983"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished"></translation>
+        <translation>चेतावनी !!!
+
+ओएसएक्स पर स्मार्ट इनवर्जन सीपीयू गहन है और आपके कंप्यूटर को बहुत धीमा कर सकता है। इसका उपयोग केवल तभी करें जब प्रदर्शन महत्वपूर्ण न हो!</translation>
     </message>
 </context>
 <context>
@@ -1134,7 +1140,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
         <source>Rest screen</source>
-        <translation type="unfinished"></translation>
+        <translation>बाकी स्क्रीन</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
@@ -1144,7 +1150,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="134"/>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>रहना</translation>
     </message>
 </context>
 <context>
@@ -1152,35 +1158,35 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>घंटा</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>मिनट</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="375"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>सेकंड</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>reminds you that a big rest will occur in</source>
-        <translation type="unfinished"></translation>
+        <translation>आपको याद दिलाता है कि आपके पास एक महान छुट्टी है</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>मिनट</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>आपको याद दिलाता है कि 30 सेकंड में आपका एक बड़ा ब्रेक है</translation>
     </message>
 </context>
 <context>
@@ -1192,7 +1198,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="734"/>
         <location filename="../batman/SolarPosition.cpp" line="752"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>घंटा</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="436"/>
@@ -1200,7 +1206,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="676"/>
         <location filename="../batman/SolarPosition.cpp" line="735"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>मिनट</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="437"/>
@@ -1209,12 +1215,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="736"/>
         <location filename="../batman/SolarPosition.cpp" line="740"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>सेकंड</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="756"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>बजे</translation>
     </message>
 </context>
 <context>
@@ -1270,7 +1276,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">जुआ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1310,7 +1316,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">रिवाज</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1577,7 +1583,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">संक्रमण का पूर्वावलोकन</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
@@ -1617,12 +1623,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">परिपूर्णता</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">परिपूर्णता</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -1702,7 +1708,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>USE_PER_MONITOR_SETTINGS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">व्यक्तिगत सेटिंग्स</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="521"/>
@@ -1910,17 +1916,18 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">कुंजीपटल अल्प मार्ग</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ज़ूम इन:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ज़ूम:
+</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -1950,7 +1957,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">के लिये</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -2030,102 +2037,102 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">शॉर्टकट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">समारोह</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">तापमान बढ़ाएं</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">तापमान कम करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">चमक बढ़ाएं</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">चमक कम करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ओवरले स्क्रीन शुरू करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">परत स्क्रीन बंद करो</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">रंग प्रभाव का प्रयोग करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आईरिस को रोकें / शुरू करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">मैनुअल / स्वचालित टॉगल</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आराम शुरू करो</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">रोकें / टाइमर फिर से शुरू करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">निकास</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">शॉर्टकट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">शॉर्टकट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">प्रोसेसर</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">यूआई निर्माण अनुकूलित करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">वीडियो कार्ड</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">गामा लॉक का प्रयोग करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2136,7 +2143,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">रंग ट्रिगर्स</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2186,47 +2193,47 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">विशेषताएं</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">फ़ीचर - चालू / बंद करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">सेटिंग्स</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आयात</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">मोड़ना</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">मित्रों को आमंत्रित करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">मित्रों को आमंत्रित करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">सिंक</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आमंत्रित करें पुनः जांचें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
@@ -2256,12 +2263,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">डिबग</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ऋण की जानकारी</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="723"/>
@@ -2321,32 +2328,32 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>BUY</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">खरीदें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>BUY_NOW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">अभी खरीदें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">मिनट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">सेकंड</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">कामोत्तेजित</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">नहीं</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
@@ -2696,7 +2703,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">रिवाज</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2714,7 +2721,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">खेल</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2800,92 +2807,93 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="131"/>
         <source>Expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>के बाद समाप्त हो जाता है</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="139"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">दिन</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">दिन</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आईरिस का समर्थन करने के लिए धन्यवाद! :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">समय</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>मिनट</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">मिनट</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">अतीत</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ट्रायल समाप्त
+</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आईरिस प्रो के लिए आपकी परीक्षण अवधि समाप्त हो गई है</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">यदि आप प्रोग्राम पसंद करते हैं और इसे और अधिक उपयोग करना चाहते हैं तो आप कर सकते हैं</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">दोस्तों को आमंत्रित करें या लाइसेंस खरीदें</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation type="unfinished">पहले से ही इस्तेमाल किया हुआ</translation>
+        <translation>पहले से ही इस्तेमाल किया हुआ</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IrisProTrial पहले से ही इस्तेमाल किया।</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आप पहले से ही इस मशीन की परीक्षण अवधि का उपयोग कर चुके हैं।</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">यदि आपका परीक्षण समाप्त नहीं हुआ है तो आईरिस फिर से सक्रिय करने का प्रयास करेगा।</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">नि: शुल्क परीक्षण अक्षम</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">आईरिस की परीक्षण अवधि निलंबित कर दी गई है</translation>
     </message>
 </context>
 <context>
@@ -2893,41 +2901,41 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished"></translation>
+        <translation>परीक्षण जल्द ही समाप्त हो जाता है</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस प्रो की परीक्षण अवधि आज समाप्त हो जाती है</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="40"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="51"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation>यदि आप प्रोग्राम पसंद करते हैं और इसे और अधिक उपयोग करना चाहते हैं तो आप कर सकते हैं</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="33"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="42"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="53"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation>दोस्तों को आमंत्रित करें या लाइसेंस खरीदें</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस प्रो परीक्षण कल समाप्त हो जाता है</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>आईरिस प्रो की परीक्षण अवधि समाप्त हो जाती है</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>दिन</translation>
     </message>
 </context>
 <context>
@@ -2936,7 +2944,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation type="unfinished">स्क्रीन याद दिलाना ब्लिंक</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -2951,7 +2959,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation></translation>
+        <translation type="unfinished">डमी स्क्रीन प्रभाव</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -2963,7 +2971,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="52"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation type="unfinished">बटन</translation>
     </message>
 </context>
 <context>
@@ -2971,17 +2979,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">प्रपत्र</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation></translation>
+        <translation type="unfinished">अपना जादू दर्ज करें:</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation></translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -2990,12 +2998,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation></translation>
+        <translation type="unfinished">ध्यान</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation></translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -3004,22 +3012,22 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">चेतावनी</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
         <source>Invite Friends</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">दोस्तों को आमंत्रित करें</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">खरीदें</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">और पढ़ें ...</translation>
     </message>
 </context>
 <context>
@@ -3028,7 +3036,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation></translation>
+        <translation type="unfinished">ज़ूम विजेट</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
@@ -3040,7 +3048,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/zoom_widget.ui" line="52"/>
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation type="unfinished">बटन दबाओ</translation>
     </message>
 </context>
 </TS>

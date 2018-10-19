@@ -451,22 +451,25 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Keyboard Hook enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘挂钩已启用</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘挂钩已启用。 您现在可以使用系统范围的快捷方式。
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘挂钩已禁用
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation type="unfinished"></translation>
+        <translation>键盘挂钩已禁用。 某些快捷方式和功能可能无法按预期工作
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
@@ -598,12 +601,14 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation type="unfinished"></translation>
+        <translation>打开文件...
+</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished"></translation>
+        <translation>虹膜设置文件（* .iris_settings * .iris）
+</translation>
     </message>
 </context>
 <context>
@@ -2942,7 +2947,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation type="unfinished">眨眼提醒屏幕</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -3034,7 +3039,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation></translation>
+        <translation type="unfinished">缩放小部件</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>

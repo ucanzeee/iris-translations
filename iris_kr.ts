@@ -39,7 +39,7 @@
         <location filename="../batman/ClockPosition.cpp" line="433"/>
         <location filename="../batman/ClockPosition.cpp" line="448"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>시간</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="210"/>
@@ -47,7 +47,7 @@
         <location filename="../batman/ClockPosition.cpp" line="434"/>
         <location filename="../batman/ClockPosition.cpp" line="449"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>분</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="211"/>
@@ -56,7 +56,7 @@
         <location filename="../batman/ClockPosition.cpp" line="450"/>
         <location filename="../batman/ClockPosition.cpp" line="454"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>비서</translation>
     </message>
 </context>
 <context>
@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스는 값을 낮추기 위해 작은 변화를 만들었습니다. 모든 기능을 해제하려면 PC를 한 번 다시 시작해야합니다.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -124,12 +124,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="36"/>
         <source>Save File...</source>
-        <translation type="unfinished"></translation>
+        <translation>파일을 저장...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">아이리스 설정 파일 (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -137,456 +137,461 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="449"/>
         <source>Invalid spell</source>
-        <translation type="unfinished"></translation>
+        <translation>맞춤법이 잘못되었습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="450"/>
         <source>The spell</source>
-        <translation type="unfinished"></translation>
+        <translation>마법</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>그것은 틀린 것처럼 보인다. 구문을 확인하거나 숨겨진 다른 기능을 사용해보십시오.
+geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin daleun gineung-eul sayonghaebosibsio.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 숨겨진 기능의 목록을 보려면 &quot;도움말&quot;을 사용하십시오. :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="499"/>
         <source>Invalid temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>온도가 잘못되었습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation type="unfinished"></translation>
+        <translation>색온도 값이 잘못되었습니다. 0에서 10000 사이의 숫자를 사용하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
         <source>Temperature changed</source>
-        <translation type="unfinished"></translation>
+        <translation>온도 변화</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
         <source>Color temperature changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>색 온도가로 변경됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="545"/>
         <source>Invalid brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>잘못된 밝기</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="525"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기에 유효하지 않은 값입니다. 10에서 100 사이의 숫자를 사용하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="532"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
         <source>Brightness changed</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기가 변경되었습니다.
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
         <source>Brightness changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>밝기가로 변경됨
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
         <source>Gamma fixer disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>감마 보정 사용 안함</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>표시기 잠금이 비활성화됩니다. 화면이 갑자기 매우 밝아지면 다시 켜거나 아이리스 미니 아이콘을 여러 번 눌러 화면의 색상을 변경하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
         <source>Gamma fixer enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>감마 보정 사용</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
-        <translation type="unfinished"></translation>
+        <translation>감마 해결사가 사용됩니다. 매초마다 조금씩 색이 바뀌면 감마 해결사를 다시 비활성화하십시오. Windows는 때때로 아이리스 미니 변경 사항을 무시하기로 결정하기 때문에 감마 해결사가 사용됩니다</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>허용 된 부트 로더 시작</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation>컴퓨터를 켜면 Iris mini가 시작됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
         <source>Start at startup disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>OS를로드 할 때 금지 된 시작</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation type="unfinished"></translation>
+        <translation>컴퓨터를 켜면 Iris mini가 시작되지 않습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
         <source>Tray icon rotation is enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>아이콘의 애니메이션 허용</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스가 화면 색상을 변경하면 트레이 아이콘이 회전합니다. 아이리스 미니가 색상을 변경하고 화면이 보정되지 않은 경우 표시하는 데 사용됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>아이콘의 금지 된 애니메이션</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스가 화면 색상을 변경하면 트레이 아이콘이 회전하지 않습니다. 이 기능은 아이리스 미니가 색상을 변경하고 화면이 보정되지 않았을 때 표시됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
         <source>Manual temperature enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>수동 온도 설정 허용</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
         <source>You are now using Iris Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation>이제 아이리스 혼합 모드를 사용 중입니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
         <source>Manual temperature disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>금지 수동 온도 설정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스는 선택한 모드를 다시 사용합니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
         <source>Manual brightness enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>허용 된 수동 밝기 조정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation type="unfinished"></translation>
+        <translation>이제 Iris mini 혼합 모드를 사용 중입니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
         <source>Manual brightness disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>금지 된 수동 밝기 조정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스 미니는 선택한 모드를 밝기로 다시 사용합니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>감시 장치</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
         <source> disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>장애인</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris는 색상 변경을 모니터에 적용하지 않습니다.
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source> enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>사용 가능</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris는 모니터의 색상 변경을 적용합니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Reset colors</source>
-        <translation type="unfinished"></translation>
+        <translation>색상 재설정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="735"/>
         <source>Screen colors are reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>화면 색상이 기본값으로 반환됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
         <source>Reset settings</source>
-        <translation type="unfinished"></translation>
+        <translation>설정 재설정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
         <source>Iris settings are reset to default values</source>
-        <translation type="unfinished"></translation>
+        <translation>조리개 설정이 기본값으로 재설정됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
         <source>Invert</source>
-        <translation type="unfinished"></translation>
+        <translation>거꾸로 하다
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
         <source>Colors are inverted</source>
-        <translation type="unfinished"></translation>
+        <translation>색상이 반전 됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
         <source>Zero blue light</source>
-        <translation type="unfinished"></translation>
+        <translation>파란 빛 없음</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
         <source>All blue light is removed from the screen</source>
-        <translation type="unfinished"></translation>
+        <translation>모든 파란색 음영이 화면에서 제거됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
         <source>Gamma preservation enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>감마 보존 활성화</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris는 색상 보정을 유지합니다. 그만 아이리스 미니를 실행하고 프로그램은 하루 종일 당신의 색상을 유지합니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Gamma preservation disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>감마 보존 사용 중지됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Iris는 색상 보정을 유지하지 않습니다. 프로그램은 기본 모니터 설정을 사용합니다</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>Notifications enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>알림 사용</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
-        <translation type="unfinished"></translation>
+        <translation>숨겨진 기능에 대한 알림이 허용됩니다. 당신은 당신의 주문이 받아 들여지는 것을 알 수 있도록 그것들을 볼 것입니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
         <source>Notifications disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>알림 사용 중지됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation type="unfinished"></translation>
+        <translation>숨겨진 기능 알림은 금지되지 않습니다. 이것은 당신이 볼 마지막 통지입니다</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
         <source>Manual location enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>수동 위치 사용</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스 미니는 사용자가 입력 한 위치를 사용합니다. 숨겨진 기능을 사용하여 위도 및 경도 지정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
         <source>Manual location disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>수동 위치 사용 중지됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스 미니는 자동 위치를 사용하여 태양의 위치와 야간 시간을 계산합니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
         <source>Manual night duration enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>수동 야간 사용 설정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스 미니는 입력 한 밤의 시간을 사용합니다. 숨겨진 함수로 시작 및 끝 설정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
         <source>Manual night duration disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>수동 야간 사용 중지됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스 미니는 위치에 따라 자동 야간을 사용합니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
         <source>Invalid Night start time</source>
-        <translation type="unfinished"></translation>
+        <translation>야간 시작 시간이 잘못되었습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
-        <translation type="unfinished"></translation>
+        <translation>밤에 유효하지 않은 시작 시간입니다. 0에서 24까지의 숫자를 사용하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
         <source>Night start time changed</source>
-        <translation type="unfinished"></translation>
+        <translation>야간 시작 시간 변경됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
         <source>Manual night start time changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>밤의 시작은로 바뀌었다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="896"/>
         <source>Invalid Night end time</source>
-        <translation type="unfinished"></translation>
+        <translation>야간 시간이 잘못되었습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
-        <translation type="unfinished"></translation>
+        <translation>밤 무효 종료 시간입니다. 0에서 24까지의 숫자를 사용하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
         <source>Night end time changed</source>
-        <translation type="unfinished"></translation>
+        <translation>야간 종료 시간 변경됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="907"/>
         <source>Manual night end time changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>밤의 종말은로 바뀌었다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="918"/>
         <source>Latitude changed</source>
-        <translation type="unfinished"></translation>
+        <translation>위도가 변경됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="919"/>
         <source>Latitude changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>위도가 (으)로 변경되었습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="929"/>
         <source>Longitude changed</source>
-        <translation type="unfinished"></translation>
+        <translation>경도 변경됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="930"/>
         <source>Longitude changed to</source>
-        <translation type="unfinished"></translation>
+        <translation>경도가로 변경됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="939"/>
         <source>Software cursor enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>소프트웨어 커서 사용</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation type="unfinished"></translation>
+        <translation>커서가 색상 변경을 적용합니다. 사라지기 시작하면 다시 보려면 소프트웨어 커서를 비활성화하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
         <source>Hardware cursor enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>하드웨어 커서 사용</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation type="unfinished"></translation>
+        <translation>커서는 색상 변경을 적용하지 않습니다. 야간에 밝은 파란색 커서가 마음에 들지 않으면 소프트웨어 커서가 색상 변경을 적용 할 수 있도록하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
         <source>Conflicting applications enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>충돌하는 응용 프로그램 사용</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
-        <translation type="unfinished"></translation>
+        <translation>호환되지 않는 앱이 허용되며 화면 색상을 변경하는 다른 프로그램을 사용할 수도 있습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>응용 프로그램</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>호환되지 않는 앱은 화면의 깜박임을 방지하기 위해 비활성화됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Keyboard Hook enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>키보드 훅 사용 가능</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation type="unfinished"></translation>
+        <translation>키보드 훅 사용 가능</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>키보드 후크가 비활성화 됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation type="unfinished"></translation>
+        <translation>키보드 후크는 금지되어 있습니다. 일부 빠른 키가 제대로 작동하지 않을 수 있음</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
         <source>Trial Notification enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>평가판 사용 가능</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation type="unfinished"></translation>
+        <translation>평가판 기간이 만료되면 아이리스가 알려줍니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
         <source>Trial Notification disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>평가판 사용 안 함</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스는 시범 기간이 끝났음을 더 이상 상기시키지 않습니다.</translation>
     </message>
 </context>
 <context>
@@ -594,12 +599,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -619,7 +624,8 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스를 응원 해 주셔서 대단히 감사합니다! :)
+</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
@@ -795,7 +801,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="909"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation>만료 된</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="913"/>
@@ -1014,14 +1020,16 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3982"/>
         <source>WARNING!!!</source>
-        <translation type="unfinished"></translation>
+        <translation>경고!!!</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3983"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
-        <translation type="unfinished"></translation>
+        <translation>경고!!!
+
+OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 느려질 수 있습니다. 성능이 중요하지 않은 경우에만 사용하십시오!</translation>
     </message>
 </context>
 <context>
@@ -1134,7 +1142,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
         <source>Rest screen</source>
-        <translation type="unfinished"></translation>
+        <translation>휴식 화면</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
@@ -1144,7 +1152,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="134"/>
         <source>Remaining</source>
-        <translation type="unfinished"></translation>
+        <translation>남아있다.</translation>
     </message>
 </context>
 <context>
@@ -1152,35 +1160,35 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>시간</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>분</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="375"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>비서</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>reminds you that a big rest will occur in</source>
-        <translation type="unfinished"></translation>
+        <translation>당신은 훌륭한 휴가를 보내고 있다는 것을 상기시켜줍니다.</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>의사록</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>30 초 만에 큰 휴식을 취할 수 있음을 상기시켜줍니다.</translation>
     </message>
 </context>
 <context>
@@ -1192,7 +1200,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="734"/>
         <location filename="../batman/SolarPosition.cpp" line="752"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation>시간</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="436"/>
@@ -1200,7 +1208,8 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="676"/>
         <location filename="../batman/SolarPosition.cpp" line="735"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation>분
+</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="437"/>
@@ -1209,12 +1218,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../batman/SolarPosition.cpp" line="736"/>
         <location filename="../batman/SolarPosition.cpp" line="740"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation>비서</translation>
     </message>
     <message>
         <location filename="../batman/SolarPosition.cpp" line="756"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation>시간</translation>
     </message>
 </context>
 <context>
@@ -1270,7 +1279,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">노름</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1310,7 +1319,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">관습</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1577,13 +1586,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">전환 미리보기</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
         <source>ADVANCED_MOON</source>
-        <translation>달
-</translation>
+        <translation type="unfinished">달</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="487"/>
@@ -1618,12 +1626,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">포화</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">채도</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -1703,7 +1711,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>USE_PER_MONITOR_SETTINGS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">개별 설정</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="521"/>
@@ -1911,17 +1919,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">키보드 단축키</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">확대 :</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">거리 :</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -1951,7 +1959,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">에 대한</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -2031,102 +2039,102 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">바로 가기</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">기능</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">온도 상승</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">온도 감소</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">밝기 증가</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">밝기 줄이기</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">오버레이 시작 화면</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">레이어 중지 화면</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">색상 효과 사용</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">아이리스 일시 정지 / 시작</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">수동 / 자동 토글</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">휴식 시작</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">일시 중지 / 다시 시작 타이머</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">출구</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">지름길</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">바로 가기</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">프로세서</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UI 생성 최적화</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">비디오 카드</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">감마 잠금 사용</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2137,7 +2145,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">색상 트리거</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2187,47 +2195,47 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">풍모</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">기능 - ON / OFF</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">설정</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">수입</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">전송</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">친구를 초대</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">친구를 초대</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">동조</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">초대장 재검색</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
@@ -2257,12 +2265,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">디버그</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Debg 정보</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="723"/>
@@ -2322,32 +2330,32 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>BUY</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">사다</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>BUY_NOW</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">지금 구입</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">분</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>sec</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">초</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">켜짐</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">아니</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
@@ -2697,7 +2705,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">관습</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2715,7 +2723,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">게임</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2801,92 +2809,92 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="131"/>
         <source>Expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>만료 후</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="139"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>일</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">일</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">시간</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">시간</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>분</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">분</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">만료 된</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">평가판 만료</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Iris Pro의 평가판 사용 기간이 만료되었습니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">프로그램을 좋아하고 더 많이 사용하고 싶다면</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">친구 초대 또는 라이센스 구매</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation type="unfinished">이미 사용됨</translation>
+        <translation>이미 사용됨</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이미 사용 된 IrisProTrial.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">이 기계의 시험 사용 기간을 이미 사용했습니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">재판이 만료되지 않은 경우 아이리스는 다시 활성화를 시도합니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">무료 평가판 사용 중지됨</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">IRIS의 시험 사용 기간이 일시 중지되었습니다.</translation>
     </message>
 </context>
 <context>
@@ -2894,41 +2902,41 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished"></translation>
+        <translation>재판이 곧 만료됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스 프로의 시험 사용 기간이 오늘 만료됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="40"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="51"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished"></translation>
+        <translation>프로그램을 좋아하고 더 많이 사용하고 싶다면</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="33"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="42"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="53"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished"></translation>
+        <translation>친구 초대 또는 라이센스 구매</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스 프로 시험판이 내일 만료됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation type="unfinished"></translation>
+        <translation>아이리스 프로의 시험 사용 기간은</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation>일</translation>
     </message>
 </context>
 <context>
@@ -2937,7 +2945,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation type="unfinished">블링크 알림 화면</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -2952,7 +2960,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation></translation>
+        <translation type="unfinished">더미 스크린 효과</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -2964,7 +2972,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="52"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation type="unfinished">버튼</translation>
     </message>
 </context>
 <context>
@@ -2972,17 +2980,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">양식</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation></translation>
+        <translation type="unfinished">당신의 마법을 입력하십시오 :</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation></translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -2991,12 +2999,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation></translation>
+        <translation type="unfinished">주의</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation></translation>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -3005,22 +3013,22 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">경고</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
         <source>Invite Friends</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">친구 초대</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">사다</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>
         <source>Read more...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">더 읽기 ...</translation>
     </message>
 </context>
 <context>
@@ -3029,7 +3037,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation></translation>
+        <translation type="unfinished">위젯 확대</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
@@ -3041,7 +3049,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/zoom_widget.ui" line="52"/>
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
-        <translation></translation>
+        <translation type="unfinished">누름 단추</translation>
     </message>
 </context>
 </TS>
