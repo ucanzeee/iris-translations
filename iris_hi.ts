@@ -1326,7 +1326,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>ACTIVATE_CODE</source>
         <translation>कोड एक्टिवेट करें</translation>
     </message>
@@ -2246,112 +2246,117 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation>यूक्रेनी</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <source>DUTCH</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>छिपी हुई विशेषताओं</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>अपना वर्तनी दर्ज करें:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ACTIVATE</source>
         <translation>सक्रिय</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
+        <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>ADVANCED_DEBUG</source>
         <translation type="unfinished">डिबग</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="714"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
         <source>DEBUG_INFORMATION</source>
         <translation type="unfinished">ऋण की जानकारी</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="723"/>
+        <location filename="../../src/translation/Translator.cpp" line="724"/>
         <source>SKIP_REST</source>
         <translation>बाकी छोड़ें</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>NORMAL</source>
         <translation>सामान्य</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>STRICT</source>
         <translation>सख्त</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>CONTINUE</source>
         <translation>जारी रहना</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>REST_MODE</source>
         <translation>आराम मोड</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>आप अब आराम मोड में हैं सेटिंग पैनल में टाइमर को संपादित करें</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>TIME_IS</source>
         <translation>समय है</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>START_WORKING</source>
         <translation>काम शुरू करो</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>HAVE_A_BREAK</source>
         <translation>आराम करें</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>ADD</source>
         <translation>जोड़ना</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>REMOVE</source>
         <translation>हटाना</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
+        <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>BUY</source>
         <translation type="unfinished">खरीदें</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="740"/>
+        <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>BUY_NOW</source>
         <translation type="unfinished">अभी खरीदें</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="741"/>
+        <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>min</source>
         <translation type="unfinished">मिनट</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="742"/>
+        <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>sec</source>
         <translation type="unfinished">सेकंड</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="743"/>
+        <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>ON</source>
         <translation type="unfinished">कामोत्तेजित</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>OFF</source>
         <translation type="unfinished">नहीं</translation>
     </message>
@@ -2642,27 +2647,27 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <translation>यूनानी</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>ADVANCED_ABOUT</source>
         <translation>के बारे में</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>NAME</source>
         <translation>नाम</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>VERSION</source>
         <translation>संस्करण</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>PUBLISHER</source>
         <translation>प्रकाशक</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>WEBSITE</source>
         <translation>वेबसाइट</translation>
     </message>

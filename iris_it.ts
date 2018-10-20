@@ -1324,7 +1324,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>ACTIVATE_CODE</source>
         <translation>Attiva il codice</translation>
     </message>
@@ -2243,112 +2243,117 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <translation>Ucraino</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <source>DUTCH</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Caratteristiche nascoste</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Inserisci il tuo incantesimo:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ACTIVATE</source>
         <translation>Attivare</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
+        <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>ADVANCED_DEBUG</source>
         <translation type="unfinished">mettere a punto</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="714"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
         <source>DEBUG_INFORMATION</source>
         <translation type="unfinished">Informazioni di debug</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="723"/>
+        <location filename="../../src/translation/Translator.cpp" line="724"/>
         <source>SKIP_REST</source>
         <translation>Skip riposo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>NORMAL</source>
         <translation>Normale</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>STRICT</source>
         <translation>Rigoroso</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>CONTINUE</source>
         <translation>Continua</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>REST_MODE</source>
         <translation>Modalità riposo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Sei in modalità riposo ora. Modificare il timer nel pannello delle impostazioni.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>TIME_IS</source>
         <translation>L&apos;ora è</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>START_WORKING</source>
         <translation>Iniziare a lavorare</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>HAVE_A_BREAK</source>
         <translation>Fare una pausa</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>ADD</source>
         <translation>Inserisci</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>REMOVE</source>
         <translation>Rimuovere</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
+        <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>BUY</source>
         <translation type="unfinished">Acquistare</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="740"/>
+        <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>BUY_NOW</source>
         <translation type="unfinished">Acquista ora</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="741"/>
+        <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>min</source>
         <translation type="unfinished">me</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="742"/>
+        <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>sec</source>
         <translation type="unfinished">secondo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="743"/>
+        <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>ON</source>
         <translation type="unfinished">acceso</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>OFF</source>
         <translation type="unfinished">spento</translation>
     </message>
@@ -2639,27 +2644,27 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <translation>Greco</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>ADVANCED_ABOUT</source>
         <translation>Di</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>NAME</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>VERSION</source>
         <translation>Versione</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>PUBLISHER</source>
         <translation>Editore</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>WEBSITE</source>
         <translation>Sito web</translation>
     </message>

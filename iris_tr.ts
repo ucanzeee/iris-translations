@@ -1324,7 +1324,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>ACTIVATE_CODE</source>
         <translation>Kodu etkinleştir</translation>
     </message>
@@ -2243,112 +2243,117 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <translation>Ukrayna</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <source>DUTCH</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Gizli özellikler</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Büyüyü girin:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ACTIVATE</source>
         <translation>Aktifleştir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
+        <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>ADVANCED_DEBUG</source>
         <translation type="unfinished">Hata ayıklama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="714"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
         <source>DEBUG_INFORMATION</source>
         <translation type="unfinished">Borç bilgisi</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="723"/>
+        <location filename="../../src/translation/Translator.cpp" line="724"/>
         <source>SKIP_REST</source>
         <translation>Atla Kalan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>NORMAL</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>STRICT</source>
         <translation>Sıkı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>CONTINUE</source>
         <translation>Devam et</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>REST_MODE</source>
         <translation>Dinlenme modu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Artık dinlenme modundasın. Zamanlayıcıyı ayarlar panelinden düzenleyin.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>TIME_IS</source>
         <translation>Saat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>START_WORKING</source>
         <translation>Başlama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>HAVE_A_BREAK</source>
         <translation>Ara vermek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>ADD</source>
         <translation>Eklemek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>REMOVE</source>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
+        <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>BUY</source>
         <translation type="unfinished">satın almak</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="740"/>
+        <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>BUY_NOW</source>
         <translation type="unfinished">Şimdi satın al</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="741"/>
+        <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>min</source>
         <translation type="unfinished">dakika</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="742"/>
+        <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>sec</source>
         <translation type="unfinished">saniye</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="743"/>
+        <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>ON</source>
         <translation type="unfinished">açık</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>OFF</source>
         <translation type="unfinished">yok hayır</translation>
     </message>
@@ -2639,27 +2644,27 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <translation>Yunan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>ADVANCED_ABOUT</source>
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>NAME</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>VERSION</source>
         <translation>Sürüm</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>PUBLISHER</source>
         <translation>Yayımcı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>WEBSITE</source>
         <translation>Web sitesi</translation>
     </message>
