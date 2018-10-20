@@ -1331,7 +1331,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>ACTIVATE_CODE</source>
         <translation>激活码</translation>
     </message>
@@ -2250,117 +2250,112 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <translation>乌克兰语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="708"/>
-        <source>DUTCH</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="709"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>隐藏的功能</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>请输入口令：</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="712"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ACTIVATE</source>
         <translation>启用</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="714"/>
+        <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>ADVANCED_DEBUG</source>
         <translation>调试</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="715"/>
+        <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
         <translation>调试信息</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="723"/>
         <source>SKIP_REST</source>
         <translation>跳过休息</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="724"/>
         <source>NORMAL</source>
         <translation>正常</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>STRICT</source>
         <translation>严格</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>CONTINUE</source>
         <translation>继续</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>REST_MODE</source>
         <translation>休息模式</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>您现在处于休息模式。 在设置面板中编辑计时器。</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="730"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>TIME_IS</source>
         <translation>现在的时间是</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="732"/>
         <source>START_WORKING</source>
         <translation>开始工作</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="734"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>HAVE_A_BREAK</source>
         <translation>休息一下</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="736"/>
         <source>ADD</source>
         <translation>加</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>REMOVE</source>
         <translation>去掉</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="740"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>BUY</source>
         <translation>购买</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="741"/>
+        <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>BUY_NOW</source>
         <translation>立即购买</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="742"/>
+        <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>min</source>
         <translation>分</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="743"/>
+        <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>sec</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
         <translation>已开启</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="745"/>
+        <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>OFF</source>
         <translation>已关闭</translation>
     </message>
@@ -2651,27 +2646,27 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <translation>希腊语</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="716"/>
         <source>ADVANCED_ABOUT</source>
         <translation>关于</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>NAME</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>VERSION</source>
         <translation>版本</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>PUBLISHER</source>
         <translation>厂商</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="721"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>WEBSITE</source>
         <translation>网站</translation>
     </message>
