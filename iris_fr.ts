@@ -75,8 +75,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation>Iris a fait un petit changement pour permettre des valeurs plus basses. Vous devez redémarrer votre PC une fois pour déverrouiller toutes les fonctionnalités.
-</translation>
+        <translation type="unfinished">Iris a fait un petit changement pour permettre des valeurs plus basses. Vous devez redémarrer votre PC une fois pour déverrouiller toutes les fonctionnalités.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -303,8 +302,7 @@ Notez que Iris fonctionnera bien maintenant, mais avec des modifications de coul
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>Iris mini utilisera à nouveau le mode sélectionné pour la luminosité
-Iris mini will use your selected mode for brightness again</translation>
+        <translation type="unfinished">Iris mini utilisera à nouveau le mode sélectionné pour la luminosité</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -320,7 +318,7 @@ Iris mini will use your selected mode for brightness again</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation type="unfinished">Iris will not apply color changes to Monitor</translation>
+        <translation type="unfinished">Iris n&apos;appliquera pas de changement de couleur à Monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -535,7 +533,7 @@ Iris mini will use your selected mode for brightness again</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
         <source>Conflicting applications enabled</source>
-        <translation type="unfinished">Applications en conflit activées</translation>
+        <translation>Applications en conflit activées</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
@@ -545,7 +543,7 @@ Iris mini will use your selected mode for brightness again</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished">applications</translation>
+        <translation type="unfinished">Applications en conflit désactivées</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
@@ -603,7 +601,7 @@ Iris mini will use your selected mode for brightness again</translation>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">Fichier de paramètres d&apos;Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -710,7 +708,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
         <source>No more Team activations</source>
-        <translation>Plus d&apos;activations d&apos;équipe</translation>
+        <translation type="unfinished">Pas Plus d&apos;activations d&apos;équipe</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="239"/>
@@ -741,7 +739,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
         <source>Invalid response</source>
-        <translation>Réponse invalide</translation>
+        <translation type="unfinished">Réponse invalide</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="277"/>
@@ -1331,7 +1329,7 @@ L&apos;inversion intelligente sous OSX nécessite beaucoup de ressources de proc
         <location filename="../../src/translation/Translator.cpp" line="413"/>
         <source>OVERLAY_MODE</source>
         <translatorcomment>Need context to be sure of translation</translatorcomment>
-        <translation>Recouvrement</translation>
+        <translation type="unfinished">Recouvrir</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
@@ -1487,7 +1485,7 @@ L&apos;inversion intelligente sous OSX nécessite beaucoup de ressources de proc
     <message>
         <location filename="../../src/translation/Translator.cpp" line="450"/>
         <source>RESET_BLUE_LIGHT</source>
-        <translation>Réinitialiser</translation>
+        <translation type="unfinished">RàZ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="454"/>
@@ -2078,7 +2076,7 @@ L&apos;inversion intelligente sous OSX nécessite beaucoup de ressources de proc
     <message>
         <location filename="../../src/translation/Translator.cpp" line="591"/>
         <source>RESET_COLORS</source>
-        <translation>RàZ couleurs</translation>
+        <translation type="unfinished">RàZ les couleurs</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
@@ -2274,7 +2272,7 @@ L&apos;inversion intelligente sous OSX nécessite beaucoup de ressources de proc
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished">synchroniser</translation>
+        <translation type="unfinished">Synchroniser</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
@@ -2394,7 +2392,7 @@ L&apos;inversion intelligente sous OSX nécessite beaucoup de ressources de proc
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation>allumé</translation>
+        <translation type="unfinished">Allumé</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2430,7 +2428,7 @@ L&apos;inversion intelligente sous OSX nécessite beaucoup de ressources de proc
         <location filename="../../src/translation/Translator.cpp" line="627"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translatorcomment>Need context to be sure of translation</translatorcomment>
-        <translation>superposition d&apos;écran</translation>
+        <translation type="unfinished">Superposition d&apos;écran</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="628"/>
@@ -2979,7 +2977,7 @@ L&apos;inversion intelligente sous OSX nécessite beaucoup de ressources de proc
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished">bientôt</translation>
+        <translation type="unfinished">L&apos;épreuve expire bientôt</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
@@ -3023,7 +3021,7 @@ L&apos;inversion intelligente sous OSX nécessite beaucoup de ressources de proc
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
         <translatorcomment>Need context to be sure of translation</translatorcomment>
-        <translation>Fenêtre de rappel clignement</translation>
+        <translation type="unfinished">Clignotant écran rappelant</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>

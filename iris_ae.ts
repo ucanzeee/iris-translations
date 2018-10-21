@@ -13,7 +13,7 @@
         <location filename="../../ui/asana_OAuth.ui" line="33"/>
         <location filename="../../ui/webkit/asana_OAuth.ui" line="33"/>
         <source>https://app.asana.com/-/oauth_authorize?client_id=51957652060682&amp;redirect_uri=http://iristech.co/asana&amp;response_type=token&amp;state=somerandomstate</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -28,7 +28,7 @@
         <location filename="../../ui/blink_screen.ui" line="27"/>
         <location filename="../../ui/webkit/blink_screen.ui" line="27"/>
         <source>qrc:/html/blink_screen.html</source>
-        <translation></translation>
+        <translation type="unfinished">qrc:/html/blink_screen.html</translation>
     </message>
 </context>
 <context>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="274"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation>إعادة تشغيل جهاز الكمبيوتر الخاص بك لفتح مجموعة الألوان الكاملة. سوف أيرس مصغرة تعمل بشكل جيد، ولكن بعض الخيارات قد تكون رمادية بها.</translation>
+        <translation type="unfinished">أعد تشغيل الكمبيوتر لإلغاء قفل نطاق الألوان الكامل. ستعمل Iris mini بشكل جيد ، ولكن قد تكون بعض الخيارات غير واضحة.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="284"/>
@@ -104,8 +104,8 @@
         <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>أيرس بعض التغييرات على النظام الخاص بك، وهناك حاجة إلى إعادة تشغيل لفتح وظيفة كاملة.
-لاحظ أن أيرس سوف تعمل بشكل جيد الآن، ولكن مع تغيرات اللون محدودة.</translation>
+        <translation type="unfinished">أجرت Iris بعض التغييرات على نظامك وإعادة التشغيل مطلوبة لإلغاء قفل الوظائف الكاملة.
+لاحظ أن Iris ستعمل بشكل جيد الآن ، ولكن مع تغييرات محدودة في اللون.</translation>
     </message>
 </context>
 <context>
@@ -214,7 +214,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation>تم إصلاح مثبّت Gamma. إذا أصبحت الشاشة ساطعة فجأة ، فقم بتمكينها مرة أخرى أو انقر فوق أيقونة Iris mini عدة مرات. يجب أن يجبر كلاهما Iris لتغيير ألوان الشاشة.</translation>
+        <translation type="unfinished">تم إصلاح مثبّت غاما. إذا أصبحت الشاشة ساطعة فجأة ، فقم بتمكينها مرة أخرى أو انقر فوق أيقونة Iris mini عدة مرات. يجب أن يجبر كلاهما Iris لتغيير ألوان الشاشة.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
@@ -234,7 +234,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation>سيبدأ قزحية مصغرة عند تشغيل جهاز الكمبيوتر الخاص بك</translation>
+        <translation type="unfinished">سيبدأ Iris mini عند تشغيل جهاز الكمبيوتر الخاص بك</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
@@ -244,7 +244,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation>لن يبدأ قزحية مصغرة عند تشغيل جهاز الكمبيوتر الخاص بك</translation>
+        <translation type="unfinished">ن يبدأ Iris mini عند تشغيل جهاز الكمبيوتر الخاص بك</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
@@ -254,17 +254,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>سيتم تدوير أيقونة الدرج عندما تقوم قزحية بتغيير ألوان الشاشة. يستخدم هذا لإظهار عندما يقوم قزحية مصغرة بتغيير الألوان ولا يتم معايرة الشاشة</translation>
+        <translation type="unfinished">سيتم تدوير رمز الدرج عندما يقوم Iris بتغيير ألوان الشاشة. يستخدم هذا لإظهار متى Iris mini يغير الألوان ولا يتم معايرة شاشتك</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>يتم تعطيل تدوير أيقونة الدرج</translation>
+        <translation type="unfinished">يتم تعطيل تدوير أيقونة الدرج</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>لن يتم تدوير رمز الدرج عندما يقوم قزحية بتغيير ألوان الشاشة. يتم استخدام هذه الميزة لإظهار عندما يقوم قزحية مصغرة بتغيير الألوان وعدم معايرة الشاشة</translation>
+        <translation type="unfinished">لن يتم تدوير أيقونة الدرج عندما يقوم Iris بتغيير ألوان الشاشة. يتم استخدام هذه الميزة لعرض عندما يتم تغيير الألوان Iris mini ولا يتم معايرة شاشتك</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
@@ -284,7 +284,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation>سوف تستخدم قزحية الوضع الذي اخترته لدرجات الحرارة مرة أخرى</translation>
+        <translation type="unfinished">سوف تستخدم Iris الوضع الذي اخترته لدرجات الحرارة مرة أخرى</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
@@ -294,7 +294,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation>أنت الآن تستخدم وضع القزحية المصغرة المختلط</translation>
+        <translation type="unfinished">أنت الآن تستخدم Iris mini &quot;الوضع المختلط&quot;</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
@@ -304,7 +304,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>ستستخدم قزحية مصغرة وضعك المختار للسطوع مرة أخرى</translation>
+        <translation type="unfinished">ستستخدم Iris mini وضعك المختار للسطوع مرة أخرى</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -320,8 +320,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>لن تطبق قزحية تغييرات اللون على مراقب
-</translation>
+        <translation type="unfinished">لن تطبق Iris تغييرات اللون على الشاشة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -331,7 +330,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation>سوف القزحية تطبيق تغييرات اللون إلى مراقب</translation>
+        <translation type="unfinished">ستطبق Iris تغييرات اللون على الشاشة
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
@@ -381,7 +381,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation>سوف تحترم قزحية معايرة الألوان من الآن فصاعدا. قم بإغلاق وبدء قزحية مصغرة مرة أخرى وسوف يحافظ على ألوانك أثناء النهار</translation>
+        <translation type="unfinished">سوف تحترم Iris معايرة الألوان من الآن فصاعدا. قم بإغلاق وبدء Iris mini مرة أخرى وسوف يحافظ على ألوانك أثناء النهار</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
@@ -391,7 +391,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation>لن تحترم قزحية معايرة الألوان من الآن فصاعدًا. سيستخدم إعدادات الشاشة الافتراضية بدلاً من ذلك</translation>
+        <translation type="unfinished">لن تحترم Iris معايرة الألوان من الآن فصاعدًا. سيستخدم إعدادات الشاشة الافتراضية بدلاً من ذلك</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
@@ -421,8 +421,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation>ستستخدم قزحية مصغرة موقعك اليدوي. تعيين خطوط الطول والعرض مع الميزات المخفية
-</translation>
+        <translation type="unfinished">ستستخدم Iris mini موقعك اليدوي. تعيين خطوط الطول والعرض مع الميزات المخفية</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
@@ -433,19 +432,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>سيستخدم قزحية مصغرة الموقع التلقائي. يستخدم الموقع لحساب موقع الشمس ومدة اليوم والليل
-</translation>
+        <translation type="unfinished">سيستخدم Iris mini الموقع التلقائي. يستخدم الموقع لحساب موقع الشمس ومدة اليوم والليل</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
         <source>Manual night duration enabled</source>
-        <translation>تم تمكين مدة الليل اليدوية
-</translation>
+        <translation>تم تمكين مدة الليل اليدوية</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation>ستستخدم قزحية مصغرة مدة الليل اليدوية. ضبط وقت البدء والانتهاء بالميزات المخفية</translation>
+        <translation type="unfinished">ستستخدم Iris mini مدة الليل اليدوية. ضبط وقت البدء والانتهاء بالميزات المخفية</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
@@ -455,8 +452,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>سيستخدم قزحية مصغرة مدة الليل التلقائية حسب الموقع. يستخدم الموقع لحساب موقع الشمس ومدة اليوم والليل
-</translation>
+        <translation type="unfinished">سيستخدم Iris mini مدة الليل التلقائية حسب الموقع. يستخدم الموقع لحساب موقع الشمس ومدة اليوم والليل</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -527,8 +523,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation>سيتم تطبيق تغييرات اللون أيضًا على المؤشر. إذا بدأ الاختفاء ، فاستخدم مؤشر تعطيل البرامج لإضفاء اللمعة عليه مرة أخرى.
-</translation>
+        <translation type="unfinished">سيتم تطبيق تغييرات اللون أيضًا على المؤشر. إذا بدأ الاختفاء ، فاستخدم مؤشر تعطيل البرامج لإضفاء اللمعة عليه مرة أخرى.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
@@ -553,14 +548,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>تعطيل التطبيقات المتعارضة
-</translation>
+        <translation type="unfinished">تعطيل التطبيقات المتعارضة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>يتم تعطيل التطبيقات المتعارضة. من أجل عدم تسبب وميض يتم تعطيل التطبيقات المتضاربة.
-</translation>
+        <translation type="unfinished">يتم تعطيل التطبيقات المتعارضة. من أجل عدم تسبب وميض يتم تعطيل التطبيقات المتضاربة.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -570,14 +563,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>تم تمكين لوحة المفاتيح. يمكنك الآن استخدام الاختصارات على مستوى النظام.
-</translation>
+        <translation type="unfinished">تم تمكين لوحة المفاتيح. يمكنك الآن استخدام الاختصارات على مستوى النظام.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation>ربط لوحة المفاتيح معطلة
-</translation>
+        <translation type="unfinished">ربط لوحة المفاتيح معطلة</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
@@ -592,7 +583,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation>سوف تذكرك قزحية عندما تنتهي صلاحية الإصدار التجريبي</translation>
+        <translation type="unfinished">سوف تذكرك Iris عندما تنتهي صلاحية الإصدار التجريبي</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
@@ -602,7 +593,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation>لن تذكرك آيريس بعد انتهاء صلاحية النسخة التجريبية</translation>
+        <translation type="unfinished">لم تعد Iris تذكرك عند انتهاء صلاحية الإصدار التجريبي</translation>
     </message>
 </context>
 <context>
@@ -624,7 +615,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="135"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
-        <translation>إيريس الخاص بك هو الآن برو</translation>
+        <translation type="unfinished">أصبح Iris الآن Pro</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -635,7 +626,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation>شكرا جزيلا لدعم ايريس! :)</translation>
+        <translation type="unfinished">شكرا جزيلا لدعمه Iris! :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
@@ -645,7 +636,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="150"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation>انتهت صلاحية ترخيص إيريس برو. يمكنك شراء رمز تفعيل جديد من</translation>
+        <translation type="unfinished">انتهت صلاحية ترخيص Iris Pro. يمكنك شراء رمز التفعيل الجديد من</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="162"/>
@@ -696,7 +687,7 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>هذا هو أيرس ورمز التنشيط الخاص بك هو ل أيرس مصغرة. تحميل قزحية مصغرة من
+        <translation type="unfinished">هذا هو Iris ورمز التنشيط الخاص بك هو Iris mini. تنزيل Iris mini من
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -704,20 +695,20 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="216"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>تنشيط ترخيص الفريق. شكرا جزيلا لدعم ايريس! :)
-اطلع على الخيارات الجديدة في طريقة العرض المتقدمة.</translation>
+        <translation type="unfinished">تنشيط ترخيص الفريق. شكرا جزيلا لدعمه &quot;Iris&quot;! :)
+شاهد خياراتك الجديدة في العرض المتقدم.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="228"/>
         <source>Team license code for Iris mini</source>
-        <translation>رمز ترخيص الفريق ل أيرس ميني</translation>
+        <translation type="unfinished">رمز ترخيص فريق لـ Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>هذا هو أيرس والرموز ترخيص الفريق المتبقية هي ل أيرس مصغرة. تحميل قزحية مصغرة من
-http://iristech.co/iris-mini</translation>
+        <translation type="unfinished">هذا هو Iris و تبقى رموز ترخيص الفريق لـ Iris mini. تنزيل Iris mini من
+http://iristech.co/iris-min</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
@@ -737,7 +728,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="249"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation>لا يوجد ترخيص من هذا القبيل لفريق أيرس أو أيرس ميني.</translation>
+        <translation type="unfinished">لا يوجد مثل هذا الرخصة لفريق Iris أو Iris mini.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="258"/>
@@ -748,7 +739,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="260"/>
         <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>إيريس الخاص بك هو الآن برو. اطلع على الخيارات الجديدة في طريقة العرض المتقدمة.</translation>
+        <translation type="unfinished">صبح Iris الآن Pro. شاهد خياراتك الجديدة في العرض المتقدم.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
@@ -993,12 +984,13 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1817"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation>تحتاج إيريس برو للوصول إلى هذا القسم.</translation>
+        <translation type="unfinished">تحتاج إلى Iris Pro للوصول إلى هذا القسم.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2391"/>
         <source>Relaunch Iris</source>
-        <translation>إعادة تشغيل القزحية</translation>
+        <translation type="unfinished">إعادة إطلاق &quot;Iris&quot;
+</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2392"/>
@@ -1025,7 +1017,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="2412"/>
         <location filename="../../src/MainWindow.cpp" line="2476"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>أيرس بعض التغييرات على النظام الخاص بك وهناك حاجة إلى إعادة تشغيل التغييرات نافذة المفعول.</translation>
+        <translation type="unfinished">أجرت Iris بعض التغييرات على نظامك ، وتحتاج إلى إعادة التشغيل لتصبح التغييرات سارية المفعول.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3982"/>
@@ -1138,8 +1130,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="14"/>
         <source>Dialog</source>
-        <translation>بلينك تذكير الشاشة
-</translation>
+        <translation>بلينك تذكير الشاشة</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
@@ -1190,8 +1181,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
         <source>reminds you that a big rest will occur in</source>
-        <translation>يذكرك أن بقية كبيرة ستحدث في
-</translation>
+        <translation type="unfinished">يذكرك أن بقية كبيرة ستحدث في</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
@@ -2077,8 +2067,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation>تقليل السطوع
-</translation>
+        <translation type="unfinished">تقليل السطوع</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
@@ -2088,8 +2077,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation>نهاية شاشة تراكب
-</translation>
+        <translation type="unfinished">نهاية شاشة تراكب</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
@@ -2222,8 +2210,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation>الإعدادات
-</translation>
+        <translation type="unfinished">الإعدادات</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
@@ -2576,7 +2563,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>GET_IRIS_PRO</source>
-        <translation>الحصول على القزحية برو</translation>
+        <translation type="unfinished">احصل على Iris Pro</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="689"/>
@@ -2874,19 +2861,17 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation>انتهت صلاحية اختبار قزحية طليعة التجريبي</translation>
+        <translation type="unfinished">انتهت صلاحية Iris Pro التجريبية</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation>إذا كنت تحب البرنامج وترغب في استخدامه أكثر ما تستطيع
-</translation>
+        <translation type="unfinished">إذا كنت تحب البرنامج وترغب في استخدامه أكثر ما تستطيع</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation>دعوة الأصدقاء أو شراء ترخيص مدى الحياة
-</translation>
+        <translation type="unfinished">دعوة الأصدقاء أو شراء ترخيص مدى الحياة</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
@@ -2896,12 +2881,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation>تجربة ايريس برو المستخدمة بالفعل.</translation>
+        <translation type="unfinished">محاكمة Iris Pro  المستخدمة بالفعل.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation>يبدو أنك استخدمت بالفعل الإصدار التجريبي المجاني على هذا الجهاز.</translation>
+        <translation type="unfinished">يبدو أنك استخدمت بالفعل الإصدار التجريبي المجاني على هذا الجهاز.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
@@ -2929,8 +2914,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation>تنتهي تجربة قزحية طليعة اليوم
-</translation>
+        <translation type="unfinished">تنتهي تجربة قزحية طليعة اليوم</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
@@ -2949,13 +2933,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation>تنتهي تجربة Iris طليعة غدًا
-</translation>
+        <translation type="unfinished">تنتهي تجربة Iris Pro غدًا</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation>تنتهي محاكمة قزحية طليعة</translation>
+        <translation type="unfinished">تنتهي محاكمة Iris Pro</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
@@ -3037,7 +3020,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation>تحذير</translation>
+        <translation type="unfinished">تحذير!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

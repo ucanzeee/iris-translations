@@ -262,7 +262,7 @@ Houd er rekening mee dat Iris nu goed werkt, maar werkt met beperkte kleurwijzig
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>Het draaien van het tray ikoontje is uitgeschakeld</translation>
+        <translation type="unfinished">Ladepictogram rotatie is uitgeschakeld</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
@@ -307,7 +307,7 @@ Houd er rekening mee dat Iris nu goed werkt, maar werkt met beperkte kleurwijzig
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>Iris wil de door u gekozen modus voor de helderheid opnieuw gebruiken</translation>
+        <translation type="unfinished">Iris mini  wil de door u gekozen modus voor de helderheid opnieuw gebruiken</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -436,7 +436,7 @@ Houd er rekening mee dat Iris nu goed werkt, maar werkt met beperkte kleurwijzig
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation>Iris Mini zal uw manuele plaatsbepaling gebruiken. Stel de breedtegraad en de lengtegraad in met de verborgen funkties </translation>
+        <translation type="unfinished">Iris mini zal uw manuele plaatsbepaling gebruiken. Stel de breedtegraad en de lengtegraad in met de verborgen funkties </translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
@@ -698,8 +698,8 @@ Houd er rekening mee dat Iris nu goed werkt, maar werkt met beperkte kleurwijzig
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Dit is voor Iris en je activatiecode is Iris mini. Download de Iris mini van:
-Http: //İristech.co/İris-M de</translation>
+        <translation type="unfinished">Dit is voor Iris en je activatiecode is Iris mini. Download de Iris mini van:
+Http: //İristech.co/iris-mini </translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="214"/>
@@ -1314,7 +1314,7 @@ Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished">gaming</translation>
+        <translation type="unfinished">Gaming</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1354,7 +1354,7 @@ Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished">gewoonte</translation>
+        <translation type="unfinished">Gewoonte</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -2242,7 +2242,7 @@ Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished">instellingen</translation>
+        <translation type="unfinished">Instellingen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
@@ -2743,7 +2743,7 @@ Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished">gewoonte</translation>
+        <translation type="unfinished">Gewoonte</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2953,7 +2953,7 @@ Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation>Het lijkt er op dat u uw gratis proefversie al op deze machine gebruikt heeft.</translation>
+        <translation type="unfinished">Het lijkt erop dat u uw gratis proefversie al op deze machine hebt gebruikt.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
@@ -3088,7 +3088,7 @@ Slimme inversie op OSX is CPU-intensief en kan uw computer aanzienlijk vertragen
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation>Waarschuwing</translation>
+        <translation type="unfinished">Waarschuwing!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

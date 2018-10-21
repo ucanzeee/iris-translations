@@ -79,12 +79,12 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
         <source>Restart needed</source>
-        <translation>Επανεκκίνηση χρειάζεται</translation>
+        <translation>Χρειάζεται επανεκκίνηση </translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="274"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation>Κάντε επανεκκίνηση του υπολογιστή σας για να ξεκλειδώσετε την πλήρη γκάμα χρωμάτων. Iris μίνι θα δουλεύουν μια χαρά, αλλά μερικές επιλογές μπορεί να εμφανίζεται με γκρι χρώμα.</translation>
+        <translation type="unfinished">Κάντε επανεκκίνηση του υπολογιστή σας για να ξεκλειδώσετε την πλήρη γκάμα χρωμάτων. Iris mini θα δουλεύουν μια χαρά, αλλά μερικές επιλογές μπορεί να εμφανίζεται με γκρι χρώμα.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="284"/>
@@ -211,8 +211,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation>Η κλειδαριά δείκτη απενεργοποιείται. Εάν η οθόνη ξαφνικά γίνει πολύ φωτεινή, ενεργοποιήστε την ξανά ή πατήστε επανειλημμένα το εικονίδιο mini Iris για να αλλάξετε τα χρώματα στην οθόνη.
-</translation>
+        <translation type="unfinished">Η κλειδαριά δείκτη απενεργοποιείται. Εάν η οθόνη ξαφνικά γίνει πολύ φωτεινή, ενεργοποιήστε την ξανά ή πατήστε επανειλημμένα το εικονίδιο mini Iris για να αλλάξετε τα χρώματα στην οθόνη.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
@@ -257,7 +256,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>Απαγορευμένη κινούμενη εικόνα</translation>
+        <translation type="unfinished">Η περιστροφή του εικονιδίου δίσκου είναι απενεργοποιημένη</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
@@ -328,7 +327,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation>Το Iris θα εφαρμόσει τις αλλαγές χρώματος για μια οθόνη</translation>
+        <translation type="unfinished">Το Iris θα εφαρμόσει τις αλλαγές χρώματος για τιν οθόνη</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
@@ -343,8 +342,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
         <source>Reset settings</source>
-        <translation>Επαναφορά ρυθμίσεων
-</translation>
+        <translation type="unfinished">Επαναφορά ρυθμίσεων</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
@@ -449,7 +447,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Το Iris mini θα χρησιμοποιήσει την αυτόματη νύχτα με βάση την τοποθεσία</translation>
+        <translation type="unfinished">Το Iris mini θα χρησιμοποιήσει την αυτόματη νυχτερινή διάρκεια ανάλογα με την τοποθεσία. Η τοποθεσία χρησιμοποιείται για τον υπολογισμό της θέσης του ηλίου και της διάρκειας ημέρας και νύχτας</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -544,12 +542,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>εφαρμογών</translation>
+        <translation type="unfinished">Οι αντιφατικές εφαρμογές είναι απενεργοποιημένες</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>Οι ασύμβατες εφαρμογές απενεργοποιούνται για να αποφευχθεί η τρεμοπαίγνιση στην οθόνη.</translation>
+        <translation type="unfinished">Οι αντιφατικές εφαρμογές είναι απενεργοποιημένες. Προκειμένου να μην προκαλείται τρεμόπαιγμα, οι εφαρμογές που είναι αντιφατικές είναι απενεργοποιημένες.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -559,7 +557,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>Ο γάντζος πληκτρολογίου είναι ενεργοποιημένος</translation>
+        <translation type="unfinished">Ο γάντζος πληκτρολογίου είναι ενεργοποιημένος. Τώρα μπορείτε να χρησιμοποιήσετε συντομεύσεις ολόκληρου του συστήματος.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -597,12 +595,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">Ανοιγμα αρχείου...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">Αρχείο ρυθμίσεων Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -627,7 +625,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
         <source>License Expired</source>
-        <translation>Η άδεια λήγει</translation>
+        <translation type="unfinished">Η άδεια λήγειkαι</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="150"/>
@@ -683,7 +681,7 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Αυτό είναι Ίρις και τον κωδικό ενεργοποίησης είναι για Iris μίνι. Κατεβάστε Iris μίνι από
+        <translation type="unfinished">Αυτό είναι Ίris και τον κωδικό ενεργοποίησης είναι για Iris mini ι. Κατεβάστε Iris mini από
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -697,19 +695,19 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="228"/>
         <source>Team license code for Iris mini</source>
-        <translation>Κωδικός άδειας ομάδας για Iris μίνι</translation>
+        <translation type="unfinished">Κωδικός άδειας ομάδας για Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Αυτό είναι Ίρις και απομένει κωδικούς άδειας ομάδας είναι για Iris μίνι. Κατεβάστε Iris μίνι από
+        <translation type="unfinished">Αυτό είναι Iris  και απομένει κωδικούς άδειας ομάδας είναι για Iris mini. Κατεβάστε Iris miniι από
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
         <source>No more Team activations</source>
-        <translation>Δεν περισσότερες ενεργοποιήσεις Team</translation>
+        <translation type="unfinished">Δεν περισσότερες ενεργοποιήσεις Team</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="239"/>
@@ -769,7 +767,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Φόρμα</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -1129,7 +1127,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1930,7 +1928,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
         <source>ADVANCED_PWM_CONTROL</source>
-        <translation>ελέγχου PWM</translation>
+        <translation type="unfinished">Ελέγχου PWM</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="569"/>
@@ -1955,12 +1953,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished">Για</translation>
+        <translation type="unfinished">για</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>HAVE_A_REST_NOW</source>
-        <translation>Τώρα</translation>
+        <translation type="unfinished">Ξεκουράσε τωρα</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="575"/>
@@ -1970,7 +1968,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="576"/>
         <source>USE_SOUNDS</source>
-        <translation>χρήση ήχους</translation>
+        <translation type="unfinished">Χρήση ήχους</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="578"/>
@@ -1990,7 +1988,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="581"/>
         <source>BLOCK_KEYBOARD</source>
-        <translation>πληκτρολόγιο Block στην αυστηρή λειτουργία</translation>
+        <translation type="unfinished">Πληκτρολόγιο μπλοκ στην αυστηρή λειτουργία</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="582"/>
@@ -2005,7 +2003,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="585"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
-        <translation>αλλαγές των ρυθμίσεων Αυτόματη αποθήκευση</translation>
+        <translation type="unfinished">Αλλαγές των ρυθμίσεων Αυτόματη αποθήκευση</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="586"/>
@@ -2151,7 +2149,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="642"/>
         <source>DAY_OPACITY</source>
-        <translation>ημέρα Αδιαφάνεια</translation>
+        <translation type="unfinished">Ημέρα αδιαφάνεια</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="643"/>
@@ -2161,12 +2159,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="645"/>
         <source>DAY_DIM</source>
-        <translation>ημέρα Δημ</translation>
+        <translation type="unfinished">Ημέρα δημ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>NIGHT_DIM</source>
-        <translation>Νύχτα Δημ</translation>
+        <translation type="unfinished">Νύχτα δημ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="657"/>
@@ -2176,7 +2174,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="658"/>
         <source>USE_SMART_INVERSION</source>
-        <translation>έξυπνη αντιστροφή</translation>
+        <translation type="unfinished">Εξυπνη αντιστροφή</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="659"/>
@@ -2266,7 +2264,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished">Πληροφορίες για το Debug</translation>
+        <translation type="unfinished">Πληροφορίες για τo Debug</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="723"/>
@@ -2346,7 +2344,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished">άναψε</translation>
+        <translation type="unfinished">Αναψε</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2356,7 +2354,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
-        <translation>επαναφορά ρυθμίσεων</translation>
+        <translation type="unfinished">Επαναφορά ρυθμίσεων</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="618"/>
@@ -2371,7 +2369,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="621"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
-        <translation>παύση Χρώμα</translation>
+        <translation type="unfinished">Παύση Χρώμα</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="622"/>
@@ -2381,7 +2379,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="627"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
-        <translation>επικάλυψη της οθόνης</translation>
+        <translation type="unfinished">Επικάλυψη της οθόνης</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="628"/>
@@ -2737,7 +2735,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="136"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="670"/>
         <source>&amp;Biohacker</source>
-        <translation>χάκερ Βιολογία</translation>
+        <translation type="unfinished">Χάκερ Βιολογία</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="140"/>
@@ -2820,7 +2818,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">Σας ευχαριστούμε για την υποστήριξη της Iris! :)</translation>
+        <translation type="unfinished">ώρα</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
@@ -3009,7 +3007,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Προειδοποίηση</translation>
+        <translation type="unfinished">Προσοχή!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
@@ -3019,7 +3017,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished">Αγορά</translation>
+        <translation type="unfinished">Αγοράσε</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>

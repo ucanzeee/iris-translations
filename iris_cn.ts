@@ -205,17 +205,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
         <source>Gamma fixer disabled</source>
-        <translation>Gamma修正已禁用</translation>
+        <translation type="unfinished">伽玛 修正已禁用</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation>Gamma修正已禁用。如果您的显示器突然变亮了，重启Iris或者多点击Iris的小图标几次，都能强制Iris改变屏幕颜色</translation>
+        <translation type="unfinished">伽玛 修正已禁用。如果您的显示器突然变亮了，重启Iris或者多点击Iris的小图标几次，都能强制Iris改变屏幕颜色</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
         <source>Gamma fixer enabled</source>
-        <translation>Gamma修正已启用</translation>
+        <translation type="unfinished">伽玛 修正已启用</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
@@ -255,7 +255,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>托盘图标旋转已禁用</translation>
+        <translation type="unfinished">托盘图标旋转已禁用</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
@@ -300,7 +300,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>Iris将使用您已选择的模式来再次改变亮度</translation>
+        <translation type="unfinished">Iris mini将再次使用您选择的亮度模式
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -316,7 +317,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>Iris已停止使用显示器颜色变化</translation>
+        <translation type="unfinished">Iris 已停止使用显示器颜色变化</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -331,7 +332,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Reset colors</source>
-        <translation>重置颜色</translation>
+        <translation type="unfinished">重置颜色</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="735"/>
@@ -381,7 +382,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Gamma preservation disabled</source>
-        <translation>Gamma保护禁用</translation>
+        <translation type="unfinished">伽玛保护禁用</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
@@ -456,20 +457,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>键盘挂钩已启用。 您现在可以使用系统范围的快捷方式。
-</translation>
+        <translation type="unfinished">键盘挂钩已启用。 您现在可以使用系统范围的快捷方式。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation>键盘挂钩已禁用
-</translation>
+        <translation type="unfinished">键盘挂钩已禁用</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation>键盘挂钩已禁用。 某些快捷方式和功能可能无法按预期工作
-</translation>
+        <translation type="unfinished">键盘挂钩已禁用。 某些快捷方式和功能可能无法按预期工作</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
@@ -573,7 +571,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation>颜色变化将不会应用于光标。如果您不喜欢夜间太亮的光标，请使“Software cursor”来改变光标的颜色。</translation>
+        <translation type="unfinished">颜色更改不适用于光标。 如果您不喜欢夜间亮蓝色光标，请使用启用软件光标在光标上应用颜色更改。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
@@ -593,7 +591,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>为了更好的使用体验，请禁用与Iris相冲突的应用</translation>
+        <translation type="unfinished">冲突的应用程序被禁用。 为了不引起闪烁，应用程序被禁用。</translation>
     </message>
 </context>
 <context>
@@ -601,14 +599,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation>打开文件...
-</translation>
+        <translation type="unfinished">打开文件...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation>虹膜设置文件（* .iris_settings * .iris）
-</translation>
+        <translation type="unfinished">虹膜设置文件（* .iris_settings * .iris）</translation>
     </message>
 </context>
 <context>
@@ -638,7 +634,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="150"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation>Iris Pro许可证已过期。请购买新的激活码</translation>
+        <translation type="unfinished">あなたのIris Proライセンスの有効期限が切れています。 あなたは新しいアクティベーションコードを購入することができます</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="162"/>
@@ -730,7 +726,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="249"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation>无效的Iris或Iris mini团队许可证。</translation>
+        <translation type="unfinished">Iris或Iris mini没有此类团队许可。</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="258"/>
@@ -741,7 +737,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="260"/>
         <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>您已升级到Iris Pro。 在高级视图中查看您的新功能。</translation>
+        <translation type="unfinished">你的Iris现在是Pro。 在高级视图中查看新选项。</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
@@ -751,7 +747,7 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="277"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation>。请检查网络，确保电脑连接到互联网</translation>
+        <translation type="unfinished">。请检查网络，确保电脑连接到互联网 ?</translation>
     </message>
 </context>
 <context>
@@ -775,7 +771,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">公式推</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -1018,7 +1014,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="2412"/>
         <location filename="../../src/MainWindow.cpp" line="2476"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>重启使更改生效。</translation>
+        <translation type="unfinished">Iris对您的系统进行了一些更改，需要重新启动才能使更改生效。</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3982"/>
@@ -1140,7 +1136,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
         <source>Skip</source>
-        <translation>跳过</translation>
+        <translation type="unfinished">跳过</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
@@ -1256,7 +1252,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="400"/>
         <source>MANUAL_MODE</source>
-        <translation>手动</translation>
+        <translation type="unfinished">手动</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="401"/>
@@ -1961,7 +1957,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation>休息：</translation>
+        <translation type="unfinished">休息</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -2086,7 +2082,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation>暂停/恢复Iris</translation>
+        <translation type="unfinished">暂停/恢复虹膜</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
@@ -2904,7 +2900,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation>试用时间即将到期</translation>
+        <translation type="unfinished">试用期即将到期</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
@@ -3015,7 +3011,7 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation>警告</translation>
+        <translation type="unfinished">警告!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

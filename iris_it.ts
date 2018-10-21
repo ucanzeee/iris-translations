@@ -74,8 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation>Iris ha apportato una piccola modifica per abilitare valori più bassi. È necessario riavviare il PC una volta per sbloccare la piena funzionalità
-</translation>
+        <translation type="unfinished">Iris ha apportato una piccola modifica per abilitare valori più bassi. È necessario riavviare il PC una volta per sbloccare la piena funzionalità</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -153,8 +152,7 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation type="unfinished">Usa &quot;aiuto&quot; per vedere l&apos;elenco di tutte le funzionalità nascoste :)
-</translation>
+        <translation type="unfinished">Usa &quot;aiuto&quot; per vedere l&apos;elenco di tutte le funzionalità nascoste :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
@@ -292,7 +290,7 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation type="unfinished">Ora stai usando la modalità mista Mini di Iris</translation>
+        <translation type="unfinished">Ora stai usando &quot;Iris mini&quot; &quot;Modalità mista</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
@@ -328,7 +326,7 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation type="unfinished">L&apos;iride applicherà i cambiamenti di colore a Monitor</translation>
+        <translation type="unfinished">Iris  applicherà le modifiche al colore per monitorare</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
@@ -388,7 +386,7 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation type="unfinished">L&apos;iride non rispetterà la calibrazione del colore da ora in poi. Utilizzerà invece le impostazioni predefinite del monitor</translation>
+        <translation type="unfinished">Iris  non rispetterà la calibrazione del colore da ora in poi. Utilizzerà invece le impostazioni predefinite del monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
@@ -543,7 +541,7 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished">applicazioni</translation>
+        <translation type="unfinished">Applicazioni in conflitto disabilitate</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
@@ -601,7 +599,7 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">File delle impostazioni di Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -682,7 +680,7 @@ Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Si tratta di Iris e il tuo codice di attivazione è per Iris mini. Scarica Iris mini da
+        <translation type="unfinished">Si tratta di Iris e il tuo codice di attivazione è per Iris mini. Scarica Iris mini da
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -768,7 +766,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Formular</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -1314,7 +1312,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished">costume</translation>
+        <translation type="unfinished">Costume</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -2079,7 +2077,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished">Pausa / Riprendi diaframma</translation>
+        <translation type="unfinished">Pausa / Riprendi Ιris </translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
@@ -2109,12 +2107,12 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished">scorciatoia</translation>
+        <translation type="unfinished">Scorciatoia</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished">processore(cpu)</translation>
+        <translation type="unfinished">Processore(cpu)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
@@ -2200,7 +2198,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished">impostazioni</translation>
+        <translation type="unfinished">Impostazioni</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
@@ -2345,7 +2343,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished">acceso</translation>
+        <translation type="unfinished">Acceso</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2700,7 +2698,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation>costume</translation>
+        <translation type="unfinished">Costume</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2736,7 +2734,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="136"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="670"/>
         <source>&amp;Biohacker</source>
-        <translation>Biohacker</translation>
+        <translation type="unfinished">Biohacker</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="140"/>
@@ -2897,7 +2895,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished">presto</translation>
+        <translation type="unfinished">La prova scade presto</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
@@ -2940,7 +2938,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Fenêtre de rappel clignement</translation>
+        <translation type="unfinished">Schermata di richiamo dei lampeggiamenti</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -2994,7 +2992,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation>avvertimento</translation>
+        <translation type="unfinished">Avvertimento</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
@@ -3008,7 +3006,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation>Avvertimento</translation>
+        <translation type="unfinished">Avvertimento!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

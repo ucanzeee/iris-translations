@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation>アイリスは、小さな値を可能にするために小さな変更を加えました。 完全な機能をアンロックするには、一度PCを再起動する必要があります</translation>
+        <translation type="unfinished">Irisは、小さな値を可能にするために小さな変更を加えました。 完全な機能をアンロックするには、一度PCを再起動する必要があります。</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -104,8 +104,8 @@
         <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>システムにいくつかの変更を加え、全ての機能を解除するためには再起動が必要です。
-問題なく動作しますが、色の変化は限られています。</translation>
+        <translation type="unfinished">Irisはシステムにいくつかの変更を加え、完全な機能をアンロックするには再起動が必要です。
+Irisは今は問題なく動作しますが、色の変化は限られています。</translation>
     </message>
 </context>
 <context>
@@ -162,8 +162,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="499"/>
         <source>Invalid temperature</source>
-        <translation>温度が無効です
-</translation>
+        <translation type="unfinished">温度が無効です</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
@@ -265,7 +264,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>アイリスが画面の色を変更しているときはトレイアイコンは回転しません。 この機能は、アイリスミニが色を変更していて、画面が較正されていないことを示すために使用されます</translation>
+        <translation type="unfinished">Iris が画面の色を変えているときにトレイアイコンが回転する Iris miniが色を変えていて画面が較正されていないことを示すために使用されます</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
@@ -286,7 +285,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation>アイリスはあなたの選択したモードを再び温度に使用します</translation>
+        <translation type="unfinished">Iris」はあなたの選択したモードを再び温度に使用します
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
@@ -306,7 +306,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>アイリスミニはあなたの選択したモードを再び明るさに使用します</translation>
+        <translation type="unfinished">Iris mini は、選択したモードを再び明るさに使用します。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -322,18 +322,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>アイリスは色の変更をモニターに適用しません</translation>
+        <translation type="unfinished">Iris  はモニターに色の変更を適用しません</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source> enabled</source>
-        <translation>有効
-</translation>
+        <translation type="unfinished">有効</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation>アイリスはモニターの色の変更を適用します</translation>
+        <translation type="unfinished">Iris モニターに色の変化を適用する</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
@@ -393,7 +392,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation>アイリスはカラーキャリブレーションを維持しません。 プログラムはデフォルトのモニタ設定を使用します
+        <translation type="unfinished">Iris は今からあなたのカラーキャリブレーションを尊重しません。 代わりにデフォルトのモニタ設定を使用します
 </translation>
     </message>
     <message>
@@ -424,7 +423,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation type="unfinished">アイリスミニは入力した場所を使用します。 隠し機能を使用して緯度と経度を指定する</translation>
+        <translation type="unfinished">Iris mini はあなたの手動の場所を使用します。 隠された機能で緯度と経度を設定する
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
@@ -434,7 +434,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>アイリスミニは太陽の位置と夜間の長さを計算する自動位置を使用します</translation>
+        <translation type="unfinished">Iris miniは自動位置情報を使用します。 場所は、太陽の位置と昼と夜の時間を計算するために使用されます</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
@@ -444,7 +444,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation>アイリスミニはあなたが入力した夜の時間を使います。 隠し機能を使用して開始と終了を設定する</translation>
+        <translation type="unfinished">Iris mini 」は手動の夜間を使用します。隠れた機能で開始時刻と終了時刻を設定する</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
@@ -454,7 +454,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>アイリスミニは、場所に基づいて自動夜間を使用します</translation>
+        <translation type="unfinished">Iris mini は、場所に基づいて自動夜間を使用します。 場所は、太陽の位置と昼と夜の時間を計算するために使用されます</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -489,8 +489,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
         <source>Night end time changed</source>
-        <translation>ナイトエンドタイムの変更
-</translation>
+        <translation type="unfinished">ナイトエンドタイムの変更</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="907"/>
@@ -525,8 +524,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation>カーソルが色の変化を適用します。 表示されなくなったら、ソフトウェアカーソルを無効にしてもう一度表示してください。
-</translation>
+        <translation type="unfinished">カーソルが色の変化を適用します。 表示されなくなったら、ソフトウェアカーソルを無効にしてもう一度表示してください。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
@@ -551,12 +549,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>アプリケーション</translation>
+        <translation type="unfinished">競合するアプリケーションを無効にする</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>互換性のないアプリを無効にすると、画面のちらつきを防ぐことができます。</translation>
+        <translation type="unfinished">競合するアプリケーションは無効です。 ちらつきを生じさせないために、競合するアプリケーションは無効になります。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -566,7 +564,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>キーボードフックを有効にする</translation>
+        <translation type="unfinished">キーボードフックが有効になっています。 システム全体のショートカットを使用できるようになりました。</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -596,7 +594,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation>アイリスはあなたの試用期間が終わったことをさらに思い出させません</translation>
+        <translation type="unfinished">あなたの試用期間が終了すると、Iris はあなたに再度通知することはありません</translation>
     </message>
 </context>
 <context>
@@ -604,12 +602,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">ファイルを開く...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">アイリス設定ファイル（* .iris_settings * .iris）</translation>
     </message>
 </context>
 <context>
@@ -618,7 +616,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="135"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
-        <translation>製品化されました</translation>
+        <translation type="unfinished">あなたの Iris は今 Pro</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -634,7 +632,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="150"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation>ライセンスの有効期限が切れています。 あなたは新しいアクティベーションコードを購入することができます</translation>
+        <translation type="unfinished">あなたIris Pro  ライセンスは有効期限切れです。 あなたは新しいアクティベーションコードを購入することができます</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="162"/>
@@ -673,7 +671,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation>アイリスのサポートをありがとう！ :)</translation>
+        <translation type="unfinished">Iris 」をサポートしてくれてありがとう！ :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="192"/>
@@ -694,15 +692,16 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>このアクティベーションコードは、Iris mini用です</translation>
+        <translation type="unfinished">これはIrisで、アクティベーションコードはIris mini用です。 Iris miniをからダウンロードする
+http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="214"/>
         <location filename="../../src/licensing/License.cpp" line="216"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>ボリュームライセンスのアクティベーションが有効になりました。
-詳細表示で新しいオプションを確認してください。</translation>
+        <translation type="unfinished">チームライセンスの有効化。 Iris をサポートしてくれてありがとう！ :)
+詳細表示で新しいオプションを確認してください。。</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="228"/>
@@ -713,7 +712,8 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>このアクティベーションコードはIris miniのボリュームライセンスです</translation>
+        <translation type="unfinished">これはIrisで、残りのチームライセンスコードはIris mini用です。 Iris min をからダウンロードする
+http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
@@ -733,7 +733,7 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="249"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation>これはボリュームライセンスではありません。</translation>
+        <translation type="unfinished">Iris やIris mini 」ミニのようなチームライセンスはありません。</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="258"/>
@@ -990,12 +990,12 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/MainWindow.cpp" line="1817"/>
         <source>You need Iris Pro to access this section.</source>
         <translatorcomment>Ignore this error.There is no problem with this Japanese sentence.</translatorcomment>
-        <translation>この機能は製品版のみ利用可能です。</translation>
+        <translation type="unfinished">必要なものIris Proこのセクションにアクセスする。</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2391"/>
         <source>Relaunch Iris</source>
-        <translation>プログラムの再起動</translation>
+        <translation type="unfinished">再出発アイリス</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2392"/>
@@ -1022,7 +1022,7 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/MainWindow.cpp" line="2412"/>
         <location filename="../../src/MainWindow.cpp" line="2476"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>システム設定の変更をしました。変更を有効にするには再起動が必要です。</translation>
+        <translation type="unfinished">Iris はシステムにいくつかの変更を加え、変更を有効にするには再起動が必要です。</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3982"/>
@@ -1139,7 +1139,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1943,7 +1943,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation>距離：</translation>
+        <translation type="unfinished">ズームアウトする</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -2094,7 +2094,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Экран Stop Layer...</translation>
+        <translation type="unfinished">終了オーバーレイ画面</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
@@ -2185,7 +2185,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished">Color triggers</translation>
+        <translation type="unfinished">カラートリガー</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2290,7 +2290,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
         <source>CZECH</source>
-        <translation>čeština(Czech)</translation>
+        <translation type="unfinished">チェーチ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="707"/>
@@ -2320,7 +2320,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished">Debgの情報</translation>
+        <translation type="unfinished">デバッグの情報</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="723"/>
@@ -2702,37 +2702,37 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="88"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="662"/>
         <source>&amp;Manual</source>
-        <translation>マニュアル(&amp;M)</translation>
+        <translation type="unfinished">マニュアル</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="92"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="663"/>
         <source>&amp;Paused</source>
-        <translation>一時停止(&amp;P)</translation>
+        <translation type="unfinished">一時停止</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="96"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="659"/>
         <source>&amp;Change mode</source>
-        <translation>モードを変更(&amp;C)</translation>
+        <translation type="unfinished">モードを変更する</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished">Zvyk</translation>
+        <translation type="unfinished">カスタム</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="665"/>
         <source>&amp;Health</source>
-        <translation>健康(&amp;H)</translation>
+        <translation type="unfinished">健康</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="120"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="666"/>
         <source>&amp;Sleep</source>
-        <translation>睡眠誘導(&amp;S)</translation>
+        <translation type="unfinished">眠り</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
@@ -2744,13 +2744,13 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="668"/>
         <source>&amp;Reading</source>
-        <translation>読書(&amp;R)</translation>
+        <translation type="unfinished">読書</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="132"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="669"/>
         <source>&amp;Programming</source>
-        <translation>プログラマー(&amp;P)</translation>
+        <translation type="unfinished">プログラマー</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="136"/>
@@ -2774,13 +2774,13 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="148"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="673"/>
         <source>&amp;Movie</source>
-        <translation>映画鑑賞(&amp;M)</translation>
+        <translation type="unfinished">映画鑑賞</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="152"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="674"/>
         <source>&amp;Overlay</source>
-        <translation>オーバーレイ(&amp;O)</translation>
+        <translation type="unfinished">オーバーレイ</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="216"/>
@@ -2873,8 +2873,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
         <source>minutes</source>
-        <translation>分
-</translation>
+        <translation type="unfinished">分</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
@@ -2909,7 +2908,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation>このアクティベーションコードは既に使用されています</translation>
+        <translation type="unfinished">既に使われた</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
@@ -2929,7 +2928,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished">無料試用無効</translation>
+        <translation type="unfinished">無料試用を無効にする</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
@@ -2966,12 +2965,12 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation>アイリスプロトライアルは明日に終了する</translation>
+        <translation type="unfinished">明日 Iris Proトライアルが終了する</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation>アイリスプロの試用期間は、</translation>
+        <translation type="unfinished">Iris Pro試用期間が満了</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
@@ -3053,7 +3052,7 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">警告</translation>
+        <translation type="unfinished">警告!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

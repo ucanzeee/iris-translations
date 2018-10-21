@@ -104,7 +104,7 @@
         <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>Iris made some changes on your system and restart is needed to unlock full functionality.
+        <translation type="unfinished">Iris made some changes on your system and restart is needed to unlock full functionality.
 Note that Iris will work fine now, but with limited color changes.</translation>
     </message>
 </context>
@@ -168,7 +168,7 @@ Note that Iris will work fine now, but with limited color changes.</translation>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation>is invalid value for Color temperature. Use number between 0 and 10000.</translation>
+        <translation type="unfinished">is invalid value for Color temperature. Use number between 0 and 10 000.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
@@ -310,7 +310,7 @@ Note that Iris will work fine now, but with limited color changes.</translation>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Monitor</source>
-        <translation type="unfinished">Monitor</translation>
+        <translation>Monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
@@ -350,7 +350,7 @@ Note that Iris will work fine now, but with limited color changes.</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
         <source>Iris settings are reset to default values</source>
-        <translation type="unfinished">Iris settings are reset to default values</translation>
+        <translation>Iris settings are reset to default values</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
@@ -545,7 +545,7 @@ Note that Iris will work fine now, but with limited color changes.</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>applications</translation>
+        <translation type="unfinished">Conflicting applications disableδ</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
@@ -560,7 +560,7 @@ Note that Iris will work fine now, but with limited color changes.</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation></translation>
+        <translation type="unfinished">Keyboard Hook enabled. You can now use system-wide shortcuts.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -1961,7 +1961,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
         <source>HAVE_A_REST_NOW</source>
-        <translation>Have a rest now</translation>
+        <translation>Have a rest</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="575"/>
@@ -2732,7 +2732,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="132"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="669"/>
         <source>&amp;Programming</source>
-        <translation>Programming</translation>
+        <translation type="unfinished">Programming</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="136"/>
@@ -3046,7 +3046,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation>Warning</translation>
+        <translation type="unfinished">Warning!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

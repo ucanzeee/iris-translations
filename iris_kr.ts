@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation>아이리스는 값을 낮추기 위해 작은 변화를 만들었습니다. 모든 기능을 해제하려면 PC를 한 번 다시 시작해야합니다.</translation>
+        <translation type="unfinished">Iris는 값을 낮추기 위해 작은 변화를 만들었습니다. 모든 기능을 해제하려면 PC를 한 번 다시 시작해야합니다.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="274"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation>전체 색상 범위를 해제하려면 컴퓨터를 다시 시작하십시오. 아이리스 미니는 정상적으로 작동하지만 일부 옵션은 회색으로 표시 될 수 있습니다.</translation>
+        <translation type="unfinished">전체 색상 범위를 해제하려면 PC를 다시 시작하십시오. Iris mini는 정상적으로 작동하지만 일부 옵션이 회색으로 표시 될 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="284"/>
@@ -100,8 +100,8 @@
         <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>Iris는 시스템을 일부 변경했으며 모든 기능을 해제하려면 시스템을 다시 시작해야합니다.
-아이리스는 현재 잘 작동하지만 색상이 제한적으로 변경됩니다.</translation>
+        <translation type="unfinished">Irisはシステムにある程度の変更を加え、完全な機能をアンロックするには再起動が必要です。
+Irisは今は問題なく動作しますが、色の変化は限られています。</translation>
     </message>
 </context>
 <context>
@@ -147,8 +147,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation>그것은 틀린 것처럼 보인다. 구문을 확인하거나 숨겨진 다른 기능을 사용해보십시오.
-geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin daleun gineung-eul sayonghaebosibsio.</translation>
+        <translation type="unfinished">그것은 틀린 것처럼 보인다. 구문을 확인하거나 숨겨진 다른 기능을 사용해보십시오.
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
@@ -195,15 +195,13 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="532"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
         <source>Brightness changed</source>
-        <translation>밝기가 변경되었습니다.
-</translation>
+        <translation type="unfinished">밝기가 변경되었습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
         <source>Brightness changed to</source>
-        <translation>밝기가로 변경됨
-</translation>
+        <translation type="unfinished">밝기가로 변경됨</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
@@ -253,7 +251,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>아이리스가 화면 색상을 변경하면 트레이 아이콘이 회전합니다. 아이리스 미니가 색상을 변경하고 화면이 보정되지 않은 경우 표시하는 데 사용됩니다.</translation>
+        <translation type="unfinished">Iris が画面の色を変えているときにトレイアイコンが回転する Iris mini が色を変えていて画面が較正されていないことを示すために使用されます</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
@@ -263,7 +261,8 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>아이리스가 화면 색상을 변경하면 트레이 아이콘이 회전하지 않습니다. 이 기능은 아이리스 미니가 색상을 변경하고 화면이 보정되지 않았을 때 표시됩니다.</translation>
+        <translation type="unfinished">Iris가 화면 색상을 변경하면 용지함 아이콘이 회전합니다. Iris mini 가 색상을 변경하고 화면이 보정되지 않았을 때 표시됩니다
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
@@ -283,7 +282,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation>아이리스는 선택한 모드를 다시 사용합니다.</translation>
+        <translation type="unfinished">Iris는 선택한 모드를 다시 사용합니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
@@ -303,7 +302,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>아이리스 미니는 선택한 모드를 밝기로 다시 사용합니다.</translation>
+        <translation type="unfinished">Iris mini 는 밝기를 위해 선택한 모드를 다시 사용합니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -319,8 +318,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>Iris는 색상 변경을 모니터에 적용하지 않습니다.
-</translation>
+        <translation type="unfinished">Iris는 색상 변경을 모니터에 적용하지 않습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -355,8 +353,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
         <source>Invert</source>
-        <translation>거꾸로 하다
-</translation>
+        <translation type="unfinished">거꾸로 하다</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
@@ -381,7 +378,8 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation>Iris는 색상 보정을 유지합니다. 그만 아이리스 미니를 실행하고 프로그램은 하루 종일 당신의 색상을 유지합니다.</translation>
+        <translation type="unfinished">Irisは今からあなたのカラーキャリブレーションを尊重します。 閉じると Irisミニを開始し、それはあなたの色を保存する日中
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
@@ -421,7 +419,8 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation>아이리스 미니는 사용자가 입력 한 위치를 사용합니다. 숨겨진 기능을 사용하여 위도 및 경도 지정</translation>
+        <translation type="unfinished">Iris mini 는 수동 위치를 사용합니다. 숨겨진 기능으로 위도와 경도 설정
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
@@ -431,7 +430,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>아이리스 미니는 자동 위치를 사용하여 태양의 위치와 야간 시간을 계산합니다.</translation>
+        <translation type="unfinished">Iris mini  자동 위치를 사용합니다. 위치는 태양의 위치와 낮과 밤의 시간을 계산하는 데 사용됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
@@ -441,7 +440,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation>아이리스 미니는 입력 한 밤의 시간을 사용합니다. 숨겨진 함수로 시작 및 끝 설정</translation>
+        <translation type="unfinished">Iris mini 는 수동 야간 사용합니다. 숨겨진 기능으로 시작 및 종료 시간 설정</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
@@ -451,7 +450,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>아이리스 미니는 위치에 따라 자동 야간을 사용합니다.</translation>
+        <translation type="unfinished">Iris mini 는 위치에 따라 자동 야간을 사용합니다. 위치는 태양의 위치와 낮과 밤의 시간을 계산하는 데 사용됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -546,12 +545,12 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>응용 프로그램</translation>
+        <translation type="unfinished">충돌하는 응용 프로그램을 사용할 수 없습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>호환되지 않는 앱은 화면의 깜박임을 방지하기 위해 비활성화됩니다.</translation>
+        <translation type="unfinished">충돌하는 응용 프로그램을 사용할 수 없습니다. 깜박임을 발생시키지 않으려면 충돌하는 응용 프로그램을 사용할 수 없게 설정하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -561,7 +560,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>키보드 훅 사용 가능</translation>
+        <translation type="unfinished">키보드 후크가 활성화되었습니다. 이제 시스템 전체의 바로 가기를 사용할 수 있습니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -581,7 +580,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation>평가판 기간이 만료되면 아이리스가 알려줍니다.</translation>
+        <translation type="unfinished">평가판이 만료되면 Iris 가 알려줍니다.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
@@ -591,7 +590,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation>아이리스는 시범 기간이 끝났음을 더 이상 상기시키지 않습니다.</translation>
+        <translation type="unfinished">평가판 사용 기간이 만료되면 Iris 가 더 이상 상기시켜주지 않습니다.</translation>
     </message>
 </context>
 <context>
@@ -599,12 +598,12 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">파일 열기 ...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">아이리스 설정 파일 (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -613,7 +612,7 @@ geugeos-eun teullin geoscheoleom boinda. gumun-eul hwag-inhageona sumgyeojin dal
         <location filename="../../src/licensing/License.cpp" line="135"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
-        <translation>아이리스가 이제 프로입니다.</translation>
+        <translation type="unfinished">귀하의 Iris 는 이제 Pro</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -624,8 +623,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation>아이리스를 응원 해 주셔서 대단히 감사합니다! :)
-</translation>
+        <translation type="unfinished">Iris 를 응원 해 주셔서 대단히 감사합니다! :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
@@ -635,7 +633,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="150"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation>아이리스 프로 라이센스가 만료되었습니다. 다음에서 새 활성화 코드를 구입할 수 있습니다.</translation>
+        <translation type="unfinished">きみの Iris Pro  ライセンスが失効しています。 新しいアクティベーションコードを購入することができます</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="162"/>
@@ -686,7 +684,7 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>이것은 아이리스 (Iris)이며 활성화 코드는 아이리스 (Iris) 미니 용입니다. Iris mini를에서 다운로드하십시오
+        <translation type="unfinished">これは「アイリス」で、アクティベーションコードは「アイリスミニ」です。 Iris miniをからダウンロードする
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -694,19 +692,19 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="216"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>팀 라이센스 활성화. 아이리스를 응원 해 주셔서 대단히 감사합니다! :)
+        <translation type="unfinished">팀 라이센스 활성화. &quot;Iris &quot;를 응원 해 주셔서 대단히 감사합니다! :)
 고급보기에서 새 옵션을 확인하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="228"/>
         <source>Team license code for Iris mini</source>
-        <translation>아이리스 미니 팀 라이센스 코드</translation>
+        <translation type="unfinished">Iris miniのチームライセンスコード</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>이것은 아이리스이고 나머지 팀 라이센스 코드는 아이리스 미니 용입니다. Iris mini를에서 다운로드하십시오
+        <translation type="unfinished">이것은 Iris 이고 나머지 팀 라이센스 코드는 Iris mini입니다. 다운로드 Iris mini 
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -738,7 +736,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="260"/>
         <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>아이리스가 이제 프로입니다. 고급보기에서 새 옵션을 확인하십시오.</translation>
+        <translation type="unfinished">あなたのIris は現在Pro」です。 詳細表示で新しいオプションを確認してください。</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
@@ -772,7 +770,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">공식적인</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -983,12 +981,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1817"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation>You need Iris Pro to access this section.</translation>
+        <translation type="unfinished">필요한 항목 : Iris Pro :이 섹션에 액세스하십시오.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2391"/>
         <source>Relaunch Iris</source>
-        <translation>아이리스 재발견</translation>
+        <translation type="unfinished">다시 시작 아이리스 </translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2392"/>
@@ -1015,7 +1013,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="2412"/>
         <location filename="../../src/MainWindow.cpp" line="2476"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>아이리스는 시스템을 약간 변경하고 변경 사항을 적용하려면 시스템을 다시 시작해야합니다.</translation>
+        <translation type="unfinished">Iris는 시스템을 약간 변경하고 변경 사항을 적용하려면 시스템을 다시 시작해야합니다.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3982"/>
@@ -1132,7 +1130,7 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1929,7 +1927,7 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">거리 :</translation>
+        <translation type="unfinished">축소</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -2270,7 +2268,7 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished">Debg 정보</translation>
+        <translation type="unfinished">디버그 정보</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="723"/>
@@ -2556,7 +2554,7 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>GET_IRIS_PRO</source>
-        <translation>아이리스 프로 구하기</translation>
+        <translation type="unfinished">Iris Pro 받기</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="689"/>
@@ -2884,7 +2882,7 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished">재판이 만료되지 않은 경우 아이리스는 다시 활성화를 시도합니다.</translation>
+        <translation type="unfinished">평가판이 만료되지 않으면 Iris 가 다시 정품 인증을 시도합니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
@@ -2926,12 +2924,12 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation>아이리스 프로 시험판이 내일 만료됩니다.</translation>
+        <translation type="unfinished">Iris Pro 재판이 내일 만료됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation>아이리스 프로의 시험 사용 기간은</translation>
+        <translation type="unfinished">Iris Pro평가판이 만료됩니다.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
@@ -2999,7 +2997,7 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished">주의</translation>
+        <translation type="unfinished">경고</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
@@ -3013,7 +3011,7 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">경고</translation>
+        <translation type="unfinished">경고!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

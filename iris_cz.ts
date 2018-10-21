@@ -39,7 +39,7 @@
         <location filename="../batman/ClockPosition.cpp" line="433"/>
         <location filename="../batman/ClockPosition.cpp" line="448"/>
         <source>hour</source>
-        <translation>Stunde</translation>
+        <translation type="unfinished">hodina</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="210"/>
@@ -74,12 +74,12 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation></translation>
+        <translation>Iris hat eine kleine Änderung vorgenommen, um niedrigere Werte zu ermöglichen. Sie müssen Ihren PC je neinterpretován, um die volle Funktionalität freizuschalten</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
         <source>Restart needed</source>
-        <translation>Je třeba restart</translation>
+        <translation>Je potřeba restart</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="274"/>
@@ -150,8 +150,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation>zdá se špatně. Zkontrolujte syntaxi nebo zkuste nějakou jinou skrytou funkci.
-</translation>
+        <translation>zdá se špatně. Zkontrolujte syntaxi nebo zkuste nějakou jinou skrytou funkci.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
@@ -244,8 +243,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation>Iris mini se nespustí po zapnutí počítače
-</translation>
+        <translation>Iris mini se nespustí po zapnutí počítače</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
@@ -260,7 +258,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>Zakázaná animace ikony</translation>
+        <translation type="unfinished">Otočení ikony zásobníku je zakázáno</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
@@ -271,8 +269,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
         <source>Manual temperature enabled</source>
-        <translation>Povolené ruční nastavení teploty
-</translation>
+        <translation type="unfinished">Povolené ruční nastavení teploty</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
@@ -413,8 +410,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation>Žádné oznámení o skrytých funkcích jsou zakázány. Toto je poslední upozornění, které uvidíte
-</translation>
+        <translation type="unfinished">Žádné oznámení o skrytých funkcích jsou zakázány. Toto je poslední upozornění, které uvidíte</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
@@ -454,7 +450,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Iris mini bude používat automatickou noční provoz založenou na místě</translation>
+        <translation type="unfinished">Iris mini bude používat automatické noční trvání podle umístění. Umístění se používá pro výpočet polohy Slunce a trvání dne a noci</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -549,12 +545,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>aplikací</translation>
+        <translation type="unfinished">Konfliktní aplikace jsou zakázány</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>Nekompatibilní aplikace jsou zakázány, aby se zabránilo blikání na obrazovce.</translation>
+        <translation type="unfinished">Konfliktní aplikace jsou zakázány. Aby aplikace nevyvolávala blikání, jsou konfliktní aplikace zakázány.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -564,29 +560,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>Klávesnice Hook povolena</translation>
+        <translation type="unfinished">Klávesnice Hook povolena. Nyní můžete používat zkratky celé sítě.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation>Háček klávesnice je vypnutá
-Háček
-Translations of háček
-noun
-hook
-háček, hák, skoba, vidlice
-catch
-úlovek, háček, chycení, záchytka, zátah, kánon
-crochet hook
-háček
-hitch
-zádrhel, háček, klička, potíž, stop
-fastening
-připevnění, zapínání, uzávěr, háček
-hiccup
-škytavka, škytnutí, zádrhel, nesnáz, háček
-knot
-uzel, suk, hlouček, chomáč, smyčka, háček</translation>
+        <translation type="unfinished">Háček klávesnice je vypnutá</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
@@ -619,12 +598,12 @@ uzel, suk, hlouček, chomáč, smyčka, háček</translation>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">Otevřít soubor...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">Soubor nastavení Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -633,7 +612,7 @@ uzel, suk, hlouček, chomáč, smyčka, háček</translation>
         <location filename="../../src/licensing/License.cpp" line="135"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
-        <translation>Pokročilé funkce jsou nyní přístupné</translation>
+        <translation type="unfinished">Váš &quot;Iris&quot; je nyní &quot;Pro&quot;</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -705,7 +684,8 @@ Nově zpřístupněné předvolby naleznete v režimu pokročilého zobrazení u
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Nyní máte spuštěnou variantu Iris a váš aktivační kód je určen pro Iris mini. Stáhněte si tedy Iris mini z http://iristech.co/iris-mini</translation>
+        <translation type="unfinished">Nyní máte spuštěnou variantu Iris a váš aktivační kód je určen pro Iris mini. Stáhněte si tedy Iris mini z
+ http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="214"/>
@@ -724,7 +704,8 @@ Nově zpřístupněné předvolby naleznete v režimu pokročilého zobrazení u
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Nyní máte spuštěnou variantu Iris a zbývající skupinové licenční kódy jsou určené pro Iris mini. Stáhněte si tedy Iris mini z http://iristech.co/iris-mini</translation>
+        <translation type="unfinished">Nyní máte spuštěnou variantu Iris a zbývající skupinové licenční kódy jsou určené pro Iris mini. Stáhněte si tedy Iris mini z
+ http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
@@ -755,7 +736,7 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/licensing/License.cpp" line="260"/>
         <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>Pokročilé funkce jsou nyní přístupné. Nově zpřístupněné předvolby naleznete v režimu pokročilého zobrazení uživatelského rozhraní aplikace.</translation>
+        <translation type="unfinished">Vaše &quot;Iris&quot; je nyní &quot;Pro&quot;. V rozšířeném zobrazení zobrazte nové možnosti.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
@@ -1149,7 +1130,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1159,12 +1140,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
         <source>Rest screen</source>
-        <translation>Obrazovka odpočinku
-Obrazovka
-Translations of obrazovka
-noun
-screen
-obrazovka, plátno, síto, zástěna, maska, paraván</translation>
+        <translation type="unfinished">Obrazovka odpočinku</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
@@ -1210,7 +1186,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
-        <translation>vám připomíná, že máte za 30 sekund skvělou přestávku</translation>
+        <translation type="unfinished">vám připomíná, že máte za 30 sekund skvělou přestávku</translation>
     </message>
 </context>
 <context>
@@ -1335,12 +1311,12 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="413"/>
         <source>OVERLAY_MODE</source>
-        <translation>Část obrazovky</translation>
+        <translation type="unfinished">Překryv</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished">Zvyk</translation>
+        <translation>Zvyk</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -2266,7 +2242,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>UKRAINIAN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukraini</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="709"/>
@@ -2371,7 +2347,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished">zapnuto</translation>
+        <translation type="unfinished">Zapnuto</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2877,7 +2853,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">Děkujeme, že jste podpořili Iris! :)</translation>
+        <translation type="unfinished">hodin</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
@@ -2912,8 +2888,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation>Pokud se vám program líbí a chcete jej používat více, můžete
-</translation>
+        <translation type="unfinished">Pokud se vám program líbí a chcete jej používat více, můžete</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
@@ -2956,8 +2931,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation>Zkušební doba vyprší brzy
-</translation>
+        <translation type="unfinished">Zkušební doba vyprší brzy</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
@@ -3054,7 +3028,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished">Pozor</translation>
+        <translation type="unfinished">Upozornění</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
@@ -3068,7 +3042,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Upozornění</translation>
+        <translation type="unfinished">Upozornění!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
@@ -3092,8 +3066,7 @@ obrazovka, plátno, síto, zástěna, maska, paraván</translation>
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation type="unfinished">zoom widget
-</translation>
+        <translation type="unfinished">zoom widget</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>

@@ -124,8 +124,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="36"/>
         <source>Save File...</source>
-        <translation>Datei speichern...
-</translation>
+        <translation type="unfinished">Datei speichern...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
@@ -143,8 +142,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="450"/>
         <source>The spell</source>
-        <translation>Der Zauber
-</translation>
+        <translation type="unfinished">Der Zauber</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
@@ -155,8 +153,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation>Verwenden Sie &quot;Hilfe&quot;, um eine Liste aller versteckten Funktionen zu sehen :)
-</translation>
+        <translation type="unfinished">Verwenden Sie &quot;Hilfe&quot;, um eine Liste aller versteckten Funktionen zu sehen :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
@@ -174,8 +171,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
         <source>Temperature changed</source>
-        <translation>Die Temperatur hat sich geändert
-</translation>
+        <translation>Die Temperatur hat sich geändert</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
@@ -220,8 +216,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
         <source>Gamma fixer enabled</source>
-        <translation>Gamma-Fixierer aktiviert
-</translation>
+        <translation type="unfinished">Gamma-Fixierer aktiviert</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
@@ -262,12 +257,12 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>Verbotene Animation des Symbols</translation>
+        <translation type="unfinished">Die Drehung des Fachsymbols ist deaktiviert</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>Das Tray-Symbol wird nicht gedreht, wenn Iris die Bildschirmfarben ändert. Diese Funktion zeigt an, wenn Iris mini die Farben wechselt und Ihr Bildschirm nicht kalibriert ist</translation>
+        <translation type="unfinished">Das Tray-Symbol wird nicht gedreht, wenn Iris die Bildschirmfarben ändert. Diese Funktion zeigt an, wenn Iris mini die Farben wechselt und Ihr Bildschirm nicht kalibriert ist</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
@@ -282,12 +277,12 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
         <source>Manual temperature disabled</source>
-        <translation>Verbotene manuelle Temperatureinstellung</translation>
+        <translation type="unfinished">Verbotene manuelle Temperatureinstellung</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation>Iris verwendet den ausgewählten Modus erneut für die Temperatur</translation>
+        <translation type="unfinished">Iris verwendet den ausgewählten Modus erneut für die Temperatur</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
@@ -297,7 +292,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation>Sie verwenden jetzt den Iris Mini Mixed-Modus</translation>
+        <translation type="unfinished">Sie verwenden jetzt den Iris Mini Mixed-modus</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
@@ -307,7 +302,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>Iris Mini verwendet den ausgewählten Modus erneut für die Helligkeit</translation>
+        <translation type="unfinished">Iris mini verwendet den ausgewählten Modus erneut für die Helligkeit</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -423,8 +418,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation>Der Iris Mini verwendet den von Ihnen eingegebenen Ort. Geben Sie Breiten- und Längengrad mit ausgeblendeten Funktionen an
-</translation>
+        <translation type="unfinished">Der Iris Mini verwendet den von Ihnen eingegebenen Ort. Geben Sie Breiten- und Längengrad mit ausgeblendeten Funktionen an</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
@@ -454,7 +448,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Iris Mini verwendet die automatische Nacht basierend auf dem Standort</translation>
+        <translation type="unfinished">Iris mini verwendet die automatische Nachtdauer basierend auf dem Standort. Der Standort wird zur Berechnung der Sonnenposition und der Dauer von Tag und Nacht verwendet</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -549,12 +543,12 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>Anwendungen</translation>
+        <translation type="unfinished">Widersprüchliche Anwendungen deaktiviert</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>Inkompatible Apps sind deaktiviert, um ein Flackern auf dem Bildschirm zu verhindern.</translation>
+        <translation type="unfinished">Widersprüchliche Anwendungen sind deaktiviert. Um keinen Flicker zu verursachen, werden Konflikte bei Anwendungen verhindert.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -564,7 +558,7 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>Tastaturhaken aktiviert</translation>
+        <translation type="unfinished">Tastaturhaken aktiviert. Sie können jetzt systemweite Verknüpfungen verwenden.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -602,12 +596,12 @@ Beachte bitte, dass Iris jetzt gut funktionieren wird, aber mit begrenzten Farbv
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">Datei öffnen...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">Iris Einstellungsdatei (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -627,7 +621,7 @@ Schaue Dir die neuen Optionen in der erweiterten Ansicht an.</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation>Danke, dass du Iris unterstützt hast! :)</translation>
+        <translation type="unfinished">Danke, dass du Iris unterstützt hast! :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
@@ -688,7 +682,8 @@ Schaue Dir die neuen Optionen in der erweiterten Ansicht an.</translation>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Das ist Iris und Dein Aktivierungscode ist für Iris mini. Lade Iris mini von Http://iristech.co/iris-mini</translation>
+        <translation type="unfinished">Das ist Iris und Dein Aktivierungscode ist für Iris mini. Lade Iris mini von
+ Http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="214"/>
@@ -701,13 +696,14 @@ Schaue Dir die neuen Optionen in der erweiterten Ansicht an.</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="228"/>
         <source>Team license code for Iris mini</source>
-        <translation>Team Lizenzcode für Iris mini</translation>
+        <translation type="unfinished">Team Lizenzcode für Iris mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Das ist Iris und die verbliebenen Team-Lizenzcodes sind für Iris mini. Lade Iris mini von Http://iristech.co/iris-mini</translation>
+        <translation type="unfinished">Das ist Iris und die verbliebenen Team-Lizenzcodes sind für Iris mini. Lade Iris mini von
+ Http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
@@ -776,7 +772,7 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Formular</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -1137,7 +1133,7 @@ Smart Inversion auf OSX ist CPU-intensiv und kann Ihren Computer stark verlangsa
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1248,7 +1244,7 @@ Smart Inversion auf OSX ist CPU-intensiv und kann Ihren Computer stark verlangsa
     <message>
         <location filename="../../src/translation/Translator.cpp" line="398"/>
         <source>IRIS_MODE</source>
-        <translation>Pausenmodus</translation>
+        <translation type="unfinished">modus</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="399"/>
@@ -2043,8 +2039,7 @@ Smart Inversion auf OSX ist CPU-intensiv und kann Ihren Computer stark verlangsa
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished">Abkürzungen
-Abkürzungen</translation>
+        <translation type="unfinished">Abkürzungen</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
@@ -2250,7 +2245,7 @@ Abkürzungen</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>UKRAINIAN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukrainisch</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="709"/>
@@ -2345,18 +2340,17 @@ Abkürzungen</translation>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>min</source>
-        <translation type="unfinished">Minute</translation>
+        <translation type="unfinished">minute</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>sec</source>
-        <translation type="unfinished">Sekunden</translation>
+        <translation type="unfinished">sekunden</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished">eingeschaltet
-</translation>
+        <translation type="unfinished">Eingeschaltet</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2830,12 +2824,12 @@ Abkürzungen</translation>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">Danke, dass du Iris unterstützt hast! :)</translation>
+        <translation type="unfinished">Stunden</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished">stunde</translation>
+        <translation>stunde</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
@@ -2880,12 +2874,12 @@ Abkürzungen</translation>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished">IrisProTrial wurde bereits verwendet.</translation>
+        <translation>IrisProTrial wurde bereits verwendet.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished">Sie haben die Testphase dieser Maschine bereits genutzt.</translation>
+        <translation>Sie haben die Testphase dieser Maschine bereits genutzt.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
@@ -2951,7 +2945,7 @@ Abkürzungen</translation>
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Erinnerungsbildschirm</translation>
+        <translation type="unfinished">Erinnerungsbildschirm blinken</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -3019,7 +3013,7 @@ Abkürzungen</translation>
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Warnung</translation>
+        <translation type="unfinished">Warnung!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
@@ -3043,7 +3037,7 @@ Abkürzungen</translation>
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation type="unfinished">Zoom-Widget</translation>
+        <translation type="unfinished">zoom-Widget</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>

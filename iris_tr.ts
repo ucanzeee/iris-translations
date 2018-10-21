@@ -164,7 +164,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation>Renk sıcaklığı için geçersiz bir değerdir. 0 ile 10,000 arasında sayıları kullanın.</translation>
+        <translation type="unfinished">renk sıcaklığı için geçersiz bir değerdir. 0 ile 10,000 arasında sayıları kullanın.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
@@ -176,8 +176,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
         <source>Color temperature changed to</source>
-        <translation>Renk sıcaklığı değişti
-</translation>
+        <translation type="unfinished">Renk sıcaklığı değişti</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
@@ -226,7 +225,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation>Start with start açık</translation>
+        <translation type="unfinished">İzin verilen önyükleyici başlangıç</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
@@ -256,13 +255,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>Simgenin yasaklı animasyonu</translation>
+        <translation type="unfinished">Tepsi simgesi dönüşü devre dışı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>Iris ekran renklerini değiştirdiğinde tepsi simgesi dönmeyecektir. Bu özellik, Iris mini&apos;nin renkleri değiştirdiğinde ve ekranınızın kalibre edilmediğini göstermek için kullanılır
-</translation>
+        <translation type="unfinished">Iris ekran renklerini değiştirdiğinde tepsi simgesi dönmeyecektir. Bu özellik, Iris mini&apos;nin renkleri değiştirdiğinde ve ekranınızın kalibre edilmediğini göstermek için kullanılır</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
@@ -282,7 +280,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation>İris, seçtiğiniz modu tekrar sıcaklık için kullanacaktır.</translation>
+        <translation type="unfinished">Iris, seçtiğiniz modu tekrar sıcaklık için kullanacaktır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
@@ -318,7 +316,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>İris, renk değişikliklerini bir monitöre uygulayamaz</translation>
+        <translation type="unfinished">Iris, renk değişikliklerini bir monitöre uygulayamaz</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -448,7 +446,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Iris mini, lokasyona göre otomatik gece kullanacaktır</translation>
+        <translation type="unfinished">Iris mini, lokasyona göre otomatik gece süresini kullanacaktır. Yer, Güneş pozisyonu ve gündüz ve gece süresini hesaplamak için kullanılır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -543,12 +541,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>uygulamaları</translation>
+        <translation type="unfinished">Çakışan başvurular devre dışı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>Uyumsuz uygulamalar ekranda titremeyi önlemek için devre dışı bırakılmıştır.</translation>
+        <translation type="unfinished">Çakışan uygulamalar devre dışı bırakıldı. Titremeye aykırı uygulamalara neden olmamak için devre dışı bırakılmıştır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -558,7 +556,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>Klavye Kanca etkin</translation>
+        <translation type="unfinished">Klavye Kancası etkin. Artık sistem çapında kısayollar kullanabilirsiniz.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -596,12 +594,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">Açık dosya...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">İris Ayarları Dosyası (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -744,7 +742,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="277"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation>. Belki internete bağlı değilsin</translation>
+        <translation type="unfinished">. Belki internete bağlı değilsin?</translation>
     </message>
 </context>
 <context>
@@ -768,7 +766,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Formulü</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -1128,7 +1126,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1274,7 +1272,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation>oyun</translation>
+        <translation type="unfinished">Yun</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1314,7 +1312,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished">görenek</translation>
+        <translation type="unfinished">Görenek</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1924,7 +1922,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">yakınlaştırma</translation>
+        <translation type="unfinished">Uzaklaştırmak</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -2114,7 +2112,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished">işlemci</translation>
+        <translation type="unfinished">Işlemci</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
@@ -2210,7 +2208,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished">yönlendirmek</translation>
+        <translation type="unfinished">Yönlendirmek</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
@@ -2220,7 +2218,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished">Arkadaşları davet etmek</translation>
+        <translation>Arkadaşları davet etmek</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
@@ -2345,7 +2343,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished">açık</translation>
+        <translation type="unfinished">Açık</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2700,7 +2698,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished">görenek</translation>
+        <translation type="unfinished">Görenek</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2889,8 +2887,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished">Iris deneme süresi askıya alındı
-</translation>
+        <translation type="unfinished">Iris deneme süresi askıya alındı</translation>
     </message>
 </context>
 <context>
@@ -3009,7 +3006,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">uyarı</translation>
+        <translation type="unfinished">Dikkat!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

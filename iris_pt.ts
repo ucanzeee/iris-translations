@@ -152,8 +152,7 @@ Observe que o Iris funcionará bem agora, mas com alterações de cor limitadas.
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation>Використовуйте &quot;довідку&quot;, щоб переглянути список усіх прихованих функцій :)
-</translation>
+        <translation type="unfinished">Use a &quot;ajuda&quot; para ver uma lista de todos os recursos ocultos :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
@@ -201,8 +200,7 @@ Observe que o Iris funcionará bem agora, mas com alterações de cor limitadas.
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
         <source>Brightness changed to</source>
-        <translation>Brilho alterado para
-</translation>
+        <translation type="unfinished">Brilho alterado para</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
@@ -237,8 +235,7 @@ Observe que o Iris funcionará bem agora, mas com alterações de cor limitadas.
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
         <source>Start at startup disabled</source>
-        <translation>Inicialização proibida ao carregar o sistema operacional
-</translation>
+        <translation type="unfinished">Inicialização proibida ao carregar o sistema operacional</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
@@ -258,7 +255,7 @@ Observe que o Iris funcionará bem agora, mas com alterações de cor limitadas.
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>Animação proibida do ícone</translation>
+        <translation type="unfinished">A rotação do ícone da bandeja está desativada</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
@@ -319,11 +316,7 @@ Observe que o Iris funcionará bem agora, mas com alterações de cor limitadas.
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>Iris não aplicará as alterações de cor em um monitor
-aplicará
-Synonyms of aplicar
-verb
-praticar, utilizar</translation>
+        <translation type="unfinished">Iris não aplicará as alterações de cor em um monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -383,7 +376,7 @@ praticar, utilizar</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation>A íris manterá sua calibração de cores. Pare e execute o Iris mini e o programa manterá suas cores ao longo do dia.</translation>
+        <translation type="unfinished">A Iris manterá sua calibração de cores. Pare e execute o Iris mini e o programa manterá suas cores ao longo do dia.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
@@ -393,7 +386,7 @@ praticar, utilizar</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation>A íris não manterá sua calibração de cores. O programa usará as configurações padrão do monitor</translation>
+        <translation type="unfinished">A Iris não manterá sua calibração de cores. O programa usará as configurações padrão do monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
@@ -423,7 +416,7 @@ praticar, utilizar</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation>O mini Iris vai usar o local que você entra. Especifique latitude e longitude usando recursos ocultos</translation>
+        <translation type="unfinished">O Iris mini  vai usar o local que você entra. Especifique latitude e longitude usando recursos ocultos</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
@@ -433,7 +426,7 @@ praticar, utilizar</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>O mini Iris utilizará uma localização automática para calcular a posição do sol e a duração da noite</translation>
+        <translation type="unfinished">O Iris mini utilizará uma localização automática para calcular a posição do sol e a duração da noite</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
@@ -453,7 +446,7 @@ praticar, utilizar</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Iris mini usará a noite automática com base na localização</translation>
+        <translation type="unfinished">O Iris mini utilizará a duração automática da noite com base na localização. O local é usado para calcular a posição do Sol e a duração do dia e da noite</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -498,14 +491,7 @@ praticar, utilizar</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="918"/>
         <source>Latitude changed</source>
-        <translation>Latitude alterada
-Latitude
-Translations of latitude
-noun
-latitude
-latitude, liberdade, amplitude, extensão, alcance, largueza
-height
-altura, auge, altitude, apogeu, elevação, latitude</translation>
+        <translation type="unfinished">Latitude alterada</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="919"/>
@@ -555,12 +541,12 @@ altura, auge, altitude, apogeu, elevação, latitude</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>aplicações</translation>
+        <translation type="unfinished">Aplicativos conflitantes desativados</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>호환되지 않는 앱은 화면의 깜박임을 방지하기 위해 비활성화됩니다.</translation>
+        <translation type="unfinished">Aplicativos conflitantes estão desativados. Para não causar conflitos, os aplicativos conflitantes são desativados.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -570,7 +556,7 @@ altura, auge, altitude, apogeu, elevação, latitude</translation>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>Gancho do teclado ativado</translation>
+        <translation type="unfinished">Gancho do teclado ativado. Agora você pode usar atalhos do sistema.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -608,12 +594,12 @@ altura, auge, altitude, apogeu, elevação, latitude</translation>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">Abrir arquivo...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">Arquivo de configurações da íris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -622,7 +608,7 @@ altura, auge, altitude, apogeu, elevação, latitude</translation>
         <location filename="../../src/licensing/License.cpp" line="135"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
-        <translation>Seu íris é agora Pro</translation>
+        <translation type="unfinished">Seu Iris é agora Pro</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -694,7 +680,7 @@ Veja suas novas opções na visualização avançada.</translation>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Esta é a Iris e seu código de ativação é para a mini Iris. Faça o download do Iris mini de
+        <translation type="unfinished">Esta é a Iris e seu código de ativação é para a Iris mini . Faça o download do Iris mini de
 Http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -780,7 +766,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Formular</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -996,7 +982,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2391"/>
         <source>Relaunch Iris</source>
-        <translation>Relançar a íris</translation>
+        <translation type="unfinished">Relançar a Iris </translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2392"/>
@@ -1140,7 +1126,7 @@ Inversão inteligente no OSX é intensivo da CPU e pode retardar muito o seu com
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1326,7 +1312,7 @@ Inversão inteligente no OSX é intensivo da CPU e pode retardar muito o seu com
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished">personalizadas</translation>
+        <translation type="unfinished">Personalizadas</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -2297,7 +2283,7 @@ Inversão inteligente no OSX é intensivo da CPU e pode retardar muito o seu com
     <message>
         <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>CONTINUE</source>
-        <translation></translation>
+        <translation type="unfinished">continuar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="727"/>
@@ -2712,7 +2698,7 @@ Inversão inteligente no OSX é intensivo da CPU e pode retardar muito o seu com
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished">personalizadas</translation>
+        <translation type="unfinished">Personalizadas</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2881,8 +2867,7 @@ Inversão inteligente no OSX é intensivo da CPU e pode retardar muito o seu com
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished">IrisProTrial já usado.
-</translation>
+        <translation type="unfinished">IrisProTrial já usado.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
@@ -3007,7 +2992,7 @@ Inversão inteligente no OSX é intensivo da CPU e pode retardar muito o seu com
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished">Atenção</translation>
+        <translation type="unfinished">Aviso</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
@@ -3021,7 +3006,7 @@ Inversão inteligente no OSX é intensivo da CPU e pode retardar muito o seu com
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Aviso</translation>
+        <translation type="unfinished">Aviso!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

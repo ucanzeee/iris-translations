@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation>आईरिस ने कम मूल्यों को सक्षम करने के लिए एक छोटा सा परिवर्तन किया। पूर्ण कार्यक्षमता अनलॉक करने के लिए आपको एक बार अपने पीसी को पुनरारंभ करने की आवश्यकता है</translation>
+        <translation type="unfinished">Iris&quot; ने कम मूल्यों को सक्षम करने के लिए एक छोटा सा परिवर्तन किया। पूर्ण कार्यक्षमता अनलॉक करने के लिए आपको एक बार अपने पीसी को पुनरारंभ करने की आवश्यकता है</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="274"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation>पूर्ण रंग रेंज अनलॉक करने के लिए अपने पीसी को पुनरारंभ करें आईरिस मिनी ठीक काम करेगा, लेकिन कुछ विकल्पों को धूसर हो सकता है।</translation>
+        <translation type="unfinished">पूर्ण रंग सीमा अनलॉक करने के लिए अपने पीसी को पुनरारंभ करें। &quot;Iris mini &quot; ठीक काम करेगा, लेकिन कुछ विकल्प ग्रे हो सकते हैं।</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="284"/>
@@ -100,8 +100,9 @@
         <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>आईरिस ने आपके सिस्टम पर कुछ बदलाव किए और पूर्ण कार्यक्षमता को अनलॉक करने के लिए पुनरारंभ की आवश्यकता है।
-ध्यान दें कि आईरिस ठीक काम करेगा, लेकिन सीमित रंग परिवर्तनों के साथ</translation>
+        <translation type="unfinished">Iris ने आपके सिस्टम पर कुछ बदलाव किए और पूर्ण कार्यक्षमता अनलॉक करने के लिए पुनरारंभ की आवश्यकता है।
+ध्यान दें कि Iris अब ठीक काम करेगा, लेकिन सीमित रंग परिवर्तन के साथ।
+</translation>
     </message>
 </context>
 <context>
@@ -152,8 +153,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation>सभी छिपी हुई सुविधाओं की सूची देखने के लिए &quot;सहायता&quot; का उपयोग करें :)
-</translation>
+        <translation type="unfinished">सभी छिपी हुई सुविधाओं की सूची देखने के लिए &quot;सहायता&quot; का उपयोग करें :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
@@ -242,7 +242,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation>जब आप अपने कंप्यूटर को चालू करते हैं तो आईरिस मिनी शुरू नहीं होगा</translation>
+        <translation type="unfinished">जब आप अपने कंप्यूटर को चालू करते हैं तो Iris mini शुरू नहीं होगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
@@ -252,17 +252,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>आईरिस स्क्रीन रंग बदल रहा है जब ट्रे आइकन घुमाएगा। यह दिखाने के लिए प्रयोग किया जाता है जब आईरिस मिनी रंग बदल रहा है और आपकी स्क्रीन कैलिब्रेटेड नहीं है</translation>
+        <translation type="unfinished">Iris स्क्रीन रंग बदल रहा है जब ट्रे आइकन घुमाएगा। इसका उपयोग यह दिखाने के लिए किया जाता है कि Iris mini  रंग बदल रहा है और आपकी स्क्रीन कैलिब्रेटेड नहीं है</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>आइकन की निषिद्ध एनीमेशन</translation>
+        <translation type="unfinished">ट्रे आइकन रोटेशन अक्षम है</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>आईरिस स्क्रीन रंग बदल रहा है जब ट्रे आइकन घुमाएगा नहीं। यह सुविधा यह दिखाने के लिए प्रयोग की जाती है कि आईरिस मिनी रंग बदल रहा है और आपकी स्क्रीन कैलिब्रेटेड नहीं है
+        <translation type="unfinished">Iris स्क्रीन रंग बदल रहा है, जब ट्रे आइकन घुमाएगा यह दिखाने के लिए प्रयोग किया जाता है कि Iris mini &quot; रंग बदल रहा है और आपकी स्क्रीन कैलिब्रेटेड नहीं है
 </translation>
     </message>
     <message>
@@ -283,7 +283,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation>आईरिस फिर से तापमान के लिए आपके चयनित मोड का उपयोग करेगा</translation>
+        <translation type="unfinished">Iris  आपके चयनित मोड का तापमान फिर से उपयोग करेगा
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
@@ -293,7 +294,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation>अब आप आईरिस मिनी मिश्रित मोड का उपयोग कर रहे हैं</translation>
+        <translation type="unfinished">अब आप Iris mini &quot;मिश्रित मोड का उपयोग कर रहे हैं</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
@@ -303,7 +304,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>आईरिस मिनी फिर से चमक के लिए आपके चुने हुए मोड का उपयोग करेगा</translation>
+        <translation type="unfinished">Iris mini आईरिस मिनी&apos; चमक के लिए आपके चुने हुए मोड का उपयोग करेगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -319,7 +320,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>आईरिस मॉनिटर में रंग परिवर्तन लागू नहीं करेगा</translation>
+        <translation type="unfinished">Iris मॉनिटर में रंग परिवर्तन लागू नहीं करेगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -379,7 +380,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation>आईरिस आपके रंग अंशांकन रखेगा। आईरिस मिनी को रोकें और चलाएं और कार्यक्रम पूरे दिन आपके रंग रखेगा।</translation>
+        <translation type="unfinished">Iris  अब से आपके रंग अंशांकन का सम्मान करेगा। बंद करें और Iris mini मिनी फिर से शुरू करें और यह दिन के दौरान आपके रंगों को संरक्षित रखेगा
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
@@ -389,7 +391,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation>आईरिस आपके रंग अंशांकन नहीं रखेगा। कार्यक्रम डिफ़ॉल्ट मॉनीटर सेटिंग्स का उपयोग करेगा</translation>
+        <translation type="unfinished">Iris  अब से आपके रंग अंशांकन का सम्मान नहीं करेंगे। यह इसके बजाय डिफ़ॉल्ट मॉनिटर सेटिंग्स का उपयोग करेगा
+</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
@@ -419,7 +422,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation>आईरिस मिनी आपके द्वारा दर्ज किए गए स्थान का उपयोग करेगा। छिपी हुई सुविधाओं का उपयोग करके अक्षांश और देशांतर निर्दिष्ट करें</translation>
+        <translation type="unfinished">Iris mini  will use your manual location. Set latitude and longitude with the hidden features</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
@@ -429,7 +432,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>आईरिस मिनी सूर्य की स्थिति और रात की अवधि की गणना करने के लिए एक स्वचालित स्थान का उपयोग करेगा</translation>
+        <translation type="unfinished">Iris mini स्वचालित स्थान का उपयोग करेंगे। स्थान का उपयोग सूर्य की स्थिति और दिन और रात की अवधि की गणना के लिए किया जाता है</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
@@ -439,7 +442,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation>आईरिस मिनी आपके द्वारा दर्ज की गई रात की अवधि का उपयोग करेगा। छिपा कार्यों के साथ शुरू और अंत सेट करें</translation>
+        <translation type="unfinished">Iris mini मैन्युअल रात की अवधि का उपयोग करेगा। छिपी हुई सुविधाओं के साथ प्रारंभ और समाप्ति समय सेट करें</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
@@ -449,7 +452,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>आईरिस मिनी स्थान के आधार पर स्वचालित रात का उपयोग करेगा</translation>
+        <translation type="unfinished">Iris mini स्थान के आधार पर स्वचालित रात की अवधि का उपयोग करेगा। स्थान का उपयोग सूर्य की स्थिति और दिन और रात की अवधि की गणना के लिए किया जाता है</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -539,18 +542,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
-        <translation>असंगत ऐप्स की अनुमति है, और आप अन्य रंगों का भी उपयोग कर सकते हैं जो स्क्रीन रंग बदलते हैं।
-</translation>
+        <translation type="unfinished">असंगत ऐप्स की अनुमति है, और आप अन्य रंगों का भी उपयोग कर सकते हैं जो स्क्रीन रंग बदलते हैं।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>अनुप्रयोगों</translation>
+        <translation type="unfinished">विवादित अनुप्रयोग अक्षम</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>स्क्रीन पर झिलमिलाहट रोकने के लिए असंगत ऐप्स अक्षम हैं।</translation>
+        <translation type="unfinished">विवादित अनुप्रयोग अक्षम हैं। झिलमिलाहट विरोधी अनुप्रयोगों को अक्षम करने के लिए अक्षम नहीं हैं।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -560,7 +562,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>कीबोर्ड हुक सक्षम</translation>
+        <translation type="unfinished">कीबोर्ड हुक सक्षम। अब आप सिस्टम-व्यापी शॉर्टकट का उपयोग कर सकते हैं।</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -580,7 +582,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation>जब आपकी परीक्षण अवधि समाप्त हो जाती है तो आईरिस आपको याद दिलाएगा</translation>
+        <translation type="unfinished">आपका परीक्षण समाप्त होने पर Iris &quot; आपको याद दिलाएगा</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
@@ -590,7 +592,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation>आईरिस आपको और याद दिलाएगा कि आपकी परीक्षण अवधि समाप्त हो गई है</translation>
+        <translation type="unfinished">जब आपका परीक्षण समाप्त हो जाता है तो Iris आपको याद दिलाएगा</translation>
     </message>
 </context>
 <context>
@@ -598,12 +600,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">खुली फाइल...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">आईरिस सेटिंग्स फ़ाइल (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -612,7 +614,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="135"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
-        <translation>आपका आईरिस अब प्रो है</translation>
+        <translation type="unfinished">आपका Iris अब pro है</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -623,7 +625,7 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="137"/>
         <source>Thank you very much for supporting Iris! :)</source>
-        <translation>आईरिस का समर्थन करने के लिए बहुत बहुत धन्यवाद! :)</translation>
+        <translation type="unfinished">Iris  का समर्थन करने के लिए बहुत बहुत धन्यवाद! :)</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="149"/>
@@ -633,7 +635,8 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../../src/licensing/License.cpp" line="150"/>
         <source>Your Iris Pro license has expired. You can buy new activation code from</source>
-        <translation>आपका आईरिस प्रो लाइसेंस समाप्त हो गया है। आप से नया सक्रियण कोड खरीद सकते हैं</translation>
+        <translation type="unfinished">Iris ने आपके सिस्टम पर कुछ बदलाव किए और पूर्ण कार्यक्षमता अनलॉक करने के लिए पुनरारंभ की आवश्यकता है।
+ध्यान दें कि Iris Pro  अब ठीक काम करेगा, लेकिन सीमित रंग परिवर्तन के साथ।</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="162"/>
@@ -684,28 +687,28 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>यह आईरिस है और आपका सक्रियण कोड आईरिस मिनी के लिए है। से आईरिस मिनी डाउनलोड करें
-Http://iristech.co/iris-mini</translation>
+        <translation type="unfinished">यह Iris है और आपका सक्रियण कोड Iris mini के लिए है। से Iris mini डाउनलोड करें
+http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="214"/>
         <location filename="../../src/licensing/License.cpp" line="216"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation>टीम लाइसेंस सक्रियण आईरिस के समर्थन के लिए बहुत बहुत धन्यवाद! :)
-उन्नत दृश्य में अपने नए विकल्प देखें</translation>
+        <translation type="unfinished">टीम लाइसेंस सक्रियण। Iris का समर्थन करने के लिए बहुत बहुत धन्यवाद! :)
+उन्नत दृश्य में अपने नए विकल्प देखें।</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="228"/>
         <source>Team license code for Iris mini</source>
-        <translation>आईरिस मिनी के लिए टीम लाइसेंस कोड</translation>
+        <translation type="unfinished">Iris mini  के लिए टीम लाइसेंस कोड</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>यह आईरिस है और शेष टीम लाइसेंस कोड आईरिस मिनी के लिए हैं से आईरिस मिनी डाउनलोड करें
-Http://iristech.co/iris-mini</translation>
+        <translation type="unfinished">यह Iris  है और शेष टीम लाइसेंस कोड Iris mini के लिए हैं। से Iris mini डाउनलोड करें
+http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
@@ -736,7 +739,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="260"/>
         <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>आपका आईरिस अब प्रो है उन्नत दृश्य में अपने नए विकल्प देखें</translation>
+        <translation type="unfinished">आपका Iris अब Pro है। उन्नत दृश्य में अपने नए विकल्प देखें।</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
@@ -770,7 +773,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">फ़ॉर्म्यूलर</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -981,12 +984,12 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="1817"/>
         <source>You need Iris Pro to access this section.</source>
-        <translation>इस खंड का उपयोग करने के लिए आपको आईरिस प्रो की आवश्यकता है</translation>
+        <translation type="unfinished">आपको चाहिए Iris Pro  इस सेक्शन तक पहुंचने के लिए।</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2391"/>
         <source>Relaunch Iris</source>
-        <translation>रीलाँच आईरिस</translation>
+        <translation type="unfinished">&quot;Iris &quot; पुनः लॉन्च करें</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2392"/>
@@ -1013,7 +1016,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../src/MainWindow.cpp" line="2412"/>
         <location filename="../../src/MainWindow.cpp" line="2476"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation>आईरिस ने आपके सिस्टम में कुछ बदलाव किए और परिवर्तनों को प्रभावी बनाने के लिए पुनरारंभ आवश्यक है</translation>
+        <translation type="unfinished">Iris  ने आपके सिस्टम पर कुछ बदलाव किए हैं और बदलावों को प्रभावी होने के लिए पुनरारंभ करना आवश्यक है।</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="3982"/>
@@ -1130,7 +1133,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1228,7 +1231,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="192"/>
         <source> until rest</source>
-        <translation></translation>
+        <translation type="unfinished">बाकी तक</translation>
     </message>
     <message>
         <location filename="../../ui/components/TaskbarButton.cpp" line="206"/>
@@ -1926,8 +1929,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">ज़ूम:
-</translation>
+        <translation type="unfinished">ज़ूम आउट</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -2554,7 +2556,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>GET_IRIS_PRO</source>
-        <translation>आईरिस प्रो प्राप्त करें</translation>
+        <translation type="unfinished">Iris Pro  प्राप्त करें</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="689"/>
@@ -2763,7 +2765,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="152"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="674"/>
         <source>&amp;Overlay</source>
-        <translation>ओवरले</translation>
+        <translation type="unfinished">ओवरले</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="214"/>
@@ -2822,7 +2824,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">आईरिस का समर्थन करने के लिए धन्यवाद! :)</translation>
+        <translation type="unfinished">घंटा</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
@@ -2847,13 +2849,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished">ट्रायल समाप्त
-</translation>
+        <translation type="unfinished">ट्रायल समाप्त</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished">आईरिस प्रो के लिए आपकी परीक्षण अवधि समाप्त हो गई है</translation>
+        <translation type="unfinished">आपका Iris Pro  परीक्षण समाप्त हो गया है</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
@@ -2868,7 +2869,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation>पहले से ही इस्तेमाल किया हुआ</translation>
+        <translation type="unfinished">पहले से ही इस्तेमाल किया हुआ</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
@@ -2925,12 +2926,12 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation>आईरिस प्रो परीक्षण कल समाप्त हो जाता है</translation>
+        <translation type="unfinished">Iris Pro परीक्षण कल समाप्त हो जाता है</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation>आईरिस प्रो की परीक्षण अवधि समाप्त हो जाती है</translation>
+        <translation type="unfinished">Iris Pro  परीक्षण समाप्त हो गया</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
@@ -2998,7 +2999,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished">ध्यान</translation>
+        <translation type="unfinished">चेतावनी</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
@@ -3012,7 +3013,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">चेतावनी</translation>
+        <translation type="unfinished">चेतावनी!!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

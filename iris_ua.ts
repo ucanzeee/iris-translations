@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation>Ірис зробив невелику зміну, щоб зробити нижчі значення. Вам потрібно буде перезавантажити комп&apos;ютер один раз, щоб розблокувати повну функціональність</translation>
+        <translation type="unfinished">Iris зробив невелику зміну, щоб зробити нижчі значення. Вам потрібно буде перезавантажити комп&apos;ютер один раз, щоб розблокувати повну функціональність</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -84,7 +84,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="274"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation>Перезавантажте комп&apos;ютер, щоб розблокувати повний колірний діапазон. Ірис міні буде працювати добре, але деякі параметри можуть бути неактивними.</translation>
+        <translation type="unfinished">Перезавантажте комп&apos;ютер, щоб розблокувати повний колірний діапазон. Iris mini  буде працювати добре, але деякі параметри можуть бути неактивними.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="284"/>
@@ -100,8 +100,8 @@
         <location filename="../cyclops/Cyclops.cpp" line="338"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation>Ірис внесла деякі зміни у вашу систему, і для розблокування повної функціональності потрібна перезавантаження.
-Зверніть увагу, що Ірис буде добре працювати зараз, але з обмеженими змінами кольору.</translation>
+        <translation type="unfinished">Іris внесла деякі зміни у вашу систему, і для розблокування повної функціональності потрібна перезавантаження.
+Зверніть увагу, що Іris буде добре працювати зараз, але з обмеженими змінами кольору.</translation>
     </message>
 </context>
 <context>
@@ -170,8 +170,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
         <source>Temperature changed</source>
-        <translation>Температура змінилася
-</translation>
+        <translation type="unfinished">Температура змінилася</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
@@ -226,12 +225,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation>Почати з запуску ввімкнено</translation>
+        <translation type="unfinished">Дозволений запуск завантажувача</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation>Ірис міні стартує, коли ви включаєте ваш комп&apos;ютер</translation>
+        <translation type="unfinished">Ірис mini стартує, коли ви включаєте ваш комп&apos;ютер</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
@@ -241,8 +240,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation>Ірис міні не запускається, коли ви вмикаєте свій комп&apos;ютер
-</translation>
+        <translation type="unfinished">Ірис mini не запускається, коли ви вмикаєте свій комп&apos;ютер</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
@@ -257,12 +255,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>Заборонена анімація піктограми</translation>
+        <translation type="unfinished">Обертання значка лотка відключено</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation>Піктограма лотка не обертається, коли Ірис змінює кольори екрана. Ця функція використовується для показу, коли Iris mini змінює кольори, а екран не відкалібрований</translation>
+        <translation type="unfinished">Піктограма лотка не обертається, коли Іris змінює кольори екрана. Ця функція використовується для показу, коли Iris mini змінює кольори, а екран не відкалібрований</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
@@ -282,7 +280,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation>Ірис знову використовуватиме ваш вибраний режим для температури</translation>
+        <translation type="unfinished">Іris  знову використовуватиме ваш вибраний режим для температури</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
@@ -302,7 +300,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>Ірис міні буде використовувати ваш вибраний режим для яскравості знову</translation>
+        <translation type="unfinished">Iris  mini  буде використовувати ваш вибраний режим для яскравості знову</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
@@ -318,7 +316,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>Ірис не застосує зміни кольору на моніторі</translation>
+        <translation type="unfinished">Iris  не застосує зміни кольору на моніторі</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -328,7 +326,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation>Ірис застосує зміни кольору для монітора</translation>
+        <translation type="unfinished">Іris застосує зміни кольору для монітора</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
@@ -378,7 +376,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation>Ірис продовжуватиме калібрувати кольори. Зупиніть і запустіть Iris mini, і програма буде зберігати ваші кольори протягом усього дня.</translation>
+        <translation type="unfinished">Іris  продовжуватиме калібрувати кольори. Зупиніть і запустіть Iris mini, і програма буде зберігати ваші кольори протягом усього дня.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
@@ -388,7 +386,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation>Ірис не буде зберігати вашу кольорову калібрування. Програма буде використовувати налаштування монітора за замовчуванням</translation>
+        <translation type="unfinished">Іris  не буде зберігати вашу кольорову калібрування. Програма буде використовувати налаштування монітора за замовчуванням</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
@@ -428,8 +426,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Мініатюра Іris використовуватиме автоматичне розташування для розрахунку положення сонця та тривалості ночі
-</translation>
+        <translation type="unfinished"> Іris mini  використовуватиме автоматичне розташування для розрахунку положення сонця та тривалості ночі</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
@@ -439,7 +436,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation>Ірис міні буде використовувати тривалість вночі. Встановіть початок і кінець, використовуючи приховані функції</translation>
+        <translation type="unfinished">Іris  mini  буде використовувати тривалість вночі. Встановіть початок і кінець, використовуючи приховані функції</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
@@ -449,7 +446,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Ірис міні буде використовувати автоматичний нічний час залежно від місцезнаходження</translation>
+        <translation type="unfinished">Iris  mini  буде використовувати автоматичну нічну тривалість залежно від місця розташування. Місце використовується для розрахунку позиції Сонця та тривалості дня та ночі</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -529,8 +526,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation>Курсор не застосовуватиме зміни кольору. Якщо вам не подобається яскравий синій курсор вночі, дозвольте програмному курсору застосувати до нього зміни кольору.
-Kursor ne zastosovuvatyme zminy kolʹoru. Yakshcho vam ne podobayetʹsya yaskravyy syniy kursor vnochi, dozvolʹte prohramnomu kursoru zastosuvaty do nʹoho zminy kolʹoru.</translation>
+        <translation type="unfinished">Курсор не застосовуватиме зміни кольору. Якщо вам не подобається яскравий синій курсор вночі, дозвольте програмному курсору застосувати до нього зміни кольору.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
@@ -545,12 +541,12 @@ Kursor ne zastosovuvatyme zminy kolʹoru. Yakshcho vam ne podobayetʹsya yaskrav
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>заявки</translation>
+        <translation type="unfinished">Конфліктні програми відключені</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>Несумісні додатки відключені, щоб запобігти мерехтінню на екрані.</translation>
+        <translation type="unfinished">Конфліктні програми відключені. Щоб не викликати мерехтіння конфліктуючих програм, вимкнено.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -560,7 +556,7 @@ Kursor ne zastosovuvatyme zminy kolʹoru. Yakshcho vam ne podobayetʹsya yaskrav
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>Кнопка клавіатури увімкнена</translation>
+        <translation type="unfinished">Кнопка клавіатури увімкнена. Тепер ви можете використовувати загальносистемні ярлики.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -580,7 +576,7 @@ Kursor ne zastosovuvatyme zminy kolʹoru. Yakshcho vam ne podobayetʹsya yaskrav
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation>Ірис нагадуватиме вам, коли пробний період закінчиться</translation>
+        <translation type="unfinished">Iris  нагадуватиме вам, коли пробний період закінчиться</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
@@ -590,7 +586,7 @@ Kursor ne zastosovuvatyme zminy kolʹoru. Yakshcho vam ne podobayetʹsya yaskrav
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation>Ірис більше не нагадає вам про те, що ваш пробний період закінчився</translation>
+        <translation type="unfinished">Іris  більше не нагадає вам про те, що ваш пробний період закінчився</translation>
     </message>
 </context>
 <context>
@@ -598,12 +594,12 @@ Kursor ne zastosovuvatyme zminy kolʹoru. Yakshcho vam ne podobayetʹsya yaskrav
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">Відкрити файл...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">Файл налаштувань Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -704,7 +700,7 @@ See your new options in the advanced view.</source>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Це ірис, а коди ліцензій Команди залишаються для Iris mini. Завантажити Ірис міні з
+        <translation type="unfinished">Це &quot;, а коди ліцензій Команди належать до &quot;Iris mini&quot;. Завантажити Iris mini від
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -736,7 +732,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="260"/>
         <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>Ваша Ірис зараз Pro. Перегляньте нові параметри у розширеному перегляді.</translation>
+        <translation type="unfinished">Ваша Іris зараз Pro. Перегляньте нові параметри у розширеному перегляді.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
@@ -770,7 +766,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Формуляр</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -986,12 +982,12 @@ http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2391"/>
         <source>Relaunch Iris</source>
-        <translation>Перезапустити Ірису</translation>
+        <translation type="unfinished">Перезапустити Іris </translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2392"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation>Вам потрібно відновити ірис, щоб зміни вступили в силу.</translation>
+        <translation type="unfinished">Вам потрібно відновити Iris , щоб зміни вступили в силу.</translation>
     </message>
     <message>
         <location filename="../../src/MainWindow.cpp" line="2394"/>
@@ -1130,7 +1126,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1220,7 +1216,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../batman/SolarPosition.cpp" line="756"/>
         <source>hours</source>
-        <translation>годин</translation>
+        <translation type="unfinished">годинa</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1272,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished">Ігри</translation>
+        <translation type="unfinished">Игри</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1961,7 +1957,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">Відстань:</translation>
+        <translation type="unfinished">Зменшення</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -2142,7 +2138,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished">Вихід</translation>
+        <translation type="unfinished">кинути</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
@@ -2288,7 +2284,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>NIGHT_DIM</source>
-        <translation>Нічний Дим</translation>
+        <translation type="unfinished">Нічний дим</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="648"/>
@@ -2658,7 +2654,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished">включено</translation>
+        <translation type="unfinished">Включено</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2904,8 +2900,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation>Тривалість випробувального періоду Iris Pro закінчується сьогодні
-Iris Pro Trial expires today</translation>
+        <translation type="unfinished">Тривалість випробувального періоду Iris Pro закінчується сьогодні</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
@@ -2924,7 +2919,7 @@ Iris Pro Trial expires today</translation>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation>Ірис Pro Trial закінчується завтра</translation>
+        <translation type="unfinished">Іris  Pro Trial закінчується завтра</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
@@ -3011,7 +3006,7 @@ Iris Pro Trial expires today</translation>
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Попередження</translation>
+        <translation type="unfinished">Увага!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>

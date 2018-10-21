@@ -603,7 +603,8 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">Файл с настройки за Iris (* .iris_settings * .iris)
+</translation>
     </message>
 </context>
 <context>
@@ -1306,7 +1307,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="412"/>
         <source>MOVIE_MODE</source>
-        <translation>Гледане на филм</translation>
+        <translation type="unfinished">гледане на филм</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="413"/>
@@ -2347,7 +2348,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation>ДА</translation>
+        <translation type="unfinished">ДА</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2362,7 +2363,7 @@ Smart inversion on OSX is CPU intensive and may slow down your computer a lot. U
     <message>
         <location filename="../../src/translation/Translator.cpp" line="618"/>
         <source>ADVANCED_HARDWARE</source>
-        <translation>Хардуер</translation>
+        <translation type="unfinished">Хардуер</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="619"/>

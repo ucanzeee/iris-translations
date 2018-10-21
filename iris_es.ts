@@ -154,8 +154,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation>Use &quot;ayuda&quot; para ver una lista de todas las características ocultas :)
-</translation>
+        <translation type="unfinished">Use &quot;ayuda&quot; para ver una lista de todas las características ocultas :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
@@ -167,7 +166,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation>Es un valor inválido para la temperatura de color. Usa números entre 0 y 10,000.</translation>
+        <translation type="unfinished">es un valor inválido para la temperatura de color. Usa números entre 0 y 10 000.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
@@ -258,7 +257,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation>Prohibida la animación del icono.</translation>
+        <translation type="unfinished">La rotación del icono de la bandeja está desactivada</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
@@ -449,7 +448,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Iris mini utilizará la noche automática según la ubicación</translation>
+        <translation type="unfinished">Iris mini utilizará la duración automática de la noche según la ubicación. La ubicación se utiliza para calcular la posición del sol y la duración del día y la noche.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -544,12 +543,12 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation>aplicaciones</translation>
+        <translation type="unfinished">Aplicaciones conflictivas deshabilitadas</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>Las aplicaciones incompatibles están deshabilitadas para evitar el parpadeo en la pantalla.</translation>
+        <translation type="unfinished">Las aplicaciones conflictivas están deshabilitadas. Para no causar parpadeo, las aplicaciones en conflicto están deshabilitadas.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -559,12 +558,12 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation>Gancho para teclado habilitado</translation>
+        <translation type="unfinished">Gancho para teclado habilitado. Ahora puede utilizar los accesos directos de todo el sistema.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation>Gancho para teclado desactivado</translation>
+        <translation type="unfinished">Gancho para teclado desactivado</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
@@ -597,12 +596,12 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation></translation>
+        <translation type="unfinished">Abrir documento...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation></translation>
+        <translation type="unfinished">Archivo de configuración de Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -769,7 +768,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation></translation>
+        <translation type="unfinished">Formulario</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -1129,7 +1128,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation></translation>
+        <translation type="unfinished">Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1925,7 +1924,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">Distancia</translation>
+        <translation type="unfinished">Disminuir el zoom</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -2266,7 +2265,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
         <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished">Información de debg</translation>
+        <translation type="unfinished">Información de depuración</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="723"/>
@@ -2346,7 +2345,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>ON</source>
-        <translation type="unfinished">encendido</translation>
+        <translation type="unfinished">Encendido</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
@@ -2821,7 +2820,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">¡Gracias por apoyar a Iris! :)</translation>
+        <translation type="unfinished">hora</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
@@ -2866,7 +2865,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation>Ya usado</translation>
+        <translation type="unfinished">Ya usado</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
@@ -3010,7 +3009,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Advertencia</translation>
+        <translation type="unfinished">Advertencia!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
