@@ -129,7 +129,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished">İris Ayarları Dosyası (* .iris_settings * .iris)</translation>
+        <translation>İris Ayarları Dosyası (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -164,7 +164,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation type="unfinished">renk sıcaklığı için geçersiz bir değerdir. 0 ile 10,000 arasında sayıları kullanın.</translation>
+        <translation>renk sıcaklığı için geçersiz bir değerdir. 0 ile 10,000 arasında sayıları kullanın.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
@@ -176,7 +176,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
         <source>Color temperature changed to</source>
-        <translation type="unfinished">Renk sıcaklığı değişti</translation>
+        <translation>Renk sıcaklığı değişti</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
@@ -225,7 +225,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation type="unfinished">İzin verilen önyükleyici başlangıç</translation>
+        <translation>İzin verilen önyükleyici başlangıç</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
@@ -255,12 +255,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished">Tepsi simgesi dönüşü devre dışı</translation>
+        <translation>Tepsi simgesi dönüşü devre dışı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished">Iris ekran renklerini değiştirdiğinde tepsi simgesi dönmeyecektir. Bu özellik, Iris mini&apos;nin renkleri değiştirdiğinde ve ekranınızın kalibre edilmediğini göstermek için kullanılır</translation>
+        <translation>Iris ekran renklerini değiştirdiğinde tepsi simgesi dönmeyecektir. Bu özellik, Iris mini&apos;nin renkleri değiştirdiğinde ve ekranınızın kalibre edilmediğini göstermek için kullanılır</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
@@ -280,7 +280,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation type="unfinished">Iris, seçtiğiniz modu tekrar sıcaklık için kullanacaktır.</translation>
+        <translation>Iris, seçtiğiniz modu tekrar sıcaklık için kullanacaktır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
@@ -316,7 +316,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation type="unfinished">Iris, renk değişikliklerini bir monitöre uygulayamaz</translation>
+        <translation>Iris, renk değişikliklerini bir monitöre uygulayamaz</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
@@ -446,7 +446,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished">Iris mini, lokasyona göre otomatik gece süresini kullanacaktır. Yer, Güneş pozisyonu ve gündüz ve gece süresini hesaplamak için kullanılır.</translation>
+        <translation>Iris mini, lokasyona göre otomatik gece süresini kullanacaktır. Yer, Güneş pozisyonu ve gündüz ve gece süresini hesaplamak için kullanılır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -541,12 +541,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished">Çakışan başvurular devre dışı</translation>
+        <translation>Çakışan başvurular devre dışı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation type="unfinished">Çakışan uygulamalar devre dışı bırakıldı. Titremeye aykırı uygulamalara neden olmamak için devre dışı bırakılmıştır.</translation>
+        <translation>Çakışan uygulamalar devre dışı bırakıldı. Titremeye aykırı uygulamalara neden olmamak için devre dışı bırakılmıştır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -556,7 +556,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation type="unfinished">Klavye Kancası etkin. Artık sistem çapında kısayollar kullanabilirsiniz.</translation>
+        <translation>Klavye Kancası etkin. Artık sistem çapında kısayollar kullanabilirsiniz.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
@@ -594,12 +594,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation type="unfinished">Açık dosya...</translation>
+        <translation>Açık dosya...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished">İris Ayarları Dosyası (* .iris_settings * .iris)</translation>
+        <translation>İris Ayarları Dosyası (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -742,7 +742,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="277"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation type="unfinished">. Belki internete bağlı değilsin?</translation>
+        <translation>. Belki internete bağlı değilsin?</translation>
     </message>
 </context>
 <context>
@@ -766,7 +766,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation type="unfinished">Formulü</translation>
+        <translation>Formulü</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -970,54 +970,54 @@ Http://iristech.co/iris-mini</translation>
         <translation>Geçerli ayın ofseti</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1816"/>
+        <location filename="../../src/MainWindow.cpp" line="1818"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro gerekli</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1817"/>
+        <location filename="../../src/MainWindow.cpp" line="1819"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>Bu bölüme erişmek için Iris Pro&apos;ya ihtiyacınız var.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2391"/>
+        <location filename="../../src/MainWindow.cpp" line="2393"/>
         <source>Relaunch Iris</source>
         <translation>Iris&apos;i yeniden başlat</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2392"/>
+        <location filename="../../src/MainWindow.cpp" line="2394"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>Değişikliklerin yürürlüğe girmesi için İris&apos;i yeniden başlatmanız gerekir.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2394"/>
+        <location filename="../../src/MainWindow.cpp" line="2396"/>
         <source>Relaunch now</source>
         <translation>Şimdi tekrar başlat</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2395"/>
+        <location filename="../../src/MainWindow.cpp" line="2397"/>
         <source>Later</source>
         <translation>Sonra</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2411"/>
-        <location filename="../../src/MainWindow.cpp" line="2476"/>
+        <location filename="../../src/MainWindow.cpp" line="2413"/>
+        <location filename="../../src/MainWindow.cpp" line="2478"/>
         <source>Restart is needed</source>
         <translation>Yeniden başlatma gerekiyor</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2412"/>
-        <location filename="../../src/MainWindow.cpp" line="2476"/>
+        <location filename="../../src/MainWindow.cpp" line="2414"/>
+        <location filename="../../src/MainWindow.cpp" line="2478"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris sisteminizde bazı değişiklikler yaptı ve değişikliklerin etkili olması için yeniden başlatma gerekiyor.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3982"/>
+        <location filename="../../src/MainWindow.cpp" line="3992"/>
         <source>WARNING!!!</source>
         <translation>UYARI!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3983"/>
+        <location filename="../../src/MainWindow.cpp" line="3993"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1126,7 +1126,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation type="unfinished">Iris</translation>
+        <translation>Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1272,7 +1272,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished">Yun</translation>
+        <translation>Oyun</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1312,7 +1312,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished">Görenek</translation>
+        <translation>Görenek</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1322,7 +1322,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>ACTIVATE_CODE</source>
         <translation>Kodu etkinleştir</translation>
     </message>
@@ -1579,7 +1579,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished">Geçişlerin önizlemesi</translation>
+        <translation>Geçişlerin önizlemesi</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
@@ -1619,12 +1619,12 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished">Doyma</translation>
+        <translation>Doyma</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished">doyma</translation>
+        <translation>Doyma</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -1704,7 +1704,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>USE_PER_MONITOR_SETTINGS</source>
-        <translation type="unfinished">Bireysel Ayarlar</translation>
+        <translation>Bireysel Ayarlar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="521"/>
@@ -1912,17 +1912,17 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished">Klavye kısayolları</translation>
+        <translation>Klavye kısayolları</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished">Yakınlaştır</translation>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">Uzaklaştırmak</translation>
+        <translation>Uzaklaştırmak</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -1952,7 +1952,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished">için</translation>
+        <translation>için</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -2032,102 +2032,102 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished">Kısayollar</translation>
+        <translation>Kısayollar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished">fonksiyon</translation>
+        <translation>Fonksiyon</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished">Sıcaklığı Artır</translation>
+        <translation>Sıcaklığı Artır</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished">Sıcaklığı Azalt</translation>
+        <translation>Sıcaklığı Azalt</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished">Parlaklığı Artır</translation>
+        <translation>Parlaklığı Artır</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished">Parlaklığı Azalt</translation>
+        <translation>Parlaklığı Azalt</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Yer Paylaşımlı Ekranı Başlat</translation>
+        <translation>Yer Paylaşımlı Ekranı Başlat</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Katman Ekranını Durdur</translation>
+        <translation>Katman Ekranını Durdur</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished">Renk Efektlerini Kullan</translation>
+        <translation>Renk Efektlerini Kullan</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished">Iris&apos;in Duraklatması / Başlatılması</translation>
+        <translation>Iris&apos;in Duraklatması / Başlatılması</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished">Manuel / Otomatik Geçiş</translation>
+        <translation>Manuel / Otomatik Geçiş</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished">Dinlenmeye Başla</translation>
+        <translation>Dinlenmeye Başla</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished">Duraklat / Zamanlayıcıyı Durdur</translation>
+        <translation>Duraklat / Zamanlayıcıyı Durdur</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished">çıkış</translation>
+        <translation>çıkış</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished">Kısayol</translation>
+        <translation>Kısayol</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished">Kısayollar</translation>
+        <translation>Kısayollar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished">Işlemci</translation>
+        <translation>Işlemci</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished">Kullanıcı arayüzü oluşturmayı optimize et</translation>
+        <translation>Kullanıcı arayüzü oluşturmayı optimize et</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished">Ekran kartı</translation>
+        <translation>Ekran kartı</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished">Gama kilidini kullan</translation>
+        <translation>Gama kilidini kullan</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2138,7 +2138,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished">Renk tetikleyicileri</translation>
+        <translation>Renk tetikleyicileri</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2188,32 +2188,32 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished">Özellikler</translation>
+        <translation>Özellikler</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished">Özellik - AÇIK / KAPALI</translation>
+        <translation>Özellik - AÇIK / KAPALI</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished">ayarlar</translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished">İthalat</translation>
+        <translation>İthalat</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished">Yönlendirmek</translation>
+        <translation>Yönlendirmek</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished">Arkadaşları davet etmek</translation>
+        <translation>Arkadaşları davet etmek</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
@@ -2223,12 +2223,12 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished">Eşitleme</translation>
+        <translation>Eşitleme</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished">Davetiyeyi tekrar kontrol et</translation>
+        <translation>Davetiyeyi tekrar kontrol et</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
@@ -2241,114 +2241,119 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <translation>Ukrayna</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <source>DUTCH</source>
+        <translation>Flemenkçe</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Gizli özellikler</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Büyüyü girin:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ACTIVATE</source>
         <translation>Aktifleştir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
-        <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished">Hata ayıklama</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
-        <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished">Borç bilgisi</translation>
+        <source>ADVANCED_DEBUG</source>
+        <translation>Hata ayıklama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="723"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
+        <source>DEBUG_INFORMATION</source>
+        <translation>Borç bilgisi</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="724"/>
         <source>SKIP_REST</source>
         <translation>Atla Kalan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>NORMAL</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>STRICT</source>
         <translation>Sıkı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>CONTINUE</source>
         <translation>Devam et</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>REST_MODE</source>
         <translation>Dinlenme modu</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Artık dinlenme modundasın. Zamanlayıcıyı ayarlar panelinden düzenleyin.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>TIME_IS</source>
         <translation>Saat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>START_WORKING</source>
         <translation>Başlama</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>HAVE_A_BREAK</source>
         <translation>Ara vermek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>ADD</source>
         <translation>Eklemek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>REMOVE</source>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
-        <source>BUY</source>
-        <translation type="unfinished">satın almak</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="740"/>
-        <source>BUY_NOW</source>
-        <translation type="unfinished">Şimdi satın al</translation>
+        <source>BUY</source>
+        <translation>Satın almak</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
-        <source>min</source>
-        <translation type="unfinished">dakika</translation>
+        <source>BUY_NOW</source>
+        <translation>Şimdi satın al</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
-        <source>sec</source>
-        <translation type="unfinished">saniye</translation>
+        <source>min</source>
+        <translation>dakika</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
-        <source>ON</source>
-        <translation type="unfinished">Açık</translation>
+        <source>sec</source>
+        <translation>saniye</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <source>ON</source>
+        <translation>Açık</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>OFF</source>
-        <translation type="unfinished">yok hayır</translation>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
@@ -2637,27 +2642,27 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <translation>Yunan</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>ADVANCED_ABOUT</source>
         <translation>Hakkında</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>NAME</source>
         <translation>İsim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>VERSION</source>
         <translation>Sürüm</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>PUBLISHER</source>
         <translation>Yayımcı</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>WEBSITE</source>
         <translation>Web sitesi</translation>
     </message>
@@ -2698,7 +2703,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished">Görenek</translation>
+        <translation>Görenek</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2716,7 +2721,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished">oyunlar</translation>
+        <translation>Oyun</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2807,22 +2812,22 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="139"/>
         <source>days</source>
-        <translation type="unfinished">günler</translation>
+        <translation>günler</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished">gün</translation>
+        <translation>gün</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">saat</translation>
+        <translation>saat</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished">zaman</translation>
+        <translation>zaman</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
@@ -2832,32 +2837,32 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished">dakika</translation>
+        <translation>dakika</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished">geçmiş</translation>
+        <translation>geçmiş</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished">Deneme süresi sona erdi</translation>
+        <translation>Deneme süresi sona erdi</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished">Iris Pro için deneme sürenizin süresi doldu</translation>
+        <translation>Iris Pro için deneme sürenizin süresi doldu</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished">Programı beğendiyseniz ve daha fazlasını kullanmak istiyorsanız</translation>
+        <translation>Programı beğendiyseniz ve daha fazlasını kullanmak istiyorsanız</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished">Arkadaşlarını davet et veya lisans al</translation>
+        <translation>Arkadaşlarını davet et veya lisans al</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
@@ -2867,27 +2872,27 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished">IrisProTrial zaten kullanıldı.</translation>
+        <translation>IrisProTrial zaten kullanıldı.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished">Bu makinenin deneme süresini zaten kullandınız.</translation>
+        <translation>Bu makinenin deneme süresini zaten kullandınız.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished">Deneme süreniz geçmediyse, Iris tekrar etkinleştirmeyi deneyecektir.</translation>
+        <translation>Deneme süreniz geçmediyse, Iris tekrar etkinleştirmeyi deneyecektir.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished">Ücretsiz deneme devre dışı</translation>
+        <translation>Ücretsiz deneme devre dışı</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished">Iris deneme süresi askıya alındı</translation>
+        <translation>Iris deneme süresi askıya alındı</translation>
     </message>
 </context>
 <context>
@@ -2938,13 +2943,13 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Göz kırpma hatırlatma ekranı</translation>
+        <translation>Göz kırpma hatırlatma ekranı</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="27"/>
         <source>qrc:/html/blink_reminding_screen.html</source>
-        <translation type="unfinished">qrc:/html/knipperend_herinneringsscherm</translation>
+        <translation>qrc:/html/knipperend_herinneringsscherm</translation>
     </message>
 </context>
 <context>
@@ -2953,7 +2958,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation type="unfinished">DUMMY  ekran efektleri</translation>
+        <translation>DUMMY  ekran efektleri</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -2965,7 +2970,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="52"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="65"/>
         <source>PushButton</source>
-        <translation type="unfinished">düğme</translation>
+        <translation>düğme</translation>
     </message>
 </context>
 <context>
@@ -2973,17 +2978,17 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">biçim</translation>
+        <translation>biçim</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation type="unfinished">Sihrini gir:</translation>
+        <translation>Sihrini gir:</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -2992,12 +2997,12 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished">Dikkat</translation>
+        <translation>Dikkat</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -3006,22 +3011,22 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Dikkat!</translation>
+        <translation>Dikkat!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
         <source>Invite Friends</source>
-        <translation type="unfinished">Arkadaşlarını davet et</translation>
+        <translation>Arkadaşlarını davet et</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished">satın almak</translation>
+        <translation>Satın almak</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>
         <source>Read more...</source>
-        <translation type="unfinished">Daha fazla oku ...</translation>
+        <translation>Daha fazla oku ...</translation>
     </message>
 </context>
 <context>
@@ -3030,7 +3035,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation type="unfinished">yakınlaştırma gereci</translation>
+        <translation>yakınlaştırma gereci</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
@@ -3042,7 +3047,7 @@ OSX&apos;te akıllı inversiyon yoğun CPU&apos;dur ve bilgisayarınızı yavaş
         <location filename="../../ui/zoom_widget.ui" line="52"/>
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
-        <translation type="unfinished">Butona basınız</translation>
+        <translation>Butona basınız</translation>
     </message>
 </context>
 </TS>

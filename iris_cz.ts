@@ -39,7 +39,7 @@
         <location filename="../batman/ClockPosition.cpp" line="433"/>
         <location filename="../batman/ClockPosition.cpp" line="448"/>
         <source>hour</source>
-        <translation type="unfinished">hodina</translation>
+        <translation>hodina</translation>
     </message>
     <message>
         <location filename="../batman/ClockPosition.cpp" line="210"/>
@@ -132,7 +132,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished">Soubor nastavení Iris (* .iris_settings * .iris)</translation>
+        <translation>Soubor nastavení Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -258,7 +258,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished">Otočení ikony zásobníku je zakázáno</translation>
+        <translation>Otočení ikony zásobníku je zakázáno</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
@@ -269,7 +269,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
         <source>Manual temperature enabled</source>
-        <translation type="unfinished">Povolené ruční nastavení teploty</translation>
+        <translation>Povolené ruční nastavení teploty</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
@@ -410,7 +410,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation type="unfinished">Žádné oznámení o skrytých funkcích jsou zakázány. Toto je poslední upozornění, které uvidíte</translation>
+        <translation>Žádné oznámení o skrytých funkcích jsou zakázány. Toto je poslední upozornění, které uvidíte</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
@@ -450,7 +450,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished">Iris mini bude používat automatické noční trvání podle umístění. Umístění se používá pro výpočet polohy Slunce a trvání dne a noci</translation>
+        <translation>Iris mini bude používat automatické noční trvání podle umístění. Umístění se používá pro výpočet polohy Slunce a trvání dne a noci</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -545,12 +545,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished">Konfliktní aplikace jsou zakázány</translation>
+        <translation>Konfliktní aplikace jsou zakázány</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation type="unfinished">Konfliktní aplikace jsou zakázány. Aby aplikace nevyvolávala blikání, jsou konfliktní aplikace zakázány.</translation>
+        <translation>Konfliktní aplikace jsou zakázány. Aby aplikace nevyvolávala blikání, jsou konfliktní aplikace zakázány.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -560,12 +560,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation type="unfinished">Klávesnice Hook povolena. Nyní můžete používat zkratky celé sítě.</translation>
+        <translation>Klávesnice Hook povolena. Nyní můžete používat zkratky celé sítě.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation type="unfinished">Háček klávesnice je vypnutá</translation>
+        <translation>Háček klávesnice je vypnutá</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
@@ -598,12 +598,12 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation type="unfinished">Otevřít soubor...</translation>
+        <translation>Otevřít soubor...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished">Soubor nastavení Iris (* .iris_settings * .iris)</translation>
+        <translation>Soubor nastavení Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -612,7 +612,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="135"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
-        <translation type="unfinished">Váš &quot;Iris&quot; je nyní &quot;Pro&quot;</translation>
+        <translation>Váš &quot;Iris&quot; je nyní &quot;Pro&quot;</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -684,7 +684,7 @@ Nově zpřístupněné předvolby naleznete v režimu pokročilého zobrazení u
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished">Nyní máte spuštěnou variantu Iris a váš aktivační kód je určen pro Iris mini. Stáhněte si tedy Iris mini z
+        <translation>Nyní máte spuštěnou variantu Iris a váš aktivační kód je určen pro Iris mini. Stáhněte si tedy Iris mini z
  http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -704,7 +704,7 @@ Nově zpřístupněné předvolby naleznete v režimu pokročilého zobrazení u
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished">Nyní máte spuštěnou variantu Iris a zbývající skupinové licenční kódy jsou určené pro Iris mini. Stáhněte si tedy Iris mini z
+        <translation>Nyní máte spuštěnou variantu Iris a zbývající skupinové licenční kódy jsou určené pro Iris mini. Stáhněte si tedy Iris mini z
  http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -736,7 +736,7 @@ http://iristech.co/iris-mini</source>
         <location filename="../../src/licensing/License.cpp" line="260"/>
         <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation type="unfinished">Vaše &quot;Iris&quot; je nyní &quot;Pro&quot;. V rozšířeném zobrazení zobrazte nové možnosti.</translation>
+        <translation>Vaše &quot;Iris&quot; je nyní &quot;Pro&quot;. V rozšířeném zobrazení zobrazte nové možnosti.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
@@ -974,54 +974,54 @@ http://iristech.co/iris-mini</source>
         <translation>Aktuální posun měsíce</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1816"/>
+        <location filename="../../src/MainWindow.cpp" line="1818"/>
         <source>Iris Pro needed</source>
         <translation>Dostupné jen v plné verzi</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1817"/>
+        <location filename="../../src/MainWindow.cpp" line="1819"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>Tato sekce je přístupná pouze ve variantě aplikace se všemi funkcemi.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2391"/>
+        <location filename="../../src/MainWindow.cpp" line="2393"/>
         <source>Relaunch Iris</source>
         <translation>Oživit Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2392"/>
+        <location filename="../../src/MainWindow.cpp" line="2394"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>Je potřeba oživení Iris pro změny projevily.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2394"/>
+        <location filename="../../src/MainWindow.cpp" line="2396"/>
         <source>Relaunch now</source>
         <translation>Oživit nyní</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2395"/>
+        <location filename="../../src/MainWindow.cpp" line="2397"/>
         <source>Later</source>
         <translation>Později</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2411"/>
-        <location filename="../../src/MainWindow.cpp" line="2476"/>
+        <location filename="../../src/MainWindow.cpp" line="2413"/>
+        <location filename="../../src/MainWindow.cpp" line="2478"/>
         <source>Restart is needed</source>
         <translation>Je vyžadován restart</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2412"/>
-        <location filename="../../src/MainWindow.cpp" line="2476"/>
+        <location filename="../../src/MainWindow.cpp" line="2414"/>
+        <location filename="../../src/MainWindow.cpp" line="2478"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris provedeny některé změny v systému a restart je nutný pro změny projevily.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3982"/>
+        <location filename="../../src/MainWindow.cpp" line="3992"/>
         <source>WARNING!!!</source>
         <translation>VAROVÁNÍ!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3983"/>
+        <location filename="../../src/MainWindow.cpp" line="3993"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1130,7 +1130,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation type="unfinished">Iris</translation>
+        <translation>Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1140,7 +1140,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="62"/>
         <source>Rest screen</source>
-        <translation type="unfinished">Obrazovka odpočinku</translation>
+        <translation>Obrazovka odpočinku</translation>
     </message>
     <message>
         <location filename="../../src/break_reminding/rest_screen/RestScreenLite.cpp" line="120"/>
@@ -1186,7 +1186,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
-        <translation type="unfinished">vám připomíná, že máte za 30 sekund skvělou přestávku</translation>
+        <translation>vám připomíná, že máte za 30 sekund skvělou přestávku</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1276,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished">Hry</translation>
+        <translation>Hry</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1311,7 +1311,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="413"/>
         <source>OVERLAY_MODE</source>
-        <translation type="unfinished">Překryv</translation>
+        <translation>Překryv</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
@@ -1326,7 +1326,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>ACTIVATE_CODE</source>
         <translation>Aktivační kód</translation>
     </message>
@@ -1583,7 +1583,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished">Náhled přechodů</translation>
+        <translation>Náhled přechodů</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
@@ -1623,12 +1623,12 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished">Nasycení</translation>
+        <translation>Nasycení</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished">Saturace</translation>
+        <translation>Saturace</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -1708,7 +1708,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>USE_PER_MONITOR_SETTINGS</source>
-        <translation type="unfinished">Individuální nastavení</translation>
+        <translation>Individuální nastavení</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="521"/>
@@ -1916,17 +1916,17 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished">Klávesové zkratky</translation>
+        <translation>Klávesové zkratky</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished">Přiblížit</translation>
+        <translation>Přiblížit</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">Vzdálenost</translation>
+        <translation>Vzdálenost</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -1956,7 +1956,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished">pro</translation>
+        <translation>pro</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -2036,102 +2036,102 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished">Klávesové zkratky</translation>
+        <translation>Klávesové zkratky</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished">Funkce</translation>
+        <translation>Funkce</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished">Zvyšte teplotu</translation>
+        <translation>Zvyšte teplotu</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished">Snížení teploty</translation>
+        <translation>Snížení teploty</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished">Zvýšit jas</translation>
+        <translation>Zvýšit jas</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished">Snižte jas</translation>
+        <translation>Snižte jas</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Začněte obrazovku překrytí</translation>
+        <translation>Začněte obrazovku překrytí</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Obrazovka Stop Layer</translation>
+        <translation>Obrazovka Stop Layer</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished">Použijte barevné efekty</translation>
+        <translation>Použijte barevné efekty</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished">Pozastavit / spustit Iris</translation>
+        <translation>Pozastavit / spustit Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished">Manuální / automatické přepínání</translation>
+        <translation>Manuální / automatické přepínání</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished">Začněte odpočinek</translation>
+        <translation>Začněte odpočinek</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished">Pozastavení / obnovení časovače</translation>
+        <translation>Pozastavení / obnovení časovače</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished">Ukončete</translation>
+        <translation>Ukončete</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished">Zkratka</translation>
+        <translation>Zkratka</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished">Klávesové zkratky</translation>
+        <translation>Klávesové zkratky</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished">Procesor</translation>
+        <translation>Procesor</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished">Optimalizace vytváření uživatelského rozhraní</translation>
+        <translation>Optimalizace vytváření uživatelského rozhraní</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished">Grafická karta</translation>
+        <translation>Grafická karta</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished">Použijte zámek gama</translation>
+        <translation>Použijte zámek gama</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2142,7 +2142,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished">Barevné spouštěče</translation>
+        <translation>Barevné spouštěče</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2192,47 +2192,47 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished">Funkce</translation>
+        <translation>Funkce</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished">Funkce - zapnutí / vypnutí</translation>
+        <translation>Funkce - zapnutí / vypnutí</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished">Nastavení</translation>
+        <translation>Nastavení</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished">Přenos</translation>
+        <translation>Přenos</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished">Pozvat přátele</translation>
+        <translation>Pozvat přátele</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished">Pozvat přátele</translation>
+        <translation>Pozvat přátele</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished">Synchronizace</translation>
+        <translation>Synchronizace</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished">Znovu zkontrolujte pozvání</translation>
+        <translation>Znovu zkontrolujte pozvání</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
@@ -2242,117 +2242,122 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>UKRAINIAN</source>
-        <translation type="unfinished">Ukraini</translation>
+        <translation>Ukraini</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <source>DUTCH</source>
+        <translation>Holandský</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Skryté funkce</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Zadejte své kouzlo:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ACTIVATE</source>
         <translation>Aktivovat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
-        <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished">Ladit</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
-        <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished">Informace o Ladit</translation>
+        <source>ADVANCED_DEBUG</source>
+        <translation>Ladit</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="723"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
+        <source>DEBUG_INFORMATION</source>
+        <translation>Informace o Ladit</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="724"/>
         <source>SKIP_REST</source>
         <translation>Přeskočit odpočinek</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>NORMAL</source>
         <translation>Obyčejný</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>STRICT</source>
         <translation>Nesmlouvavý</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>CONTINUE</source>
         <translation>Pokračovat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>REST_MODE</source>
         <translation>Odpočinkový režim</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Nyní je aktivní odpočinkový režim. Parametry časovače je možné změnit v panelu nastavení.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>TIME_IS</source>
         <translation>Čas je</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>START_WORKING</source>
         <translation>Vrátit se k práci</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>HAVE_A_BREAK</source>
         <translation>Udělat si přestávku</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>ADD</source>
         <translation>Přidat</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>REMOVE</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
-        <source>BUY</source>
-        <translation type="unfinished">Koupit</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="740"/>
-        <source>BUY_NOW</source>
-        <translation type="unfinished">Kup teď</translation>
+        <source>BUY</source>
+        <translation>Koupit</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
-        <source>min</source>
-        <translation type="unfinished">minuta</translation>
+        <source>BUY_NOW</source>
+        <translation>Kup teď</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
-        <source>sec</source>
-        <translation type="unfinished">sekund</translation>
+        <source>min</source>
+        <translation>minuta</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
-        <source>ON</source>
-        <translation type="unfinished">Zapnuto</translation>
+        <source>sec</source>
+        <translation>sekund</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <source>ON</source>
+        <translation>Zapnuto</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>OFF</source>
-        <translation type="unfinished">Ne</translation>
+        <translation>Ne</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
@@ -2598,7 +2603,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/translation/Translator.cpp" line="697"/>
         <source>ARABIC</source>
-        <translation type="unfinished">Arabština</translation>
+        <translation>Arabština</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="698"/>
@@ -2641,27 +2646,27 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <translation>Ελληνικά (řečtina)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>ADVANCED_ABOUT</source>
         <translation>O aplikaci</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>NAME</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>VERSION</source>
         <translation>Verze</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>PUBLISHER</source>
         <translation>Vydavatel</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>WEBSITE</source>
         <translation>Webové stránky</translation>
     </message>
@@ -2702,7 +2707,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished">Zvyk</translation>
+        <translation>Zvyk</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2720,7 +2725,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished">Hry</translation>
+        <translation>Hry</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2848,52 +2853,52 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished">den</translation>
+        <translation>den</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">hodin</translation>
+        <translation>hodin</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished">hodinu</translation>
+        <translation>hodinu</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
         <source>minutes</source>
-        <translation type="unfinished">minut</translation>
+        <translation>minut</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished">minuta</translation>
+        <translation>minuta</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished">Platnost vypršela</translation>
+        <translation>Platnost vypršela</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished">Zkušební doba vypršela</translation>
+        <translation>Zkušební doba vypršela</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished">Zkušební doba pro společnost Iris Pro vypršela</translation>
+        <translation>Zkušební doba pro společnost Iris Pro vypršela</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished">Pokud se vám program líbí a chcete jej používat více, můžete</translation>
+        <translation>Pokud se vám program líbí a chcete jej používat více, můžete</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished">Pozvat přátele nebo Koupit licenci</translation>
+        <translation>Pozvat přátele nebo Koupit licenci</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
@@ -2903,27 +2908,27 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished">IrisProTrial již používá.</translation>
+        <translation>IrisProTrial již používá.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished">Již jste použili zkušební dobu tohoto stroje.</translation>
+        <translation>Již jste použili zkušební dobu tohoto stroje.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished">Iris se pokusí znovu aktivovat, pokud vaše zkušební doba nevypršela.</translation>
+        <translation>Iris se pokusí znovu aktivovat, pokud vaše zkušební doba nevypršela.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished">Zkušební verze zdarma je zakázána</translation>
+        <translation>Zkušební verze zdarma je zakázána</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished">Zkušební doba Iris je pozastavena</translation>
+        <translation>Zkušební doba Iris je pozastavena</translation>
     </message>
 </context>
 <context>
@@ -2931,7 +2936,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished">Zkušební doba vyprší brzy</translation>
+        <translation>Zkušební doba vyprší brzy</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
@@ -2989,7 +2994,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation type="unfinished">fiktivní efekty obrazovky</translation>
+        <translation>fiktivní efekty obrazovky</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -3001,7 +3006,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="52"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="65"/>
         <source>PushButton</source>
-        <translation type="unfinished">Knopf</translation>
+        <translation>Knopf</translation>
     </message>
 </context>
 <context>
@@ -3028,12 +3033,12 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished">Upozornění</translation>
+        <translation>Upozornění</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3042,22 +3047,22 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Upozornění!</translation>
+        <translation>Upozornění!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
         <source>Invite Friends</source>
-        <translation type="unfinished">Pozvat přátele</translation>
+        <translation>Pozvat přátele</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished">Koupit</translation>
+        <translation>Koupit</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>
         <source>Read more...</source>
-        <translation type="unfinished">Čtěte více ...</translation>
+        <translation>Čtěte více ...</translation>
     </message>
 </context>
 <context>
@@ -3066,7 +3071,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation type="unfinished">zoom widget</translation>
+        <translation>zoom widget</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
@@ -3078,7 +3083,7 @@ Inteligentní inverze na OSX je náročná na CPU a může zpomalit váš počí
         <location filename="../../ui/zoom_widget.ui" line="52"/>
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
-        <translation type="unfinished">Stiskněte tlačítko</translation>
+        <translation>Stiskněte tlačítko</translation>
     </message>
 </context>
 </TS>

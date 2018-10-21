@@ -130,7 +130,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../wonder-woman/ExportSettings.cpp" line="38"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished">Archivo de configuración de Iris (* .iris_settings * .iris)</translation>
+        <translation>Archivo de configuración de Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -154,7 +154,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation type="unfinished">Use &quot;ayuda&quot; para ver una lista de todas las características ocultas :)</translation>
+        <translation>Use &quot;ayuda&quot; para ver una lista de todas las características ocultas :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
@@ -166,7 +166,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation type="unfinished">es un valor inválido para la temperatura de color. Usa números entre 0 y 10 000.</translation>
+        <translation>es un valor inválido para la temperatura de color. Usa números entre 0 y 10 000.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
@@ -257,7 +257,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished">La rotación del icono de la bandeja está desactivada</translation>
+        <translation>La rotación del icono de la bandeja está desactivada</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
@@ -448,7 +448,7 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished">Iris mini utilizará la duración automática de la noche según la ubicación. La ubicación se utiliza para calcular la posición del sol y la duración del día y la noche.</translation>
+        <translation>Iris mini utilizará la duración automática de la noche según la ubicación. La ubicación se utiliza para calcular la posición del sol y la duración del día y la noche.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
@@ -543,12 +543,12 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished">Aplicaciones conflictivas deshabilitadas</translation>
+        <translation>Aplicaciones conflictivas deshabilitadas</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation type="unfinished">Las aplicaciones conflictivas están deshabilitadas. Para no causar parpadeo, las aplicaciones en conflicto están deshabilitadas.</translation>
+        <translation>Las aplicaciones conflictivas están deshabilitadas. Para no causar parpadeo, las aplicaciones en conflicto están deshabilitadas.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
@@ -558,12 +558,12 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation type="unfinished">Gancho para teclado habilitado. Ahora puede utilizar los accesos directos de todo el sistema.</translation>
+        <translation>Gancho para teclado habilitado. Ahora puede utilizar los accesos directos de todo el sistema.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation type="unfinished">Gancho para teclado desactivado</translation>
+        <translation>Gancho para teclado desactivado</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
@@ -596,12 +596,12 @@ Tenga en cuenta que Iris funcionará bien ahora, pero con cambios de color limit
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="27"/>
         <source>Open File...</source>
-        <translation type="unfinished">Abrir documento...</translation>
+        <translation>Abrir documento...</translation>
     </message>
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished">Archivo de configuración de Iris (* .iris_settings * .iris)</translation>
+        <translation>Archivo de configuración de Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -768,7 +768,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -972,54 +972,54 @@ Http://iristech.co/iris-mini</translation>
         <translation>Compensación de la luna actual</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1816"/>
+        <location filename="../../src/MainWindow.cpp" line="1818"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro necesario</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1817"/>
+        <location filename="../../src/MainWindow.cpp" line="1819"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>Necesita Iris Pro para acceder a esta sección.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2391"/>
+        <location filename="../../src/MainWindow.cpp" line="2393"/>
         <source>Relaunch Iris</source>
         <translation>Reiniciar Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2392"/>
+        <location filename="../../src/MainWindow.cpp" line="2394"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>Debe reiniciar Iris para que los cambios surtan efecto.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2394"/>
+        <location filename="../../src/MainWindow.cpp" line="2396"/>
         <source>Relaunch now</source>
         <translation>Relanzar ahora</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2395"/>
+        <location filename="../../src/MainWindow.cpp" line="2397"/>
         <source>Later</source>
         <translation>Luego</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2411"/>
-        <location filename="../../src/MainWindow.cpp" line="2476"/>
+        <location filename="../../src/MainWindow.cpp" line="2413"/>
+        <location filename="../../src/MainWindow.cpp" line="2478"/>
         <source>Restart is needed</source>
         <translation>Se necesita reiniciar</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2412"/>
-        <location filename="../../src/MainWindow.cpp" line="2476"/>
+        <location filename="../../src/MainWindow.cpp" line="2414"/>
+        <location filename="../../src/MainWindow.cpp" line="2478"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris realizó algunos cambios en su sistema y es necesario reiniciar para que los cambios surtan efecto.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3982"/>
+        <location filename="../../src/MainWindow.cpp" line="3992"/>
         <source>WARNING!!!</source>
         <translation>¡¡¡ADVERTENCIA!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3983"/>
+        <location filename="../../src/MainWindow.cpp" line="3993"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1128,7 +1128,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="104"/>
         <source>Iris</source>
-        <translation type="unfinished">Iris</translation>
+        <translation>Iris</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen_lite.ui" line="117"/>
@@ -1274,7 +1274,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished">Juego de azar</translation>
+        <translation>Juego</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1314,7 +1314,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1324,7 +1324,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>ACTIVATE_CODE</source>
         <translation>Activar código</translation>
     </message>
@@ -1581,7 +1581,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="484"/>
         <source>PREVIEW_TRANSITIONS</source>
-        <translation type="unfinished">Vista previa de las transiciones</translation>
+        <translation>Vista previa de las transiciones</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="486"/>
@@ -1621,12 +1621,12 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished">Saturación</translation>
+        <translation>Saturación</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished">Saturación</translation>
+        <translation>Saturación</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -1706,7 +1706,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="519"/>
         <source>USE_PER_MONITOR_SETTINGS</source>
-        <translation type="unfinished">Ajustes individuales</translation>
+        <translation>Ajustes individuales</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="521"/>
@@ -1914,17 +1914,17 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished">Atajos de teclado</translation>
+        <translation>Atajos de teclado</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished">Acercarse:</translation>
+        <translation>Acercarse:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">Disminuir el zoom</translation>
+        <translation>Disminuir el zoom:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -1954,7 +1954,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="573"/>
         <source>FOR</source>
-        <translation type="unfinished">para</translation>
+        <translation>para</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="574"/>
@@ -2034,102 +2034,102 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished">Atajos</translation>
+        <translation>Atajos</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished">Funcion</translation>
+        <translation>Funcion</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished">Aumentar la temperatura</translation>
+        <translation>Aumentar la temperatura</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished">Disminuir la temperatura</translation>
+        <translation>Disminuir la temperatura</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished">Aumentar el brillo</translation>
+        <translation>Aumentar el brillo</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished">Reducir el brillo</translation>
+        <translation>Reducir el brillo</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Iniciar pantalla de superposición</translation>
+        <translation>Iniciar pantalla de superposición</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Detener la pantalla de la capa</translation>
+        <translation>Detener la pantalla de la capa</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished">Usa efectos de color</translation>
+        <translation>Usa efectos de color</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished">Pausa / Inicio de Iris</translation>
+        <translation>Pausa / Inicio de Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished">Cambio manual / automático</translation>
+        <translation>Cambio manual / automático</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished">Empezar a descansar</translation>
+        <translation>Empezar a descansar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished">Temporizador de pausa / reanudación</translation>
+        <translation>Temporizador de pausa / reanudación</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished">Salir</translation>
+        <translation>Salir</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished">Atajo</translation>
+        <translation>Atajo</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished">Atajos</translation>
+        <translation>Atajos</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished">Procesador</translation>
+        <translation>Procesador</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished">Optimizar la creación de la interfaz de usuario</translation>
+        <translation>Optimizar la creación de la interfaz de usuario</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished">Tarjeta de video</translation>
+        <translation>Tarjeta de video</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished">Usar bloqueo gamma</translation>
+        <translation>Usar bloqueo gamma</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2140,7 +2140,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../src/translation/Translator.cpp" line="624"/>
         <location filename="../../src/translation/Translator.cpp" line="652"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
-        <translation type="unfinished">Disparadores de color</translation>
+        <translation>Disparadores de color</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="625"/>
@@ -2190,47 +2190,47 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished">Caracteristicas</translation>
+        <translation>Caracteristicas</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished">Característica - ON / OFF</translation>
+        <translation>Característica - ON / OFF</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished">Ajustes</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished">Importar</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished">Transferencia</translation>
+        <translation>Transferencia</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished">Invitar a amigos</translation>
+        <translation>Invitar a amigos</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished">Invitar a amigos</translation>
+        <translation>Invitar a amigos</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished">Sincronizar</translation>
+        <translation>Sincronizar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished">Volver a comprobar la invitación</translation>
+        <translation>Volver a comprobar la invitación</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
@@ -2240,117 +2240,122 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>UKRAINIAN</source>
-        <translation type="unfinished"></translation>
+        <translation>Ucranio</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <source>DUTCH</source>
+        <translation>Holandés</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Funciones ocultas</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Escribe tu hechizo:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ACTIVATE</source>
         <translation>Activar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
-        <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished">Depurar</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
-        <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished">Información de depuración</translation>
+        <source>ADVANCED_DEBUG</source>
+        <translation>Depurar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="723"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
+        <source>DEBUG_INFORMATION</source>
+        <translation>Información de depuración</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="724"/>
         <source>SKIP_REST</source>
         <translation>Skip Rest</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>NORMAL</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>STRICT</source>
         <translation>Estricto</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>CONTINUE</source>
         <translation>Continuar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>REST_MODE</source>
         <translation>Modo descanso</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Ahora estás en modo de reposo. Edite el temporizador en el panel de configuración.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>TIME_IS</source>
         <translation>La hora es</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>START_WORKING</source>
         <translation>Empezar a trabajar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>HAVE_A_BREAK</source>
         <translation>Tener un descanso</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>ADD</source>
         <translation>Añadir</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>REMOVE</source>
         <translation>Retirar</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
-        <source>BUY</source>
-        <translation type="unfinished">Comprar</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="740"/>
-        <source>BUY_NOW</source>
-        <translation type="unfinished">Comprar ahora</translation>
+        <source>BUY</source>
+        <translation>Comprar</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
-        <source>min</source>
-        <translation type="unfinished">minuto</translation>
+        <source>BUY_NOW</source>
+        <translation>Comprar ahora</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
-        <source>sec</source>
-        <translation type="unfinished">segundos</translation>
+        <source>min</source>
+        <translation>minuto</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
-        <source>ON</source>
-        <translation type="unfinished">Encendido</translation>
+        <source>sec</source>
+        <translation>segundos</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <source>ON</source>
+        <translation>Encendido</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>OFF</source>
-        <translation type="unfinished">no</translation>
+        <translation>no</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
@@ -2639,28 +2644,28 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <translation>Griego</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>ADVANCED_ABOUT</source>
         <translation>Acerca de</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>NAME</source>
         <translation>Nombre</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>VERSION</source>
         <translation>Versión</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>PUBLISHER</source>
         <translation>Editor
 </translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>WEBSITE</source>
         <translation>Sitio web</translation>
     </message>
@@ -2701,7 +2706,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished">Personalizado</translation>
+        <translation>Personalizado</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2719,7 +2724,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation type="unfinished">Juegos</translation>
+        <translation>Juegos</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2810,22 +2815,22 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="139"/>
         <source>days</source>
-        <translation type="unfinished">dias</translation>
+        <translation>dias</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished">día</translation>
+        <translation>día</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">hora</translation>
+        <translation>hora</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished">hora</translation>
+        <translation>hora</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
@@ -2835,62 +2840,62 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished">minuto</translation>
+        <translation>minuto</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished">Expirado</translation>
+        <translation>Expirado</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished">Juicio vencido</translation>
+        <translation>Juicio vencido</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished">Su período de prueba para Iris Pro ha caducado</translation>
+        <translation>Su período de prueba para Iris Pro ha caducado</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished">Si te gusta el programa y quieres usarlo más puedes</translation>
+        <translation>Si te gusta el programa y quieres usarlo más puedes</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished">Invitar amigos o comprar licencia</translation>
+        <translation>Invitar amigos o comprar licencia</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
         <source>Already used</source>
-        <translation type="unfinished">Ya usado</translation>
+        <translation>Ya usado</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished">IrisProTrial ya utilizado.</translation>
+        <translation>IrisProTrial ya utilizado.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished">Ya ha utilizado el período de prueba de esta máquina.</translation>
+        <translation>Ya ha utilizado el período de prueba de esta máquina.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished">Iris intentará volver a activarse si su versión de prueba no ha caducado.</translation>
+        <translation>Iris intentará volver a activarse si su versión de prueba no ha caducado.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished">Prueba gratuita deshabilitada</translation>
+        <translation>Prueba gratuita deshabilitada</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished">Se suspende el periodo de prueba de Iris.</translation>
+        <translation>Se suspende el periodo de prueba de Iris.</translation>
     </message>
 </context>
 <context>
@@ -2941,13 +2946,13 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Parpadea recordando la pantalla</translation>
+        <translation>Parpadea recordando la pantalla</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="27"/>
         <source>qrc:/html/blink_reminding_screen.html</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2956,7 +2961,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation type="unfinished">efectos de pantalla ficticios</translation>
+        <translation>efectos de pantalla ficticios</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -2968,7 +2973,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="52"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="65"/>
         <source>PushButton</source>
-        <translation type="unfinished">El botón</translation>
+        <translation>El botón</translation>
     </message>
 </context>
 <context>
@@ -2976,17 +2981,17 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
     <message>
         <location filename="../../ui/input_dialog.ui" line="20"/>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="71"/>
         <source>Enter your spell:</source>
-        <translation type="unfinished">Entra en tu magia:</translation>
+        <translation>Entra en tu magia:</translation>
     </message>
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2995,12 +3000,12 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished">Atención</translation>
+        <translation>Atención</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3009,22 +3014,22 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Advertencia!</translation>
+        <translation>Advertencia!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
         <source>Invite Friends</source>
-        <translation type="unfinished">Invitar amigos</translation>
+        <translation>Invitar amigos</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="163"/>
         <source>Buy</source>
-        <translation type="unfinished">Comprar</translation>
+        <translation>Comprar</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="198"/>
         <source>Read more...</source>
-        <translation type="unfinished">Leer más ...</translation>
+        <translation>Leer más ...</translation>
     </message>
 </context>
 <context>
@@ -3033,7 +3038,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation type="unfinished">widget de zoom</translation>
+        <translation>widget de zoom</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
@@ -3045,7 +3050,7 @@ La inversión inteligente en OSX requiere mucha CPU y puede ralentizar mucho su 
         <location filename="../../ui/zoom_widget.ui" line="52"/>
         <location filename="../../ui/zoom_widget.ui" line="65"/>
         <source>PushButton</source>
-        <translation type="unfinished">Presionar el botón</translation>
+        <translation>Presionar el botón</translation>
     </message>
 </context>
 </TS>

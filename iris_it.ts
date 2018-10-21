@@ -74,7 +74,7 @@
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
         <source>Iris made a small change to enable lower values. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="unfinished">Iris ha apportato una piccola modifica per abilitare valori più bassi. È necessario riavviare il PC una volta per sbloccare la piena funzionalità</translation>
+        <translation>Iris ha apportato una piccola modifica per abilitare valori più bassi. È necessario riavviare il PC una volta per sbloccare la piena funzionalità</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="273"/>
@@ -137,176 +137,176 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="449"/>
         <source>Invalid spell</source>
-        <translation type="unfinished">Incantesimo non valido</translation>
+        <translation>Incantesimo non valido</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="450"/>
         <source>The spell</source>
-        <translation type="unfinished">L&apos;incantesimo</translation>
+        <translation>L&apos;incantesimo</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation type="unfinished">sembra sbagliato Controlla la sintassi o prova con qualche altra funzionalità nascosta.</translation>
+        <translation>sembra sbagliato Controlla la sintassi o prova con qualche altra funzionalità nascosta.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
-        <translation type="unfinished">Usa &quot;aiuto&quot; per vedere l&apos;elenco di tutte le funzionalità nascoste :)</translation>
+        <translation>Usa &quot;aiuto&quot; per vedere l&apos;elenco di tutte le funzionalità nascoste :)</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="499"/>
         <source>Invalid temperature</source>
-        <translation type="unfinished">Temperatura non valida</translation>
+        <translation>Temperatura non valida</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation type="unfinished">è un valore non valido per la temperatura del colore. Usa il numero tra 0 e 10000.</translation>
+        <translation>è un valore non valido per la temperatura del colore. Usa il numero tra 0 e 10000.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
         <source>Temperature changed</source>
-        <translation type="unfinished">Temperatura cambiata</translation>
+        <translation>Temperatura cambiata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
         <source>Color temperature changed to</source>
-        <translation type="unfinished">Temperatura del colore cambiata in</translation>
+        <translation>Temperatura del colore cambiata in</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="545"/>
         <source>Invalid brightness</source>
-        <translation type="unfinished">Luminosità non valida</translation>
+        <translation>Luminosità non valida</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="525"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
-        <translation type="unfinished">è un valore non valido per Luminosità. Usa il numero tra 10 e 100.</translation>
+        <translation>è un valore non valido per Luminosità. Usa il numero tra 10 e 100.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="532"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
         <source>Brightness changed</source>
-        <translation type="unfinished">La luminosità è cambiata</translation>
+        <translation>La luminosità è cambiata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
         <source>Brightness changed to</source>
-        <translation type="unfinished">La luminosità è cambiata in</translation>
+        <translation>La luminosità è cambiata in</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
         <source>Gamma fixer disabled</source>
-        <translation type="unfinished">Gamma fixer disabilitato</translation>
+        <translation>Gamma fixer disabilitato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
-        <translation type="unfinished">Gamma Fixer è disabilitato. Se lo schermo diventa improvvisamente luminoso, riattivalo nuovamente o fai più volte clic sull&apos;icona Iris mini. Entrambi dovrebbero forzare Iris a cambiare i colori dello schermo.</translation>
+        <translation>Gamma Fixer è disabilitato. Se lo schermo diventa improvvisamente luminoso, riattivalo nuovamente o fai più volte clic sull&apos;icona Iris mini. Entrambi dovrebbero forzare Iris a cambiare i colori dello schermo.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
         <source>Gamma fixer enabled</source>
-        <translation type="unfinished">Gamma fixer abilitato</translation>
+        <translation>Gamma fixer abilitato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
-        <translation type="unfinished">Gamma fissatore è abilitato. Se si nota un leggero cambiamento di colore ogni secondo, disattivare nuovamente il fissatore Gamma. Viene utilizzato Gamma Fixer, poiché Windows decide di ignorare le mini modifiche di Iris di volta in volta.</translation>
+        <translation>Gamma fissatore è abilitato. Se si nota un leggero cambiamento di colore ogni secondo, disattivare nuovamente il fissatore Gamma. Viene utilizzato Gamma Fixer, poiché Windows decide di ignorare le mini modifiche di Iris di volta in volta.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
         <source>Start at startup enabled</source>
-        <translation type="unfinished">Inizia all&apos;avvio abilitato</translation>
+        <translation>Inizia all&apos;avvio abilitato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
         <source>Iris mini will start when you turn ON your computer</source>
-        <translation type="unfinished">Iris mini verrà avviato all&apos;accensione del computer</translation>
+        <translation>Iris mini verrà avviato all&apos;accensione del computer</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
         <source>Start at startup disabled</source>
-        <translation type="unfinished">Inizia all&apos;avvio disabilitato</translation>
+        <translation>Inizia all&apos;avvio disabilitato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
         <source>Iris mini will not start when you turn ON your computer</source>
-        <translation type="unfinished">Iris mini non si avvia quando si accende il computer</translation>
+        <translation>Iris mini non si avvia quando si accende il computer</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
         <source>Tray icon rotation is enabled</source>
-        <translation type="unfinished">La rotazione dell&apos;icona del vassoio è abilitata</translation>
+        <translation>La rotazione dell&apos;icona del vassoio è abilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished">L&apos;icona del vassoio ruoterà quando Iris sta cambiando i colori dello schermo. Questo è usato per mostrare quando Iris mini sta cambiando i colori e lo schermo non è calibrato</translation>
+        <translation>L&apos;icona del vassoio ruoterà quando Iris sta cambiando i colori dello schermo. Questo è usato per mostrare quando Iris mini sta cambiando i colori e lo schermo non è calibrato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
         <source>Tray icon rotation is disabled</source>
-        <translation type="unfinished">La rotazione dell&apos;icona del vassoio è disabilitata</translation>
+        <translation>La rotazione dell&apos;icona del vassoio è disabilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
-        <translation type="unfinished">L&apos;icona del vassoio non ruoterà quando Iris sta cambiando i colori dello schermo. Questa funzione viene utilizzata per mostrare quando Iris mini sta cambiando i colori e lo schermo non è calibrato</translation>
+        <translation>L&apos;icona del vassoio non ruoterà quando Iris sta cambiando i colori dello schermo. Questa funzione viene utilizzata per mostrare quando Iris mini sta cambiando i colori e lo schermo non è calibrato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
         <source>Manual temperature enabled</source>
-        <translation type="unfinished">Temperatura manuale abilitata</translation>
+        <translation>Temperatura manuale abilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
         <source>You are now using Iris Mixed mode</source>
-        <translation type="unfinished">Ora stai usando la modalità mista Iris</translation>
+        <translation>Ora stai usando la modalità mista Iris</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
         <source>Manual temperature disabled</source>
-        <translation type="unfinished">Temperatura manuale disabilitata</translation>
+        <translation>Temperatura manuale disabilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation type="unfinished">Iris utilizzerà nuovamente la modalità selezionata per la temperatura</translation>
+        <translation>Iris utilizzerà nuovamente la modalità selezionata per la temperatura</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
         <source>Manual brightness enabled</source>
-        <translation type="unfinished">Luminosità manuale abilitata</translation>
+        <translation>Luminosità manuale abilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
         <source>You are now using Iris mini Mixed mode</source>
-        <translation type="unfinished">Ora stai usando &quot;Iris mini&quot; &quot;Modalità mista</translation>
+        <translation>Ora stai usando &quot;Iris mini&quot; &quot;Modalità mista</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
         <source>Manual brightness disabled</source>
-        <translation type="unfinished">Luminosità manuale disabilitata</translation>
+        <translation>Luminosità manuale disabilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation type="unfinished">Iris mini utilizzerà nuovamente la modalità selezionata per la luminosità</translation>
+        <translation>Iris mini utilizzerà nuovamente la modalità selezionata per la luminosità</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
         <source>Monitor</source>
-        <translation type="unfinished">Tenere sotto controllo</translation>
+        <translation>Tenere sotto controllo</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
@@ -316,267 +316,267 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation type="unfinished">Iris non applicherà le modifiche del colore a Monitor</translation>
+        <translation>Iris non applicherà le modifiche del colore a Monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source> enabled</source>
-        <translation type="unfinished">abilitato</translation>
+        <translation>abilitato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>Iris will apply color changes to Monitor</source>
-        <translation type="unfinished">Iris  applicherà le modifiche al colore per monitorare</translation>
+        <translation>Iris  applicherà le modifiche al colore per monitorare</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
         <source>Reset colors</source>
-        <translation type="unfinished">Ripristina colori</translation>
+        <translation>Ripristina colori</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="735"/>
         <source>Screen colors are reset to default values</source>
-        <translation type="unfinished">I colori dello schermo vengono ripristinati ai valori predefiniti</translation>
+        <translation>I colori dello schermo vengono ripristinati ai valori predefiniti</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
         <source>Reset settings</source>
-        <translation type="unfinished">Ripristina le impostazioni</translation>
+        <translation>Ripristina le impostazioni</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
         <source>Iris settings are reset to default values</source>
-        <translation type="unfinished">Le impostazioni del diaframma vengono ripristinate ai valori predefiniti</translation>
+        <translation>Le impostazioni del diaframma vengono ripristinate ai valori predefiniti</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
         <source>Invert</source>
-        <translation type="unfinished">Invertire</translation>
+        <translation>Invertire</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
         <source>Colors are inverted</source>
-        <translation type="unfinished">I colori sono invertiti</translation>
+        <translation>I colori sono invertiti</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
         <source>Zero blue light</source>
-        <translation type="unfinished">Zero luce blu</translation>
+        <translation>Zero luce blu</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
         <source>All blue light is removed from the screen</source>
-        <translation type="unfinished">Tutta la luce blu viene rimossa dallo schermo</translation>
+        <translation>Tutta la luce blu viene rimossa dallo schermo</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
         <source>Gamma preservation enabled</source>
-        <translation type="unfinished">Conservazione gamma attivata</translation>
+        <translation>Conservazione gamma attivata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation type="unfinished">D&apos;ora in poi Iris rispetterà la calibrazione del colore. Chiudi e avvia nuovamente Iris mini e manterrà i tuoi colori durante il giorno</translation>
+        <translation>D&apos;ora in poi Iris rispetterà la calibrazione del colore. Chiudi e avvia nuovamente Iris mini e manterrà i tuoi colori durante il giorno</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Gamma preservation disabled</source>
-        <translation type="unfinished">Conservazione gamma disabilitata</translation>
+        <translation>Conservazione gamma disabilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation type="unfinished">Iris  non rispetterà la calibrazione del colore da ora in poi. Utilizzerà invece le impostazioni predefinite del monitor</translation>
+        <translation>Iris  non rispetterà la calibrazione del colore da ora in poi. Utilizzerà invece le impostazioni predefinite del monitor</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>Notifications enabled</source>
-        <translation type="unfinished">Notifiche abilitate</translation>
+        <translation>Notifiche abilitate</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
-        <translation type="unfinished">Le notifiche di funzionalità nascoste sono abilitate. Sono mostrati così saprai quando la tua magia avrà successo</translation>
+        <translation>Le notifiche di funzionalità nascoste sono abilitate. Sono mostrati così saprai quando la tua magia avrà successo</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
         <source>Notifications disabled</source>
-        <translation type="unfinished">Notifiche disabilitate</translation>
+        <translation>Notifiche disabilitate</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation type="unfinished">Le notifiche delle funzioni nascoste sono disabilitate. Questa è l&apos;ultima notifica che vedrai</translation>
+        <translation>Le notifiche delle funzioni nascoste sono disabilitate. Questa è l&apos;ultima notifica che vedrai</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
         <source>Manual location enabled</source>
-        <translation type="unfinished">Posizione manuale abilitata</translation>
+        <translation>Posizione manuale abilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation type="unfinished">Iris mini utilizzerà la posizione manuale. Imposta latitudine e longitudine con le funzioni nascoste</translation>
+        <translation>Iris mini utilizzerà la posizione manuale. Imposta latitudine e longitudine con le funzioni nascoste</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
         <source>Manual location disabled</source>
-        <translation type="unfinished">Posizione manuale disabilitata</translation>
+        <translation>Posizione manuale disabilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished">Iris mini utilizzerà la posizione automatica. La posizione viene utilizzata per calcolare la posizione del sole e la durata diurna e notturna</translation>
+        <translation>Iris mini utilizzerà la posizione automatica. La posizione viene utilizzata per calcolare la posizione del sole e la durata diurna e notturna</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
         <source>Manual night duration enabled</source>
-        <translation type="unfinished">Durata notturna manuale abilitata</translation>
+        <translation>Durata notturna manuale abilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
-        <translation type="unfinished">Iris mini utilizzerà la durata notturna manuale. Imposta l&apos;ora di inizio e di fine con le funzioni nascoste</translation>
+        <translation>Iris mini utilizzerà la durata notturna manuale. Imposta l&apos;ora di inizio e di fine con le funzioni nascoste</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
         <source>Manual night duration disabled</source>
-        <translation type="unfinished">Durata notturna manuale disabilitata</translation>
+        <translation>Durata notturna manuale disabilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation type="unfinished">Iris mini utilizzerà la durata notturna automatica in base alla posizione. La posizione viene utilizzata per calcolare la posizione del sole e la durata diurna e notturna</translation>
+        <translation>Iris mini utilizzerà la durata notturna automatica in base alla posizione. La posizione viene utilizzata per calcolare la posizione del sole e la durata diurna e notturna</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
         <source>Invalid Night start time</source>
-        <translation type="unfinished">Heure de début de nuit invalide</translation>
+        <translation>Heure de début de nuit invalide</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
-        <translation type="unfinished">è un valore non valido per l&apos;ora di inizio della notte. Usa il numero tra 0 e 24.</translation>
+        <translation>è un valore non valido per l&apos;ora di inizio della notte. Usa il numero tra 0 e 24.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
         <source>Night start time changed</source>
-        <translation type="unfinished">Ora di inizio notte cambiata</translation>
+        <translation>Ora di inizio notte cambiata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
         <source>Manual night start time changed to</source>
-        <translation type="unfinished">Ora di inizio notte manuale modificata in</translation>
+        <translation>Ora di inizio notte manuale modificata in</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="896"/>
         <source>Invalid Night end time</source>
-        <translation type="unfinished">Ora di fine notte non valida</translation>
+        <translation>Ora di fine notte non valida</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
-        <translation type="unfinished">è un valore non valido per l&apos;ora di fine notte. Usa il numero tra 0 e 24.</translation>
+        <translation>è un valore non valido per l&apos;ora di fine notte. Usa il numero tra 0 e 24.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
         <source>Night end time changed</source>
-        <translation type="unfinished">L&apos;ora di fine notte è cambiata</translation>
+        <translation>L&apos;ora di fine notte è cambiata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="907"/>
         <source>Manual night end time changed to</source>
-        <translation type="unfinished">Ora di fine notte manuale modificata in</translation>
+        <translation>Ora di fine notte manuale modificata in</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="918"/>
         <source>Latitude changed</source>
-        <translation type="unfinished">Latitudine cambiata</translation>
+        <translation>Latitudine cambiata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="919"/>
         <source>Latitude changed to</source>
-        <translation type="unfinished">Latitudine modificata in</translation>
+        <translation>Latitudine modificata in</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="929"/>
         <source>Longitude changed</source>
-        <translation type="unfinished">La longitudine è cambiata</translation>
+        <translation>La longitudine è cambiata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="930"/>
         <source>Longitude changed to</source>
-        <translation type="unfinished">Longitudine modificata in</translation>
+        <translation>Longitudine modificata in</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="939"/>
         <source>Software cursor enabled</source>
-        <translation type="unfinished">Cursore software abilitato</translation>
+        <translation>Cursore software abilitato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation type="unfinished">Le modifiche del colore si applicano anche al cursore. Se inizia a scomparire, usa disattivare il cursore software per renderlo nuovamente luminoso.</translation>
+        <translation>Le modifiche del colore si applicano anche al cursore. Se inizia a scomparire, usa disattivare il cursore software per renderlo nuovamente luminoso.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
         <source>Hardware cursor enabled</source>
-        <translation type="unfinished">Cursore hardware abilitato</translation>
+        <translation>Cursore hardware abilitato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation type="unfinished">Le modifiche del colore non si applicano al cursore. Se non ti piace il cursore blu brillante di notte usa il cursore software abilitato per applicare le modifiche al colore sul cursore.</translation>
+        <translation>Le modifiche del colore non si applicano al cursore. Se non ti piace il cursore blu brillante di notte usa il cursore software abilitato per applicare le modifiche al colore sul cursore.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
         <source>Conflicting applications enabled</source>
-        <translation type="unfinished">Applicazioni in conflitto abilitate</translation>
+        <translation>Applicazioni in conflitto abilitate</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
-        <translation type="unfinished">Le applicazioni in conflitto sono abilitate. Ora puoi usare altri software che cambiano i colori dello schermo.</translation>
+        <translation>Le applicazioni in conflitto sono abilitate. Ora puoi usare altri software che cambiano i colori dello schermo.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Conflicting applications disabled</source>
-        <translation type="unfinished">Applicazioni in conflitto disabilitate</translation>
+        <translation>Applicazioni in conflitto disabilitate</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation type="unfinished">Le applicazioni in conflitto sono disabilitate. Per non causare lo sfarfallio, le applicazioni in conflitto sono disabilitate.</translation>
+        <translation>Le applicazioni in conflitto sono disabilitate. Per non causare lo sfarfallio, le applicazioni in conflitto sono disabilitate.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Keyboard Hook enabled</source>
-        <translation type="unfinished">Tastiera abilitataKeyboard Hook enabled</translation>
+        <translation>Tastiera abilitataKeyboard Hook enabled</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
-        <translation type="unfinished">Tastiera abilitata. Ora puoi utilizzare scorciatoie a livello di sistema.</translation>
+        <translation>Tastiera abilitata. Ora puoi utilizzare scorciatoie a livello di sistema.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
         <source>Keyboard Hook disabled</source>
-        <translation type="unfinished">Keyboard Hook disabilitato</translation>
+        <translation>Keyboard Hook disabilitato</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation type="unfinished">Keyboard Hook disabilitato. Alcune scorciatoie e funzionalità potrebbero non funzionare come previsto</translation>
+        <translation>Keyboard Hook disabilitato. Alcune scorciatoie e funzionalità potrebbero non funzionare come previsto</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
         <source>Trial Notification enabled</source>
-        <translation type="unfinished">Notifica di prova abilitata</translation>
+        <translation>Notifica di prova abilitata</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation type="unfinished">Iris ti ricorderà quando scade il periodo di prova</translation>
+        <translation>Iris ti ricorderà quando scade il periodo di prova</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
@@ -586,7 +586,7 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation type="unfinished">Iris non ti ricorderà più quando scade il periodo di prova</translation>
+        <translation>Iris non ti ricorderà più quando scade il periodo di prova</translation>
     </message>
 </context>
 <context>
@@ -599,7 +599,7 @@ Si noti che Iris funziona bene ora, ma con cambiamenti di colore limitate.</tran
     <message>
         <location filename="../wonder-woman/ImportSettings.cpp" line="29"/>
         <source>Iris Settings File (*.iris_settings *.iris)</source>
-        <translation type="unfinished">File delle impostazioni di Iris (* .iris_settings * .iris)</translation>
+        <translation>File delle impostazioni di Iris (* .iris_settings * .iris)</translation>
     </message>
 </context>
 <context>
@@ -680,7 +680,7 @@ Visualizza le tue nuove opzioni nella visualizzazione avanzata.</translation>
         <location filename="../../src/licensing/License.cpp" line="203"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished">Si tratta di Iris e il tuo codice di attivazione è per Iris mini. Scarica Iris mini da
+        <translation>Si tratta di Iris e il tuo codice di attivazione è per Iris mini. Scarica Iris mini da
 http://iristech.co/iris-mini</translation>
     </message>
     <message>
@@ -766,7 +766,7 @@ http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation type="unfinished">Formular</translation>
+        <translation>Formular</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
@@ -970,54 +970,54 @@ http://iristech.co/iris-mini</translation>
         <translation>Correzione della luna corrente</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1816"/>
+        <location filename="../../src/MainWindow.cpp" line="1818"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro necessaria</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1817"/>
+        <location filename="../../src/MainWindow.cpp" line="1819"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>È necessario Iris Pro per accedere a questa sezione.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2391"/>
+        <location filename="../../src/MainWindow.cpp" line="2393"/>
         <source>Relaunch Iris</source>
         <translation>Rilanciare Iris</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2392"/>
+        <location filename="../../src/MainWindow.cpp" line="2394"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>È necessario rilanciare Iris per le modifiche abbiano effetto.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2394"/>
+        <location filename="../../src/MainWindow.cpp" line="2396"/>
         <source>Relaunch now</source>
         <translation>Rilanciare ora</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2395"/>
+        <location filename="../../src/MainWindow.cpp" line="2397"/>
         <source>Later</source>
         <translation>Dopo</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2411"/>
-        <location filename="../../src/MainWindow.cpp" line="2476"/>
+        <location filename="../../src/MainWindow.cpp" line="2413"/>
+        <location filename="../../src/MainWindow.cpp" line="2478"/>
         <source>Restart is needed</source>
         <translation>è necessario riavvio</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2412"/>
-        <location filename="../../src/MainWindow.cpp" line="2476"/>
+        <location filename="../../src/MainWindow.cpp" line="2414"/>
+        <location filename="../../src/MainWindow.cpp" line="2478"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris ha apportato alcune modifiche nel sistema e riavviare è necessario per rendere effettive le modifiche.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3982"/>
+        <location filename="../../src/MainWindow.cpp" line="3992"/>
         <source>WARNING!!!</source>
         <translation>AVVERTIMENTO!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3983"/>
+        <location filename="../../src/MainWindow.cpp" line="3993"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1062,7 +1062,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/overlay_screen.ui" line="14"/>
         <location filename="../../ui/webkit/overlay_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogo</translation>
+        <translation>Dialogo</translation>
     </message>
     <message>
         <location filename="../../ui/overlay_screen.ui" line="39"/>
@@ -1077,7 +1077,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/postpone_screen.ui" line="14"/>
         <location filename="../../ui/webkit/postpone_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">dialogo</translation>
+        <translation>dialogo</translation>
     </message>
     <message>
         <location filename="../../ui/postpone_screen.ui" line="39"/>
@@ -1092,7 +1092,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/productive_screen.ui" line="14"/>
         <location filename="../../ui/webkit/productive_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Dialogo</translation>
+        <translation>Dialogo</translation>
     </message>
     <message>
         <location filename="../../ui/productive_screen.ui" line="33"/>
@@ -1107,7 +1107,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/rest_screen.ui" line="20"/>
         <location filename="../../ui/webkit/rest_screen.ui" line="20"/>
         <source>Dialog</source>
-        <translation type="unfinished">dialogo</translation>
+        <translation>dialogo</translation>
     </message>
     <message>
         <location filename="../../ui/rest_screen.ui" line="45"/>
@@ -1272,7 +1272,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="406"/>
         <source>GAMING_MODE</source>
-        <translation type="unfinished">Gaming</translation>
+        <translation>Gioco</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="407"/>
@@ -1312,7 +1312,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="414"/>
         <source>CUSTOM_MODE</source>
-        <translation type="unfinished">Costume</translation>
+        <translation>Costume</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="416"/>
@@ -1322,7 +1322,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
         <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>ACTIVATE_CODE</source>
         <translation>Attiva il codice</translation>
     </message>
@@ -1619,12 +1619,12 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="499"/>
         <source>ADVANCED_SATURATION</source>
-        <translation type="unfinished">Saturazione</translation>
+        <translation>Saturazione</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="500"/>
         <source>SATURATION</source>
-        <translation type="unfinished">saturazione</translation>
+        <translation>Saturazione</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="502"/>
@@ -1912,17 +1912,17 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="563"/>
         <source>KEYBOARD_SHORTCUTS</source>
-        <translation type="unfinished">Tasti rapidi</translation>
+        <translation>Tasti rapidi</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="564"/>
         <source>ZOOM_IN_LABEL</source>
-        <translation type="unfinished">Ingrandire:</translation>
+        <translation>Ingrandire:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="565"/>
         <source>ZOOM_OUT_LABEL</source>
-        <translation type="unfinished">Zoom indietro:</translation>
+        <translation>Zoom indietro:</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="567"/>
@@ -2032,102 +2032,102 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="593"/>
         <source>ADVANCED_SHORTCUTS</source>
-        <translation type="unfinished">Tasti di scelta rapida</translation>
+        <translation>Tasti di scelta rapida</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>FEATURE</source>
-        <translation type="unfinished">caratteristica</translation>
+        <translation>Caratteristica</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>INCREASE_TEMPERATURE</source>
-        <translation type="unfinished">Aumentare la temperatura</translation>
+        <translation>Aumentare la temperatura</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>DECREASE_TEMPERATURE</source>
-        <translation type="unfinished">Riduci la temperatura</translation>
+        <translation>Riduci la temperatura</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>INCREASE_BRIGHTNESS</source>
-        <translation type="unfinished">Aumenta luminosità</translation>
+        <translation>Aumenta luminosità</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>DECREASE_BRIGHTNESS</source>
-        <translation type="unfinished">Diminuisci luminosità</translation>
+        <translation>Diminuisci luminosità</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>START_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Avvia schermata sovrapposizione</translation>
+        <translation>Avvia schermata sovrapposizione</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>END_OVERLAY_SCREEN</source>
-        <translation type="unfinished">Fine schermo sovrapposizione</translation>
+        <translation>Fine schermo sovrapposizione</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>USE_COLOR_EFFECTS</source>
-        <translation type="unfinished">Usa effetti colore</translation>
+        <translation>Usa effetti colore</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>PAUSE_RESUME_IRIS</source>
-        <translation type="unfinished">Pausa / Riprendi Ιris </translation>
+        <translation>Pausa / Riprendi Ιris </translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
-        <translation type="unfinished">Commutatore manuale / automatico</translation>
+        <translation>Commutatore manuale / automatico</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>START_REST</source>
-        <translation type="unfinished">Inizia Riposo</translation>
+        <translation>Inizia Riposo</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>PAUSE_RESUME_TIMER</source>
-        <translation type="unfinished">Pausa / Riprendi timer</translation>
+        <translation>Pausa / Riprendi timer</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>QUIT_IRIS</source>
-        <translation type="unfinished">Esci da Iris</translation>
+        <translation>Esci da Iris</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>SHORTCUT</source>
-        <translation type="unfinished">scorciatoia</translation>
+        <translation>Scorciatoia</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUTS</source>
-        <translation type="unfinished">Scorciatoia</translation>
+        <translation>Scorciatoia</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="612"/>
         <source>ADVANCED_CPU</source>
-        <translation type="unfinished">Processore(cpu)</translation>
+        <translation>Processore (CPU)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>OPTIMIZE_UI_CREATION</source>
-        <translation type="unfinished">Ottimizza la creazione dell&apos;interfaccia utente</translation>
+        <translation>Ottimizza la creazione dell&apos;interfaccia utente</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="615"/>
         <source>ADVANCED_GPU</source>
-        <translation type="unfinished">Scheda video(gpu)</translation>
+        <translation>Scheda video (GPU)</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>USE_GAMMA_FIXER</source>
-        <translation type="unfinished">Usa Gamma Fixer</translation>
+        <translation>Usa Gamma Fixer</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="623"/>
@@ -2188,47 +2188,47 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/translation/Translator.cpp" line="664"/>
         <source>ADVANCED_FEATURES</source>
-        <translation type="unfinished">Caratteristiche</translation>
+        <translation>Caratteristiche</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>FEATURE_ON_OFF</source>
-        <translation type="unfinished">Funzionalità: ON / OFF</translation>
+        <translation>Funzionalità: ON / OFF</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="667"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
-        <translation type="unfinished">Impostazioni</translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation type="unfinished">Importare</translation>
+        <translation>Importare</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation type="unfinished">Esportare</translation>
+        <translation>Esportare</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
-        <translation type="unfinished">Invita gli amici</translation>
+        <translation>Invita gli amici</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>INVITE_FRIENDS</source>
-        <translation type="unfinished">Invita gli amici</translation>
+        <translation>Invita gli amici</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>SYNC</source>
-        <translation type="unfinished">sincronizzare</translation>
+        <translation>sincronizzare</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>RE_CHECK_INVITE</source>
-        <translation type="unfinished">Ricontrolla Invita</translation>
+        <translation>Ricontrolla Invita</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="706"/>
@@ -2241,114 +2241,119 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <translation>Ucraino</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="709"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <source>DUTCH</source>
+        <translation>Olandese</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="710"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>Caratteristiche nascoste</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>Inserisci il tuo incantesimo:</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ACTIVATE</source>
         <translation>Attivare</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="713"/>
-        <source>ADVANCED_DEBUG</source>
-        <translation type="unfinished">mettere a punto</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="714"/>
-        <source>DEBUG_INFORMATION</source>
-        <translation type="unfinished">Informazioni di debug</translation>
+        <source>ADVANCED_DEBUG</source>
+        <translation>Debug</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="723"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
+        <source>DEBUG_INFORMATION</source>
+        <translation>Informazioni di debug</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="724"/>
         <source>SKIP_REST</source>
         <translation>Skip riposo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>NORMAL</source>
         <translation>Normale</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>STRICT</source>
         <translation>Rigoroso</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>CONTINUE</source>
         <translation>Continua</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>REST_MODE</source>
         <translation>Modalità riposo</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>Sei in modalità riposo ora. Modificare il timer nel pannello delle impostazioni.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>TIME_IS</source>
         <translation>L&apos;ora è</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="732"/>
+        <location filename="../../src/translation/Translator.cpp" line="733"/>
         <source>START_WORKING</source>
         <translation>Iniziare a lavorare</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>HAVE_A_BREAK</source>
         <translation>Fare una pausa</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="736"/>
+        <location filename="../../src/translation/Translator.cpp" line="737"/>
         <source>ADD</source>
         <translation>Inserisci</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>REMOVE</source>
         <translation>Rimuovere</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
-        <source>BUY</source>
-        <translation type="unfinished">Acquistare</translation>
-    </message>
-    <message>
         <location filename="../../src/translation/Translator.cpp" line="740"/>
-        <source>BUY_NOW</source>
-        <translation type="unfinished">Acquista ora</translation>
+        <source>BUY</source>
+        <translation>Acquistare</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="741"/>
-        <source>min</source>
-        <translation type="unfinished">me</translation>
+        <source>BUY_NOW</source>
+        <translation>Acquista ora</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="742"/>
-        <source>sec</source>
-        <translation type="unfinished">secondo</translation>
+        <source>min</source>
+        <translation>me</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="743"/>
-        <source>ON</source>
-        <translation type="unfinished">Acceso</translation>
+        <source>sec</source>
+        <translation>secondo</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <source>ON</source>
+        <translation>Acceso</translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>OFF</source>
-        <translation type="unfinished">spento</translation>
+        <translation>spento</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="590"/>
@@ -2637,27 +2642,27 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <translation>Greco</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="716"/>
+        <location filename="../../src/translation/Translator.cpp" line="717"/>
         <source>ADVANCED_ABOUT</source>
         <translation>Di</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>NAME</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>VERSION</source>
         <translation>Versione</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>PUBLISHER</source>
         <translation>Editore</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>WEBSITE</source>
         <translation>Sito web</translation>
     </message>
@@ -2698,7 +2703,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="112"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="675"/>
         <source>&amp;Custom</source>
-        <translation type="unfinished">Costume</translation>
+        <translation>Costume</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="116"/>
@@ -2716,7 +2721,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="124"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="667"/>
         <source>&amp;Gaming</source>
-        <translation>Gaming</translation>
+        <translation>Gioco</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="128"/>
@@ -2734,7 +2739,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="136"/>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="670"/>
         <source>&amp;Biohacker</source>
-        <translation type="unfinished">Biohacker</translation>
+        <translation>Biohacker</translation>
     </message>
     <message>
         <location filename="../../ui/components/tray_icon/TrayIcon.cpp" line="140"/>
@@ -2802,62 +2807,62 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="131"/>
         <source>Expires in</source>
-        <translation type="unfinished">Scade tra</translation>
+        <translation>Scade tra</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="139"/>
         <source>days</source>
-        <translation type="unfinished">giorni</translation>
+        <translation>giorni</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="144"/>
         <source>day</source>
-        <translation type="unfinished">giorno</translation>
+        <translation>giorno</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="150"/>
         <source>hours</source>
-        <translation type="unfinished">ore</translation>
+        <translation>ore</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="155"/>
         <source>hour</source>
-        <translation type="unfinished">ora</translation>
+        <translation>ora</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="161"/>
         <source>minutes</source>
-        <translation type="unfinished">minuti</translation>
+        <translation>minuti</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="166"/>
         <source>minute</source>
-        <translation type="unfinished">minuto</translation>
+        <translation>minuto</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="170"/>
         <source>Expired</source>
-        <translation type="unfinished">Scaduto</translation>
+        <translation>Scaduto</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="190"/>
         <source>Trial Expired</source>
-        <translation type="unfinished">Prova scaduta</translation>
+        <translation>Prova scaduta</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="191"/>
         <source>Your Iris Pro Trial has expired</source>
-        <translation type="unfinished">Il tuo periodo di prova per Iris Pro è scaduto</translation>
+        <translation>Il tuo periodo di prova per Iris Pro è scaduto</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="193"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished">Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
+        <translation>Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="195"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished">Invita amici o acquista la licenza</translation>
+        <translation>Invita amici o acquista la licenza</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="202"/>
@@ -2867,27 +2872,27 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="203"/>
         <source>Iris Pro Trial already used.</source>
-        <translation type="unfinished">Iris Pro Trial già utilizzato.</translation>
+        <translation>Iris Pro Trial già utilizzato.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="206"/>
         <source>It seems you have already used your free trial on this machine.</source>
-        <translation type="unfinished">Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
+        <translation>Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="208"/>
         <source>Iris will try to activate again if your trial has not expired.</source>
-        <translation type="unfinished">Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
+        <translation>Sembra che tu abbia già usato la tua prova gratuita su questa macchina.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="216"/>
         <source>Free trial Disabled</source>
-        <translation type="unfinished">Prova gratuita disabilitata</translation>
+        <translation>Prova gratuita disabilitata</translation>
     </message>
     <message>
         <location filename="../../src/licensing/Trial.cpp" line="217"/>
         <source>Iris Free trial is currently disabled</source>
-        <translation type="unfinished">La prova gratuita di Iris è attualmente disabilitata</translation>
+        <translation>La prova gratuita di Iris è attualmente disabilitata</translation>
     </message>
 </context>
 <context>
@@ -2895,41 +2900,41 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="26"/>
         <source>Trial expires soon</source>
-        <translation type="unfinished">La prova scade presto</translation>
+        <translation>La prova scade presto</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="29"/>
         <source>Iris Pro Trial expires today</source>
-        <translation type="unfinished">Iris Pro Trial expire aujourd&apos;hui</translation>
+        <translation>Iris Pro Trial expire aujourd&apos;hui</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="31"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="40"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="51"/>
         <source>If you like the program and want to use it more you can</source>
-        <translation type="unfinished">Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
+        <translation>Se ti piace il programma e vuoi usarlo di più, puoi farlo</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="33"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="42"/>
         <location filename="../../src/licensing/ViralComponent.cpp" line="53"/>
         <source>Invite Friends or Buy lifelong license</source>
-        <translation type="unfinished">Invita amici o acquista una licenza permanente</translation>
+        <translation>Invita amici o acquista una licenza permanente</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="38"/>
         <source>Iris Pro Trial expires tomorrow</source>
-        <translation type="unfinished">Iris Pro Trial scade domani</translation>
+        <translation>Iris Pro Trial scade domani</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="47"/>
         <source>Iris Pro Trial expires in</source>
-        <translation type="unfinished">Iris Pro Trial scade a</translation>
+        <translation>Iris Pro Trial scade a</translation>
     </message>
     <message>
         <location filename="../../src/licensing/ViralComponent.cpp" line="49"/>
         <source>days</source>
-        <translation type="unfinished">giorni</translation>
+        <translation>giorni</translation>
     </message>
 </context>
 <context>
@@ -2938,7 +2943,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/blink_reminding_screen.ui" line="14"/>
         <location filename="../../ui/webkit/blink_reminding_screen.ui" line="14"/>
         <source>Dialog</source>
-        <translation type="unfinished">Schermata di richiamo dei lampeggiamenti</translation>
+        <translation>Schermata di richiamo dei lampeggiamenti</translation>
     </message>
     <message>
         <location filename="../../ui/blink_reminding_screen.ui" line="27"/>
@@ -2953,7 +2958,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/dummy_screen_effects.ui" line="14"/>
         <location filename="../../ui/webkit/dummy_screen_effects.ui" line="14"/>
         <source>dummy_screen_effects</source>
-        <translation type="unfinished">effetti schermo fittizio</translation>
+        <translation>effetti schermo fittizio</translation>
     </message>
     <message>
         <location filename="../../ui/dummy_screen_effects.ui" line="26"/>
@@ -2983,7 +2988,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
     <message>
         <location filename="../../ui/input_dialog.ui" line="174"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2992,7 +2997,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/message_box.ui" line="14"/>
         <location filename="../../ui/message_box.ui" line="60"/>
         <source>Warning</source>
-        <translation type="unfinished">Avvertimento</translation>
+        <translation>Avvertimento</translation>
     </message>
     <message>
         <location filename="../../ui/message_box.ui" line="102"/>
@@ -3006,7 +3011,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/trial_message_box.ui" line="17"/>
         <location filename="../../ui/trial_message_box.ui" line="64"/>
         <source>Warning</source>
-        <translation type="unfinished">Avvertimento!</translation>
+        <translation>Avvertimento!</translation>
     </message>
     <message>
         <location filename="../../ui/trial_message_box.ui" line="125"/>
@@ -3030,7 +3035,7 @@ L&apos;inversione intelligente su OSX richiede molta CPU e può rallentare molto
         <location filename="../../ui/webkit/zoom_widget.ui" line="14"/>
         <location filename="../../ui/zoom_widget.ui" line="14"/>
         <source>zoomwidget</source>
-        <translation type="unfinished">widget di zoom</translation>
+        <translation>widget di zoom</translation>
     </message>
     <message>
         <location filename="../../ui/webkit/zoom_widget.ui" line="26"/>
