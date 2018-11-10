@@ -2208,12 +2208,12 @@ OSX上的智能反转是CPU密集型的，可能会让您的计算机变慢。 �
     <message>
         <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>IMPORT</source>
-        <translation>进口</translation>
+        <translation>导入</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>EXPORT</source>
-        <translation>出口</translation>
+        <translation>导出</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="671"/>
