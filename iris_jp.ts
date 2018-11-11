@@ -139,460 +139,460 @@ Irisは今は問題なく動作しますが、色の変化は限られていま�
 <context>
     <name>HiddenFeatures</name>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="449"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="477"/>
         <source>Invalid spell</source>
         <translation>無効な呪文</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="450"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="478"/>
         <source>The spell</source>
         <translation>呪文</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="480"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
         <translation>間違っているようです。 構文をチェックするか、他の隠し機能を試してみてください。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="481"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
         <translation>すべての隠し機能のリストを表示するには &quot;助けて&quot;を使用してください:)</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="499"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="504"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="527"/>
         <source>Invalid temperature</source>
         <translation>温度が無効です</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="507"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="530"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
         <translation>色温度に無効な値です。 0〜10,000の数値を使用します。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="514"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="537"/>
         <source>Temperature changed</source>
         <translation>温度変化</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="515"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="538"/>
         <source>Color temperature changed to</source>
         <translation>色温度がに変更されました</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="545"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="550"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="573"/>
         <source>Invalid brightness</source>
         <translation>輝度が無効です </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="525"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="553"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="576"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
         <translation>明るさの値が無効です。 10〜100の数字を使用します。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="532"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="560"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="583"/>
         <source>Brightness changed</source>
         <translation>明るさが変わった</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="584"/>
         <source>Brightness changed to</source>
         <translation>明るさがに変更されました</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="613"/>
         <source>Gamma fixer disabled</source>
         <translation>ガンマフィクサーが無効</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="614"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
         <translation>ゲージロックはオフです。 画面が突然明るくなる場合は、もう一度オンにするか、アイリスのミニアイコンを数回押して画面の色を変更してください。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="619"/>
         <source>Gamma fixer enabled</source>
         <translation>ガンマ補正機能を有効にしました</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="620"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
         <translation>ゲージロックがオンになっています。 頻繁に色が変わった場合は、取り外します。 ガンマロックは、WindowsがIris miniによって行われた変更を時折無視するために使用されます。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="650"/>
         <source>Start at startup enabled</source>
         <translation>起動時に起動する</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="651"/>
         <source>Iris mini will start when you turn ON your computer</source>
         <translation>컴퓨터를 켜면 Iris mini가 시작됩니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="656"/>
         <source>Start at startup disabled</source>
         <translation>OSのロード時に起動が禁止される</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="657"/>
         <source>Iris mini will not start when you turn ON your computer</source>
         <translation>コンピュータの電源を入れるとIris miniが起動しない</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="686"/>
         <source>Tray icon rotation is enabled</source>
         <translation>アイコンのアニメーションを許可する</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="687"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation>アイリスが画面の色を変更するとトレイアイコンが回転します。 これは、アイリスミニが色を変えていて、画面が較正されていないことを示すために使用されます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="692"/>
         <source>Tray icon rotation is disabled</source>
         <translation>アイコンのアニメーションの禁止</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="693"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation>Iris が画面の色を変えているときにトレイアイコンが回転する Iris miniが色を変えていて画面が較正されていないことを示すために使用されます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="704"/>
         <source>Manual temperature enabled</source>
         <translation>許容される手動温度設定</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="705"/>
         <source>You are now using Iris Mixed mode</source>
         <translation>あなたは現在Iris Mixedモードを使用しています</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="710"/>
         <source>Manual temperature disabled</source>
         <translation>禁止されたマニュアル温度設定
 </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="711"/>
         <source>Iris will use your selected mode for temperature again</source>
         <translation>Iris」はあなたの選択したモードを再び温度に使用します
 </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source>Manual brightness enabled</source>
         <translation>手動の明るさ調整が可能</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>You are now using Iris mini Mixed mode</source>
         <translation>あなたは現在Iris mini Mixedモードを使用しています</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="728"/>
         <source>Manual brightness disabled</source>
         <translation>禁止された手動の明るさ調整</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="729"/>
         <source>Iris mini will use your selected mode for brightness again</source>
         <translation>Iris mini は、選択したモードを再び明るさに使用します。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="741"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="749"/>
         <source>Monitor</source>
         <translation>モニター</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="742"/>
         <source> disabled</source>
         <translation>無効</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="743"/>
         <source>Iris will not apply color changes to Monitor</source>
         <translation>Iris  はモニターに色の変更を適用しません</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="750"/>
         <source> enabled</source>
         <translation>有効</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="751"/>
         <source>Iris will apply color changes to Monitor</source>
         <translation>Iris モニターに色の変化を適用する</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="762"/>
         <source>Reset colors</source>
         <translation>色をリセットする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="735"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="763"/>
         <source>Screen colors are reset to default values</source>
         <translation>画面の色はデフォルト値に戻されます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="773"/>
         <source>Reset settings</source>
         <translation>設定をリセット</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="774"/>
         <source>Iris settings are reset to default values</source>
         <translation>アイリス設定はデフォルト値にリセットされます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="784"/>
         <source>Invert</source>
         <translation>反転</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Colors are inverted</source>
         <translation>色が反転している</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="795"/>
         <source>Zero blue light</source>
         <translation>ゼロクロスライト</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>All blue light is removed from the screen</source>
         <translation>すべての青い色合いが画面から削除されます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="807"/>
         <source>Gamma preservation enabled</source>
         <translation>ガンマ保存が可能</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="808"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
         <translation>アイリスはあなたのカラーキャリブレーションを維持します。 アイリスミニを停止して、プログラムはあなたの色を1日中保ちます。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="813"/>
         <source>Gamma preservation disabled</source>
         <translation>ガンマ保存を無効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="814"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
         <translation>Iris は今からあなたのカラーキャリブレーションを尊重しません。 代わりにデフォルトのモニタ設定を使用します
 </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="824"/>
         <source>Notifications enabled</source>
         <translation>通知を有効にしました</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="825"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
         <translation>隠された機能の通知は許可されます。 あなたはあなたの呪文が受け入れられていることを知るようにそれらを見るでしょう</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="830"/>
         <source>Notifications disabled</source>
         <translation>通知を無効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="831"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
         <translation>隠された機能通知は禁止されていません。 これが最後に表示される通知です</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="864"/>
         <source>Manual location enabled</source>
         <translation>手動で有効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="865"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
         <translation>Iris mini はあなたの手動の場所を使用します。 隠された機能で緯度と経度を設定する
 </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="870"/>
         <source>Manual location disabled</source>
         <translation>手動での位置の無効化</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="871"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris miniは自動位置情報を使用します。 場所は、太陽の位置と昼と夜の時間を計算するために使用されます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
         <source>Manual night duration enabled</source>
         <translation>マニュアル夜間有効</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
         <translation>Iris mini 」は手動の夜間を使用します。隠れた機能で開始時刻と終了時刻を設定する</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="889"/>
         <source>Manual night duration disabled</source>
         <translation>手動夜間無効</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="890"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris mini は、場所に基づいて自動夜間を使用します。 場所は、太陽の位置と昼と夜の時間を計算するために使用されます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="901"/>
         <source>Invalid Night start time</source>
         <translation>夜の開始時間が無効です</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="904"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
         <translation>夜の無効な開始時刻です。 0〜24の数字を使用します。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="911"/>
         <source>Night start time changed</source>
         <translation>夜の開始時間が変更されました</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="912"/>
         <source>Manual night start time changed to</source>
         <translation>夜の始まりは</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="896"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="924"/>
         <source>Invalid Night end time</source>
         <translation>ナイトエンドタイムが無効です</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="927"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
         <translation>夜の無効な終了時刻です。 0〜24の数字を使用します。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="934"/>
         <source>Night end time changed</source>
         <translation>ナイトエンドタイムの変更</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="907"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="935"/>
         <source>Manual night end time changed to</source>
         <translation>夜の終わりに変わった</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="918"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="946"/>
         <source>Latitude changed</source>
         <translation>緯度を変更しました</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="919"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="947"/>
         <source>Latitude changed to</source>
         <translation>緯度が変更されました</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="929"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="957"/>
         <source>Longitude changed</source>
         <translation>経度が変更されました</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="930"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="958"/>
         <source>Longitude changed to</source>
         <translation>経度が</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="939"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="967"/>
         <source>Software cursor enabled</source>
         <translation>ソフトウェアカーソルを有効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
         <translation>カーソルが色の変化を適用します。 表示されなくなったら、ソフトウェアカーソルを無効にしてもう一度表示してください。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="976"/>
         <source>Hardware cursor enabled</source>
         <translation>ハードウェアカーソルを有効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="977"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
         <translation>カーソルは色の変更を適用しません。 夜間に明るい青いカーソルが気に入らない場合は、ソフトウェアのカーソルを使って色の変更を適用します。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="990"/>
         <source>Conflicting applications enabled</source>
         <translation>競合するアプリケーションを有効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="991"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
         <translation>互換性のないアプリも許可されており、画面の色を変更する他のプログラムも使用できます。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="996"/>
         <source>Conflicting applications disabled</source>
         <translation>競合するアプリケーションを無効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
         <translation>競合するアプリケーションは無効です。 ちらつきを生じさせないために、競合するアプリケーションは無効になります。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1025"/>
         <source>Keyboard Hook enabled</source>
         <translation>キーボードフックを有効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1026"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
         <translation>キーボードフックが有効になっています。 システム全体のショートカットを使用できるようになりました。</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1031"/>
         <source>Keyboard Hook disabled</source>
         <translation>キーボードフックを無効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1032"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
         <translation>キーボードのフックは禁止されています。 一部のクイックキーが正しく機能しないことがある</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1044"/>
         <source>Trial Notification enabled</source>
         <translation>トライアル通知が有効</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1045"/>
         <source>Iris will remind you when your trial expires</source>
         <translation>試用期間が終了するとIrisがあなたに思い出させます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1050"/>
         <source>Trial Notification disabled</source>
         <translation>トライアル通知を無効にする</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1051"/>
         <source>Iris will no logner remind you when your trial expires</source>
         <translation>あなたの試用期間が終了すると、Iris はあなたに再度通知することはありません</translation>
     </message>
@@ -790,247 +790,244 @@ http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="761"/>
         <source>until</source>
-        <translation>まで</translation>
+        <translation type="vanished">まで</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="773"/>
         <source>rest</source>
-        <translation>残り</translation>
+        <translation type="vanished">残り</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="795"/>
         <source>work</source>
-        <translation>起動</translation>
+        <translation type="vanished">起動</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="909"/>
+        <location filename="../../src/MainWindow.cpp" line="825"/>
         <source>Expired</source>
         <translation>期限切れ</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="913"/>
+        <location filename="../../src/MainWindow.cpp" line="829"/>
         <source>Paused</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1127"/>
-        <location filename="../../src/MainWindow.cpp" line="1237"/>
+        <location filename="../../src/MainWindow.cpp" line="1043"/>
+        <location filename="../../src/MainWindow.cpp" line="1153"/>
         <source>Day start time</source>
         <translation>開始日</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1129"/>
-        <location filename="../../src/MainWindow.cpp" line="1239"/>
+        <location filename="../../src/MainWindow.cpp" line="1045"/>
+        <location filename="../../src/MainWindow.cpp" line="1155"/>
         <source>Day transition start time</source>
         <translation>日の移行開始時刻</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1131"/>
-        <location filename="../../src/MainWindow.cpp" line="1241"/>
+        <location filename="../../src/MainWindow.cpp" line="1047"/>
+        <location filename="../../src/MainWindow.cpp" line="1157"/>
         <source>Day transition end time</source>
         <translation>日の移行終了時刻</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1133"/>
-        <location filename="../../src/MainWindow.cpp" line="1243"/>
+        <location filename="../../src/MainWindow.cpp" line="1049"/>
+        <location filename="../../src/MainWindow.cpp" line="1159"/>
         <source>Day end time</source>
         <translation>終日の時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1138"/>
-        <location filename="../../src/MainWindow.cpp" line="1248"/>
+        <location filename="../../src/MainWindow.cpp" line="1054"/>
+        <location filename="../../src/MainWindow.cpp" line="1164"/>
         <source>Night start time</source>
         <translation>夜の開始時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1140"/>
-        <location filename="../../src/MainWindow.cpp" line="1250"/>
+        <location filename="../../src/MainWindow.cpp" line="1056"/>
+        <location filename="../../src/MainWindow.cpp" line="1166"/>
         <source>Night transition start time</source>
         <translation>ナイトトランジション開始時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1142"/>
-        <location filename="../../src/MainWindow.cpp" line="1252"/>
+        <location filename="../../src/MainWindow.cpp" line="1058"/>
+        <location filename="../../src/MainWindow.cpp" line="1168"/>
         <source>Night transition end time</source>
         <translation>夜間移行終了時刻</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1144"/>
-        <location filename="../../src/MainWindow.cpp" line="1254"/>
+        <location filename="../../src/MainWindow.cpp" line="1060"/>
+        <location filename="../../src/MainWindow.cpp" line="1170"/>
         <source>Night end time</source>
         <translation>ナイトエンドタイム</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1149"/>
-        <location filename="../../src/MainWindow.cpp" line="1259"/>
+        <location filename="../../src/MainWindow.cpp" line="1065"/>
+        <location filename="../../src/MainWindow.cpp" line="1175"/>
         <source>Bedtime</source>
         <translation>就寝時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1151"/>
-        <location filename="../../src/MainWindow.cpp" line="1261"/>
+        <location filename="../../src/MainWindow.cpp" line="1067"/>
+        <location filename="../../src/MainWindow.cpp" line="1177"/>
         <source>Bedtime transition start time</source>
         <translation>就寝前移行開始時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1153"/>
-        <location filename="../../src/MainWindow.cpp" line="1263"/>
+        <location filename="../../src/MainWindow.cpp" line="1069"/>
+        <location filename="../../src/MainWindow.cpp" line="1179"/>
         <source>Bedtime transition end time</source>
         <translation>就寝時遷移終了時刻</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1155"/>
-        <location filename="../../src/MainWindow.cpp" line="1265"/>
+        <location filename="../../src/MainWindow.cpp" line="1071"/>
+        <location filename="../../src/MainWindow.cpp" line="1181"/>
         <source>Bedtime end time</source>
         <translation>就寝時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1160"/>
-        <location filename="../../src/MainWindow.cpp" line="1270"/>
+        <location filename="../../src/MainWindow.cpp" line="1076"/>
+        <location filename="../../src/MainWindow.cpp" line="1186"/>
         <source>Wake time</source>
         <translation>起床時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1162"/>
-        <location filename="../../src/MainWindow.cpp" line="1272"/>
+        <location filename="../../src/MainWindow.cpp" line="1078"/>
+        <location filename="../../src/MainWindow.cpp" line="1188"/>
         <source>Wake time transition start time</source>
         <translation>ウェイク時間遷移開始時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1164"/>
-        <location filename="../../src/MainWindow.cpp" line="1274"/>
+        <location filename="../../src/MainWindow.cpp" line="1080"/>
+        <location filename="../../src/MainWindow.cpp" line="1190"/>
         <source>Wake time transition end time</source>
         <translation>ウェイク時間遷移終了時刻</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1166"/>
-        <location filename="../../src/MainWindow.cpp" line="1276"/>
+        <location filename="../../src/MainWindow.cpp" line="1082"/>
+        <location filename="../../src/MainWindow.cpp" line="1192"/>
         <source>Wake time end time</source>
         <translation>ウェイクタイム終了時刻</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1171"/>
-        <location filename="../../src/MainWindow.cpp" line="1281"/>
+        <location filename="../../src/MainWindow.cpp" line="1087"/>
+        <location filename="../../src/MainWindow.cpp" line="1197"/>
         <source>Day duration</source>
         <translation>日期間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1173"/>
-        <location filename="../../src/MainWindow.cpp" line="1283"/>
+        <location filename="../../src/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/MainWindow.cpp" line="1199"/>
         <source>Day transition duration</source>
         <translation>日移行時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1175"/>
-        <location filename="../../src/MainWindow.cpp" line="1285"/>
+        <location filename="../../src/MainWindow.cpp" line="1091"/>
+        <location filename="../../src/MainWindow.cpp" line="1201"/>
         <source>Night duration</source>
         <translation>夜間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1177"/>
-        <location filename="../../src/MainWindow.cpp" line="1287"/>
+        <location filename="../../src/MainWindow.cpp" line="1093"/>
+        <location filename="../../src/MainWindow.cpp" line="1203"/>
         <source>Night transition duration</source>
         <translation>ナイトトランジション期間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1179"/>
-        <location filename="../../src/MainWindow.cpp" line="1289"/>
+        <location filename="../../src/MainWindow.cpp" line="1095"/>
+        <location filename="../../src/MainWindow.cpp" line="1205"/>
         <source>Sleep duration</source>
         <translation>睡眠時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1181"/>
-        <location filename="../../src/MainWindow.cpp" line="1291"/>
+        <location filename="../../src/MainWindow.cpp" line="1097"/>
+        <location filename="../../src/MainWindow.cpp" line="1207"/>
         <source>Sleep transition duration</source>
         <translation>睡眠移行期間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1187"/>
+        <location filename="../../src/MainWindow.cpp" line="1103"/>
         <source>Time zone</source>
         <translation>タイムゾーン</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1189"/>
+        <location filename="../../src/MainWindow.cpp" line="1105"/>
         <source>Custom Time zone offset</source>
         <translation>カスタムタイムゾーンオフセット</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1194"/>
+        <location filename="../../src/MainWindow.cpp" line="1110"/>
         <source>Sunrise time</source>
         <translation>日の出時間</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1196"/>
+        <location filename="../../src/MainWindow.cpp" line="1112"/>
         <source>Sunset time</source>
         <translation>夕焼け時</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1201"/>
+        <location filename="../../src/MainWindow.cpp" line="1117"/>
         <source>New moon offset</source>
         <translation>ニュームーンオフセット</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1203"/>
+        <location filename="../../src/MainWindow.cpp" line="1119"/>
         <source>Full moon offset</source>
         <translation>満月オフセット</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1205"/>
+        <location filename="../../src/MainWindow.cpp" line="1121"/>
         <source>Current moon offset</source>
         <translation>現在の月のオフセット</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1818"/>
+        <location filename="../../src/MainWindow.cpp" line="1735"/>
         <source>Iris Pro needed</source>
         <translation>本機能を使用するには製品版をが必要です</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1819"/>
+        <location filename="../../src/MainWindow.cpp" line="1736"/>
         <source>You need Iris Pro to access this section.</source>
         <translatorcomment>Ignore this error.There is no problem with this Japanese sentence.</translatorcomment>
         <translation>必要なものIris Proこのセクションにアクセスする。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2393"/>
+        <location filename="../../src/MainWindow.cpp" line="2319"/>
         <source>Relaunch Iris</source>
         <translation>再出発アイリス</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2394"/>
+        <location filename="../../src/MainWindow.cpp" line="2320"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>あなたは変更を有効にするためにプログラムを再起動する必要があります。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2396"/>
+        <location filename="../../src/MainWindow.cpp" line="2322"/>
         <source>Relaunch now</source>
         <translation>今すぐ再起動</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2397"/>
+        <location filename="../../src/MainWindow.cpp" line="2323"/>
         <source>Later</source>
         <translation>後で</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2413"/>
-        <location filename="../../src/MainWindow.cpp" line="2478"/>
+        <location filename="../../src/MainWindow.cpp" line="2339"/>
+        <location filename="../../src/MainWindow.cpp" line="2404"/>
         <source>Restart is needed</source>
         <translation>再起動が必要です</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2414"/>
-        <location filename="../../src/MainWindow.cpp" line="2478"/>
+        <location filename="../../src/MainWindow.cpp" line="2340"/>
+        <location filename="../../src/MainWindow.cpp" line="2404"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris はシステムにいくつかの変更を加え、変更を有効にするには再起動が必要です。</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3992"/>
+        <location filename="../../src/MainWindow.cpp" line="3928"/>
         <source>WARNING!!!</source>
         <translation>警告！！！</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3993"/>
+        <location filename="../../src/MainWindow.cpp" line="3929"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1166,37 +1163,52 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
 <context>
     <name>RestTimer</name>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="369"/>
         <source>hour</source>
         <translation>時間</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="369"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="373"/>
         <source>min</source>
         <translation>分</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="375"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="369"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="373"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="377"/>
         <source>sec</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="429"/>
         <source>reminds you that a big rest will occur in</source>
         <translation>あなたが素晴らしい休暇を過ごしたことを思い出させる</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="429"/>
         <source>minutes</source>
         <translation>分</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="434"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
         <translation>あなたに30秒で大きな休憩があることを思い出させる</translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="460"/>
+        <source>until</source>
+        <translation type="unfinished">まで</translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="472"/>
+        <source>rest</source>
+        <translation type="unfinished">残り</translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="494"/>
+        <source>work</source>
+        <translation type="unfinished">起動</translation>
     </message>
 </context>
 <context>
@@ -1342,8 +1354,8 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
-        <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
+        <location filename="../../src/translation/Translator.cpp" line="688"/>
+        <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>ACTIVATE_CODE</source>
         <translation>アクティベーションコード</translation>
     </message>
@@ -1920,13 +1932,13 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="561"/>
-        <location filename="../../src/translation/Translator.cpp" line="607"/>
+        <location filename="../../src/translation/Translator.cpp" line="608"/>
         <source>ZOOM_IN</source>
         <translation>ズームイン</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="562"/>
-        <location filename="../../src/translation/Translator.cpp" line="608"/>
+        <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>ZOOM_OUT</source>
         <translation>ズームアウト</translation>
     </message>
@@ -2007,684 +2019,689 @@ OSXでのスマートインバージョンはCPUを大量に消費し、コン�
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="581"/>
+        <source>USE_KEYBOARD_INACTIVITY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>シビアモードでキーボードを無効にする</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="582"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>設定をマウスカーソルに適用</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="584"/>
+        <location filename="../../src/translation/Translator.cpp" line="585"/>
         <source>ADVANCED_IRIS</source>
         <translation>詳細設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="585"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>設定の自動保存</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="586"/>
+        <location filename="../../src/translation/Translator.cpp" line="587"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>ショートカットを有効化</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="587"/>
+        <location filename="../../src/translation/Translator.cpp" line="588"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>閉じるボタンを無効化</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="588"/>
+        <location filename="../../src/translation/Translator.cpp" line="589"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>低レベルカラーAPIを使用</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="589"/>
+        <location filename="../../src/translation/Translator.cpp" line="590"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>スタートアップに登録</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="590"/>
+        <location filename="../../src/translation/Translator.cpp" line="591"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>初期設定に戻す</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="591"/>
+        <location filename="../../src/translation/Translator.cpp" line="592"/>
         <source>RESET_COLORS</source>
         <translation>色設定を解除</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="593"/>
+        <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>ADVANCED_SHORTCUTS</source>
         <translation>ショートカット</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="594"/>
+        <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>FEATURE</source>
         <translation>機能</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="595"/>
+        <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>INCREASE_TEMPERATURE</source>
         <translation>温度を上げる
 </translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="596"/>
+        <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>DECREASE_TEMPERATURE</source>
         <translation>温度を下げる</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="597"/>
+        <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>INCREASE_BRIGHTNESS</source>
         <translation>明るさを上げる</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="598"/>
+        <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>DECREASE_BRIGHTNESS</source>
         <translation>明るさを減らす</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="599"/>
+        <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>START_OVERLAY_SCREEN</source>
         <translation>オーバーレイ開始画面</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="600"/>
+        <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>END_OVERLAY_SCREEN</source>
         <translation>終了オーバーレイ画面</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="601"/>
+        <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>USE_COLOR_EFFECTS</source>
         <translation>カラーエフェクトを使用する</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="602"/>
+        <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>PAUSE_RESUME_IRIS</source>
         <translation>アイリスの一時停止/開始</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="603"/>
+        <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
         <translation>手動/自動トグル</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="604"/>
+        <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>START_REST</source>
         <translation>休憩を開始する</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="605"/>
+        <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>PAUSE_RESUME_TIMER</source>
         <translation>タイマーの一時停止/再開</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="606"/>
+        <location filename="../../src/translation/Translator.cpp" line="607"/>
         <source>QUIT_IRIS</source>
         <translation>出口</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="609"/>
+        <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUT</source>
         <translation>ショートカット</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="610"/>
+        <location filename="../../src/translation/Translator.cpp" line="611"/>
         <source>SHORTCUTS</source>
         <translation>ショートカット</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="612"/>
+        <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>ADVANCED_CPU</source>
         <translation>プロセッサー</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="613"/>
+        <location filename="../../src/translation/Translator.cpp" line="614"/>
         <source>OPTIMIZE_UI_CREATION</source>
         <translation>UI作成の最適化</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="615"/>
+        <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>ADVANCED_GPU</source>
         <translation>ビデオカード</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="616"/>
+        <location filename="../../src/translation/Translator.cpp" line="617"/>
         <source>USE_GAMMA_FIXER</source>
         <translation>ガンマロックを使用する</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="618"/>
+        <location filename="../../src/translation/Translator.cpp" line="619"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>ハードウェア設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="619"/>
+        <location filename="../../src/translation/Translator.cpp" line="620"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>サウンド設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="621"/>
+        <location filename="../../src/translation/Translator.cpp" line="622"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>カラー調整の一時停止設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="622"/>
+        <location filename="../../src/translation/Translator.cpp" line="623"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>タイマーの一時停止設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="623"/>
+        <location filename="../../src/translation/Translator.cpp" line="624"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>マウス・ポーズ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="624"/>
-        <location filename="../../src/translation/Translator.cpp" line="652"/>
+        <location filename="../../src/translation/Translator.cpp" line="625"/>
+        <location filename="../../src/translation/Translator.cpp" line="653"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
         <translation>カラートリガー</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="625"/>
+        <location filename="../../src/translation/Translator.cpp" line="626"/>
         <source>FULLSCREEN_APPS</source>
         <translation>全画面アプリ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="627"/>
+        <location filename="../../src/translation/Translator.cpp" line="628"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>スクリーン・オーバーレイ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="628"/>
+        <location filename="../../src/translation/Translator.cpp" line="629"/>
         <source>OVERLAY_COLOR</source>
         <translation>フィルタの色選択</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="642"/>
+        <location filename="../../src/translation/Translator.cpp" line="643"/>
         <source>DAY_OPACITY</source>
         <translation>日中の不透明度</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="643"/>
+        <location filename="../../src/translation/Translator.cpp" line="644"/>
         <source>NIGHT_OPACITY</source>
         <translation>夜間の不透明度</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="645"/>
+        <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>DAY_DIM</source>
         <translation>日中の暗さ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="646"/>
+        <location filename="../../src/translation/Translator.cpp" line="647"/>
         <source>NIGHT_DIM</source>
         <translation>夜間の暗さ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="657"/>
+        <location filename="../../src/translation/Translator.cpp" line="658"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>スマートブライトネスを使用する</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="658"/>
+        <location filename="../../src/translation/Translator.cpp" line="659"/>
         <source>USE_SMART_INVERSION</source>
         <translation>スマートインバージョンを使用する</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="659"/>
+        <location filename="../../src/translation/Translator.cpp" line="660"/>
         <source>ENABLE_CAMERA</source>
         <translation>カメラを有効にする</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="660"/>
+        <location filename="../../src/translation/Translator.cpp" line="661"/>
         <source>DISABLE_CAMERA</source>
         <translation>カメラを無効にする</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="664"/>
+        <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>ADVANCED_FEATURES</source>
         <translation>特徴</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="665"/>
+        <location filename="../../src/translation/Translator.cpp" line="666"/>
         <source>FEATURE_ON_OFF</source>
         <translation>機能 - オン/オフ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="667"/>
+        <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="668"/>
+        <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>IMPORT</source>
         <translation>インポート</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="669"/>
+        <location filename="../../src/translation/Translator.cpp" line="670"/>
         <source>EXPORT</source>
         <translation>転送</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="671"/>
+        <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
         <translation>友達を招待</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="672"/>
+        <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>INVITE_FRIENDS</source>
         <translation>友達を招待</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="673"/>
+        <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>SYNC</source>
         <translation>同期</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="674"/>
+        <location filename="../../src/translation/Translator.cpp" line="675"/>
         <source>RE_CHECK_INVITE</source>
         <translation>招待を再チェック</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="706"/>
+        <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>CZECH</source>
         <translation>チェーチ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="707"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
         <source>UKRAINIAN</source>
         <translation>ウクライナ語</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <location filename="../../src/translation/Translator.cpp" line="709"/>
         <source>DUTCH</source>
         <translation>オランダの</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>隠し機能</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>あなたの呪文を入力してください：</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="712"/>
+        <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>ACTIVATE</source>
         <translation>アクティブ化する</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="714"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
         <source>ADVANCED_DEBUG</source>
         <translation>デバッグ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="715"/>
+        <location filename="../../src/translation/Translator.cpp" line="716"/>
         <source>DEBUG_INFORMATION</source>
         <translation>デバッグの情報</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>SKIP_REST</source>
         <translation>休憩終了</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>NORMAL</source>
         <translation>ノーマル</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>STRICT</source>
         <translation>シビア</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>CONTINUE</source>
         <translation>コンティニュー</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE</source>
         <translation>休憩モード</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>ゆっくり休憩して目を休めましょう</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="730"/>
+        <location filename="../../src/translation/Translator.cpp" line="731"/>
         <source>TIME_IS</source>
         <translation>現在時間</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>START_WORKING</source>
         <translation>作業開始までの時間</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="734"/>
+        <location filename="../../src/translation/Translator.cpp" line="735"/>
         <source>HAVE_A_BREAK</source>
         <translation>休憩までの時間</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>ADD</source>
         <translation>追加</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>REMOVE</source>
         <translation>削除する</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="740"/>
+        <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>BUY</source>
         <translation>購入</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="741"/>
+        <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>BUY_NOW</source>
         <translation>今すぐ購入</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="742"/>
+        <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>min</source>
         <translation>分</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="743"/>
+        <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>sec</source>
         <translation>秒</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>ON</source>
         <translation>オン</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="745"/>
+        <location filename="../../src/translation/Translator.cpp" line="746"/>
         <source>OFF</source>
         <translation>いいえ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="467"/>
-        <location filename="../../src/translation/Translator.cpp" line="629"/>
+        <location filename="../../src/translation/Translator.cpp" line="630"/>
         <source>GREEN</source>
         <translation>グリーン</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="630"/>
+        <location filename="../../src/translation/Translator.cpp" line="631"/>
         <source>TURQUOISE</source>
         <translation>ターコイズ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="468"/>
-        <location filename="../../src/translation/Translator.cpp" line="631"/>
+        <location filename="../../src/translation/Translator.cpp" line="632"/>
         <source>BLUE</source>
         <translation>ブルー</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="632"/>
+        <location filename="../../src/translation/Translator.cpp" line="633"/>
         <source>INDIGO</source>
         <translation>インディゴ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="633"/>
+        <location filename="../../src/translation/Translator.cpp" line="634"/>
         <source>VIOLET</source>
         <translation>バイオレット</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="634"/>
+        <location filename="../../src/translation/Translator.cpp" line="635"/>
         <source>PURPLE</source>
         <translation>パープル</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="635"/>
+        <location filename="../../src/translation/Translator.cpp" line="636"/>
         <source>MAGENTA</source>
         <translation>マゼンタ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="636"/>
+        <location filename="../../src/translation/Translator.cpp" line="637"/>
         <source>SCARLET</source>
         <translation>スカーレット</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="466"/>
-        <location filename="../../src/translation/Translator.cpp" line="637"/>
+        <location filename="../../src/translation/Translator.cpp" line="638"/>
         <source>RED</source>
         <translation>レッド</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="638"/>
+        <location filename="../../src/translation/Translator.cpp" line="639"/>
         <source>ORANGE</source>
         <translation>オレンジ</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="639"/>
+        <location filename="../../src/translation/Translator.cpp" line="640"/>
         <source>YELLOW</source>
         <translation>イエロー</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="640"/>
+        <location filename="../../src/translation/Translator.cpp" line="641"/>
         <source>LEMON</source>
         <translation>レモン</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="493"/>
-        <location filename="../../src/translation/Translator.cpp" line="641"/>
+        <location filename="../../src/translation/Translator.cpp" line="642"/>
         <source>OPACITY</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="644"/>
+        <location filename="../../src/translation/Translator.cpp" line="645"/>
         <source>SCREEN_DIM</source>
         <translation>画面の暗さ</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="496"/>
-        <location filename="../../src/translation/Translator.cpp" line="647"/>
+        <location filename="../../src/translation/Translator.cpp" line="648"/>
         <source>DISABLE</source>
         <translation>無効にする</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="648"/>
+        <location filename="../../src/translation/Translator.cpp" line="649"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>画面領域の指定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="649"/>
+        <location filename="../../src/translation/Translator.cpp" line="650"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>画面領域の指定解除</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="497"/>
-        <location filename="../../src/translation/Translator.cpp" line="650"/>
+        <location filename="../../src/translation/Translator.cpp" line="651"/>
         <source>ENABLE</source>
         <translation>有効にする</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="654"/>
+        <location filename="../../src/translation/Translator.cpp" line="655"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>AI</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="655"/>
+        <location filename="../../src/translation/Translator.cpp" line="656"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>明るさの自動調整</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="656"/>
+        <location filename="../../src/translation/Translator.cpp" line="657"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>まばたき検出</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="661"/>
+        <location filename="../../src/translation/Translator.cpp" line="662"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>認識画面の表示</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="662"/>
+        <location filename="../../src/translation/Translator.cpp" line="663"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>認識画面の非表示</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="676"/>
+        <location filename="../../src/translation/Translator.cpp" line="677"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>エクササイズ設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="677"/>
+        <location filename="../../src/translation/Translator.cpp" line="678"/>
         <source>START_EYE_EXERCISES</source>
         <translation>目をエクササイズしましょう</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="678"/>
+        <location filename="../../src/translation/Translator.cpp" line="679"/>
         <source>START_NECK_EXERCISES</source>
         <translation>首をエクササイズしましょう</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="679"/>
+        <location filename="../../src/translation/Translator.cpp" line="680"/>
         <source>START_BACK_EXERCISES</source>
         <translation>背中のエクササイズをしましょう</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="681"/>
+        <location filename="../../src/translation/Translator.cpp" line="682"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>Irisモデル設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="682"/>
+        <location filename="../../src/translation/Translator.cpp" line="683"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>製品版へ変更</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="683"/>
+        <location filename="../../src/translation/Translator.cpp" line="684"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>簡易版へ変更</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="685"/>
+        <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>ADVANCED_LICENSE</source>
         <translation>ライセンス設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="686"/>
+        <location filename="../../src/translation/Translator.cpp" line="687"/>
         <source>GET_IRIS_PRO</source>
         <translation>PRO版を購入</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="689"/>
+        <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>言語設定</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="690"/>
+        <location filename="../../src/translation/Translator.cpp" line="691"/>
         <source>LANGUAGE</source>
         <translation>言語</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="691"/>
+        <location filename="../../src/translation/Translator.cpp" line="692"/>
         <source>ENGLISH</source>
         <translation>English</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="692"/>
+        <location filename="../../src/translation/Translator.cpp" line="693"/>
         <source>RUSSIAN</source>
         <translation>русский(Russian)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="693"/>
+        <location filename="../../src/translation/Translator.cpp" line="694"/>
         <source>SPANISH</source>
         <translation>Español(Spanish)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="694"/>
+        <location filename="../../src/translation/Translator.cpp" line="695"/>
         <source>CHINESE</source>
         <translation>汉语(Chinese)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="695"/>
+        <location filename="../../src/translation/Translator.cpp" line="696"/>
         <source>INDIAN</source>
         <translation>हिन्दी(Hindi)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="696"/>
+        <location filename="../../src/translation/Translator.cpp" line="697"/>
         <source>JAPANESE</source>
         <translation>日本語(Japanese)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="697"/>
+        <location filename="../../src/translation/Translator.cpp" line="698"/>
         <source>ARABIC</source>
         <translation>Arabic</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="698"/>
+        <location filename="../../src/translation/Translator.cpp" line="699"/>
         <source>TURKISH</source>
         <translation>Türkçe(Turkish)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="699"/>
+        <location filename="../../src/translation/Translator.cpp" line="700"/>
         <source>PORTUGUESE</source>
         <translation>Português(Portuguese)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="700"/>
+        <location filename="../../src/translation/Translator.cpp" line="701"/>
         <source>FRENCH</source>
         <translation>Français(French)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="701"/>
+        <location filename="../../src/translation/Translator.cpp" line="702"/>
         <source>GERMAN</source>
         <translation>Deutsch(German)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="702"/>
+        <location filename="../../src/translation/Translator.cpp" line="703"/>
         <source>KOREAN</source>
         <translation>한국어(Korean)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="703"/>
+        <location filename="../../src/translation/Translator.cpp" line="704"/>
         <source>ITALIAN</source>
         <translation>Italiano(Itarian)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="704"/>
+        <location filename="../../src/translation/Translator.cpp" line="705"/>
         <source>BULGARIAN</source>
         <translation>български(Bulgarian)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="705"/>
+        <location filename="../../src/translation/Translator.cpp" line="706"/>
         <source>GREEK</source>
         <translation>Ελληνικά(Greek)</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>ADVANCED_ABOUT</source>
         <translation>「目に優しい画面」について</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>NAME</source>
         <translation>製品名</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>VERSION</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>PUBLISHER</source>
         <translation>販売元</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="721"/>
+        <location filename="../../src/translation/Translator.cpp" line="722"/>
         <source>WEBSITE</source>
         <translation>ウェブサイト</translation>
     </message>

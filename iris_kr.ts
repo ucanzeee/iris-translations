@@ -135,460 +135,460 @@ Irisは今は問題なく動作しますが、色の変化は限られていま�
 <context>
     <name>HiddenFeatures</name>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="449"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="477"/>
         <source>Invalid spell</source>
         <translation>맞춤법이 잘못되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="450"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="478"/>
         <source>The spell</source>
         <translation>마법</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="452"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="480"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
         <translation>그것은 틀린 것처럼 보인다. 구문을 확인하거나 숨겨진 다른 기능을 사용해보십시오.
 </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="453"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="481"/>
         <source>Use &quot;help&quot; to see the list of all hidden features :)</source>
         <translation>모든 숨겨진 기능의 목록을 보려면 &quot;도움말&quot;을 사용하십시오. :)</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="476"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="499"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="504"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="527"/>
         <source>Invalid temperature</source>
         <translation>온도가 잘못되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="479"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="502"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="507"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="530"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
         <translation>색온도 값이 잘못되었습니다. 0에서 10000 사이의 숫자를 사용하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="486"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="509"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="514"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="537"/>
         <source>Temperature changed</source>
         <translation>온도 변화</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="487"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="510"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="515"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="538"/>
         <source>Color temperature changed to</source>
         <translation>색 온도가로 변경됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="522"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="545"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="550"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="573"/>
         <source>Invalid brightness</source>
         <translation>잘못된 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="525"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="548"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="553"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="576"/>
         <source>is invalid value for Brightness. Use number between 10 and 100.</source>
         <translation>밝기에 유효하지 않은 값입니다. 10에서 100 사이의 숫자를 사용하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="532"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="555"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="560"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="583"/>
         <source>Brightness changed</source>
         <translation>밝기가 변경되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="533"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="556"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="561"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="584"/>
         <source>Brightness changed to</source>
         <translation>밝기가로 변경됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="585"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="613"/>
         <source>Gamma fixer disabled</source>
         <translation>감마 보정 사용 안함</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="586"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="614"/>
         <source>Gamma fixer is disabled. If your screen suddenly becomes bright enable it again or click the Iris mini icon several times. Both should force Iris to change the screen colors.</source>
         <translation>표시기 잠금이 비활성화됩니다. 화면이 갑자기 매우 밝아지면 다시 켜거나 아이리스 미니 아이콘을 여러 번 눌러 화면의 색상을 변경하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="591"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="619"/>
         <source>Gamma fixer enabled</source>
         <translation>감마 보정 사용</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="592"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="620"/>
         <source>Gamma fixer is enabled. If notice slight color changing every second disable the Gamma fixer again. Gamma fixer is used, because Windows decides to ignore Iris mini changes from time to time.</source>
         <translation>감마 해결사가 사용됩니다. 매초마다 조금씩 색이 바뀌면 감마 해결사를 다시 비활성화하십시오. Windows는 때때로 아이리스 미니 변경 사항을 무시하기로 결정하기 때문에 감마 해결사가 사용됩니다</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="622"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="650"/>
         <source>Start at startup enabled</source>
         <translation>허용 된 부트 로더 시작</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="623"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="651"/>
         <source>Iris mini will start when you turn ON your computer</source>
         <translation>컴퓨터를 켜면 Iris mini가 시작됩니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="628"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="656"/>
         <source>Start at startup disabled</source>
         <translation>OS를로드 할 때 금지 된 시작</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="629"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="657"/>
         <source>Iris mini will not start when you turn ON your computer</source>
         <translation>컴퓨터를 켜면 Iris mini가 시작되지 않습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="658"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="686"/>
         <source>Tray icon rotation is enabled</source>
         <translation>아이콘의 애니메이션 허용</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="659"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="687"/>
         <source>The tray icon will rotate when Iris is changing screen colors. This is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation>Iris が画面の色を変えているときにトレイアイコンが回転する Iris mini が色を変えていて画面が較正されていないことを示すために使用されます</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="664"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="692"/>
         <source>Tray icon rotation is disabled</source>
         <translation>아이콘의 금지 된 애니메이션</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="665"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="693"/>
         <source>The tray icon will not rotate when Iris is changing screen colors. This feature is used to show when Iris mini is changing colors and your screen is not calibrated</source>
         <translation>Iris가 화면 색상을 변경하면 용지함 아이콘이 회전합니다. Iris mini 가 색상을 변경하고 화면이 보정되지 않았을 때 표시됩니다
 </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="676"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="704"/>
         <source>Manual temperature enabled</source>
         <translation>수동 온도 설정 허용</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="677"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="705"/>
         <source>You are now using Iris Mixed mode</source>
         <translation>이제 아이리스 혼합 모드를 사용 중입니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="682"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="710"/>
         <source>Manual temperature disabled</source>
         <translation>금지 수동 온도 설정</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="683"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="711"/>
         <source>Iris will use your selected mode for temperature again</source>
         <translation>Iris는 선택한 모드를 다시 사용합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="694"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source>Manual brightness enabled</source>
         <translation>허용 된 수동 밝기 조정</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="695"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
         <source>You are now using Iris mini Mixed mode</source>
         <translation>이제 Iris mini 혼합 모드를 사용 중입니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="700"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="728"/>
         <source>Manual brightness disabled</source>
         <translation>금지 된 수동 밝기 조정</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="701"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="729"/>
         <source>Iris mini will use your selected mode for brightness again</source>
         <translation>Iris mini 는 밝기를 위해 선택한 모드를 다시 사용합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="713"/>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="721"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="741"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="749"/>
         <source>Monitor</source>
         <translation>감시 장치</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="714"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="742"/>
         <source> disabled</source>
         <translation>장애인</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="715"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="743"/>
         <source>Iris will not apply color changes to Monitor</source>
         <translation>Iris는 색상 변경을 모니터에 적용하지 않습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="750"/>
         <source> enabled</source>
         <translation>사용 가능</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="751"/>
         <source>Iris will apply color changes to Monitor</source>
         <translation>Iris는 모니터의 색상 변경을 적용합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="734"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="762"/>
         <source>Reset colors</source>
         <translation>색상 재설정</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="735"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="763"/>
         <source>Screen colors are reset to default values</source>
         <translation>화면 색상이 기본값으로 반환됩니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="745"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="773"/>
         <source>Reset settings</source>
         <translation>설정 재설정</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="746"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="774"/>
         <source>Iris settings are reset to default values</source>
         <translation>조리개 설정이 기본값으로 재설정됩니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="756"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="784"/>
         <source>Invert</source>
         <translation>거꾸로 하다</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="757"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Colors are inverted</source>
         <translation>색상이 반전 됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="767"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="795"/>
         <source>Zero blue light</source>
         <translation>파란 빛 없음</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="768"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>All blue light is removed from the screen</source>
         <translation>모든 파란색 음영이 화면에서 제거됩니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="779"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="807"/>
         <source>Gamma preservation enabled</source>
         <translation>감마 보존 활성화</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="780"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="808"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
         <translation>Irisは今からあなたのカラーキャリブレーションを尊重します。 閉じると Irisミニを開始し、それはあなたの色を保存する日中
 </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="813"/>
         <source>Gamma preservation disabled</source>
         <translation>감마 보존 사용 중지됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="786"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="814"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
         <translation>Iris는 색상 보정을 유지하지 않습니다. 프로그램은 기본 모니터 설정을 사용합니다</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="824"/>
         <source>Notifications enabled</source>
         <translation>알림 사용</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="797"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="825"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
         <translation>숨겨진 기능에 대한 알림이 허용됩니다. 당신은 당신의 주문이 받아 들여지는 것을 알 수 있도록 그것들을 볼 것입니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="802"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="830"/>
         <source>Notifications disabled</source>
         <translation>알림 사용 중지됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="803"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="831"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
         <translation>숨겨진 기능 알림은 금지되지 않습니다. 이것은 당신이 볼 마지막 통지입니다</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="836"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="864"/>
         <source>Manual location enabled</source>
         <translation>수동 위치 사용</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="837"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="865"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
         <translation>Iris mini 는 수동 위치를 사용합니다. 숨겨진 기능으로 위도와 경도 설정
 </translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="842"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="870"/>
         <source>Manual location disabled</source>
         <translation>수동 위치 사용 중지됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="843"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="871"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris mini  자동 위치를 사용합니다. 위치는 태양의 위치와 낮과 밤의 시간을 계산하는 데 사용됩니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="855"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
         <source>Manual night duration enabled</source>
         <translation>수동 야간 사용 설정</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="856"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
         <source>Iris mini will use manual night duration. Set start and end time with the hidden features</source>
         <translation>Iris mini 는 수동 야간 사용합니다. 숨겨진 기능으로 시작 및 종료 시간 설정</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="861"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="889"/>
         <source>Manual night duration disabled</source>
         <translation>수동 야간 사용 중지됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="862"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="890"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
         <translation>Iris mini 는 위치에 따라 자동 야간을 사용합니다. 위치는 태양의 위치와 낮과 밤의 시간을 계산하는 데 사용됩니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="873"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="901"/>
         <source>Invalid Night start time</source>
         <translation>야간 시작 시간이 잘못되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="876"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="904"/>
         <source>is invalid value for Night start time. Use number between 0 and 24.</source>
         <translation>밤에 유효하지 않은 시작 시간입니다. 0에서 24까지의 숫자를 사용하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="911"/>
         <source>Night start time changed</source>
         <translation>야간 시작 시간 변경됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="884"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="912"/>
         <source>Manual night start time changed to</source>
         <translation>밤의 시작은로 바뀌었다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="896"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="924"/>
         <source>Invalid Night end time</source>
         <translation>야간 시간이 잘못되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="899"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="927"/>
         <source>is invalid value for Night end time. Use number between 0 and 24.</source>
         <translation>밤 무효 종료 시간입니다. 0에서 24까지의 숫자를 사용하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="906"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="934"/>
         <source>Night end time changed</source>
         <translation>야간 종료 시간 변경됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="907"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="935"/>
         <source>Manual night end time changed to</source>
         <translation>밤의 종말은로 바뀌었다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="918"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="946"/>
         <source>Latitude changed</source>
         <translation>위도가 변경됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="919"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="947"/>
         <source>Latitude changed to</source>
         <translation>위도가 (으)로 변경되었습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="929"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="957"/>
         <source>Longitude changed</source>
         <translation>경도 변경됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="930"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="958"/>
         <source>Longitude changed to</source>
         <translation>경도가로 변경됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="939"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="967"/>
         <source>Software cursor enabled</source>
         <translation>소프트웨어 커서 사용</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="940"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
         <translation>커서가 색상 변경을 적용합니다. 사라지기 시작하면 다시 보려면 소프트웨어 커서를 비활성화하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="948"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="976"/>
         <source>Hardware cursor enabled</source>
         <translation>하드웨어 커서 사용</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="949"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="977"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
         <translation>커서는 색상 변경을 적용하지 않습니다. 야간에 밝은 파란색 커서가 마음에 들지 않으면 소프트웨어 커서가 색상 변경을 적용 할 수 있도록하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="962"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="990"/>
         <source>Conflicting applications enabled</source>
         <translation>충돌하는 응용 프로그램 사용</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="963"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="991"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
         <translation>호환되지 않는 앱이 허용되며 화면 색상을 변경하는 다른 프로그램을 사용할 수도 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="996"/>
         <source>Conflicting applications disabled</source>
         <translation>충돌하는 응용 프로그램을 사용할 수 없습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="969"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
         <translation>충돌하는 응용 프로그램을 사용할 수 없습니다. 깜박임을 발생시키지 않으려면 충돌하는 응용 프로그램을 사용할 수 없게 설정하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1025"/>
         <source>Keyboard Hook enabled</source>
         <translation>키보드 훅 사용 가능</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="998"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1026"/>
         <source>Keyboard Hook enabled. You can now use system-wide shortcuts.</source>
         <translation>키보드 후크가 활성화되었습니다. 이제 시스템 전체의 바로 가기를 사용할 수 있습니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1003"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1031"/>
         <source>Keyboard Hook disabled</source>
         <translation>키보드 후크가 비활성화 됨</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1004"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1032"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
         <translation>키보드 후크는 금지되어 있습니다. 일부 빠른 키가 제대로 작동하지 않을 수 있음</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1016"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1044"/>
         <source>Trial Notification enabled</source>
         <translation>평가판 사용 가능</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1017"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1045"/>
         <source>Iris will remind you when your trial expires</source>
         <translation>평가판이 만료되면 Iris 가 알려줍니다.</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1022"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1050"/>
         <source>Trial Notification disabled</source>
         <translation>평가판 사용 안 함</translation>
     </message>
     <message>
-        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1023"/>
+        <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1051"/>
         <source>Iris will no logner remind you when your trial expires</source>
         <translation>평가판 사용 기간이 만료되면 Iris 가 더 이상 상기시켜주지 않습니다.</translation>
     </message>
@@ -782,246 +782,243 @@ http://iristech.co/iris-mini</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="761"/>
         <source>until</source>
-        <translation>까지</translation>
+        <translation type="vanished">까지</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="773"/>
         <source>rest</source>
-        <translation>휴식</translation>
+        <translation type="vanished">휴식</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="795"/>
         <source>work</source>
-        <translation>작업</translation>
+        <translation type="vanished">작업</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="909"/>
+        <location filename="../../src/MainWindow.cpp" line="825"/>
         <source>Expired</source>
         <translation>만료 된</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="913"/>
+        <location filename="../../src/MainWindow.cpp" line="829"/>
         <source>Paused</source>
         <translation>일시 중지됨</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1127"/>
-        <location filename="../../src/MainWindow.cpp" line="1237"/>
+        <location filename="../../src/MainWindow.cpp" line="1043"/>
+        <location filename="../../src/MainWindow.cpp" line="1153"/>
         <source>Day start time</source>
         <translation>하루 시작 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1129"/>
-        <location filename="../../src/MainWindow.cpp" line="1239"/>
+        <location filename="../../src/MainWindow.cpp" line="1045"/>
+        <location filename="../../src/MainWindow.cpp" line="1155"/>
         <source>Day transition start time</source>
         <translation>일 전환 시작 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1131"/>
-        <location filename="../../src/MainWindow.cpp" line="1241"/>
+        <location filename="../../src/MainWindow.cpp" line="1047"/>
+        <location filename="../../src/MainWindow.cpp" line="1157"/>
         <source>Day transition end time</source>
         <translation>일 전환 종료 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1133"/>
-        <location filename="../../src/MainWindow.cpp" line="1243"/>
+        <location filename="../../src/MainWindow.cpp" line="1049"/>
+        <location filename="../../src/MainWindow.cpp" line="1159"/>
         <source>Day end time</source>
         <translation>하루 종료 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1138"/>
-        <location filename="../../src/MainWindow.cpp" line="1248"/>
+        <location filename="../../src/MainWindow.cpp" line="1054"/>
+        <location filename="../../src/MainWindow.cpp" line="1164"/>
         <source>Night start time</source>
         <translation>야간 시작 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1140"/>
-        <location filename="../../src/MainWindow.cpp" line="1250"/>
+        <location filename="../../src/MainWindow.cpp" line="1056"/>
+        <location filename="../../src/MainWindow.cpp" line="1166"/>
         <source>Night transition start time</source>
         <translation>야간 전환 시작 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1142"/>
-        <location filename="../../src/MainWindow.cpp" line="1252"/>
+        <location filename="../../src/MainWindow.cpp" line="1058"/>
+        <location filename="../../src/MainWindow.cpp" line="1168"/>
         <source>Night transition end time</source>
         <translation>야간 이동 종료 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1144"/>
-        <location filename="../../src/MainWindow.cpp" line="1254"/>
+        <location filename="../../src/MainWindow.cpp" line="1060"/>
+        <location filename="../../src/MainWindow.cpp" line="1170"/>
         <source>Night end time</source>
         <translation>야간 종료 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1149"/>
-        <location filename="../../src/MainWindow.cpp" line="1259"/>
+        <location filename="../../src/MainWindow.cpp" line="1065"/>
+        <location filename="../../src/MainWindow.cpp" line="1175"/>
         <source>Bedtime</source>
         <translation>취침 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1151"/>
-        <location filename="../../src/MainWindow.cpp" line="1261"/>
+        <location filename="../../src/MainWindow.cpp" line="1067"/>
+        <location filename="../../src/MainWindow.cpp" line="1177"/>
         <source>Bedtime transition start time</source>
         <translation>취침 전이 시작 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1153"/>
-        <location filename="../../src/MainWindow.cpp" line="1263"/>
+        <location filename="../../src/MainWindow.cpp" line="1069"/>
+        <location filename="../../src/MainWindow.cpp" line="1179"/>
         <source>Bedtime transition end time</source>
         <translation>취침 전이 종료 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1155"/>
-        <location filename="../../src/MainWindow.cpp" line="1265"/>
+        <location filename="../../src/MainWindow.cpp" line="1071"/>
+        <location filename="../../src/MainWindow.cpp" line="1181"/>
         <source>Bedtime end time</source>
         <translation>취침 시간 종료</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1160"/>
-        <location filename="../../src/MainWindow.cpp" line="1270"/>
+        <location filename="../../src/MainWindow.cpp" line="1076"/>
+        <location filename="../../src/MainWindow.cpp" line="1186"/>
         <source>Wake time</source>
         <translation>깨우기 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1162"/>
-        <location filename="../../src/MainWindow.cpp" line="1272"/>
+        <location filename="../../src/MainWindow.cpp" line="1078"/>
+        <location filename="../../src/MainWindow.cpp" line="1188"/>
         <source>Wake time transition start time</source>
         <translation>깨우기 시간 전환 시작 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1164"/>
-        <location filename="../../src/MainWindow.cpp" line="1274"/>
+        <location filename="../../src/MainWindow.cpp" line="1080"/>
+        <location filename="../../src/MainWindow.cpp" line="1190"/>
         <source>Wake time transition end time</source>
         <translation>깨우기 시간 전환 종료 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1166"/>
-        <location filename="../../src/MainWindow.cpp" line="1276"/>
+        <location filename="../../src/MainWindow.cpp" line="1082"/>
+        <location filename="../../src/MainWindow.cpp" line="1192"/>
         <source>Wake time end time</source>
         <translation>깨우기 시간 종료 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1171"/>
-        <location filename="../../src/MainWindow.cpp" line="1281"/>
+        <location filename="../../src/MainWindow.cpp" line="1087"/>
+        <location filename="../../src/MainWindow.cpp" line="1197"/>
         <source>Day duration</source>
         <translation>일 기간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1173"/>
-        <location filename="../../src/MainWindow.cpp" line="1283"/>
+        <location filename="../../src/MainWindow.cpp" line="1089"/>
+        <location filename="../../src/MainWindow.cpp" line="1199"/>
         <source>Day transition duration</source>
         <translation>일 전환 기간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1175"/>
-        <location filename="../../src/MainWindow.cpp" line="1285"/>
+        <location filename="../../src/MainWindow.cpp" line="1091"/>
+        <location filename="../../src/MainWindow.cpp" line="1201"/>
         <source>Night duration</source>
         <translation>야간 기간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1177"/>
-        <location filename="../../src/MainWindow.cpp" line="1287"/>
+        <location filename="../../src/MainWindow.cpp" line="1093"/>
+        <location filename="../../src/MainWindow.cpp" line="1203"/>
         <source>Night transition duration</source>
         <translation>야간 전환 기간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1179"/>
-        <location filename="../../src/MainWindow.cpp" line="1289"/>
+        <location filename="../../src/MainWindow.cpp" line="1095"/>
+        <location filename="../../src/MainWindow.cpp" line="1205"/>
         <source>Sleep duration</source>
         <translation>수면 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1181"/>
-        <location filename="../../src/MainWindow.cpp" line="1291"/>
+        <location filename="../../src/MainWindow.cpp" line="1097"/>
+        <location filename="../../src/MainWindow.cpp" line="1207"/>
         <source>Sleep transition duration</source>
         <translation>수면 전환 지속 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1187"/>
+        <location filename="../../src/MainWindow.cpp" line="1103"/>
         <source>Time zone</source>
         <translation>시간대</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1189"/>
+        <location filename="../../src/MainWindow.cpp" line="1105"/>
         <source>Custom Time zone offset</source>
         <translation>맞춤 시간대 오프셋</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1194"/>
+        <location filename="../../src/MainWindow.cpp" line="1110"/>
         <source>Sunrise time</source>
         <translation>일출 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1196"/>
+        <location filename="../../src/MainWindow.cpp" line="1112"/>
         <source>Sunset time</source>
         <translation>일몰 시간</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1201"/>
+        <location filename="../../src/MainWindow.cpp" line="1117"/>
         <source>New moon offset</source>
         <translation>뉴문 오프셋</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1203"/>
+        <location filename="../../src/MainWindow.cpp" line="1119"/>
         <source>Full moon offset</source>
         <translation>보름달 오프셋</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1205"/>
+        <location filename="../../src/MainWindow.cpp" line="1121"/>
         <source>Current moon offset</source>
         <translation>현재 달 오프셋</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1818"/>
+        <location filename="../../src/MainWindow.cpp" line="1735"/>
         <source>Iris Pro needed</source>
         <translation>아이리스 프로 필요</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="1819"/>
+        <location filename="../../src/MainWindow.cpp" line="1736"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>필요한 항목 : Iris Pro :이 섹션에 액세스하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2393"/>
+        <location filename="../../src/MainWindow.cpp" line="2319"/>
         <source>Relaunch Iris</source>
         <translation>다시 시작 아이리스 </translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2394"/>
+        <location filename="../../src/MainWindow.cpp" line="2320"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation>변경 사항이 적용 되려면 아이리스를 다시 시작해야합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2396"/>
+        <location filename="../../src/MainWindow.cpp" line="2322"/>
         <source>Relaunch now</source>
         <translation>지금 다시 시작하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2397"/>
+        <location filename="../../src/MainWindow.cpp" line="2323"/>
         <source>Later</source>
         <translation>후에</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2413"/>
-        <location filename="../../src/MainWindow.cpp" line="2478"/>
+        <location filename="../../src/MainWindow.cpp" line="2339"/>
+        <location filename="../../src/MainWindow.cpp" line="2404"/>
         <source>Restart is needed</source>
         <translation>다시 시작해야합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="2414"/>
-        <location filename="../../src/MainWindow.cpp" line="2478"/>
+        <location filename="../../src/MainWindow.cpp" line="2340"/>
+        <location filename="../../src/MainWindow.cpp" line="2404"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation>Iris는 시스템을 약간 변경하고 변경 사항을 적용하려면 시스템을 다시 시작해야합니다.</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3992"/>
+        <location filename="../../src/MainWindow.cpp" line="3928"/>
         <source>WARNING!!!</source>
         <translation>경고!!!</translation>
     </message>
     <message>
-        <location filename="../../src/MainWindow.cpp" line="3993"/>
+        <location filename="../../src/MainWindow.cpp" line="3929"/>
         <source>WARNING!!!
 
 Smart inversion on OSX is CPU intensive and may slow down your computer a lot. Use it only if performance is not important!</source>
@@ -1156,37 +1153,52 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
 <context>
     <name>RestTimer</name>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="369"/>
         <source>hour</source>
         <translation>시간</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="369"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="373"/>
         <source>min</source>
         <translation>분</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="367"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="371"/>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="375"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="369"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="373"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="377"/>
         <source>sec</source>
         <translation>비서</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="429"/>
         <source>reminds you that a big rest will occur in</source>
         <translation>당신은 훌륭한 휴가를 보내고 있다는 것을 상기시켜줍니다.</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="427"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="429"/>
         <source>minutes</source>
         <translation>의사록</translation>
     </message>
     <message>
-        <location filename="../../src/break_reminding/RestTimer.cpp" line="432"/>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="434"/>
         <source>reminds you that a big rest will occur in 30 seconds</source>
         <translation>30 초 만에 큰 휴식을 취할 수 있음을 상기시켜줍니다.</translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="460"/>
+        <source>until</source>
+        <translation type="unfinished">까지</translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="472"/>
+        <source>rest</source>
+        <translation type="unfinished">휴식</translation>
+    </message>
+    <message>
+        <location filename="../../src/break_reminding/RestTimer.cpp" line="494"/>
+        <source>work</source>
+        <translation type="unfinished">작업</translation>
     </message>
 </context>
 <context>
@@ -1326,8 +1338,8 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="417"/>
-        <location filename="../../src/translation/Translator.cpp" line="687"/>
-        <location filename="../../src/translation/Translator.cpp" line="739"/>
+        <location filename="../../src/translation/Translator.cpp" line="688"/>
+        <location filename="../../src/translation/Translator.cpp" line="740"/>
         <source>ACTIVATE_CODE</source>
         <translation>코드 활성화</translation>
     </message>
@@ -1904,13 +1916,13 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="561"/>
-        <location filename="../../src/translation/Translator.cpp" line="607"/>
+        <location filename="../../src/translation/Translator.cpp" line="608"/>
         <source>ZOOM_IN</source>
         <translation>확대</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="562"/>
-        <location filename="../../src/translation/Translator.cpp" line="608"/>
+        <location filename="../../src/translation/Translator.cpp" line="609"/>
         <source>ZOOM_OUT</source>
         <translation>축소</translation>
     </message>
@@ -1991,683 +2003,688 @@ OSX에서 스마트 반전은 CPU를 많이 사용하므로 컴퓨터 속도가 
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="581"/>
+        <source>USE_KEYBOARD_INACTIVITY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../src/translation/Translator.cpp" line="582"/>
         <source>BLOCK_KEYBOARD</source>
         <translation>엄격 모드에서 키보드 차단</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="582"/>
+        <location filename="../../src/translation/Translator.cpp" line="583"/>
         <source>USE_SOFTWARE_MOUSE</source>
         <translation>소프트웨어 마우스 커서 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="584"/>
+        <location filename="../../src/translation/Translator.cpp" line="585"/>
         <source>ADVANCED_IRIS</source>
         <translation>아이리스</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="585"/>
+        <location filename="../../src/translation/Translator.cpp" line="586"/>
         <source>AUTOSAVE_SETTINGS_CHANGES</source>
         <translation>자동 저장 설정 변경</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="586"/>
+        <location filename="../../src/translation/Translator.cpp" line="587"/>
         <source>USE_KEYBOARD_SHORTCUTS</source>
         <translation>키보드 단축키 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="587"/>
+        <location filename="../../src/translation/Translator.cpp" line="588"/>
         <source>DESTROY_UI_ON_CLOSE</source>
         <translation>아이리스 UI 닫기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="588"/>
+        <location filename="../../src/translation/Translator.cpp" line="589"/>
         <source>USE_LOW_LEVEL_COLOR_API</source>
         <translation>낮은 수준의 색상 코드 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="589"/>
+        <location filename="../../src/translation/Translator.cpp" line="590"/>
         <source>START_IRIS_ON_STARTUP</source>
         <translation>시작시 아이리스 시작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="591"/>
+        <location filename="../../src/translation/Translator.cpp" line="592"/>
         <source>RESET_COLORS</source>
         <translation>색상 재설정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="593"/>
+        <location filename="../../src/translation/Translator.cpp" line="594"/>
         <source>ADVANCED_SHORTCUTS</source>
         <translation>바로 가기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="594"/>
+        <location filename="../../src/translation/Translator.cpp" line="595"/>
         <source>FEATURE</source>
         <translation>기능</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="595"/>
+        <location filename="../../src/translation/Translator.cpp" line="596"/>
         <source>INCREASE_TEMPERATURE</source>
         <translation>온도 상승</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="596"/>
+        <location filename="../../src/translation/Translator.cpp" line="597"/>
         <source>DECREASE_TEMPERATURE</source>
         <translation>온도 감소</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="597"/>
+        <location filename="../../src/translation/Translator.cpp" line="598"/>
         <source>INCREASE_BRIGHTNESS</source>
         <translation>밝기 증가</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="598"/>
+        <location filename="../../src/translation/Translator.cpp" line="599"/>
         <source>DECREASE_BRIGHTNESS</source>
         <translation>밝기 줄이기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="599"/>
+        <location filename="../../src/translation/Translator.cpp" line="600"/>
         <source>START_OVERLAY_SCREEN</source>
         <translation>오버레이 시작 화면</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="600"/>
+        <location filename="../../src/translation/Translator.cpp" line="601"/>
         <source>END_OVERLAY_SCREEN</source>
         <translation>레이어 중지 화면</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="601"/>
+        <location filename="../../src/translation/Translator.cpp" line="602"/>
         <source>USE_COLOR_EFFECTS</source>
         <translation>색상 효과 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="602"/>
+        <location filename="../../src/translation/Translator.cpp" line="603"/>
         <source>PAUSE_RESUME_IRIS</source>
         <translation>아이리스 일시 정지 / 시작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="603"/>
+        <location filename="../../src/translation/Translator.cpp" line="604"/>
         <source>MANUAL_AUTOMATIC_TOOGLE</source>
         <translation>수동 / 자동 토글</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="604"/>
+        <location filename="../../src/translation/Translator.cpp" line="605"/>
         <source>START_REST</source>
         <translation>휴식 시작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="605"/>
+        <location filename="../../src/translation/Translator.cpp" line="606"/>
         <source>PAUSE_RESUME_TIMER</source>
         <translation>일시 중지 / 다시 시작 타이머</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="606"/>
+        <location filename="../../src/translation/Translator.cpp" line="607"/>
         <source>QUIT_IRIS</source>
         <translation>출구</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="609"/>
+        <location filename="../../src/translation/Translator.cpp" line="610"/>
         <source>SHORTCUT</source>
         <translation>지름길</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="610"/>
+        <location filename="../../src/translation/Translator.cpp" line="611"/>
         <source>SHORTCUTS</source>
         <translation>바로 가기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="612"/>
+        <location filename="../../src/translation/Translator.cpp" line="613"/>
         <source>ADVANCED_CPU</source>
         <translation>프로세서</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="613"/>
+        <location filename="../../src/translation/Translator.cpp" line="614"/>
         <source>OPTIMIZE_UI_CREATION</source>
         <translation>UI 생성 최적화</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="615"/>
+        <location filename="../../src/translation/Translator.cpp" line="616"/>
         <source>ADVANCED_GPU</source>
         <translation>비디오 카드</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="616"/>
+        <location filename="../../src/translation/Translator.cpp" line="617"/>
         <source>USE_GAMMA_FIXER</source>
         <translation>감마 잠금 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="623"/>
+        <location filename="../../src/translation/Translator.cpp" line="624"/>
         <source>ADVANCED_MOUSE_PAUSERS</source>
         <translation>마우스 멈춤 장치</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="624"/>
-        <location filename="../../src/translation/Translator.cpp" line="652"/>
+        <location filename="../../src/translation/Translator.cpp" line="625"/>
+        <location filename="../../src/translation/Translator.cpp" line="653"/>
         <source>ADVANCED_COLOR_TRIGGERS</source>
         <translation>색상 트리거</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="625"/>
+        <location filename="../../src/translation/Translator.cpp" line="626"/>
         <source>FULLSCREEN_APPS</source>
         <translation>전체 화면 앱</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="642"/>
+        <location filename="../../src/translation/Translator.cpp" line="643"/>
         <source>DAY_OPACITY</source>
         <translation>일 불투명도</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="643"/>
+        <location filename="../../src/translation/Translator.cpp" line="644"/>
         <source>NIGHT_OPACITY</source>
         <translation>밤의 불투명도</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="645"/>
+        <location filename="../../src/translation/Translator.cpp" line="646"/>
         <source>DAY_DIM</source>
         <translation>낮의 흐림</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="646"/>
+        <location filename="../../src/translation/Translator.cpp" line="647"/>
         <source>NIGHT_DIM</source>
         <translation>야간 흐림</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="657"/>
+        <location filename="../../src/translation/Translator.cpp" line="658"/>
         <source>USE_SMART_BRIGHTNESS</source>
         <translation>스마트 한 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="658"/>
+        <location filename="../../src/translation/Translator.cpp" line="659"/>
         <source>USE_SMART_INVERSION</source>
         <translation>스마트 반전</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="659"/>
+        <location filename="../../src/translation/Translator.cpp" line="660"/>
         <source>ENABLE_CAMERA</source>
         <translation>카메라 사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="660"/>
+        <location filename="../../src/translation/Translator.cpp" line="661"/>
         <source>DISABLE_CAMERA</source>
         <translation>카메라 사용 안 함</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="664"/>
+        <location filename="../../src/translation/Translator.cpp" line="665"/>
         <source>ADVANCED_FEATURES</source>
         <translation>풍모</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="665"/>
+        <location filename="../../src/translation/Translator.cpp" line="666"/>
         <source>FEATURE_ON_OFF</source>
         <translation>기능 - ON / OFF</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="667"/>
+        <location filename="../../src/translation/Translator.cpp" line="668"/>
         <source>ADVANCED_IMPORT_EXPORT</source>
         <translation>설정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="668"/>
+        <location filename="../../src/translation/Translator.cpp" line="669"/>
         <source>IMPORT</source>
         <translation>수입</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="669"/>
+        <location filename="../../src/translation/Translator.cpp" line="670"/>
         <source>EXPORT</source>
         <translation>전송</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="671"/>
+        <location filename="../../src/translation/Translator.cpp" line="672"/>
         <source>ADVANCED_INVITE_FRIENDS</source>
         <translation>친구를 초대</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="672"/>
+        <location filename="../../src/translation/Translator.cpp" line="673"/>
         <source>INVITE_FRIENDS</source>
         <translation>친구를 초대</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="673"/>
+        <location filename="../../src/translation/Translator.cpp" line="674"/>
         <source>SYNC</source>
         <translation>동조</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="674"/>
+        <location filename="../../src/translation/Translator.cpp" line="675"/>
         <source>RE_CHECK_INVITE</source>
         <translation>초대장 재검색</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="706"/>
+        <location filename="../../src/translation/Translator.cpp" line="707"/>
         <source>CZECH</source>
         <translation>체코 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="707"/>
+        <location filename="../../src/translation/Translator.cpp" line="708"/>
         <source>UKRAINIAN</source>
         <translation>우크라이나 말</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="708"/>
+        <location filename="../../src/translation/Translator.cpp" line="709"/>
         <source>DUTCH</source>
         <translation>네덜란드 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="710"/>
+        <location filename="../../src/translation/Translator.cpp" line="711"/>
         <source>ADVANCED_HIDDEN_FEATURES</source>
         <translation>숨겨진 기능</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="711"/>
+        <location filename="../../src/translation/Translator.cpp" line="712"/>
         <source>ENTER_YOUR_SPELL</source>
         <translation>당신의 주문 입력 :</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="712"/>
+        <location filename="../../src/translation/Translator.cpp" line="713"/>
         <source>ACTIVATE</source>
         <translation>활성화</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="714"/>
+        <location filename="../../src/translation/Translator.cpp" line="715"/>
         <source>ADVANCED_DEBUG</source>
         <translation>디버그</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="715"/>
+        <location filename="../../src/translation/Translator.cpp" line="716"/>
         <source>DEBUG_INFORMATION</source>
         <translation>디버그 정보</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="724"/>
+        <location filename="../../src/translation/Translator.cpp" line="725"/>
         <source>SKIP_REST</source>
         <translation>스킵 레스트</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="725"/>
+        <location filename="../../src/translation/Translator.cpp" line="726"/>
         <source>NORMAL</source>
         <translation>표준</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="726"/>
+        <location filename="../../src/translation/Translator.cpp" line="727"/>
         <source>STRICT</source>
         <translation>엄격한</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="727"/>
+        <location filename="../../src/translation/Translator.cpp" line="728"/>
         <source>CONTINUE</source>
         <translation>잇다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="728"/>
+        <location filename="../../src/translation/Translator.cpp" line="729"/>
         <source>REST_MODE</source>
         <translation>휴식 모드</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="729"/>
+        <location filename="../../src/translation/Translator.cpp" line="730"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>당신은 이제 휴식 모드에 있습니다. 설정 패널에서 타이머를 편집하십시오.</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="730"/>
+        <location filename="../../src/translation/Translator.cpp" line="731"/>
         <source>TIME_IS</source>
         <translation>시간은</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="733"/>
+        <location filename="../../src/translation/Translator.cpp" line="734"/>
         <source>START_WORKING</source>
         <translation>일을 시작하다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="734"/>
+        <location filename="../../src/translation/Translator.cpp" line="735"/>
         <source>HAVE_A_BREAK</source>
         <translation>휴식을 가지다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="737"/>
+        <location filename="../../src/translation/Translator.cpp" line="738"/>
         <source>ADD</source>
         <translation>더하다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="738"/>
+        <location filename="../../src/translation/Translator.cpp" line="739"/>
         <source>REMOVE</source>
         <translation>풀다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="740"/>
+        <location filename="../../src/translation/Translator.cpp" line="741"/>
         <source>BUY</source>
         <translation>사다</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="741"/>
+        <location filename="../../src/translation/Translator.cpp" line="742"/>
         <source>BUY_NOW</source>
         <translation>지금 구입</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="742"/>
+        <location filename="../../src/translation/Translator.cpp" line="743"/>
         <source>min</source>
         <translation>분</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="743"/>
+        <location filename="../../src/translation/Translator.cpp" line="744"/>
         <source>sec</source>
         <translation>초</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="744"/>
+        <location filename="../../src/translation/Translator.cpp" line="745"/>
         <source>ON</source>
         <translation>켜짐</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="745"/>
+        <location filename="../../src/translation/Translator.cpp" line="746"/>
         <source>OFF</source>
         <translation>아니</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="590"/>
+        <location filename="../../src/translation/Translator.cpp" line="591"/>
         <source>RESET_SETTINGS_TO_DEFAULT</source>
         <translation>설정을 기본값으로 재설정하십시오</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="618"/>
+        <location filename="../../src/translation/Translator.cpp" line="619"/>
         <source>ADVANCED_HARDWARE</source>
         <translation>하드웨어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="619"/>
+        <location filename="../../src/translation/Translator.cpp" line="620"/>
         <source>ADVANCED_SOUNDS</source>
         <translation>소리</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="621"/>
+        <location filename="../../src/translation/Translator.cpp" line="622"/>
         <source>ADVANCED_COLOR_PAUSERS</source>
         <translation>색상 일시 중지 기능</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="622"/>
+        <location filename="../../src/translation/Translator.cpp" line="623"/>
         <source>ADVANCED_TIMER_PAUSERS</source>
         <translation>타이머 일시 정지</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="627"/>
+        <location filename="../../src/translation/Translator.cpp" line="628"/>
         <source>ADVANCED_OVERLAY_SCREEN</source>
         <translation>화면 오버레이</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="628"/>
+        <location filename="../../src/translation/Translator.cpp" line="629"/>
         <source>OVERLAY_COLOR</source>
         <translation>오버레이 색상</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="467"/>
-        <location filename="../../src/translation/Translator.cpp" line="629"/>
+        <location filename="../../src/translation/Translator.cpp" line="630"/>
         <source>GREEN</source>
         <translation>녹색</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="630"/>
+        <location filename="../../src/translation/Translator.cpp" line="631"/>
         <source>TURQUOISE</source>
         <translation>터키 옥</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="468"/>
-        <location filename="../../src/translation/Translator.cpp" line="631"/>
+        <location filename="../../src/translation/Translator.cpp" line="632"/>
         <source>BLUE</source>
         <translation>푸른</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="632"/>
+        <location filename="../../src/translation/Translator.cpp" line="633"/>
         <source>INDIGO</source>
         <translation>남빛</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="633"/>
+        <location filename="../../src/translation/Translator.cpp" line="634"/>
         <source>VIOLET</source>
         <translation>제비꽃</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="634"/>
+        <location filename="../../src/translation/Translator.cpp" line="635"/>
         <source>PURPLE</source>
         <translation>자</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="635"/>
+        <location filename="../../src/translation/Translator.cpp" line="636"/>
         <source>MAGENTA</source>
         <translation>마젠타</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="636"/>
+        <location filename="../../src/translation/Translator.cpp" line="637"/>
         <source>SCARLET</source>
         <translation>주홍</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="466"/>
-        <location filename="../../src/translation/Translator.cpp" line="637"/>
+        <location filename="../../src/translation/Translator.cpp" line="638"/>
         <source>RED</source>
         <translation>빨간</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="638"/>
+        <location filename="../../src/translation/Translator.cpp" line="639"/>
         <source>ORANGE</source>
         <translation>주황색</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="639"/>
+        <location filename="../../src/translation/Translator.cpp" line="640"/>
         <source>YELLOW</source>
         <translation>노랑</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="640"/>
+        <location filename="../../src/translation/Translator.cpp" line="641"/>
         <source>LEMON</source>
         <translation>레몬</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="493"/>
-        <location filename="../../src/translation/Translator.cpp" line="641"/>
+        <location filename="../../src/translation/Translator.cpp" line="642"/>
         <source>OPACITY</source>
         <translation>불투명</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="644"/>
+        <location filename="../../src/translation/Translator.cpp" line="645"/>
         <source>SCREEN_DIM</source>
         <translation>스크린 희미한</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="496"/>
-        <location filename="../../src/translation/Translator.cpp" line="647"/>
+        <location filename="../../src/translation/Translator.cpp" line="648"/>
         <source>DISABLE</source>
         <translation>사용 안함</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="648"/>
+        <location filename="../../src/translation/Translator.cpp" line="649"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>화면 영역 선택</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="649"/>
+        <location filename="../../src/translation/Translator.cpp" line="650"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>선택한 영역 재설정</translation>
     </message>
     <message>
         <location filename="../../src/translation/Translator.cpp" line="497"/>
-        <location filename="../../src/translation/Translator.cpp" line="650"/>
+        <location filename="../../src/translation/Translator.cpp" line="651"/>
         <source>ENABLE</source>
         <translation>사용</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="654"/>
+        <location filename="../../src/translation/Translator.cpp" line="655"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>인공 지능</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="655"/>
+        <location filename="../../src/translation/Translator.cpp" line="656"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>자동 밝기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="656"/>
+        <location filename="../../src/translation/Translator.cpp" line="657"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>눈 깜박임 감지</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="661"/>
+        <location filename="../../src/translation/Translator.cpp" line="662"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>깜박임 화면 표시</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="662"/>
+        <location filename="../../src/translation/Translator.cpp" line="663"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>깜박임 화면 숨기기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="676"/>
+        <location filename="../../src/translation/Translator.cpp" line="677"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>수업 과정</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="677"/>
+        <location filename="../../src/translation/Translator.cpp" line="678"/>
         <source>START_EYE_EXERCISES</source>
         <translation>눈 운동 시작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="678"/>
+        <location filename="../../src/translation/Translator.cpp" line="679"/>
         <source>START_NECK_EXERCISES</source>
         <translation>목 운동 시작</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="679"/>
+        <location filename="../../src/translation/Translator.cpp" line="680"/>
         <source>START_BACK_EXERCISES</source>
         <translation>다시 시작 연습</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="681"/>
+        <location filename="../../src/translation/Translator.cpp" line="682"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>홍채 모형</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="682"/>
+        <location filename="../../src/translation/Translator.cpp" line="683"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>아이리스로 전환</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="683"/>
+        <location filename="../../src/translation/Translator.cpp" line="684"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>아이리스 라이트로 전환</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="685"/>
+        <location filename="../../src/translation/Translator.cpp" line="686"/>
         <source>ADVANCED_LICENSE</source>
         <translation>특허</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="686"/>
+        <location filename="../../src/translation/Translator.cpp" line="687"/>
         <source>GET_IRIS_PRO</source>
         <translation>Iris Pro 받기</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="689"/>
+        <location filename="../../src/translation/Translator.cpp" line="690"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="690"/>
+        <location filename="../../src/translation/Translator.cpp" line="691"/>
         <source>LANGUAGE</source>
         <translation>언어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="691"/>
+        <location filename="../../src/translation/Translator.cpp" line="692"/>
         <source>ENGLISH</source>
         <translation>영어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="692"/>
+        <location filename="../../src/translation/Translator.cpp" line="693"/>
         <source>RUSSIAN</source>
         <translation>러시아인</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="693"/>
+        <location filename="../../src/translation/Translator.cpp" line="694"/>
         <source>SPANISH</source>
         <translation>스페인 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="694"/>
+        <location filename="../../src/translation/Translator.cpp" line="695"/>
         <source>CHINESE</source>
         <translation>중국말</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="695"/>
+        <location filename="../../src/translation/Translator.cpp" line="696"/>
         <source>INDIAN</source>
         <translation>옥수수</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="696"/>
+        <location filename="../../src/translation/Translator.cpp" line="697"/>
         <source>JAPANESE</source>
         <translation>일본어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="697"/>
+        <location filename="../../src/translation/Translator.cpp" line="698"/>
         <source>ARABIC</source>
         <translation>아라비아 말</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="698"/>
+        <location filename="../../src/translation/Translator.cpp" line="699"/>
         <source>TURKISH</source>
         <translation>터키어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="699"/>
+        <location filename="../../src/translation/Translator.cpp" line="700"/>
         <source>PORTUGUESE</source>
         <translation>포르투갈 인</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="700"/>
+        <location filename="../../src/translation/Translator.cpp" line="701"/>
         <source>FRENCH</source>
         <translation>프랑스 국민</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="701"/>
+        <location filename="../../src/translation/Translator.cpp" line="702"/>
         <source>GERMAN</source>
         <translation>독일 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="702"/>
+        <location filename="../../src/translation/Translator.cpp" line="703"/>
         <source>KOREAN</source>
         <translation>한국어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="703"/>
+        <location filename="../../src/translation/Translator.cpp" line="704"/>
         <source>ITALIAN</source>
         <translation>이탈리아 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="704"/>
+        <location filename="../../src/translation/Translator.cpp" line="705"/>
         <source>BULGARIAN</source>
         <translation>불가리아어</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="705"/>
+        <location filename="../../src/translation/Translator.cpp" line="706"/>
         <source>GREEK</source>
         <translation>그리스 사람</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="717"/>
+        <location filename="../../src/translation/Translator.cpp" line="718"/>
         <source>ADVANCED_ABOUT</source>
         <translation>약</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="718"/>
+        <location filename="../../src/translation/Translator.cpp" line="719"/>
         <source>NAME</source>
         <translation>이름</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="719"/>
+        <location filename="../../src/translation/Translator.cpp" line="720"/>
         <source>VERSION</source>
         <translation>번역</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="720"/>
+        <location filename="../../src/translation/Translator.cpp" line="721"/>
         <source>PUBLISHER</source>
         <translation>발행자</translation>
     </message>
     <message>
-        <location filename="../../src/translation/Translator.cpp" line="721"/>
+        <location filename="../../src/translation/Translator.cpp" line="722"/>
         <source>WEBSITE</source>
         <translation>웹 사이트</translation>
     </message>
