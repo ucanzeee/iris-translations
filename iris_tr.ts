@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="vanished">Iris biraz video kartı sınırlamalarını kaldırdı. Tam işlevselliğin kilidini açmak için bilgisayarınızı bir kez yeniden başlatmanız gerekir.</translation>
+        <translation type="vanished">Iris ekran kartı sınırlamalarından birazını kaldırdı. Tam işlevselliğin kilidini açmak için bilgisayarınızı bir kez yeniden başlatmanız gerekir.</translation>
     </message>
     <message>
         <location filename="../cyclops/Cyclops.cpp" line="271"/>
@@ -137,7 +137,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="477"/>
         <source>Invalid spell</source>
-        <translation>Geçersiz büyü</translation>
+        <translation>Yazım hatası var</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="478"/>
@@ -147,7 +147,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="480"/>
         <source> seems wrong. Check the syntax or try with some other hidden feature.</source>
-        <translation>yanlış görünüyor. Sözdizimini kontrol edin veya başka bir gizli özellik ile deneyin.</translation>
+        <translation>Yanlış görünüyor. Sözdizimini kontrol edin veya başka bir gizli özellik ile deneyin.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="481"/>
@@ -158,13 +158,13 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="504"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="527"/>
         <source>Invalid temperature</source>
-        <translation>Geçersiz sıcaklık</translation>
+        <translation>Geçersiz renk sıcaklığı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="507"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="530"/>
         <source>is invalid value for Color temperature. Use number between 0 and 10000.</source>
-        <translation>renk sıcaklığı için geçersiz bir değerdir. 0 ile 10,000 arasında sayıları kullanın.</translation>
+        <translation>renk sıcaklığı için geçersiz bir değerdir. 0 ile 10000 arasında sayıları kullanın.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="514"/>
@@ -235,7 +235,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="656"/>
         <source>Start at startup disabled</source>
-        <translation>İşletim sistemi yüklenirken yasaklı başlangıç</translation>
+        <translation>Açılışta başlangıç devre dışı bırakıldı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="657"/>
@@ -275,17 +275,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="710"/>
         <source>Manual temperature disabled</source>
-        <translation>Yasak manuel sıcaklık ayarı</translation>
+        <translation>Manuel sıcaklık devre dışı bırakıldı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="711"/>
         <source>Iris will use your selected mode for temperature again</source>
-        <translation>Iris, seçtiğiniz modu tekrar sıcaklık için kullanacaktır.</translation>
+        <translation>Iris, sıcaklık olarak sizin seçtiğiniz modu kullanacaktır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="722"/>
         <source>Manual brightness enabled</source>
-        <translation>İzin verilen manuel parlaklık ayarı</translation>
+        <translation>Manuel parlaklık ayarı etkinleştirildi</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="723"/>
@@ -295,28 +295,28 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="728"/>
         <source>Manual brightness disabled</source>
-        <translation>Yasak manuel parlaklık ayarı</translation>
+        <translation>Manuel parlaklık ayarı devre dışı bırakıldı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="729"/>
         <source>Iris mini will use your selected mode for brightness again</source>
-        <translation>Iris mini seçtiğiniz modu tekrar parlaklık için kullanacaktır.</translation>
+        <translation>Iris mini parlaklık için seçtiğiniz modu kullanacaktır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="741"/>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="749"/>
         <source>Monitor</source>
-        <translation>izlemek</translation>
+        <translation>Monitör</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="742"/>
         <source> disabled</source>
-        <translation>engelli</translation>
+        <translation>devre dışı bırakıldı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="743"/>
         <source>Iris will not apply color changes to Monitor</source>
-        <translation>Iris, renk değişikliklerini bir monitöre uygulayamaz</translation>
+        <translation>Iris, renk değişikliklerini monitöre uygulamayacak</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="750"/>
@@ -336,7 +336,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="763"/>
         <source>Screen colors are reset to default values</source>
-        <translation>Ekran renkleri varsayılan değerlere döndürülüyor</translation>
+        <translation>Ekran renkleri varsayılan değerlere döndürüldü</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="773"/>
@@ -346,17 +346,17 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="774"/>
         <source>Iris settings are reset to default values</source>
-        <translation>İris ayarları varsayılan değerlere sıfırlanır</translation>
+        <translation>Iris ayarları varsayılan değerlere sıfırlandı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="784"/>
         <source>Invert</source>
-        <translation>evirmek</translation>
+        <translation>Çevirmek</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="785"/>
         <source>Colors are inverted</source>
-        <translation>Renkler ters</translation>
+        <translation>Renkler ters çevrildi</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="795"/>
@@ -366,7 +366,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="796"/>
         <source>All blue light is removed from the screen</source>
-        <translation>Tüm mavi tonlar ekrandan kaldırılır</translation>
+        <translation>Mavi ışık tamamen devre dışı bırakıldı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="807"/>
@@ -376,7 +376,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="808"/>
         <source>Iris will respect your color calibration from now on. Close and start Iris mini again and it will preserve your colors during the day</source>
-        <translation>Iris renk kalibrasyonunuzu koruyacaktır. Iris mini&apos;yi durdur ve çalıştır, program gün boyunca renklerini koruyacak.</translation>
+        <translation>Iris renk kalibrasyonunuzu koruyacaktır. Iris mini'yi durdur ve çalıştır, program gün boyunca renklerini koruyacak.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="813"/>
@@ -386,7 +386,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="814"/>
         <source>Iris will not respect your color calibration from now on. It will use the default monitor settings instead</source>
-        <translation>Iris renk kalibrasyonunuzu korumaz. Program varsayılan monitör ayarlarını kullanacaktır</translation>
+        <translation>Iris şu andan itibaren renk kalibrasyonunuzu korumayacaktır. Program varsayılan monitör ayarlarını kullanacaktır</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="824"/>
@@ -396,7 +396,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="825"/>
         <source>Hidden features notifications are enabled. They are show so you will know when your spell is successful</source>
-        <translation>Gizli işlevsellik bildirimlerine izin verilir. Onları göreceksin, böylece büyünün kabul edildiğini biliyorsun.</translation>
+        <translation>Gizli özellikler bildirimleri etkinleştirildi. Artık onlar görünüyor, böylece komutun başarılı olup olmadığını görebilirsin</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="830"/>
@@ -406,7 +406,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="831"/>
         <source>Hidden features notifications are disabled. This is the last notification that you will see</source>
-        <translation>Gizli işlev bildirimleri yasaklandı. Bu göreceğiniz son haber.</translation>
+        <translation>Gizli özellik bildirimleri devre dışı bırakıldı. Bu göreceğiniz son bildirim.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="864"/>
@@ -416,7 +416,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="865"/>
         <source>Iris mini will use your manual location. Set latitude and longitude with the hidden features</source>
-        <translation>Iris mini, girdiğiniz yeri kullanacaktır. Gizli özellikleri kullanarak enlem ve boylamı belirtme</translation>
+        <translation>Iris mini, girdiğiniz yeri kullanacaktır. Gizli özellikleri kullanarak enlem ve boylamı belirtiniz</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="870"/>
@@ -426,7 +426,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="871"/>
         <source>Iris mini will use automatic location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Iris mini, güneşin konumunu ve gecenin süresini hesaplamak için otomatik bir konum kullanacaktır.</translation>
+        <translation>Iris mini, otomatik konumu kullanacaktır. Bu konum Güneş'in yerini ve gece, gündüz sürelerini hesaplamakta kullanılacaktır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="883"/>
@@ -446,7 +446,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="890"/>
         <source>Iris mini will use automatic night duration based on location. The location is used for calculating Sun position and day and night duration</source>
-        <translation>Iris mini, lokasyona göre otomatik gece süresini kullanacaktır. Yer, Güneş pozisyonu ve gündüz ve gece süresini hesaplamak için kullanılır.</translation>
+        <translation>Iris mini, bulunulan yere göre otomatik gece süresini kullanacaktır. Yer, Güneş pozisyonu ve gündüz ve gece süresini hesaplamak için kullanılır.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="901"/>
@@ -466,7 +466,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="912"/>
         <source>Manual night start time changed to</source>
-        <translation>Gecenin başlangıcı olarak değiştirildi</translation>
+        <translation>Gecenin başlangıç zamanı şu zamana değiştirildi: </translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="924"/>
@@ -516,7 +516,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="968"/>
         <source>Color changes will apply also on the cursor. If it starts to dissappear use disable software cursor to make it bright again.</source>
-        <translation>İmleç renk değişiklikleri uygulayacaktır. Eğer kaybolmaya başlarsa, tekrar görmek için yazılım imlecini devre dışı bırakın.</translation>
+        <translation>Renk değişiklikleri imlece de uygulanacaktır. Eğer imleç kaybolmaya başlarsa, tekrar görmek için yazılım imlecini devre dışı bırakın.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="976"/>
@@ -526,7 +526,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="977"/>
         <source>Color changes will not apply on the cursor. If you don&apos;t like the bright blue cursor at night use enable software cursor to make apply color changes on the cursor.</source>
-        <translation>İmleç renk değişiklikleri uygulanmaz. Geceleri parlak bir mavi imleci sevmiyorsanız, yazılım imlecinin renk değişikliklerini uygulamasına izin verin.</translation>
+        <translation>Renk değişiklikleri imlece uygulanmaz. Geceleri parlak bir mavi imleci sevmiyorsanız, yazılım imlecinin renk değişikliklerini uygulamasına izin verin.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="990"/>
@@ -536,22 +536,22 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="991"/>
         <source>Conflicting applications are enabled. You can now use other softwares which change the screen colors.</source>
-        <translation>Uyumsuz uygulamalara izin verilir ve ekran renklerini değiştiren diğer programları da kullanabilirsiniz.</translation>
+        <translation>Uyumsuz uygulamalara izin verildi. Artık ekran renklerini değiştiren diğer programları da kullanabilirsiniz.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="996"/>
         <source>Conflicting applications disabled</source>
-        <translation>Çakışan başvurular devre dışı</translation>
+        <translation>Çakışan uygulamalar devre dışı</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="997"/>
         <source>Conflicting applications are disabled. In order to not cause flicker conflicting applications are disabled.</source>
-        <translation>Çakışan uygulamalar devre dışı bırakıldı. Titremeye aykırı uygulamalara neden olmamak için devre dışı bırakılmıştır.</translation>
+        <translation>Çakışan uygulamalar devre dışı bırakıldı. Ekranın titreşmesini engellemek için çakışan uygulamalar devre dışı bırakıldı.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1025"/>
         <source>Keyboard Hook enabled</source>
-        <translation>Klavye Kanca etkin</translation>
+        <translation>Klavye Kancası etkin</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1026"/>
@@ -566,7 +566,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1032"/>
         <source>Keyboard Hook disabled. Some shortcuts and features may not work as intended</source>
-        <translation>Klavye kancası yasaktır. Bazı hızlı tuşlar düzgün çalışmayabilir</translation>
+        <translation>Klavye kancası devre dışı bırakıldı. Bazı kısayollar ve özellikler istenildiği gibi çalışmayabilir.</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1044"/>
@@ -576,7 +576,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1045"/>
         <source>Iris will remind you when your trial expires</source>
-        <translation>Deneme süreniz sona erdiğinde Iris size hatırlatır</translation>
+        <translation>Deneme süreniz sona erdiğinde Iris size hatırlatacaktır</translation>
     </message>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1050"/>
@@ -586,7 +586,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
     <message>
         <location filename="../../src/hidden_features/HiddenFeatures.cpp" line="1051"/>
         <source>Iris will no logner remind you when your trial expires</source>
-        <translation>Iris deneme süreniz bittiğini size hatırlatmayacaktır</translation>
+        <translation>Iris deneme sürenizin bittiğini size hatırlatmayacaktır</translation>
     </message>
 </context>
 <context>
@@ -608,7 +608,7 @@ Note that Iris will work fine now, but with limited color changes.</source>
         <location filename="../../src/licensing/License.cpp" line="135"/>
         <location filename="../../src/licensing/License.cpp" line="212"/>
         <source>Your Iris is now Pro</source>
-        <translation>Senin Irisin artık Pro.</translation>
+        <translation>Senin Iris'in artık Pro.</translation>
     </message>
     <message>
         <source>Thank you very much for supporting Iris! :)
@@ -700,18 +700,18 @@ Gelişmiş görünümde yeni seçeneklerinizi görün.</translation>
         <location filename="../../src/licensing/License.cpp" line="229"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation>Bu Iris ve kalan Team lisans kodları Iris mini içindir. Iris mini&apos;yi şu adresten indirin:
+        <translation>Bu Iris ve kalan takım lisans kodları Iris mini içindir. Iris mini&apos;yi şu adresten indirin:
 Http://iristech.co/iris-mini</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="238"/>
         <source>No more Team activations</source>
-        <translation>Artık takım etkinleşmesi yok</translation>
+        <translation>Artık takım etkinleştirmesi yok</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="239"/>
         <source>You have used all your Team license activations.</source>
-        <translation>Tüm Team lisans aktivasyonlarınızı kullandınız.</translation>
+        <translation>Tüm takım lisans aktivasyonlarınızı kullandınız.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="248"/>
@@ -732,7 +732,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../src/licensing/License.cpp" line="260"/>
         <location filename="../../src/licensing/License.cpp" line="262"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation>Senin Irisin artık Pro. Gelişmiş görünümde yeni seçeneklerinizi görün.</translation>
+        <translation>Senin Iris'in artık Pro. Gelişmiş görünümde yeni seçeneklerinizi görün.</translation>
     </message>
     <message>
         <location filename="../../src/licensing/License.cpp" line="274"/>
@@ -742,7 +742,7 @@ Http://iristech.co/iris-mini</translation>
     <message>
         <location filename="../../src/licensing/License.cpp" line="277"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation>. Belki internete bağlı değilsin?</translation>
+        <translation>. Belki internete bağlı değilsiniz?</translation>
     </message>
 </context>
 <context>
@@ -766,7 +766,7 @@ Http://iristech.co/iris-mini</translation>
         <location filename="../../ui/main_screen.ui" line="19"/>
         <location filename="../../ui/webkit/main_screen.ui" line="19"/>
         <source>Form</source>
-        <translation>Formulü</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <location filename="../../ui/main_screen.ui" line="47"/>
